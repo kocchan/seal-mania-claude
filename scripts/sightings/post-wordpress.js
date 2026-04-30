@@ -289,6 +289,9 @@ class WordPressService {
       return response.data.id;
     } catch (error) {
       console.error(`  ❌ 画像アップロード失敗: ${error.message}`);
+      console.error(`  📋 ステータス: ${error.response?.status}`);
+      console.error(`  📋 詳細: ${JSON.stringify(error.response?.data || {})}`);
+      console.error(`  📋 URL: ${this.apiUrl}/media`);
       return null;
     }
   }
@@ -384,6 +387,9 @@ class WordPressService {
       return response.data;
     } catch (error) {
       console.error(`  ❌ WP投稿失敗: ${error.response?.data?.message || error.message}`);
+      console.error(`  📋 ステータス: ${error.response?.status}`);
+      console.error(`  📋 詳細: ${JSON.stringify(error.response?.data || {})}`);
+      console.error(`  📋 URL: ${this.apiUrl}/posts`);
       return null;
     }
   }
