@@ -13,12 +13,12 @@ Apify APIを使ってThreadsの最新投稿を取得する。
 以下のスクリプトを実行する。
 
 ```bash
-APIFY_TOKEN=xxx node .claude/skills/collect-threads/scrape-threads.js
+APIFY_TOKEN=xxx node scripts/scrape-threads.js
 ```
 
 ## スクリプト
 
-`.claude/skills/collect-threads/scrape-threads.js`
+`scripts/scrape-threads.js`
 
 Apify Threads Scraperを使って投稿を取得する。
 

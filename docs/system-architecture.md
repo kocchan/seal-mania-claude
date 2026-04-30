@@ -87,14 +87,15 @@
 seal-mania-claude/
 ├── .claude/
 │   ├── skills/            # Skills（Claude Code用スキル定義）
-│   ├── agent/             # Agent（エージェント設定）
-│   └── scripts/           # 自動化スクリプト
+│   └── agent/             # Agent（エージェント設定）
 ├── .github/workflows/     # GitHub Actions定義
+├── scripts/               # 自動化スクリプト
 ├── docs/                  # 設計ドキュメント
 ├── knowledge/             # ナレッジ蓄積
 └── output/
     ├── blog/
     │   ├── drafts/        # ブログ下書き
+    │   ├── raw/           # 収集データ（JSON）
     │   └── published/     # ブログ投稿済み
     ├── x/
     │   ├── drafts/        # X下書き

@@ -4,8 +4,8 @@
   "description": "ボンボンドロップシール情報サイト自動化",
   "type": "module",
   "scripts": {
-    "scrape:yahoo": "node .claude/skills/collect-x/scrape-yahoo.js",
-    "scrape:threads": "node .claude/skills/collect-threads/scrape-threads.js",
+    "scrape:yahoo": "node scripts/scrape-yahoo.js",
+    "scrape:threads": "node scripts/scrape-threads.js",
     "scrape:all": "npm run scrape:yahoo && npm run scrape:threads"
   },
   "dependencies": {
