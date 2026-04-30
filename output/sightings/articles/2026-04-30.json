@@ -1,7 +1,7 @@
 {
   "date": "2026-04-30",
-  "updatedAt": "2026-04-30T23:19:26.589+09:00",
-  "count": 5,
+  "updatedAt": "2026-05-01T02:04:22.963+09:00",
+  "count": 7,
   "articles": [
     {
       "isSighting": true,
@@ -92,6 +92,36 @@
       "isPosted": true,
       "wpPostId": 4758,
       "postedAt": "2026-05-01T01:10:53.454+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "東京都",
+      "city": "渋谷区",
+      "shopName": "ファンシー東京",
+      "shopAddress": "東京都渋谷区神宮前1丁目19-2",
+      "productName": "ボンボンドロップシール、うるちゅるシール",
+      "sightingTime": "2026-04-30 21:01頃",
+      "statusText": "大量入荷（全種在庫あり）",
+      "confidenceMemo": "店舗公式アカウントによる写真付きの入荷情報であり、信頼性が極めて高い。",
+      "sourceUrl": "https://x.com/fancy_tokyo_/status/2049821490259079200",
+      "sourceTweetId": "2049821490259079200",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2049821490259079200.png"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "東京都",
+      "city": "不明",
+      "shopName": "ファンシー東京",
+      "shopAddress": "東京都（東京ホビーセンター系列店舗）",
+      "productName": "ボンボンドロップシール、うるちゅるシール",
+      "sightingTime": "2026-04-30 00:45頃",
+      "statusText": "大量入荷（全種定価販売）",
+      "confidenceMemo": "店舗公式アカウントによる具体的な入荷情報。住所はリンク先参照のため市区町村は不明。",
+      "sourceUrl": "https://x.com/fancy_tokyo_/status/2049515504172445777",
+      "sourceTweetId": "2049515504172445777",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2049515504172445777.png"
     }
   ]
 }
