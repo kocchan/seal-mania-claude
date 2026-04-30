@@ -19,7 +19,6 @@ credentials.json
 
 # Node
 node_modules/
-package-lock.json
 
 # Output (scraped data)
 output/blog/raw/
