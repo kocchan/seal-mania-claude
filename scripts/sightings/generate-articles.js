@@ -23,7 +23,7 @@ import path from 'path';
 import { config, getNowJST } from './utils.js';
 
 const CONFIG = {
-  model: 'gemini-2.5-flash-preview-05-20',
+  model: 'gemini-3-flash-preview',
   batchSize: 20,
   rawDir: config.output?.rawDir || 'output/sightings/raw',
   articlesDir: 'output/sightings/articles'
