@@ -106,7 +106,10 @@
       "sourceUrl": "https://x.com/fancy_tokyo_/status/2049821490259079200",
       "sourceTweetId": "2049821490259079200",
       "isPrediction": false,
-      "imagePath": "output/sightings/images/2049821490259079200.png"
+      "imagePath": "output/sightings/images/2049821490259079200.png",
+      "isPosted": true,
+      "wpPostId": 4765,
+      "postedAt": "2026-05-01T02:25:41.694+09:00"
     },
     {
       "isSighting": true,
@@ -121,7 +124,10 @@
       "sourceUrl": "https://x.com/fancy_tokyo_/status/2049515504172445777",
       "sourceTweetId": "2049515504172445777",
       "isPrediction": false,
-      "imagePath": "output/sightings/images/2049515504172445777.png"
+      "imagePath": "output/sightings/images/2049515504172445777.png",
+      "isPosted": true,
+      "wpPostId": 4767,
+      "postedAt": "2026-05-01T02:25:47.383+09:00"
     }
   ]
 }
