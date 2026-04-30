@@ -1,0 +1,100 @@
+name: 目撃情報自動投稿パイプライン
+
+on:
+  # 手動実行
+  workflow_dispatch:
+
+  # 定期実行（1日6回、3時間おき: 6:00, 9:00, 12:00, 15:00, 18:00, 21:00 JST）
+  schedule:
+    - cron: '0 21 * * *'  # 06:00 JST
+    - cron: '0 0 * * *'   # 09:00 JST
+    - cron: '0 3 * * *'   # 12:00 JST
+    - cron: '0 6 * * *'   # 15:00 JST
+    - cron: '0 9 * * *'   # 18:00 JST
+    - cron: '0 12 * * *'  # 21:00 JST
+
+jobs:
+  sightings-pipeline:
+    runs-on: ubuntu-latest
+
+    steps:
+      # ========================================
+      # セットアップ
+      # ========================================
+      - name: チェックアウト
+        uses: actions/checkout@v4
+
+      - name: Node.js セットアップ
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - name: 依存関係インストール
+        run: npm ci
+
+      - name: Playwright インストール
+        run: npx playwright install chromium
+
+      # ========================================
+      # Step 1: Yahoo検索からツイート収集
+      # ========================================
+      - name: 📥 Step 1 - ツイート収集 (Yahoo)
+        run: npm run scrape:yahoo
+        env:
+          NODE_ENV: production
+
+      - name: 収集結果を確認
+        run: |
+          echo "=== 収集されたファイル ==="
+          ls -la output/sightings/raw/ || echo "rawフォルダなし"
+
+      # ========================================
+      # Step 2: Gemini AIで記事生成
+      # ========================================
+      - name: 📝 Step 2 - 記事生成 (Gemini AI)
+        run: npm run generate:articles
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+
+      - name: 記事生成結果を確認
+        run: |
+          echo "=== 生成された記事 ==="
+          ls -la output/sightings/articles/ || echo "articlesフォルダなし"
+
+      # ========================================
+      # Step 3: 画像生成
+      # ========================================
+      - name: 🖼️ Step 3 - 画像生成
+        run: npm run generate:images
+
+      - name: 画像生成結果を確認
+        run: |
+          echo "=== 生成された画像 ==="
+          ls -la output/sightings/images/ || echo "imagesフォルダなし"
+
+      # ========================================
+      # Step 4: WordPressに投稿
+      # ========================================
+      - name: 🚀 Step 4 - WordPress投稿
+        run: npm run post:wordpress
+        env:
+          WP_API_URL: ${{ secrets.WP_API_URL }}
+          WP_USER: ${{ secrets.WP_USER }}
+          WP_APP_PASSWORD: ${{ secrets.WP_APP_PASSWORD }}
+          YAHOO_CLIENT_ID: ${{ secrets.YAHOO_CLIENT_ID }}
+          AMAZON_ASSOCIATE_ID: ${{ secrets.AMAZON_ASSOCIATE_ID }}
+          RAKUTEN_AFFILIATE_ID: ${{ secrets.RAKUTEN_AFFILIATE_ID }}
+
+      # ========================================
+      # 結果をコミット（処理済みフラグを保存）
+      # ========================================
+      - name: 💾 変更をコミット
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add output/
+          git diff --staged --quiet || git commit -m "chore: 目撃情報データ更新 [skip ci]"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

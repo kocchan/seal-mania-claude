@@ -97,45 +97,68 @@ async function getEnglishCityName(cityStr) {
 }
 
 // =====================================
-// Yahoo!ショッピング検索
+// Yahoo!ショッピング検索（複数商品取得）
 // =====================================
-async function fetchYahooProduct(keyword) {
-  if (!keyword || !APP_CONFIG.yahooClientId) return null;
+async function fetchYahooProducts(keywords) {
+  if (!APP_CONFIG.yahooClientId) return [];
 
-  const executeSearch = async (query) => {
+  const executeSearch = async (query, count = 3) => {
     try {
       console.log(`  🔎 Yahoo API: ${query}`);
       const response = await axios.get('https://shopping.yahooapis.jp/ShoppingWebService/V3/itemSearch', {
         params: {
           appid: APP_CONFIG.yahooClientId,
           query: query,
-          results: 1,
+          results: count,
           sort: '-score',
           image_size: 300
         }
       });
       const hits = response.data.hits;
       if (hits && hits.length > 0) {
-        const item = hits[0];
-        return { name: item.name, image: item.image?.medium || '', price: item.price, url: item.url };
+        return hits.map(item => ({
+          name: item.name,
+          image: item.image?.medium || '',
+          price: item.price,
+          url: item.url
+        }));
       }
-      return null;
+      return [];
     } catch (e) {
       console.error(`  ⚠️ Yahoo APIエラー: ${e.response ? e.response.status : e.message}`);
-      return null;
+      return [];
     }
   };
 
-  let result = await executeSearch(keyword);
-  if (result) return result;
+  const products = [];
+  const usedUrls = new Set();
 
-  const words = keyword.split(/\s+/);
-  while (words.length > 1) {
-    words.pop();
-    result = await executeSearch(words.join(' '));
-    if (result) return result;
+  // 各キーワードで検索して重複を除外しながら収集
+  for (const keyword of keywords) {
+    if (products.length >= 3) break;
+    const results = await executeSearch(keyword, 3);
+    for (const product of results) {
+      if (products.length >= 3) break;
+      if (!usedUrls.has(product.url)) {
+        usedUrls.add(product.url);
+        products.push({ ...product, keyword });
+      }
+    }
   }
-  return await executeSearch("シール");
+
+  // 3件未満の場合はデフォルト検索で補完
+  if (products.length < 3) {
+    const defaultResults = await executeSearch("ボンボンドロップシール", 3);
+    for (const product of defaultResults) {
+      if (products.length >= 3) break;
+      if (!usedUrls.has(product.url)) {
+        usedUrls.add(product.url);
+        products.push({ ...product, keyword: "ボンボンドロップシール" });
+      }
+    }
+  }
+
+  return products;
 }
 
 // =====================================
@@ -178,17 +201,23 @@ function generateAffiliateHtml(keyword, productData) {
 // =====================================
 // 記事本文HTML生成
 // =====================================
-function generateArticleHtml(article, affiliateHtml) {
+function generateArticleHtml(article, affiliateHtmlList) {
   const formattedTime = article.sightingTime || "不明";
   const cleanTweetUrl = article.sourceUrl.split('?')[0].replace('https://x.com', 'https://twitter.com');
   const mapQuery = encodeURIComponent(article.shopAddress || article.shopName);
   const mapEmbedUrl = `https://maps.google.co.jp/maps?output=embed&q=${mapQuery}&t=m&z=15`;
+
+  const affiliate1 = affiliateHtmlList[0] || '';
+  const affiliate2 = affiliateHtmlList[1] || '';
+  const affiliate3 = affiliateHtmlList[2] || '';
 
   return `
 <p>
     ${article.prefecture || "エリア不明"}${article.city ? article.city : ""}の「${article.shopName}」にて、${article.productName}の目撃情報があります！<br>
     ${article.statusText} お近くの方はチェックしてみる価値がありそうです。
 </p>
+
+${affiliate1}
 
 <p><strong>📅 目撃・入荷時期</strong> ${formattedTime}</p>
 
@@ -197,6 +226,8 @@ function generateArticleHtml(article, affiliateHtml) {
     <li><strong>内容:</strong> ${article.productName}が販売されていたとの報告あり。</li>
     <li><strong>注意:</strong> ${article.confidenceMemo || '情報の正確性は保証できません。'}</li>
 </ul>
+
+${affiliate2}
 
 <h3>🔗 情報ソース（現地ポスト）</h3>
 <figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter">
@@ -222,12 +253,7 @@ function generateArticleHtml(article, affiliateHtml) {
     </iframe>
 </div>
 
-<p style="font-weight: bold; font-size: 1.1em; margin-bottom: 10px; text-align: center;"> ✨オンラインからも購入できます✨ </p>
-<div style="background:#fff3cd;padding:12px 15px;border-left:4px solid #ffc107;margin:15px 0;border-radius:4px;font-size:13px;">
-    <strong>【PR】広告について</strong><br>
-    以下のリンクはアフィリエイトリンクです。商品購入時に当サイトが紹介料を受け取る場合があります。
-</div>
-${affiliateHtml}`;
+${affiliate3}`;
 }
 
 // =====================================
@@ -308,9 +334,14 @@ class WordPressService {
     const imagePath = article.imagePath ? path.join(process.cwd(), article.imagePath) : null;
     const mediaId = await this.uploadImage(imagePath, article.sourceTweetId);
 
-    // アフィリエイト情報取得
-    const productData = await fetchYahooProduct(article.productName);
-    const affiliateHtml = generateAffiliateHtml(article.productName, productData);
+    // アフィリエイト情報取得（3商品）
+    const searchKeywords = [
+      article.productName,
+      "ボンボンドロップシール",
+      "ぷっくりシール"
+    ].filter(Boolean);
+    const products = await fetchYahooProducts(searchKeywords);
+    const affiliateHtmlList = products.map(p => generateAffiliateHtml(p.keyword, p));
 
     // カテゴリ・タグ
     const categories = this.getCategoryIds(article.prefecture);
@@ -331,7 +362,7 @@ class WordPressService {
     // 投稿データ
     const payload = {
       title: `【目撃速報】${article.productName}｜${article.prefecture || ""}${article.city || ""}（${article.shopName}）`,
-      content: generateArticleHtml(article, affiliateHtml),
+      content: generateArticleHtml(article, affiliateHtmlList),
       status: 'publish',
       slug: customSlug,
       categories: categories,
