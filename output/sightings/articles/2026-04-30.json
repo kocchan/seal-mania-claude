@@ -15,7 +15,8 @@
       "confidenceMemo": "ユーザーによる写真付きの購入報告。地域情報は投稿者のユーザー名（NAOinHoufu）より特定。",
       "sourceUrl": "https://x.com/NAOinHoufu/status/2049812416377319825",
       "sourceTweetId": "2049812416377319825",
-      "isPrediction": false
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2049812416377319825.png"
     },
     {
       "isSighting": true,
@@ -29,7 +30,8 @@
       "confidenceMemo": "店舗公式アカウントによる商品入荷のお知らせ。書籍商品（シール自体は付属なし）の情報。",
       "sourceUrl": "https://x.com/W2KLu8TBd3x2S2c/status/2049830064024617145",
       "sourceTweetId": "2049830064024617145",
-      "isPrediction": false
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2049830064024617145.png"
     },
     {
       "isSighting": true,
@@ -43,7 +45,8 @@
       "confidenceMemo": "店舗公式アカウントによる入荷情報であり、ご当地版ボンボンドロップシールの有力な目撃情報。品切れの可能性への言及あり。",
       "sourceUrl": "https://x.com/shirononegi/status/2049842443642880002",
       "sourceTweetId": "2049842443642880002",
-      "isPrediction": false
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2049842443642880002.png"
     },
     {
       "isSighting": true,
@@ -57,7 +60,8 @@
       "confidenceMemo": "店舗公式アカウントによる具体的な入荷・売り場情報",
       "sourceUrl": "https://x.com/bumpodo/status/2049772472619462696",
       "sourceTweetId": "2049772472619462696",
-      "isPrediction": false
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2049772472619462696.png"
     },
     {
       "isSighting": true,
@@ -71,7 +75,8 @@
       "confidenceMemo": "店舗公式アカウントによる写真付きの入荷情報であり、信頼性が非常に高い",
       "sourceUrl": "https://x.com/hakurankan/status/2049724384076877924",
       "sourceTweetId": "2049724384076877924",
-      "isPrediction": false
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2049724384076877924.png"
     }
   ]
 }
