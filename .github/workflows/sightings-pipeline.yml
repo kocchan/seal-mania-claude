@@ -13,9 +13,14 @@ on:
     - cron: '0 9 * * *'   # 18:00 JST
     - cron: '0 12 * * *'  # 21:00 JST
 
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
 jobs:
   sightings-pipeline:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
 
     steps:
       # ========================================
@@ -23,6 +28,8 @@ jobs:
       # ========================================
       - name: チェックアウト
         uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Node.js セットアップ
         uses: actions/setup-node@v4
@@ -94,7 +101,9 @@ jobs:
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
           git add output/
-          git diff --staged --quiet || git commit -m "chore: 目撃情報データ更新 [skip ci]"
-          git push
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          if git diff --staged --quiet; then
+            echo "変更なし - コミットをスキップ"
+          else
+            git commit -m "chore: 目撃情報データ更新 [skip ci]"
+            git push
+          fi
