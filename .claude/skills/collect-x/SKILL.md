@@ -2,7 +2,7 @@
 
 X（Twitter）から目撃情報を収集する。
 
-検索キーワードは `config.json` の `theme.name` から取得する。
+検索キーワードは `config.json` の `queries` から取得する。
 
 ## 概要
 
@@ -10,9 +10,12 @@ Yahooリアルタイム検索をスクレイピングして、Xの最新投稿�
 
 ## 機能
 
-- **時間変換**: 相対時間（「3分前」「昨日 22:15」）をtimestampを基準に実際の日時（ISO 8601形式）に変換
+- **複数クエリ対応**: config.jsonで複数の検索クエリを設定可能
+- **時間変換**: 相対時間（「3分前」「昨日 22:15」）をtimestampを基準に実際の日時に変換
 - **1日1ファイル**: 同じ日に複数回実行しても1つのファイルに追記
 - **重複除外**: 同じURLの投稿は除外
+- **自動BAN**: NGワード/URL検出時にブラックリストに追加
+- **公式アカウント除外**: 設定した公式アカウントは除外
 
 ## 実行方法
 
@@ -24,9 +27,27 @@ node scripts/scrape-yahoo.js
 
 ## スクリプト
 
-`scripts/scrape-yahoo.js`
+- `scripts/scrape-yahoo.js` - メインスクリプト
+- `scripts/utils.js` - 共通ユーティリティ
 
-Playwrightを使ってYahooリアルタイム検索をスクレイピングする。
+## 設定
+
+`config.json` で以下を設定:
+
+```json
+{
+  "queries": ["検索クエリ1", "検索クエリ2"],
+  "filter": {
+    "officialAccounts": ["除外するユーザーID"],
+    "ngWords": ["プレゼント", "懸賞"],
+    "ngUrls": ["amzn.to"]
+  },
+  "scraping": {
+    "headless": true,
+    "queryDelay": 3000
+  }
+}
+```
 
 ## 出力
 
@@ -34,22 +55,29 @@ Playwrightを使ってYahooリアルタイム検索をスクレイピングす�
 
 ```json
 {
-  "query": "ボンボンドロップシール",
   "timestamp": "2024-01-01T12:00:00.000Z",
   "source": "yahoo_realtime",
   "platform": "x",
   "count": 10,
   "data": [
     {
+      "tweetId": "1234567890",
+      "userId": "username",
       "text": "投稿内容",
-      "user": "ユーザー名",
+      "user": "表示名",
       "time": "2024-01-01T12:00:00.000Z",
       "timeRaw": "3分前",
-      "url": "投稿URL"
+      "url": "https://x.com/username/status/1234567890",
+      "hashtags": ["#タグ"],
+      "images": ["画像URL"]
     }
   ]
 }
 ```
+
+## ブラックリスト
+
+`output/data/blacklist.json` に自動BANされたユーザーが保存される。
 
 ## 実行タイミング
 

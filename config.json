@@ -2,5 +2,23 @@
   "theme": {
     "name": "ボンボンドロップシール",
     "keywords": ["ボンボンドロップシール", "ボンドロ"]
+  },
+  "scraping": {
+    "headless": true,
+    "queryDelay": 3000
+  },
+  "queries": [
+    "\"ボンボンドロップ\" (\"入荷\" OR \"在庫\" OR \"売ってた\" OR \"買えた\" OR \"ない\" OR \"あった\") -PR -AD -Amazon -楽天 -メルカリ -予約 -交換 -譲 -求 -amzn -r10.to -afl.rakuten -\"シル活\"",
+    "\"ぷっくり シール\" (\"入荷\" OR \"在庫\" OR \"売ってた\" OR \"買えた\" OR \"ない\" OR \"あった\") -PR -AD -Amazon -楽天 -メルカリ -予約 -交換 -譲 -求 -amzn -r10.to -afl.rakuten -\"シル活\"",
+    "\"うるちゅる\" (\"入荷\" OR \"在庫\" OR \"売ってた\" OR \"買えた\" OR \"ない\" OR \"あった\") -PR -AD -Amazon -楽天 -メルカリ -予約 -交換 -譲 -求 -amzn -r10.to -afl.rakuten -\"シル活\""
+  ],
+  "filter": {
+    "officialAccounts": [],
+    "ngWords": ["プレゼント", "懸賞", "当選", "応募", "キャンペーン"],
+    "ngUrls": ["amzn.to", "rakuten.co.jp", "r10.to", "afl.rakuten"]
+  },
+  "output": {
+    "sightingsDir": "output/sightings",
+    "rawDir": "output/sightings/raw"
   }
 }

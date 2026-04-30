@@ -2,122 +2,170 @@
  * Yahoo リアルタイム検索からX（Twitter）の投稿を取得する
  *
  * 使い方:
- *   node scripts/scrape-yahoo.js [検索キーワード]
+ *   node scripts/scrape-yahoo.js
  *
  * 出力:
  *   output/blog/raw/yahoo-{YYYY-MM-DD}.json
  *
  * 機能:
+ *   - 複数クエリ対応
  *   - 相対時間を実際の日時に変換
  *   - 1日1ファイル（同じ日に実行すると追記）
  *   - 重複投稿は除外
+ *   - ブラックリスト・NGワード/URLによる自動BAN
+ *   - 公式アカウント除外
  */
 
 import { chromium } from 'playwright';
-import fs from 'fs';
-import path from 'path';
-import { fileURLToPath } from 'url';
-import { parseRelativeTime } from './time-utils.js';
-
-// configからテーマを読み込む
-const __dirname = path.dirname(fileURLToPath(import.meta.url));
-const configPath = path.join(__dirname, '../config.json');
-const config = JSON.parse(fs.readFileSync(configPath, 'utf-8'));
-
-const DEFAULT_QUERY = config.theme.name;
-const OUTPUT_DIR = 'output/blog/raw';
-
-/**
- * 日付からファイルパスを取得
- */
-function getFilePath(date) {
-  const dateStr = date.toISOString().split('T')[0]; // YYYY-MM-DD
-  return path.join(OUTPUT_DIR, `yahoo-${dateStr}.json`);
-}
+import {
+  config,
+  parseRelativeTime,
+  loadBlacklist,
+  addToBlacklist,
+  shouldFilterOut,
+  getFilePath,
+  loadExistingData,
+  getExistingUrls,
+  saveResult
+} from './utils.js';
 
 /**
- * 既存ファイルからデータを読み込み
+ * Yahooリアルタイム検索からツイートを取得
  */
-function loadExistingData(filepath) {
-  if (!fs.existsSync(filepath)) return null;
-  try {
-    return JSON.parse(fs.readFileSync(filepath, 'utf-8'));
-  } catch {
-    return null;
-  }
-}
+async function fetchTweetsFromYahoo(page, query) {
+  const url = `https://search.yahoo.co.jp/realtime/search?p=${encodeURIComponent(query)}&ei=UTF-8`;
+  await page.goto(url, { waitUntil: 'domcontentloaded' });
+  await page.waitForTimeout(3000);
 
-/**
- * 既存データからURLセットを取得
- */
-function getExistingUrls(existingData) {
-  const urls = new Set();
-  if (!existingData?.data) return urls;
-  for (const tweet of existingData.data) {
-    if (tweet.url) urls.add(tweet.url);
-  }
-  return urls;
-}
+  return await page.evaluate(() => {
+    const results = [];
 
-async function scrapeYahooRealtime(query = DEFAULT_QUERY) {
-  const browser = await chromium.launch({ headless: true });
-  const page = await browser.newPage();
-  const timestamp = new Date(); // 基準時刻（相対時間の計算に使用）
-  const filepath = getFilePath(timestamp);
-  const existingData = loadExistingData(filepath);
-  const existingUrls = getExistingUrls(existingData);
+    document.querySelectorAll('[class*="Tweet_TweetContainer"]').forEach(container => {
+      const textEl = container.querySelector('[class*="Tweet_body"]');
+      const userEl = container.querySelector('[class*="Tweet_authorName"]');
+      const timeEl = container.querySelector('[class*="Tweet_time"]');
 
-  console.log(`[Yahoo] Existing URLs count: ${existingUrls.size}`);
+      // x.com/username/status/ID の形式のリンクを探す
+      const allLinks = Array.from(container.querySelectorAll('a'));
+      const statusLink = allLinks.find(a => a.href && a.href.includes('/status/'));
+      const tweetUrl = statusLink?.href || '';
+      const urlMatch = tweetUrl.match(/x\.com\/([^/?]+)\/status\/(\d+)/);
 
-  try {
-    const url = `https://search.yahoo.co.jp/realtime/search?p=${encodeURIComponent(query)}`;
-    console.log(`[Yahoo] Fetching: ${url}`);
+      if (textEl?.textContent && urlMatch) {
+        const text = textEl.textContent.trim();
 
-    await page.goto(url, { waitUntil: 'networkidle' });
+        // ハッシュタグを抽出
+        const hashtags = [...text.matchAll(/#[\w\u3040-\u309F\u30A0-\u30FF\u4E00-\u9FFF]+/g)]
+          .map(m => m[0]);
 
-    // ツイート要素を取得（クラス名にハッシュがついているので部分一致で検索）
-    const rawTweets = await page.evaluate(() => {
-      const items = document.querySelectorAll('[class*="Tweet_TweetContainer"]');
+        // 画像URLを抽出（アイコン以外）
+        const images = Array.from(container.querySelectorAll('img'))
+          .map(img => img.src)
+          .filter(src => src && !src.includes('profile_images') && !src.includes('icon'));
 
-      return Array.from(items).map(item => {
-        const textEl = item.querySelector('[class*="Tweet_body"]');
-        const userEl = item.querySelector('[class*="Tweet_authorName"]');
-        const timeEl = item.querySelector('[class*="Tweet_time"]');
-        const linkEl = item.querySelector('a[class*="Tweet_overallLink"]');
-
-        return {
-          text: textEl?.textContent?.trim() || '',
-          user: userEl?.textContent?.trim() || '',
+        results.push({
+          tweetId: urlMatch[2],
+          userId: urlMatch[1],
+          text: text,
+          url: `https://x.com/${urlMatch[1]}/status/${urlMatch[2]}`, // クリーンなURL
           timeRaw: timeEl?.textContent?.trim() || '',
-          url: linkEl?.href || ''
-        };
-      }).filter(t => t.text);
+          user: userEl?.textContent?.trim() || '',
+          hashtags: hashtags,
+          images: images
+        });
+      }
     });
 
-    console.log(`[Yahoo] Found ${rawTweets.length} tweets`);
+    return results;
+  });
+}
 
-    // 時間を変換し、重複を除外
-    const newTweets = rawTweets
-      .filter(t => !existingUrls.has(t.url))
-      .map(t => ({
-        text: t.text,
-        user: t.user,
-        time: parseRelativeTime(t.timeRaw, timestamp) || t.timeRaw,
-        timeRaw: t.timeRaw,
-        url: t.url
-      }));
+/**
+ * メイン処理
+ */
+async function main() {
+  console.log('[Yahoo] 処理開始');
 
-    console.log(`[Yahoo] New tweets: ${newTweets.length} (filtered ${rawTweets.length - newTweets.length} duplicates)`);
+  const timestamp = new Date();
+  const filepath = getFilePath(timestamp, 'yahoo');
+  const existingData = loadExistingData(filepath);
+  const existingUrls = getExistingUrls(existingData);
+  const blacklist = loadBlacklist();
+  const officialSet = new Set(config.filter?.officialAccounts || []);
+  const queries = config.queries || [config.theme.name];
+
+  console.log(`[Yahoo] 既存URL数: ${existingUrls.size}`);
+  console.log(`[Yahoo] ブラックリスト: ${blacklist.size}件`);
+  console.log(`[Yahoo] クエリ数: ${queries.length}`);
+
+  const browser = await chromium.launch({
+    headless: config.scraping?.headless ?? true
+  });
+  const page = await browser.newPage();
+
+  const metrics = { total: 0, saved: 0, banned: 0, skipped: 0 };
+  const allNewTweets = [];
+
+  try {
+    for (const query of queries) {
+      console.log(`[Yahoo] 検索: ${query.substring(0, 50)}...`);
+
+      const rawTweets = await fetchTweetsFromYahoo(page, query);
+      console.log(`[Yahoo] 取得: ${rawTweets.length}件`);
+      metrics.total += rawTweets.length;
+
+      for (const tweet of rawTweets) {
+        // 重複チェック
+        if (existingUrls.has(tweet.url)) {
+          metrics.skipped++;
+          continue;
+        }
+
+        // フィルタリング
+        const filterResult = shouldFilterOut(tweet, blacklist, officialSet);
+
+        if (filterResult === 'exclude') {
+          metrics.skipped++;
+          continue;
+        }
+
+        if (filterResult.action === 'ban') {
+          addToBlacklist(blacklist, tweet.userId, filterResult.reason);
+          metrics.banned++;
+          continue;
+        }
+
+        // 保存対象
+        existingUrls.add(tweet.url);
+        allNewTweets.push({
+          tweetId: tweet.tweetId,
+          userId: tweet.userId,
+          text: tweet.text,
+          user: tweet.user,
+          time: parseRelativeTime(tweet.timeRaw, timestamp) || tweet.timeRaw,
+          timeRaw: tweet.timeRaw,
+          url: tweet.url,
+          hashtags: tweet.hashtags,
+          images: tweet.images
+        });
+        metrics.saved++;
+        process.stdout.write('.');
+      }
+
+      // クエリ間の待機
+      const delay = config.scraping?.queryDelay || 3000;
+      await page.waitForTimeout(delay);
+    }
+
+    console.log(''); // 改行
 
     // 既存データとマージ
     const allTweets = existingData?.data
-      ? [...existingData.data, ...newTweets]
-      : newTweets;
+      ? [...existingData.data, ...allNewTweets]
+      : allNewTweets;
 
-    fs.mkdirSync(OUTPUT_DIR, { recursive: true });
-
+    // 結果を保存
     const result = {
-      query,
       timestamp: timestamp.toISOString(),
       source: 'yahoo_realtime',
       platform: 'x',
@@ -125,19 +173,18 @@ async function scrapeYahooRealtime(query = DEFAULT_QUERY) {
       data: allTweets
     };
 
-    fs.writeFileSync(filepath, JSON.stringify(result, null, 2));
-    console.log(`[Yahoo] Saved to: ${filepath} (total: ${allTweets.length}, new: ${newTweets.length})`);
+    saveResult(filepath, result);
 
-    return result;
+    console.log(`[Yahoo] 保存先: ${filepath}`);
+    console.log(`[Yahoo] 完了: 取得 ${metrics.total}件 / 新規 ${metrics.saved}件 / BAN ${metrics.banned}件 / スキップ ${metrics.skipped}件`);
+    console.log(`[Yahoo] 合計: ${allTweets.length}件`);
 
   } catch (error) {
-    console.error('[Yahoo] Error:', error);
+    console.error('[Yahoo] エラー:', error);
     throw error;
   } finally {
     await browser.close();
   }
 }
 
-// コマンドライン引数から検索キーワードを取得
-const query = process.argv[2] || DEFAULT_QUERY;
-scrapeYahooRealtime(query);
+main();
