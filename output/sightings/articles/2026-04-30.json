@@ -1,0 +1,77 @@
+{
+  "date": "2026-04-30",
+  "updatedAt": "2026-04-30T23:19:26.589+09:00",
+  "count": 5,
+  "articles": [
+    {
+      "isSighting": true,
+      "prefecture": "山口県",
+      "city": "防府市",
+      "shopName": "セブン-イレブン",
+      "shopAddress": "山口県防府市",
+      "productName": "ボンボンドロップシール",
+      "sightingTime": "2026-04-30 20:25頃",
+      "statusText": "在庫あり（ロッテ・クーリッシュ購入特典）",
+      "confidenceMemo": "ユーザーによる写真付きの購入報告。地域情報は投稿者のユーザー名（NAOinHoufu）より特定。",
+      "sourceUrl": "https://x.com/NAOinHoufu/status/2049812416377319825",
+      "sourceTweetId": "2049812416377319825",
+      "isPrediction": false
+    },
+    {
+      "isSighting": true,
+      "prefecture": "兵庫県",
+      "city": "尼崎市",
+      "shopName": "くまざわ書店あまがさき店",
+      "shopAddress": "兵庫県尼崎市潮江1-3-1 あまがさきキューズモール内",
+      "productName": "BONBON DROP Seal パーフェクトBOOK",
+      "sightingTime": "2026-04-30 21:35頃",
+      "statusText": "入荷（在庫あり）",
+      "confidenceMemo": "店舗公式アカウントによる商品入荷のお知らせ。書籍商品（シール自体は付属なし）の情報。",
+      "sourceUrl": "https://x.com/W2KLu8TBd3x2S2c/status/2049830064024617145",
+      "sourceTweetId": "2049830064024617145",
+      "isPrediction": false
+    },
+    {
+      "isSighting": true,
+      "prefecture": "長野県",
+      "city": "諏訪市",
+      "shopName": "諏訪湖サービスエリア上り線",
+      "shopAddress": "長野県諏訪市大字豊田字所久保3118",
+      "productName": "ご当地ぷっくりシール（長野限定）",
+      "sightingTime": "2026-04-30 15:30",
+      "statusText": "在庫あり（入荷情報）",
+      "confidenceMemo": "店舗公式アカウントによる入荷情報であり、ご当地版ボンボンドロップシールの有力な目撃情報。品切れの可能性への言及あり。",
+      "sourceUrl": "https://x.com/shirononegi/status/2049842443642880002",
+      "sourceTweetId": "2049842443642880002",
+      "isPrediction": false
+    },
+    {
+      "isSighting": true,
+      "prefecture": "東京都",
+      "city": "千代田区",
+      "shopName": "文房堂 神田神保町店",
+      "shopAddress": "東京都千代田区神田神保町1-21-1",
+      "productName": "マインドウェイブ リルツステッカー（ぷっくりシール）",
+      "sightingTime": "2026-04-30 17:46頃",
+      "statusText": "入荷・在庫あり",
+      "confidenceMemo": "店舗公式アカウントによる具体的な入荷・売り場情報",
+      "sourceUrl": "https://x.com/bumpodo/status/2049772472619462696",
+      "sourceTweetId": "2049772472619462696",
+      "isPrediction": false
+    },
+    {
+      "isSighting": true,
+      "prefecture": "神奈川県",
+      "city": "横浜市中区",
+      "shopName": "横浜博覧館",
+      "shopAddress": "神奈川県横浜市中区山下町145",
+      "productName": "ボンボンドロップシール",
+      "sightingTime": "2026-04-30 14:35頃",
+      "statusText": "入荷（在庫あり）",
+      "confidenceMemo": "店舗公式アカウントによる写真付きの入荷情報であり、信頼性が非常に高い",
+      "sourceUrl": "https://x.com/hakurankan/status/2049724384076877924",
+      "sourceTweetId": "2049724384076877924",
+      "isPrediction": false
+    }
+  ]
+}

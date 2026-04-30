@@ -146,7 +146,8 @@ async function main() {
           timeRaw: tweet.timeRaw,
           url: tweet.url,
           hashtags: tweet.hashtags,
-          images: tweet.images
+          images: tweet.images,
+          isProcessed: false
         });
         metrics.saved++;
         process.stdout.write('.');

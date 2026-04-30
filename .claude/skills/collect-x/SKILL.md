@@ -22,13 +22,13 @@ Yahooリアルタイム検索をスクレイピングして、Xの最新投稿�
 以下のスクリプトを実行する。
 
 ```bash
-node scripts/scrape-yahoo.js
+node scripts/sightings/scrape-yahoo.js
 ```
 
 ## スクリプト
 
-- `scripts/scrape-yahoo.js` - メインスクリプト
-- `scripts/utils.js` - 共通ユーティリティ
+- `scripts/sightings/scrape-yahoo.js` - メインスクリプト
+- `scripts/sightings/utils.js` - 共通ユーティリティ
 
 ## 設定
 
@@ -51,7 +51,7 @@ node scripts/scrape-yahoo.js
 
 ## 出力
 
-`output/blog/raw/yahoo-{YYYY-MM-DD}.json`
+`output/sightings/raw/yahoo-{YYYY-MM-DD}.json`
 
 ```json
 {
@@ -77,7 +77,7 @@ node scripts/scrape-yahoo.js
 
 ## ブラックリスト
 
-`output/data/blacklist.json` に自動BANされたユーザーが保存される。
+`output/sightings/blacklist.json` に自動BANされたユーザーが保存される。
 
 ## 実行タイミング
 
