@@ -1,8 +1,8 @@
 {
-  "timestamp": "2026-04-30T16:59:54.212Z",
+  "timestamp": "2026-04-30T17:08:05.696Z",
   "source": "yahoo_realtime",
   "platform": "x",
-  "count": 124,
+  "count": 125,
   "data": [
     {
       "tweetId": "2049685181678969119",
@@ -1995,6 +1995,21 @@
       "hashtags": [],
       "images": [
         "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i5e72TLbER0xQeK1l8ZZ0OLrdfW-CwhZ048MuCUn_5HKyiv2ta3IQik4sDR1fLHBdP_v2T2T8jtfBmCGzErOBXennbYdEq-t8647onVPP6anKNVtFiSekH3ODC-72hcUlGVsm4UXxvdABA8QC3sEdPYjGe4WsAgZ3KngKTCOnKZEi2a8Y_8lUJ4Bjzb8bsu6HBEKNNV-3sAu2yY9_yebT-v"
+      ],
+      "isProcessed": true,
+      "_filepath": "output/sightings/raw/yahoo-2026-04-30.json"
+    },
+    {
+      "tweetId": "2049898609525850541",
+      "userId": "creamy_mi5",
+      "text": "わかる分かる！！香料なしのうるちゅるグロスが欲しいのになかなかない、(ᐡт  ̫ тᐡ)mii@creamy_mi517秒前",
+      "user": "mii",
+      "time": "2026-05-01T02:07:48.696+09:00",
+      "timeRaw": "17秒前",
+      "url": "https://x.com/creamy_mi5/status/2049898609525850541",
+      "hashtags": [],
+      "images": [
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i5e72TLbER0xQeK1l8ZZ0OL3Y131hQt__PY36AX2S9xVtHGBvviEo_K27OPjzJTBhk9O73dElCvHglM75UFz_vV1hahnv7eSM5wmOXZ5vPfH1xgZgNiPisnTP3VuTyQvzCTXRoLnuroL7mFy2-Qj55HBG86eVqzJFH7T70TsM9l92ptnpBbcZKkE7ZfizHpdlG3j9zdX9Avf2WZQek6-q9j"
       ],
       "isProcessed": true,
       "_filepath": "output/sightings/raw/yahoo-2026-04-30.json"
