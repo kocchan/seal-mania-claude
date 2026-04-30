@@ -7,10 +7,13 @@
     "scrape:yahoo": "node scripts/sightings/scrape-yahoo.js",
     "scrape:threads": "node scripts/sightings/scrape-threads.js",
     "scrape:all": "npm run scrape:yahoo && npm run scrape:threads",
-    "generate:articles": "node scripts/sightings/generate-articles.js"
+    "generate:articles": "node scripts/sightings/generate-articles.js",
+    "generate:images": "node scripts/sightings/generate-images.js",
+    "post:wordpress": "node scripts/sightings/post-wordpress.js"
   },
   "dependencies": {
     "@google/generative-ai": "^0.24.1",
+    "axios": "^1.15.2",
     "canvas": "^3.2.3",
     "dotenv": "^17.4.2",
     "playwright": "^1.40.0"

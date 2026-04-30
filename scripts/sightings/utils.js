@@ -12,7 +12,7 @@ const __dirname = path.dirname(fileURLToPath(import.meta.url));
 // 設定読み込み
 // ==========================================
 
-const configPath = path.join(__dirname, '../config.json');
+const configPath = path.join(__dirname, '../../config.json');
 export const config = JSON.parse(fs.readFileSync(configPath, 'utf-8'));
 
 // ==========================================
