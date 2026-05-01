@@ -1,7 +1,7 @@
 {
   "date": "2026-05-01",
-  "updatedAt": "2026-05-01T22:29:32.677+09:00",
-  "count": 32,
+  "updatedAt": "2026-05-02T06:51:28.021+09:00",
+  "count": 33,
   "articles": [
     {
       "isSighting": true,
@@ -578,6 +578,24 @@
       "isPosted": true,
       "wpPostId": 4879,
       "postedAt": "2026-05-01T22:30:00.264+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "静岡県",
+      "city": "富士市",
+      "shopName": "富士文具",
+      "shopAddress": "静岡県富士市依田橋422-10",
+      "productName": "ボンボンドロップシール ポチャッコ",
+      "sightingTime": "2026-05-01 10:00頃",
+      "statusText": "在庫あり（オンラインショップで購入・発送済み）",
+      "confidenceMemo": "具体的な店舗名（富士文具オンラインショップ）と購入日時の記載があり、発送報告も含まれるため信頼性が高い。",
+      "sourceUrl": "https://x.com/sasasasa3choco/status/2050242557372997806",
+      "sourceTweetId": "2050242557372997806",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2050242557372997806.png",
+      "isPosted": true,
+      "wpPostId": 4881,
+      "postedAt": "2026-05-02T06:51:33.723+09:00"
     }
   ]
 }
