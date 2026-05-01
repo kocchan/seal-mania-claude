@@ -167,7 +167,7 @@ export function loadBlacklist() {
  * @param {Map<string, object>} blacklist
  */
 export function saveBlacklist(blacklist) {
-  fs.mkdirSync(DATA_DIR, { recursive: true });
+  fs.mkdirSync(SIGHTINGS_DIR, { recursive: true });
 
   const data = Array.from(blacklist.entries()).map(([userId, info]) => ({
     userId,
