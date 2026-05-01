@@ -1,7 +1,7 @@
 {
   "date": "2026-05-01",
-  "updatedAt": "2026-05-01T19:20:47.513+09:00",
-  "count": 28,
+  "updatedAt": "2026-05-01T22:29:32.677+09:00",
+  "count": 32,
   "articles": [
     {
       "isSighting": true,
@@ -506,6 +506,78 @@
       "isPosted": true,
       "wpPostId": 4871,
       "postedAt": "2026-05-01T19:21:01.898+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "福岡県",
+      "city": "北九州市小倉北区",
+      "shopName": "TSUTAYAサンリブきふね店",
+      "shopAddress": "福岡県北九州市小倉北区貴船町1-1 サンリブきふね2F",
+      "productName": "ボンボンドロップシール公式ファンブック",
+      "sightingTime": "2026-05-01 21:58頃",
+      "statusText": "在庫あり（少量、お一人様一冊まで）",
+      "confidenceMemo": "店舗公式アカウントによる在庫情報、写真付きのため信頼性が非常に高い",
+      "sourceUrl": "https://x.com/TSUTAYA_kifune/status/2050198071724908621",
+      "sourceTweetId": "2050198071724908621",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2050198071724908621.png",
+      "isPosted": true,
+      "wpPostId": 4873,
+      "postedAt": "2026-05-01T22:29:41.845+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "宮崎県",
+      "city": "児湯郡川南町",
+      "shopName": "明屋書店川南店",
+      "shopAddress": "宮崎県児湯郡川南町大字川南13712-24",
+      "productName": "ボンボンドロップシールパーフェクトBOOK",
+      "sightingTime": "2026-05-01 10:57頃",
+      "statusText": "入荷・在庫あり",
+      "confidenceMemo": "店舗公式アカウントによる入荷情報",
+      "sourceUrl": "https://x.com/haruya_kwm/status/2050167710856962251",
+      "sourceTweetId": "2050167710856962251",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2050167710856962251.png",
+      "isPosted": true,
+      "wpPostId": 4875,
+      "postedAt": "2026-05-01T22:29:48.483+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "埼玉県",
+      "city": "川越市",
+      "shopName": "ベネクス川越店",
+      "shopAddress": "埼玉県川越市問屋町15-9",
+      "productName": "ぷっくりシール (ボンボンドロップシール)",
+      "sightingTime": "2026-05-01 22:17頃",
+      "statusText": "入荷（在庫あり）",
+      "confidenceMemo": "店舗公式アカウントによる入荷・展開情報",
+      "sourceUrl": "https://x.com/benexkawagoeten/status/2050203041039868165",
+      "sourceTweetId": "2050203041039868165",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2050203041039868165.png",
+      "isPosted": true,
+      "wpPostId": 4877,
+      "postedAt": "2026-05-01T22:29:54.381+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "宮城県",
+      "city": "名取市",
+      "shopName": "未来屋書店名取店",
+      "shopAddress": "宮城県名取市杜せきのした5丁目3-1 イオンモール名取 2F",
+      "productName": "ハイキュー!! ぷっくりシール",
+      "sightingTime": "2026-05-01 10:41頃",
+      "statusText": "在庫あり（好評販売中）",
+      "confidenceMemo": "店舗公式アカウントによる在庫・コーナー案内情報",
+      "sourceUrl": "https://x.com/mi_natori/status/2050163598001872992",
+      "sourceTweetId": "2050163598001872992",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2050163598001872992.png",
+      "isPosted": true,
+      "wpPostId": 4879,
+      "postedAt": "2026-05-01T22:30:00.264+09:00"
     }
   ]
 }
