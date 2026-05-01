@@ -1,7 +1,7 @@
 {
   "date": "2026-05-01",
-  "updatedAt": "2026-05-01T17:23:13.643+09:00",
-  "count": 26,
+  "updatedAt": "2026-05-01T19:20:47.513+09:00",
+  "count": 28,
   "articles": [
     {
       "isSighting": true,
@@ -470,6 +470,42 @@
       "isPosted": true,
       "wpPostId": 4861,
       "postedAt": "2026-05-01T17:23:44.517+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "埼玉県",
+      "city": "越谷市",
+      "shopName": "カード＆ホビーショップ じーわん",
+      "shopAddress": "埼玉県越谷市南越谷1-20-1 越谷サンシティビル1F",
+      "productName": "ボンボンドロップシール",
+      "sightingTime": "2026-05-01 19:10頃",
+      "statusText": "在庫あり（残りわずか）",
+      "confidenceMemo": "店舗公式アカウントによる直接の入荷・在庫報告ツイートのため、信頼性が非常に高い",
+      "sourceUrl": "https://x.com/ji_wanji_wan/status/2050155873033748753",
+      "sourceTweetId": "2050155873033748753",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2050155873033748753.png",
+      "isPosted": true,
+      "wpPostId": 4869,
+      "postedAt": "2026-05-01T19:20:55.265+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "海外（台湾）",
+      "city": "台北市",
+      "shopName": "ドン・キホーテ 忠孝新生店",
+      "shopAddress": "106 台湾 Taipei City, Da’an District, Section 1, Bade Rd, 55號 B1",
+      "productName": "ボンボンドロップシール",
+      "sightingTime": "2026-05-01 18:34頃",
+      "statusText": "在庫あり（穴場情報）",
+      "confidenceMemo": "現地メディアによる在庫状況の情報提供。日本人観光客が少なく在庫が残っている可能性が高いとしている",
+      "sourceUrl": "https://x.com/funtaiwanzine/status/2050146820148596750",
+      "sourceTweetId": "2050146820148596750",
+      "isPrediction": true,
+      "imagePath": "output/sightings/images/2050146820148596750.png",
+      "isPosted": true,
+      "wpPostId": 4871,
+      "postedAt": "2026-05-01T19:21:01.898+09:00"
     }
   ]
 }
