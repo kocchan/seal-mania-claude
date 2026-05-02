@@ -1,7 +1,7 @@
 {
   "date": "2026-05-02",
-  "updatedAt": "2026-05-02T16:53:57.044+09:00",
-  "count": 32,
+  "updatedAt": "2026-05-02T18:56:51.025+09:00",
+  "count": 35,
   "articles": [
     {
       "isSighting": true,
@@ -578,6 +578,60 @@
       "isPosted": true,
       "wpPostId": 4981,
       "postedAt": "2026-05-02T16:54:35.630+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "沖縄県",
+      "city": "那覇市",
+      "shopName": "球陽堂書房 メインプレイス店",
+      "shopAddress": "沖縄県那覇市おもろまち4-4-9 サンエー那覇メインプレイス 2F",
+      "productName": "ボンボンドロップシールパーフェクトBOOK",
+      "sightingTime": "2026-05-02 18:07頃",
+      "statusText": "在庫あり（入荷情報）",
+      "confidenceMemo": "書店公式アカウントによる入荷告知。抽選でシールのプレゼント企画あり。",
+      "sourceUrl": "https://x.com/kyuyodo_main/status/2050502473660715184",
+      "sourceTweetId": "2050502473660715184",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2050502473660715184.png",
+      "isPosted": true,
+      "wpPostId": 5003,
+      "postedAt": "2026-05-02T18:56:56.913+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "兵庫県",
+      "city": "明石市",
+      "shopName": "ヴィレッジヴァンガード イオン明石",
+      "shopAddress": "兵庫県明石市大久保町ゆりのき通3-3-1 イオン明石ショッピングセンター 2番街 2F",
+      "productName": "ボンボンドロップシェイカーキット",
+      "sightingTime": "2026-05-02 08:32頃",
+      "statusText": "在庫あり（全4種類）",
+      "confidenceMemo": "店舗公式アカウントによる写真付き入荷情報。価格情報もあり信頼性が高い。",
+      "sourceUrl": "https://x.com/vvakashi/status/2050493611658313744",
+      "sourceTweetId": "2050493611658313744",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2050493611658313744.png",
+      "isPosted": true,
+      "wpPostId": 5005,
+      "postedAt": "2026-05-02T18:57:03.067+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "東京都",
+      "city": "千代田区",
+      "shopName": "ポケタウン秋葉原",
+      "shopAddress": "東京都千代田区外神田1丁目16-10 1階 17号",
+      "productName": "ボンボンドロップシール ちいかわ",
+      "sightingTime": "2026-05-02 08:00頃",
+      "statusText": "在庫あり（ショーケース内展開）",
+      "confidenceMemo": "店舗公式アカウントによる詳細な住所・写真付きの入荷情報。",
+      "sourceUrl": "https://x.com/poketown_akiba/status/2050485441984671821",
+      "sourceTweetId": "2050485441984671821",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2050485441984671821.png",
+      "isPosted": true,
+      "wpPostId": 5007,
+      "postedAt": "2026-05-02T18:57:09.138+09:00"
     }
   ]
 }
