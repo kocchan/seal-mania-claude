@@ -1,7 +1,7 @@
 {
   "date": "2026-05-03",
-  "updatedAt": "2026-05-03T19:02:29.308+09:00",
-  "count": 35,
+  "updatedAt": "2026-05-03T22:22:50.632+09:00",
+  "count": 38,
   "articles": [
     {
       "isSighting": true,
@@ -632,6 +632,60 @@
       "isPosted": true,
       "wpPostId": 5161,
       "postedAt": "2026-05-03T19:03:08.838+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "香川県",
+      "city": "高松市",
+      "shopName": "お宝買取団高松伏石店 カプセル倉庫",
+      "shopAddress": "香川県高松市伏石町2144-2",
+      "productName": "サンリオボンボンドロップ",
+      "sightingTime": "2026-05-04 10:00頃（予定）",
+      "statusText": "2026-05-04 10時から販売開始予定（おひとり様2回まで）",
+      "confidenceMemo": "店舗公式アカウントによる入荷・販売告知のため信頼性が高い",
+      "sourceUrl": "https://x.com/fus_capsuelsoko/status/2050925824837366091",
+      "sourceTweetId": "2050925824837366091",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2050925824837366091.png",
+      "isPosted": true,
+      "wpPostId": 5163,
+      "postedAt": "2026-05-03T22:22:55.648+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "大阪府",
+      "city": "堺市",
+      "shopName": "フレンド３",
+      "shopAddress": "大阪府堺市東区日置荘西町1丁21-1",
+      "productName": "ボンボンドロップシール",
+      "sightingTime": "2026-05-04 15:00頃（予定）",
+      "statusText": "2026-05-04 15時から特別景品として販売予定（数量限定）",
+      "confidenceMemo": "店舗公式アカウントによる販売告知のため信頼性が高い",
+      "sourceUrl": "https://x.com/HATSU_FRIEND3/status/2050909079007301824",
+      "sourceTweetId": "2050909079007301824",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2050909079007301824.png",
+      "isPosted": true,
+      "wpPostId": 5165,
+      "postedAt": "2026-05-03T22:23:00.998+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "福島県",
+      "city": "郡山市",
+      "shopName": "ガレージファクトリー アティ郡山",
+      "shopAddress": "福島県郡山市駅前1-16-7 アティ郡山 4F",
+      "productName": "ぷっくりシール",
+      "sightingTime": "2026-05-03 11:10頃",
+      "statusText": "大量入荷（GW入荷情報）",
+      "confidenceMemo": "店舗公式アカウントによる具体的な入荷告知ツイート",
+      "sourceUrl": "https://x.com/gf_ati_koriyama/status/2050895691397140716",
+      "sourceTweetId": "2050895691397140716",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2050895691397140716.png",
+      "isPosted": true,
+      "wpPostId": 5167,
+      "postedAt": "2026-05-03T22:23:06.482+09:00"
     }
   ]
 }
