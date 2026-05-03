@@ -1,7 +1,7 @@
 {
   "date": "2026-05-03",
-  "updatedAt": "2026-05-03T22:22:50.632+09:00",
-  "count": 38,
+  "updatedAt": "2026-05-04T06:39:17.999+09:00",
+  "count": 41,
   "articles": [
     {
       "isSighting": true,
@@ -686,6 +686,60 @@
       "isPosted": true,
       "wpPostId": 5167,
       "postedAt": "2026-05-03T22:23:06.482+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "青森県",
+      "city": "青森市",
+      "shopName": "オフィスバリュー 青森店",
+      "shopAddress": "青森県青森市浜田3丁目3-1",
+      "productName": "ボンボンドロップシール サンリオ もじ",
+      "sightingTime": "2026-05-05 09:30頃（販売開始予定）",
+      "statusText": "2026年5月5日・6日に入荷予定。1グループ1個までの購入制限あり。入荷数極少。",
+      "confidenceMemo": "店舗公式アカウントによる具体的な入荷・販売制限の告知であり、信頼性が非常に高い。",
+      "sourceUrl": "https://x.com/seal_ya_san/status/2051032064317895104",
+      "sourceTweetId": "2051032064317895104",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2051032064317895104.png",
+      "isPosted": true,
+      "wpPostId": 5169,
+      "postedAt": "2026-05-04T06:39:24.254+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "沖縄県",
+      "city": "豊見城市",
+      "shopName": "MEGAドン・キホーテ 豊見城店",
+      "shopAddress": "沖縄県豊見城市字翁長854-1",
+      "productName": "うるちゅるシール（おぱんちゅ）",
+      "sightingTime": "2026-05-03 13:25頃",
+      "statusText": "在庫あり（全種）",
+      "confidenceMemo": "具体的な店舗名と在庫状況の記載があり、ハッシュタグにてボンボンドロップシール関連情報として投稿されている。",
+      "sourceUrl": "https://x.com/HIBIKORETANOSHI/status/2050929845606265196",
+      "sourceTweetId": "2050929845606265196",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2050929845606265196.png",
+      "isPosted": true,
+      "wpPostId": 5171,
+      "postedAt": "2026-05-04T06:39:30.664+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "沖縄県",
+      "city": "豊見城市",
+      "shopName": "ロフト イーアス沖縄豊崎店",
+      "shopAddress": "沖縄県豊見城市豊崎3-35 イーアス沖縄豊崎 3階",
+      "productName": "パフィバルーン、グラスパーラー（和柄）",
+      "sightingTime": "2026-05-03 13:25頃",
+      "statusText": "在庫あり（大量、全種）",
+      "confidenceMemo": "具体的な店舗名と在庫状況の記載があり、ハッシュタグにてボンボンドロップシール関連情報として投稿されている。",
+      "sourceUrl": "https://x.com/HIBIKORETANOSHI/status/2050929845606265196",
+      "sourceTweetId": "2050929845606265196",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2050929845606265196.png",
+      "isPosted": true,
+      "wpPostId": 5173,
+      "postedAt": "2026-05-04T06:39:37.475+09:00"
     }
   ]
 }
