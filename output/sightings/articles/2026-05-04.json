@@ -1,7 +1,7 @@
 {
   "date": "2026-05-04",
-  "updatedAt": "2026-05-04T17:38:40.236+09:00",
-  "count": 35,
+  "updatedAt": "2026-05-04T20:03:12.516+09:00",
+  "count": 39,
   "articles": [
     {
       "isSighting": true,
@@ -632,6 +632,78 @@
       "isPosted": true,
       "wpPostId": 5279,
       "postedAt": "2026-05-04T17:39:32.269+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "東京都",
+      "city": "渋谷区",
+      "shopName": "スータンホビー表参道（SOOTANG HOBBY OMOTESANDO）",
+      "shopAddress": "東京都渋谷区神宮前4-26-12",
+      "productName": "ボンボンドロップシール",
+      "sightingTime": "2026-05-04 19:29頃",
+      "statusText": "5月5日より販売開始（福引機による抽選方式・数量限定）",
+      "confidenceMemo": "公式店舗アカウントによる入荷・販売告知",
+      "sourceUrl": "https://x.com/Sootang_Store/status/2051247967294931185",
+      "sourceTweetId": "2051247967294931185",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2051247967294931185.png",
+      "isPosted": true,
+      "wpPostId": 5295,
+      "postedAt": "2026-05-04T20:03:18.221+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "福岡県",
+      "city": "糟屋郡久山町",
+      "shopName": "万代トリアス久山店",
+      "shopAddress": "福岡県糟屋郡久山町大字山田1111 トリアス久山内",
+      "productName": "ボンボンドロップチャーム",
+      "sightingTime": "2026-05-04 09:22頃",
+      "statusText": "5月5日10:00より販売開始（1グループ1個限定）",
+      "confidenceMemo": "公式店舗アカウントによるカプセルトイ入荷告知",
+      "sourceUrl": "https://x.com/mandai_torius_h/status/2051231051318718948",
+      "sourceTweetId": "2051231051318718948",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2051231051318718948.png",
+      "isPosted": true,
+      "wpPostId": 5297,
+      "postedAt": "2026-05-04T20:03:23.953+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "宮城県",
+      "city": "名取市",
+      "shopName": "未来屋書店名取店",
+      "shopAddress": "宮城県名取市杜せきのした5-3-1 イオンモール名取内",
+      "productName": "ボンボンドロップシール パーフェクトBOOK",
+      "sightingTime": "2026-05-04 09:00頃",
+      "statusText": "在庫あり（児童書コーナーにて展開中）",
+      "confidenceMemo": "公式店舗アカウントによる在庫およびコーナー展開の告知",
+      "sourceUrl": "https://x.com/ms_natori/status/2051225415318970519",
+      "sourceTweetId": "2051225415318970519",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2051225415318970519.png",
+      "isPosted": true,
+      "wpPostId": 5299,
+      "postedAt": "2026-05-04T20:03:29.523+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "秋田県",
+      "city": "大館市",
+      "shopName": "秋田犬の里",
+      "shopAddress": "秋田県大館市御成町1丁目13-1",
+      "productName": "秋田犬・きりたんぽのボンドロシール（ぷっくりシール）",
+      "sightingTime": "2026-05-04 19:59頃",
+      "statusText": "在庫あり（地域限定デザインの販売）",
+      "confidenceMemo": "現地での目撃および購入推奨の情報",
+      "sourceUrl": "https://x.com/kana_creator14/status/2051255324200583217",
+      "sourceTweetId": "2051255324200583217",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2051255324200583217.png",
+      "isPosted": true,
+      "wpPostId": 5301,
+      "postedAt": "2026-05-04T20:03:36.179+09:00"
     }
   ]
 }
