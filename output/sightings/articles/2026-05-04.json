@@ -1,7 +1,7 @@
 {
   "date": "2026-05-04",
-  "updatedAt": "2026-05-04T20:03:12.516+09:00",
-  "count": 39,
+  "updatedAt": "2026-05-04T23:15:35.783+09:00",
+  "count": 41,
   "articles": [
     {
       "isSighting": true,
@@ -704,6 +704,42 @@
       "isPosted": true,
       "wpPostId": 5301,
       "postedAt": "2026-05-04T20:03:36.179+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "大阪府",
+      "city": "堺市西区",
+      "shopName": "ガシャポンのデパート アリオ鳳",
+      "shopAddress": "大阪府堺市西区鳳南町3丁199-12 アリオ鳳 3F",
+      "productName": "サンリオキャラクターズ ボンボンドロップミニチュアチャーム",
+      "sightingTime": "2026-05-04 11:52頃",
+      "statusText": "好評につき完売（再入荷未定）",
+      "confidenceMemo": "店舗公式アカウントによる完売報告のため信頼性が非常に高い",
+      "sourceUrl": "https://x.com/gasha_otori/status/2051268849610486226",
+      "sourceTweetId": "2051268849610486226",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2051268849610486226.png",
+      "isPosted": true,
+      "wpPostId": 5303,
+      "postedAt": "2026-05-04T23:15:42.164+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "北海道",
+      "city": "札幌市豊平区",
+      "shopName": "オーム模型",
+      "shopAddress": "北海道札幌市豊平区中の島1条3丁目1-12",
+      "productName": "ボンボンドロップシール",
+      "sightingTime": "2026-05-04 11:14頃",
+      "statusText": "在庫あり（1人1シート限定）",
+      "confidenceMemo": "店舗の入荷情報を確認して当日に訪問し、購入できたとの報告があるため信頼性が高い",
+      "sourceUrl": "https://x.com/SAKT1217117/status/2051259104535179745",
+      "sourceTweetId": "2051259104535179745",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2051259104535179745.png",
+      "isPosted": true,
+      "wpPostId": 5305,
+      "postedAt": "2026-05-04T23:15:48.059+09:00"
     }
   ]
 }
