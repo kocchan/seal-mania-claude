@@ -18,7 +18,7 @@ import { fileURLToPath } from 'url';
 
 // configからテーマを読み込む
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
-const configPath = path.join(__dirname, '../config.json');
+const configPath = path.join(__dirname, '../../config/sightings.json');
 const config = JSON.parse(fs.readFileSync(configPath, 'utf-8'));
 
 const DEFAULT_QUERY = config.theme.name;

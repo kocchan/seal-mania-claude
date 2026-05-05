@@ -39,7 +39,7 @@ const APP_CONFIG = {
   yahooClientId: process.env.YAHOO_CLIENT_ID
 };
 
-// config.jsonからWordPress設定を取得
+// config/sightings.jsonからWordPress設定を取得
 const WP_CONFIG = config.wordpress || {};
 const PREF_TO_REGION_MAP = WP_CONFIG.prefToRegionMap || {};
 const WP_CATEGORY_MAP = WP_CONFIG.categoryMap || {};

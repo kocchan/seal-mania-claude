@@ -4,7 +4,7 @@ SNSから特定テーマの情報を自動収集するツール。
 
 ## テーマ設定
 
-`config.json` でテーマを設定する。
+`config/sightings.json` でテーマを設定する。
 
 ```json
 {
@@ -15,7 +15,7 @@ SNSから特定テーマの情報を自動収集するツール。
 }
 ```
 
-テーマを変更したい場合は `config.json` を編集するだけで、すべてのスキルに反映される。
+テーマを変更したい場合は `config/sightings.json` を編集するだけで、すべてのスキルに反映される。
 
 ## 機能
 
@@ -53,7 +53,8 @@ npx playwright install chromium
 
 ```
 seal-mania-claude/
-├── config.json           # テーマ設定
+├── config/
+│   └── sightings.json    # テーマ設定
 ├── .claude/
 │   └── skills/
 │       ├── collect-x/          # X収集スキル

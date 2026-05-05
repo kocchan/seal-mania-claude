@@ -2,7 +2,7 @@
 
 Threadsから目撃情報を収集する。
 
-検索キーワードは `config.json` の `theme.name` から取得する。
+検索キーワードは `config/sightings.json` の `theme.name` から取得する。
 
 ## 概要
 

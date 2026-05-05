@@ -38,7 +38,7 @@ flowchart TD
     S --> T[終了]
 ```
 
-### フィルタ設定（config.json）
+### フィルタ設定（config/sightings.json）
 
 **NGワード** - これらを含むツイートは自動BAN
 
@@ -123,7 +123,7 @@ flowchart TD
 
 | ファイル | 用途 |
 |----------|------|
-| `config.json` | 検索クエリ、NGワード、公式アカウント |
+| `config/sightings.json` | 検索クエリ、NGワード、公式アカウント |
 | `output/sightings/raw/yahoo-{日付}.json` | 既存データ（重複チェック用） |
 | `output/sightings/blacklist.json` | BANユーザーリスト |
 

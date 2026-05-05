@@ -1,0 +1,17 @@
+{
+  "competitors": [
+    {
+      "name": "ボンボンナビ",
+      "domain": "bonbon-navi.com",
+      "url": "https://bonbon-navi.com",
+      "feedUrl": "https://bonbon-navi.com/feed",
+      "enabled": true,
+      "analysisFrequency": "daily"
+    }
+  ],
+  "analysisOptions": {
+    "maxArticlesPerRun": 5,
+    "skipOlderThan": "7d",
+    "includeImages": false
+  }
+}
