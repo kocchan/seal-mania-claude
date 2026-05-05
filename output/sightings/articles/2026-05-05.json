@@ -1,7 +1,7 @@
 {
   "date": "2026-05-05",
-  "updatedAt": "2026-05-05T11:57:08.074+09:00",
-  "count": 21,
+  "updatedAt": "2026-05-05T14:38:52.214+09:00",
+  "count": 23,
   "articles": [
     {
       "isSighting": true,
@@ -380,6 +380,42 @@
       "isPosted": true,
       "wpPostId": 5359,
       "postedAt": "2026-05-05T11:59:25.534+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "和歌山県",
+      "city": "和歌山市",
+      "shopName": "AMUUU 紀伊川辺店",
+      "shopAddress": "和歌山県和歌山市川辺220 イズミヤスーパーセンター紀伊川辺店内",
+      "productName": "サンリオボンボンドロップシール",
+      "sightingTime": "2026-05-05 03:23頃",
+      "statusText": "在庫あり（おひとり様2回まで）",
+      "confidenceMemo": "店舗公式アカウントによる入荷情報",
+      "sourceUrl": "https://x.com/kiikawanabe/status/2051503016281510036",
+      "sourceTweetId": "2051503016281510036",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2051503016281510036.png",
+      "isPosted": true,
+      "wpPostId": 5381,
+      "postedAt": "2026-05-05T14:38:57.919+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "神奈川県",
+      "city": "横浜市金沢区",
+      "shopName": "横浜・八景島シーパラダイス内売場",
+      "shopAddress": "神奈川県横浜市金沢区八景島",
+      "productName": "ボンボンドロップシール",
+      "sightingTime": "2026-05-05 03:20頃",
+      "statusText": "在庫あり（販売中の目撃情報あり）",
+      "confidenceMemo": "ユーザーによる代行依頼を含む目撃情報",
+      "sourceUrl": "https://x.com/kamo19jam/status/2051502335986397465",
+      "sourceTweetId": "2051502335986397465",
+      "isPrediction": true,
+      "imagePath": "output/sightings/images/2051502335986397465.png",
+      "isPosted": true,
+      "wpPostId": 5383,
+      "postedAt": "2026-05-05T14:39:04.458+09:00"
     }
   ]
 }
