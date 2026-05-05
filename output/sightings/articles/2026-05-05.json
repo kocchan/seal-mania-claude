@@ -1,7 +1,7 @@
 {
   "date": "2026-05-05",
-  "updatedAt": "2026-05-05T14:38:52.214+09:00",
-  "count": 23,
+  "updatedAt": "2026-05-05T17:20:57.257+09:00",
+  "count": 27,
   "articles": [
     {
       "isSighting": true,
@@ -416,6 +416,78 @@
       "isPosted": true,
       "wpPostId": 5383,
       "postedAt": "2026-05-05T14:39:04.458+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "東京都",
+      "city": "品川区",
+      "shopName": "ローリィ大井町店",
+      "shopAddress": "東京都品川区大井1-2-1 ゼームス坂センタービル 2F",
+      "productName": "クーリア ボンボンドロップシール",
+      "sightingTime": "2026-05-05 17:10頃",
+      "statusText": "在庫あり（入荷数僅少のため個別通知なし）",
+      "confidenceMemo": "公式店舗アカウントによる入荷・取扱い情報の言及",
+      "sourceUrl": "https://x.com/rollyooi/status/2051575914765644283",
+      "sourceTweetId": "2051575914765644283",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2051575914765644283.png",
+      "isPosted": true,
+      "wpPostId": 5395,
+      "postedAt": "2026-05-05T17:21:03.391+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "岡山県",
+      "city": "倉敷市",
+      "shopName": "お宝市番館 瀬戸大橋店",
+      "shopAddress": "岡山県倉敷市児島下の町9-1-1",
+      "productName": "ボンボンドロップシール",
+      "sightingTime": "2026-05-05 17:00頃",
+      "statusText": "完売（次回入荷未定）",
+      "confidenceMemo": "公式店舗アカウントによる完売報告",
+      "sourceUrl": "https://x.com/setootaichi_toy/status/2051574189363286203",
+      "sourceTweetId": "2051574189363286203",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2051574189363286203.png",
+      "isPosted": true,
+      "wpPostId": 5397,
+      "postedAt": "2026-05-05T17:21:11.188+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "山梨県",
+      "city": "甲府市",
+      "shopName": "くまざわ書店セレオ甲府店",
+      "shopAddress": "山梨県甲府市丸の内1-1-8 セレオ甲府 4F",
+      "productName": "ボンボンドロップシール",
+      "sightingTime": "2026-05-05 01:00頃",
+      "statusText": "完売（次回入荷未定）",
+      "confidenceMemo": "公式店舗アカウントによる品切れ報告",
+      "sourceUrl": "https://x.com/kuma_kouhu/status/2051558222193160279",
+      "sourceTweetId": "2051558222193160279",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2051558222193160279.png",
+      "isPosted": true,
+      "wpPostId": 5399,
+      "postedAt": "2026-05-05T17:21:17.427+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "兵庫県",
+      "city": "加古川市",
+      "shopName": "お宝市番館 加古川店",
+      "shopAddress": "兵庫県加古川市野口町坂元105-1",
+      "productName": "ボンボンドロップシール サンリオ（ハローキティ、ポムポムプリン、マイメロディ、ポチャッコ等）",
+      "sightingTime": "2026-05-05 05:50頃",
+      "statusText": "在庫あり（初入荷、各5点など数量限定）",
+      "confidenceMemo": "公式店舗アカウントによる写真付き入荷情報",
+      "sourceUrl": "https://x.com/otakakotoy/status/2051540945402007955",
+      "sourceTweetId": "2051540945402007955",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2051540945402007955.png",
+      "isPosted": true,
+      "wpPostId": 5401,
+      "postedAt": "2026-05-05T17:21:24.029+09:00"
     }
   ]
 }
