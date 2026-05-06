@@ -104,6 +104,123 @@ function parseFrontmatter(content) {
 }
 
 // =====================================
+// キャラクター情報
+// =====================================
+const CHARACTER_INFO = {
+  'ちいかわ': {
+    brand: 'ちいかわ',
+    description: 'Chiikawa characters - small, round, cute creatures',
+    characters: [
+      { name: 'ちいかわ', desc: 'a small white round creature with dot eyes and a simple smile, very cute and shy' },
+      { name: 'ハチワレ', desc: 'a white and black cat-like creature with a split face pattern (half white, half black), cheerful personality' },
+      { name: 'うさぎ', desc: 'a white rabbit with long ears, energetic and wild personality, often shown excited' },
+      { name: 'モモンガ', desc: 'a small flying squirrel, fluffy and cute' },
+      { name: 'くりまんじゅう', desc: 'a round chestnut-shaped creature, brown and cute' }
+    ]
+  },
+  'サンリオ': {
+    brand: 'Sanrio',
+    description: 'Sanrio characters - iconic Japanese kawaii characters',
+    characters: [
+      { name: 'ハローキティ', desc: 'Hello Kitty - a white cat with a red bow, no mouth, iconic Sanrio character' },
+      { name: 'マイメロディ', desc: 'My Melody - a white rabbit with a pink hood, sweet and gentle' },
+      { name: 'シナモロール', desc: 'Cinnamoroll - a white puppy with long ears, blue eyes, can fly with ears' },
+      { name: 'ポムポムプリン', desc: 'Pompompurin - a golden retriever puppy with a brown beret, loves pudding' },
+      { name: 'クロミ', desc: 'Kuromi - a white rabbit with a black jester hat with pink skull, mischievous' },
+      { name: 'けろけろけろっぴ', desc: 'Keroppi - a green frog with big eyes and a V-shaped mouth' }
+    ]
+  },
+  'すみっコぐらし': {
+    brand: 'Sumikko Gurashi',
+    description: 'Sumikko Gurashi - shy creatures who like corners',
+    characters: [
+      { name: 'しろくま', desc: 'a white polar bear who is shy and likes warm places' },
+      { name: 'ぺんぎん？', desc: 'a green penguin-like creature, unsure if really a penguin' },
+      { name: 'とんかつ', desc: 'a piece of tonkatsu (pork cutlet) with a bit of fat' },
+      { name: 'ねこ', desc: 'a shy cat who worries about its body shape' },
+      { name: 'とかげ', desc: 'a blue dinosaur pretending to be a lizard' }
+    ]
+  },
+  'moji': {
+    brand: 'Sanrio moji',
+    description: 'Sanrio moji series - expressive character stickers',
+    characters: []
+  }
+};
+
+// =====================================
+// キャラクター抽出
+// =====================================
+function extractCharacterInfo(frontmatter) {
+  const tags = Array.isArray(frontmatter.tags) ? frontmatter.tags : [];
+  const products = Array.isArray(frontmatter.products) ? frontmatter.products : [];
+
+  // ブランドを特定
+  let brand = null;
+  let brandInfo = null;
+
+  for (const tag of tags) {
+    if (CHARACTER_INFO[tag]) {
+      brand = tag;
+      brandInfo = CHARACTER_INFO[tag];
+      break;
+    }
+  }
+
+  // productsからキャラクター名を抽出
+  const characterNames = products
+    .map(p => typeof p === 'object' ? p.name : p)
+    .filter(name => name);
+
+  // マッチするキャラクター情報を取得
+  let matchedCharacters = [];
+  if (brandInfo && brandInfo.characters.length > 0) {
+    for (const charName of characterNames) {
+      const found = brandInfo.characters.find(c =>
+        charName.includes(c.name) || c.name.includes(charName)
+      );
+      if (found) {
+        matchedCharacters.push(found);
+      }
+    }
+    // マッチしなかった場合は最初の3キャラを使用
+    if (matchedCharacters.length === 0) {
+      matchedCharacters = brandInfo.characters.slice(0, 3);
+    }
+  }
+
+  return {
+    brand: brand || tags[1] || 'かわいいキャラクター',
+    brandInfo,
+    characterNames,
+    matchedCharacters
+  };
+}
+
+// =====================================
+// 締め切り日フォーマット
+// =====================================
+function formatDeadline(deadlineStr) {
+  if (!deadlineStr) return null;
+
+  try {
+    const date = new Date(deadlineStr);
+    const month = date.getMonth() + 1;
+    const day = date.getDate();
+    const hours = date.getHours();
+    const minutes = date.getMinutes();
+
+    // 時間も含める
+    if (hours === 23 && minutes === 59) {
+      return `${month}/${day}`;
+    }
+    return `${month}/${day} ${hours}:${String(minutes).padStart(2, '0')}`;
+  } catch {
+    return null;
+  }
+}
+
+// =====================================
 // プロンプト生成
 // =====================================
 function buildPrompt(frontmatter) {
@@ -111,7 +228,22 @@ function buildPrompt(frontmatter) {
   const store = frontmatter.store || '';
   const title = frontmatter.title || '';
   const tags = Array.isArray(frontmatter.tags) ? frontmatter.tags : [];
-  const firstTag = tags[0] || 'ボンボンドロップシール';
+  const deadline = formatDeadline(frontmatter.deadline);
+
+  // キャラクター情報を抽出
+  const { brand, brandInfo, characterNames, matchedCharacters } = extractCharacterInfo(frontmatter);
+
+  // キャラクター説明を構築
+  let characterDescription = '';
+  if (matchedCharacters.length > 0) {
+    characterDescription = matchedCharacters
+      .map(c => `- **${c.name}**: ${c.desc}`)
+      .join('\n');
+  } else if (characterNames.length > 0) {
+    characterDescription = `Characters: ${characterNames.join(', ')}`;
+  }
+
+  const brandDesc = brandInfo ? brandInfo.description : `${brand} characters`;
 
   if (type === 'lottery') {
     return `
@@ -123,16 +255,18 @@ You are a professional illustrator creating a **well-balanced, pop-style hand-dr
 * **Background**: Soft pastel colors (light pink, light blue, or light yellow) with subtle patterns.
 
 **[Main Elements]**
-1. **Product Illustration**: Draw cute "ボンボンドロップシール" (puffy stickers) in the center. They are colorful, round, puffy stickers.
+1. **Product Illustration**: Draw cute "ボンボンドロップシール" (puffy stickers) in the center. They are colorful, round, puffy stickers featuring the characters below.
 2. **Store Name**: "${store}" written in a fun, bold hand-drawn Japanese font
 3. **Event Badge**: "抽選販売" in a playful banner or ribbon design
-4. **Deadline Indicator**: Show urgency with a calendar or clock element
+4. **Deadline Date (MANDATORY)**: Draw a calendar or banner showing the deadline date "${deadline}" clearly. This MUST be visible and readable. Write "締切 ${deadline}" or "応募締切 ${deadline}" prominently
 
-**[Character/Theme]**
-- Product theme: ${firstTag}
-- Draw related cute characters or motifs
+**[Character/Theme - IMPORTANT]**
+Brand: **${brand}** (${brandDesc})
+
+${characterDescription ? `**Draw these specific characters on the stickers:**\n${characterDescription}` : `Draw cute ${brand} themed characters`}
 
 **[Absolute Rules]**
+* **MUST draw the actual characters** described above - they should be recognizable
 * Keep the overall design "just right" — neither too empty nor too noisy
 * The product is **STICKERS** (puffy seal stickers), not candy
 * Make Japanese text clear and readable
@@ -169,7 +303,13 @@ The image conveys a "Breaking News" report about finding a popular item. It shou
    * Position: Prominently placed near the center or beside the product
    * Style: Fun, bold, hand-drawn font with a soft outline
 
+**[Character/Theme - IMPORTANT]**
+Brand: **${brand}** (${brandDesc})
+
+${characterDescription ? `**Draw these specific characters on the stickers:**\n${characterDescription}` : `Draw cute ${brand} themed characters`}
+
 **[Absolute Rules]**
+* **MUST draw the actual characters** described above - they should be recognizable
 * Keep the overall design "just right" — neither too empty nor too noisy
 * The product is **STICKERS**, not candy
 * Ensure the Japanese text is rendered exactly as written
@@ -184,22 +324,24 @@ The image conveys a "Breaking News" report about finding a popular item. It shou
 You are a professional illustrator creating a **well-balanced, pop-style hand-drawn illustration** for a web article.
 Create an impactful visual that conveys the main point at a glance, without becoming overly cluttered.
 
-**[Absolute Rules]**
-1. **One Main Visual**: Pick ONE main point related to the title/content and draw it big in the center
-2. **Balanced Details**: Add moderate patterns and cute decorations to make it lively, but keep a good amount of negative space
-3. **Minimal Text**: Use very little text (main keywords only)
-
 **[Design Configuration]**
 * **Aspect Ratio**: 16:9
 * **Touch**: Hand-drawn style (colored pencils, crayons). Warm, cute, "Yume-Kawaii" pop atmosphere
 * **Background**: Soft pastel colors with subtle, cute patterns (dots, faint stars)
 
-**[Article Context]**
+**[Main Visual]**
 * **Subject**: "ボンボンドロップシール" refers to popular **puffy stickers** (not candy)
 * **Title**: ${title}
-* **Keywords**: ${keywordsStr}
+
+**[Character/Theme - IMPORTANT]**
+Brand: **${brand}** (${brandDesc})
+
+${characterDescription ? `**Draw these specific characters:**\n${characterDescription}` : `Draw cute ${brand} themed characters`}
 
 **[Absolute Rules]**
+* **MUST draw the actual characters** described above - they should be recognizable
+* Keep good balance of negative space and cute elements
+* Minimal text (main keywords only)
 * Output only the image, no text explanation
 `;
 }
