@@ -1,4 +1,5 @@
 ---
+imageGenerated: true
 type: lottery
 status: draft
 title: "【5/8締切】サンリオmoji抽選@ネットのシール屋さん"

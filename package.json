@@ -9,7 +9,8 @@
     "scrape:all": "npm run scrape:yahoo && npm run scrape:threads",
     "generate:articles": "node scripts/sightings/generate-articles.js",
     "generate:images": "node scripts/sightings/generate-images.js",
-    "post:wordpress": "node scripts/sightings/post-wordpress.js"
+    "post:wordpress": "node scripts/sightings/post-wordpress.js",
+    "newreleases:images": "node scripts/newreleases/generate-images.js"
   },
   "dependencies": {
     "@google/generative-ai": "^0.24.1",

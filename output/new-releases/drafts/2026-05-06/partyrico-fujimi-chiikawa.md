@@ -1,4 +1,5 @@
 ---
+imageGenerated: true
 type: lottery
 status: draft
 title: "【5/6締切】ちいかわボンドロ抽選@パーティリコ"

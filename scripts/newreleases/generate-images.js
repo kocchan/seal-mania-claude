@@ -1,0 +1,325 @@
+/**
+ * 記事から画像を生成する（Gemini AI使用）
+ *
+ * 使い方:
+ *   node scripts/newreleases/generate-images.js
+ *
+ * 入力:
+ *   output/new-releases/drafts/{date}/{slug}.md
+ *
+ * 出力:
+ *   output/new-releases/images/{date}/{slug}.png
+ *
+ * 機能:
+ *   - Gemini AIで画像生成
+ *   - 記事タイプに応じたプロンプト使用
+ *   - 生成済み記事はimageGeneratedフラグで管理
+ */
+
+import { GoogleGenerativeAI } from '@google/generative-ai';
+import fs from 'fs';
+import path from 'path';
+import dotenv from 'dotenv';
+
+dotenv.config();
+
+// =====================================
+// 設定
+// =====================================
+const CONFIG = {
+  draftsDir: 'output/new-releases/drafts',
+  imagesDir: 'output/new-releases/images'
+};
+
+// Gemini API クライアントの初期化
+const genAI = new GoogleGenerativeAI(process.env.GEMINI_API_KEY);
+
+// 画像生成モデル
+const imageModel = genAI.getGenerativeModel({
+  model: 'gemini-3-pro-image-preview',
+  generationConfig: {
+    responseModalities: ['IMAGE']
+  }
+});
+
+// =====================================
+// frontmatter パーサー
+// =====================================
+function parseFrontmatter(content) {
+  const match = content.match(/^---\n([\s\S]*?)\n---/);
+  if (!match) return { frontmatter: {}, body: content };
+
+  const frontmatterStr = match[1];
+  const body = content.slice(match[0].length).trim();
+
+  // シンプルなYAMLパーサー
+  const frontmatter = {};
+  let currentKey = null;
+  let currentArray = null;
+
+  for (const line of frontmatterStr.split('\n')) {
+    // 配列アイテム
+    if (line.match(/^\s+-\s+/) && currentArray) {
+      const value = line.replace(/^\s+-\s+/, '').trim();
+      if (value.startsWith('name:')) {
+        // products配列の場合
+        const obj = {};
+        obj.name = value.replace('name:', '').trim().replace(/^["']|["']$/g, '');
+        currentArray.push(obj);
+      } else {
+        currentArray.push(value.replace(/^["']|["']$/g, ''));
+      }
+      continue;
+    }
+
+    // priceなどの続き
+    if (line.match(/^\s+price:/) && currentArray && currentArray.length > 0) {
+      const lastItem = currentArray[currentArray.length - 1];
+      if (typeof lastItem === 'object') {
+        lastItem.price = parseInt(line.replace(/^\s+price:\s*/, ''));
+      }
+      continue;
+    }
+
+    // キー: 値
+    const kvMatch = line.match(/^(\w+):\s*(.*)$/);
+    if (kvMatch) {
+      const key = kvMatch[1];
+      const value = kvMatch[2].trim();
+
+      if (value === '') {
+        // 配列開始
+        frontmatter[key] = [];
+        currentArray = frontmatter[key];
+        currentKey = key;
+      } else {
+        frontmatter[key] = value.replace(/^["']|["']$/g, '');
+        currentArray = null;
+        currentKey = key;
+      }
+    }
+  }
+
+  return { frontmatter, body };
+}
+
+// =====================================
+// プロンプト生成
+// =====================================
+function buildPrompt(frontmatter) {
+  const type = frontmatter.type || 'other';
+  const store = frontmatter.store || '';
+  const title = frontmatter.title || '';
+  const tags = Array.isArray(frontmatter.tags) ? frontmatter.tags : [];
+  const firstTag = tags[0] || 'ボンボンドロップシール';
+
+  if (type === 'lottery') {
+    return `
+You are a professional illustrator creating a **well-balanced, pop-style hand-drawn illustration** for a web article about a lottery sale event.
+
+**[Design Configuration]**
+* **Aspect Ratio**: 16:9
+* **Style**: Clean hand-drawn style with colored pencils or markers. A good balance of negative space and cute elements.
+* **Background**: Soft pastel colors (light pink, light blue, or light yellow) with subtle patterns.
+
+**[Main Elements]**
+1. **Product Illustration**: Draw cute "ボンボンドロップシール" (puffy stickers) in the center. They are colorful, round, puffy stickers.
+2. **Store Name**: "${store}" written in a fun, bold hand-drawn Japanese font
+3. **Event Badge**: "抽選販売" in a playful banner or ribbon design
+4. **Deadline Indicator**: Show urgency with a calendar or clock element
+
+**[Character/Theme]**
+- Product theme: ${firstTag}
+- Draw related cute characters or motifs
+
+**[Absolute Rules]**
+* Keep the overall design "just right" — neither too empty nor too noisy
+* The product is **STICKERS** (puffy seal stickers), not candy
+* Make Japanese text clear and readable
+* Use warm, inviting colors that appeal to collectors
+* Output only the image, no text explanation
+`;
+  }
+
+  if (type === 'sighting') {
+    const prefecture = tags.find(t =>
+      ['北海道', '青森', '岩手', '宮城', '秋田', '山形', '福島',
+        '茨城', '栃木', '群馬', '埼玉', '千葉', '東京', '神奈川',
+        '新潟', '富山', '石川', '福井', '山梨', '長野', '岐阜', '静岡', '愛知',
+        '三重', '滋賀', '京都', '大阪', '兵庫', '奈良', '和歌山',
+        '鳥取', '島根', '岡山', '広島', '山口', '徳島', '香川', '愛媛', '高知',
+        '福岡', '佐賀', '長崎', '熊本', '大分', '宮崎', '鹿児島', '沖縄'].includes(t)
+    ) || '東京';
+
+    return `
+You are a professional illustrator creating a **well-balanced, pop-style hand-drawn illustration** for a web article.
+The image conveys a "Breaking News" report about finding a popular item. It should be playful and cute, but NOT overly cluttered.
+
+**[Design Configuration]**
+* **Aspect Ratio**: 16:9
+* **Style**: Clean hand-drawn style with colored pencils or markers. A good balance of negative space and cute elements.
+* **Background**: A **pale, light shade** (pink, blue, or yellow). You may use a very subtle, soft pattern (like faint polka dots or a light grid), but keep it unobtrusive.
+
+**[Text Elements (Mandatory)]**
+1. **"目撃速報" Stamp**:
+   * Text: "目撃速報" (Breaking News)
+   * Style: Red rubber stamp, tilted diagonally in the **Top Right corner**
+2. **Location Name**:
+   * Text: "${prefecture}" (Large)
+   * Position: Prominently placed near the center or beside the product
+   * Style: Fun, bold, hand-drawn font with a soft outline
+
+**[Absolute Rules]**
+* Keep the overall design "just right" — neither too empty nor too noisy
+* The product is **STICKERS**, not candy
+* Ensure the Japanese text is rendered exactly as written
+* Output only the image, no text explanation
+`;
+  }
+
+  // その他
+  const keywordsStr = tags.join(', ') || 'ボンボンドロップシール';
+
+  return `
+You are a professional illustrator creating a **well-balanced, pop-style hand-drawn illustration** for a web article.
+Create an impactful visual that conveys the main point at a glance, without becoming overly cluttered.
+
+**[Absolute Rules]**
+1. **One Main Visual**: Pick ONE main point related to the title/content and draw it big in the center
+2. **Balanced Details**: Add moderate patterns and cute decorations to make it lively, but keep a good amount of negative space
+3. **Minimal Text**: Use very little text (main keywords only)
+
+**[Design Configuration]**
+* **Aspect Ratio**: 16:9
+* **Touch**: Hand-drawn style (colored pencils, crayons). Warm, cute, "Yume-Kawaii" pop atmosphere
+* **Background**: Soft pastel colors with subtle, cute patterns (dots, faint stars)
+
+**[Article Context]**
+* **Subject**: "ボンボンドロップシール" refers to popular **puffy stickers** (not candy)
+* **Title**: ${title}
+* **Keywords**: ${keywordsStr}
+
+**[Absolute Rules]**
+* Output only the image, no text explanation
+`;
+}
+
+// =====================================
+// 画像生成
+// =====================================
+async function generateImage(prompt, outputPath) {
+  try {
+    const result = await imageModel.generateContent(prompt);
+    const response = await result.response;
+
+    const part = response.candidates[0].content.parts.find(p => p.inlineData);
+
+    if (part && part.inlineData && part.inlineData.data) {
+      const buffer = Buffer.from(part.inlineData.data, 'base64');
+      fs.writeFileSync(outputPath, buffer);
+      return true;
+    } else {
+      console.warn('   Geminiからの有効な画像データがありませんでした');
+      return false;
+    }
+  } catch (error) {
+    console.error(`   画像生成エラー: ${error.message}`);
+    if (error.message.includes('429')) {
+      console.warn('   APIレート制限。5秒待機...');
+      await new Promise(resolve => setTimeout(resolve, 5000));
+    }
+    return false;
+  }
+}
+
+// =====================================
+// frontmatter更新
+// =====================================
+function updateFrontmatter(filePath, content) {
+  // imageGenerated: true を追加
+  const updatedContent = content.replace(
+    /^(---\n)/,
+    '---\nimageGenerated: true\n'
+  );
+  fs.writeFileSync(filePath, updatedContent);
+}
+
+// =====================================
+// メイン処理
+// =====================================
+async function main() {
+  console.log('[Images] 画像生成開始 (Gemini AI)');
+
+  if (!process.env.GEMINI_API_KEY) {
+    console.error('[Images] エラー: GEMINI_API_KEY が設定されていません');
+    process.exit(1);
+  }
+
+  // draftsディレクトリを走査
+  if (!fs.existsSync(CONFIG.draftsDir)) {
+    console.log('[Images] draftsディレクトリが見つかりません');
+    return;
+  }
+
+  const dateDirs = fs.readdirSync(CONFIG.draftsDir).filter(d =>
+    fs.statSync(path.join(CONFIG.draftsDir, d)).isDirectory()
+  );
+
+  let totalGenerated = 0;
+  let totalSkipped = 0;
+  let totalErrors = 0;
+
+  for (const dateDir of dateDirs) {
+    const datePath = path.join(CONFIG.draftsDir, dateDir);
+    const files = fs.readdirSync(datePath).filter(f => f.endsWith('.md'));
+
+    for (const file of files) {
+      const filePath = path.join(datePath, file);
+      const content = fs.readFileSync(filePath, 'utf-8');
+      const { frontmatter } = parseFrontmatter(content);
+
+      // imageGenerated: true ならスキップ
+      if (frontmatter.imageGenerated === 'true' || frontmatter.imageGenerated === true) {
+        totalSkipped++;
+        continue;
+      }
+
+      const slug = file.replace('.md', '');
+      console.log(`\n[Images] 処理中: ${dateDir}/${slug}`);
+
+      // 出力ディレクトリ作成
+      const outputDir = path.join(CONFIG.imagesDir, dateDir);
+      fs.mkdirSync(outputDir, { recursive: true });
+
+      const outputPath = path.join(outputDir, `${slug}.png`);
+
+      // プロンプト生成
+      const prompt = buildPrompt(frontmatter);
+
+      // 画像生成
+      const success = await generateImage(prompt, outputPath);
+
+      if (success) {
+        console.log(`   保存: ${outputPath}`);
+        // frontmatter更新
+        updateFrontmatter(filePath, content);
+        console.log('   frontmatter更新: imageGenerated: true');
+        totalGenerated++;
+      } else {
+        totalErrors++;
+      }
+
+      // API制限対策
+      await new Promise(resolve => setTimeout(resolve, 1000));
+    }
+  }
+
+  console.log('\n========================================');
+  console.log(`[Images] 完了: 生成 ${totalGenerated}件 / スキップ ${totalSkipped}件 / エラー ${totalErrors}件`);
+
+  if (totalGenerated > 0) {
+    console.log(`\n保存先: ${CONFIG.imagesDir}/`);
+  }
+}
+
+main().catch(console.error);
