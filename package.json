@@ -10,7 +10,8 @@
     "generate:articles": "node scripts/sightings/generate-articles.js",
     "generate:images": "node scripts/sightings/generate-images.js",
     "post:wordpress": "node scripts/sightings/post-wordpress.js",
-    "newreleases:images": "node scripts/newreleases/generate-images.js"
+    "newreleases:images": "node scripts/newreleases/generate-images.js",
+    "newreleases:post": "node scripts/newreleases/post-wordpress.js"
   },
   "dependencies": {
     "@google/generative-ai": "^0.24.1",

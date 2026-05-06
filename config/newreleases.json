@@ -1,0 +1,70 @@
+{
+  "theme": {
+    "name": "ボンボンドロップシール",
+    "keywords": ["ボンボンドロップシール", "ボンドロ", "抽選販売"]
+  },
+  "output": {
+    "draftsDir": "output/new-releases/drafts",
+    "imagesDir": "output/new-releases/images",
+    "rawDir": "output/new-releases/raw"
+  },
+  "wordpress": {
+    "categoryMap": {
+      "抽選・予約情報": 918,
+      "オンライン通販": 919,
+      "キャラクターシール": 928,
+      "ディズニー": 929,
+      "サンリオ": 930,
+      "ちいかわ": 933
+    },
+    "defaultTags": [
+      "抽選販売",
+      "ボンボンドロップシール"
+    ],
+    "characterCategories": {
+      "ちいかわ": 933,
+      "サンリオ": 930,
+      "moji": 930,
+      "ディズニー": 929,
+      "Disney": 929
+    }
+  },
+  "imageGeneration": {
+    "model": "gemini-3.1-flash-image-preview",
+    "characters": {
+      "ちいかわ": {
+        "brand": "ちいかわ",
+        "description": "Chiikawa characters - small, round, cute creatures",
+        "characters": [
+          { "name": "ちいかわ", "desc": "a small white round creature with dot eyes and a simple smile" },
+          { "name": "ハチワレ", "desc": "a white and black cat-like creature with a split face pattern" },
+          { "name": "うさぎ", "desc": "a white rabbit with long ears, energetic" },
+          { "name": "モモンガ", "desc": "a small flying squirrel, fluffy and cute" },
+          { "name": "くりまんじゅう", "desc": "a round chestnut-shaped creature" }
+        ]
+      },
+      "サンリオ": {
+        "brand": "Sanrio",
+        "description": "Sanrio characters - iconic Japanese kawaii characters",
+        "characters": [
+          { "name": "ハローキティ", "desc": "Hello Kitty - a white cat with a red bow" },
+          { "name": "マイメロディ", "desc": "My Melody - a white rabbit with a pink hood" },
+          { "name": "シナモロール", "desc": "Cinnamoroll - a white puppy with long ears" },
+          { "name": "ポムポムプリン", "desc": "Pompompurin - a golden retriever puppy with a brown beret" },
+          { "name": "クロミ", "desc": "Kuromi - a white rabbit with a black jester hat" }
+        ]
+      },
+      "すみっコぐらし": {
+        "brand": "Sumikko Gurashi",
+        "description": "Sumikko Gurashi - shy creatures who like corners",
+        "characters": [
+          { "name": "しろくま", "desc": "a white polar bear who is shy" },
+          { "name": "ぺんぎん？", "desc": "a green penguin-like creature" },
+          { "name": "とんかつ", "desc": "a piece of tonkatsu pork cutlet" },
+          { "name": "ねこ", "desc": "a shy cat" },
+          { "name": "とかげ", "desc": "a blue dinosaur pretending to be a lizard" }
+        ]
+      }
+    }
+  }
+}

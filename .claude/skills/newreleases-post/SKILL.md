@@ -1,117 +1,152 @@
-# 新商品記事投稿スキル
+# 抽選販売記事投稿スキル
 
-承認済み（approved: true）の下書きをWordPressに投稿する。
+draftsの記事をWordPressに投稿する。
 
-## タスク
+**このスキルの役割**: `output/new-releases/drafts/` の記事 → WordPress投稿
 
-### 1. 下書き検出
+## 実行方法
 
-`output/new-releases/drafts/` から以下の条件を満たす下書きを検出:
-
-- `approved: true`
-- `posted: false`
-
-### 2. 記事変換
-
-各下書きについて:
-
-**Markdown → HTML変換:**
-
-```markdown
-## ボンボンドロップシールに待望の新作登場！
-```
-↓
-```html
-<h2>ボンボンドロップシールに待望の新作登場！</h2>
+```bash
+claude "/newreleases-post"
 ```
 
-**アフィリエイトリンク挿入:**
+または
 
-frontmatterの `series` を使用してリンクを生成:
-
-```html
-<div class="affiliate-box">
-  <h4>🛒 オンラインで探す</h4>
-  <ul>
-    <li><a href="https://www.amazon.co.jp/s?k=ボンボンドロップシール+{series}&tag={AMAZON_ASSOCIATE_ID}">Amazonで探す</a></li>
-    <li><a href="https://search.rakuten.co.jp/search/mall/ボンボンドロップシール+{series}/">楽天市場で探す</a></li>
-    <li><a href="https://shopping.yahoo.co.jp/search?p=ボンボンドロップシール+{series}">Yahoo!ショッピングで探す</a></li>
-  </ul>
-</div>
+```bash
+npm run newreleases:post
 ```
 
-### 3. WordPress投稿
+## 入力
 
-WordPress REST APIで投稿する。
+`output/new-releases/drafts/{date}/{slug}.md`
 
-環境変数:
-- `WP_API_URL`
-- `WP_USER`
-- `WP_APP_PASSWORD`
+対象条件:
+- `imageGenerated: true` があるもの
+- `posted: true` が**ない**もの
 
-リクエスト:
+## 出力
+
+- WordPress記事（公開状態）
+- 対象mdファイルの frontmatter に以下を追加:
+  - `posted: true`
+  - `wpPostId: 12345`
+  - `wpPostUrl: "https://..."`
+  - `postedAt: "2026-05-06T..."`
+
+## 処理フロー
+
+### 1. 対象ファイルを検索
+
+```bash
+ls output/new-releases/drafts/
+```
+
+各ファイルの frontmatter を確認:
+- `imageGenerated: true` → 対象
+- `posted: true` → スキップ
+
+### 2. Markdown → HTML 変換
+
+記事本文をHTMLに変換:
+- 見出し: `## タイトル` → `<h2>タイトル</h2>`
+- 太字: `**テキスト**` → `<strong>テキスト</strong>`
+- リンク: `[テキスト](URL)` → `<a href="URL">テキスト</a>`
+- リスト: `- 項目` → `<li>項目</li>`
+- テーブル: Markdown表 → `<table>`
+
+### 3. アイキャッチ画像アップロード
+
+`output/new-releases/images/{date}/{slug}.png` をWordPressにアップロード
+
+### 4. カテゴリ設定
+
+カテゴリは `config/newreleases.json` で管理:
 
 ```json
 {
-  "title": "【速報】...",
-  "content": "<h2>...</h2>...",
-  "status": "publish",
-  "categories": [新商品情報カテゴリID],
-  "tags": ["サンリオ", "新商品", "ボンボンドロップシール"]
+  "wordpress": {
+    "categoryMap": {
+      "抽選・予約情報": 918,
+      "オンライン通販": 919,
+      "キャラクターシール": 928,
+      "ディズニー": 929,
+      "サンリオ": 930,
+      "ちいかわ": 933
+    },
+    "characterCategories": {
+      "ちいかわ": 933,
+      "サンリオ": 930,
+      "moji": 930,
+      "ディズニー": 929
+    }
+  }
 }
 ```
 
-### 4. フラグ更新
+frontmatterのtagsから自動判定:
+- `characterCategories` のキーワードがタグに含まれる → 対応カテゴリを追加
+- 店舗名に「ネット」「オンライン」含む → オンライン通販カテゴリを追加
 
-投稿成功後、下書きファイルを更新:
+### 5. タグ設定
+
+タグは `config/newreleases.json` の `defaultTags` で管理:
+
+```json
+{
+  "wordpress": {
+    "defaultTags": ["抽選販売", "ボンボンドロップシール"]
+  }
+}
+```
+
+- defaultTagsを自動作成/取得
+- frontmatterのtagsから最大5件追加
+
+### 6. アフィリエイトリンク追加
+
+Yahoo!ショッピングAPIで商品を検索し、記事末尾に追加:
+- Amazon
+- 楽天市場
+- Yahoo!ショッピング
+
+### 7. WordPress投稿
+
+```json
+{
+  "title": "【5/6締切】ちいかわボンドロ抽選@パーティリコ",
+  "content": "<h2>...</h2>...",
+  "status": "publish",
+  "slug": "partyrico-fujimi-chiikawa",
+  "categories": [918, 933, 928],
+  "tags": [抽選販売ID, ボンボンドロップシールID, ...],
+  "featured_media": 画像ID
+}
+```
+
+### 8. frontmatter更新
+
+投稿成功後、mdファイルを更新:
 
 ```yaml
-approved: true
+---
 posted: true
 wpPostId: 12345
 wpPostUrl: "https://your-site.com/..."
-postedAt: "2026-05-01T17:00:00+09:00"
+postedAt: "2026-05-06T17:00:00+09:00"
+imageGenerated: true
+type: lottery
+# ... 他のフィールド
+---
 ```
 
-### 5. git commit & push
+### 9. 完了メッセージ
 
-```bash
-git add output/new-releases/drafts/
-git commit -m "chore: 新商品記事を投稿 [skip ci]"
-git push
 ```
+✅ WordPress投稿完了: {件数}件
 
-### 6. Slack通知
-
-投稿完了をSlack Webhookで通知:
-
-```json
-{
-  "text": "✅ 新商品記事を投稿しました",
-  "attachments": [
-    {
-      "color": "#36a64f",
-      "title": "【速報】...",
-      "title_link": "https://your-site.com/...",
-      "text": "WordPress投稿ID: 12345"
-    }
-  ]
-}
-```
-
-エラー時:
-
-```json
-{
-  "text": "❌ 新商品記事の投稿に失敗しました",
-  "attachments": [
-    {
-      "color": "#ff0000",
-      "title": "エラー: ...",
-      "text": "ファイル: ...\nエラー: ..."
-    }
-  ]
-}
+投稿した記事:
+- {タイトル1}: {URL1}
+- {タイトル2}: {URL2}
 ```
 
 ## 環境変数
@@ -120,28 +155,26 @@ git push
 WP_API_URL=https://your-wordpress-site.com/wp-json/wp/v2
 WP_USER=username
 WP_APP_PASSWORD=xxxx-xxxx-xxxx-xxxx
-WP_CATEGORY_NEW_RELEASES=123
 AMAZON_ASSOCIATE_ID=your-tag-22
 RAKUTEN_AFFILIATE_ID=your-rakuten-id
-SLACK_WEBHOOK_URL=https://hooks.slack.com/services/...
+YAHOO_CLIENT_ID=your-yahoo-client-id
 ```
 
-## 入出力
+## 入出力まとめ
 
 | 種類 | パス |
 |------|------|
-| 入力 | `output/new-releases/drafts/*.md` (approved: true, posted: false) |
-| 出力 | `output/new-releases/drafts/*.md` (posted: true) |
+| 入力 | `output/new-releases/drafts/{date}/{slug}.md` (imageGenerated: true, posted: なし) |
+| 入力 | `output/new-releases/images/{date}/{slug}.png` |
 | 出力 | WordPress記事 |
+| 出力 | mdファイルに `posted: true` を追加 |
 
-## 実行タイミング
+## git commit & push
 
-cron: 毎日 17:00
+投稿後、以下を実行:
 
-```cron
-0 17 * * * cd /path/to/seal-mania-claude && claude -p "/newreleases-post"
+```bash
+git add output/new-releases/drafts/
+git commit -m "chore: 抽選販売記事を投稿 [skip ci]"
+git push
 ```
-
-## 参照ドキュメント
-
-`docs/new-releases/post-flow.md`
