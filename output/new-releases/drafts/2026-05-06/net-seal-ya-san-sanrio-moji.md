@@ -1,4 +1,8 @@
 ---
+posted: true
+wpPostId: 5539
+wpPostUrl: "https://www.seal-search.com/news/reservation/net-seal-ya-san-sanrio-moji/"
+postedAt: "2026-05-06T12:12:02.412Z"
 imageGenerated: true
 type: lottery
 status: draft

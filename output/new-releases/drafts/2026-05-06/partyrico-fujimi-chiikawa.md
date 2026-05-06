@@ -1,4 +1,8 @@
 ---
+posted: true
+wpPostId: 5541
+wpPostUrl: "https://www.seal-search.com/news/reservation/partyrico-fujimi-chiikawa/"
+postedAt: "2026-05-06T12:12:08.708Z"
 imageGenerated: true
 type: lottery
 status: draft
