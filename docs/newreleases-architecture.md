@@ -78,17 +78,20 @@
 
 ```
 seal-mania-claude/
-├── .claude/skills/
-│   ├── newreleases-collect/          # Phase 1: 情報収集
-│   │   └── SKILL.md
-│   ├── newreleases-generate-article/ # Phase 2: 記事生成
-│   │   └── SKILL.md
-│   ├── newreleases-images/           # Phase 3: 画像生成
-│   │   └── SKILL.md
-│   ├── newreleases-post/             # Phase 4: WordPress投稿
-│   │   └── SKILL.md
-│   └── newreleases-pipeline/         # 統合パイプライン
-│       └── SKILL.md
+├── .claude/
+│   ├── agent/
+│   │   └── newreleases-pipeline/     # 統合パイプライン（エージェント）
+│   │       └── SKILL.md
+│   │
+│   └── skills/
+│       ├── newreleases-collect/          # Phase 1: 情報収集
+│       │   └── SKILL.md
+│       ├── newreleases-generate-article/ # Phase 2: 記事生成
+│       │   └── SKILL.md
+│       ├── newreleases-images/           # Phase 3: 画像生成
+│       │   └── SKILL.md
+│       └── newreleases-post/             # Phase 4: WordPress投稿
+│           └── SKILL.md
 │
 ├── scripts/newreleases/
 │   ├── generate-images.js            # 画像生成スクリプト
