@@ -124,16 +124,21 @@ function markdownToHtml(markdown) {
   html = html.replace(/^- (.+)$/gm, '<li>$1</li>');
   html = html.replace(/(<li>.*<\/li>\n?)+/g, '<ul>$&</ul>');
 
-  // テーブル
-  html = html.replace(/\|(.+)\|/g, (match, content) => {
-    const cells = content.split('|').map(c => c.trim());
-    if (cells.every(c => c.match(/^-+$/))) {
-      return ''; // ヘッダー区切り行をスキップ
-    }
-    const cellTags = cells.map(c => `<td>${c}</td>`).join('');
-    return `<tr>${cellTags}</tr>`;
+  // テーブル（thead/tbody対応）
+  html = html.replace(/(\|.+\|\n\|[-\s|]+\|\n)((?:\|.+\|\n?)+)/g, (match, header, body) => {
+    // ヘッダー行
+    const headerCells = header.split('\n')[0].split('|').filter(c => c.trim()).map(c => `<th>${c.trim()}</th>`).join('');
+    const thead = `<thead><tr>${headerCells}</tr></thead>`;
+
+    // ボディ行
+    const bodyRows = body.trim().split('\n').map(row => {
+      const cells = row.split('|').filter(c => c.trim()).map(c => `<td>${c.trim()}</td>`).join('');
+      return `<tr>${cells}</tr>`;
+    }).join('');
+    const tbody = `<tbody>${bodyRows}</tbody>`;
+
+    return `<table style="width:100%; border-collapse:collapse; margin:20px 0;">${thead}${tbody}</table>`;
   });
-  html = html.replace(/(<tr>.*<\/tr>\n?)+/g, '<table>$&</table>');
 
   // 段落
   html = html.split('\n\n').map(p => {
@@ -144,6 +149,23 @@ function markdownToHtml(markdown) {
   }).join('\n\n');
 
   return html;
+}
+
+// =====================================
+// X（Twitter）埋め込み生成
+// =====================================
+function generateXEmbed(username) {
+  const cleanUsername = username.replace('@', '');
+  return `
+<div style="margin: 20px 0;">
+  <a href="https://twitter.com/${cleanUsername}?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false" data-size="large">Follow @${cleanUsername}</a>
+  <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div>
+<figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter">
+  <div class="wp-block-embed__wrapper">
+    https://twitter.com/${cleanUsername}
+  </div>
+</figure>`;
 }
 
 // =====================================
@@ -331,14 +353,29 @@ class WordPressService {
     const slug = frontmatter.slug || 'lottery-article';
     const mediaId = await this.uploadImage(imagePath, slug);
 
-    // アフィリエイト情報取得
+    // アフィリエイト情報取得（6商品取得して分散配置）
     const tags = Array.isArray(frontmatter.tags) ? frontmatter.tags : [];
     const searchKeywords = [
       ...tags.filter(t => t !== '抽選販売' && t !== 'ボンボンドロップシール'),
-      'ボンボンドロップシール'
-    ].slice(0, 3);
+      'ボンボンドロップシール',
+      'ぷっくりシール'
+    ].slice(0, 5);
     const products = await fetchYahooProducts(searchKeywords);
-    const affiliateHtml = products.map(p => generateAffiliateHtml(p.keyword, p)).join('\n');
+
+    // アフィリエイトを分割（冒頭3個、中盤用、末尾用）
+    const affiliateTop = products.slice(0, 3).map(p => generateAffiliateHtml(p.keyword, p)).join('\n');
+    const affiliateMid = products.slice(0, 2).map(p => generateAffiliateHtml(p.keyword, p)).join('\n');
+    const affiliateBottom = products.slice(0, 3).map(p => generateAffiliateHtml(p.keyword, p)).join('\n');
+
+    // X（Twitter）埋め込み生成
+    let xEmbed = '';
+    const applyUrl = frontmatter.applyUrl || '';
+    if (applyUrl.includes('x.com/') || applyUrl.includes('twitter.com/')) {
+      const usernameMatch = applyUrl.match(/(?:x\.com|twitter\.com)\/([^\/\?]+)/);
+      if (usernameMatch) {
+        xEmbed = generateXEmbed(usernameMatch[1]);
+      }
+    }
 
     // カテゴリ・タグ
     const categories = this.getCategoryIds(frontmatter);
@@ -351,8 +388,31 @@ class WordPressService {
       if (tagId) tagIds.push(tagId);
     }
 
-    // コンテンツにアフィリエイトを挿入
-    const finalContent = htmlContent + '\n\n<h2>🛒 オンラインで探す</h2>\n' + affiliateHtml;
+    // コンテンツにアフィリエイトとX埋め込みを挿入
+    let finalContent = htmlContent;
+
+    // 冒頭にアフィリエイト挿入（最初の見出しの後）
+    finalContent = finalContent.replace(
+      /(<\/h2>)/,
+      `$1\n\n<h3>🛒 今すぐ探す</h3>\n${affiliateTop}\n`
+    );
+
+    // X埋め込みを挿入（応募方法セクションの後）
+    if (xEmbed) {
+      finalContent = finalContent.replace(
+        /(応募方法|申込手順|ステップ1)/,
+        `$1\n\n<h3>📱 公式アカウント</h3>\n${xEmbed}\n`
+      );
+    }
+
+    // 中盤にアフィリエイト挿入（注意点セクションの前）
+    finalContent = finalContent.replace(
+      /(<h2>注意点)/,
+      `<h3>🛒 関連商品をチェック</h3>\n${affiliateMid}\n\n$1`
+    );
+
+    // 末尾にアフィリエイト
+    finalContent = finalContent + '\n\n<h2>🛒 オンラインで探す</h2>\n' + affiliateBottom;
 
     // 投稿データ
     const payload = {
