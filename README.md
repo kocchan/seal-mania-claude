@@ -57,12 +57,19 @@ seal-mania-claude/
 │   └── sightings.json    # テーマ設定
 ├── .claude/
 │   └── skills/
-│       ├── collect-x/          # X収集スキル
+│       ├── competitor-analyze/           # 競合分析
+│       ├── sightings-collect-x/          # X目撃情報収集
 │       │   ├── SKILL.md
 │       │   └── scrape-yahoo.js
-│       └── collect-threads/    # Threads収集スキル
-│           ├── SKILL.md
-│           └── scrape-threads.js
+│       ├── sightings-collect-threads/    # Threads目撃情報収集
+│       │   ├── SKILL.md
+│       │   └── scrape-threads.js
+│       ├── sightings-generate-articles/  # 目撃情報記事生成
+│       ├── newreleases-collect/          # 新商品・抽選情報収集
+│       ├── newreleases-generate-article/ # 抽選情報記事生成
+│       ├── newreleases-brush-up/         # 記事ブラッシュアップ
+│       ├── newreleases-post/             # 記事投稿
+│       └── general-update-readme/        # README更新
 └── output/
     └── blog/
         └── raw/          # 収集データ出力先

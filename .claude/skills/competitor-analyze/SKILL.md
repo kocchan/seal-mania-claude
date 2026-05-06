@@ -5,7 +5,7 @@
 ## 実行方法
 
 ```bash
-claude "/analyze-competitor"
+claude "/competitor-analyze"
 ```
 
 ## フロー

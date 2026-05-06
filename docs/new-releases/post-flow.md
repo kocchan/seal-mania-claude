@@ -163,12 +163,12 @@ postedAt: "2026-05-01T09:00:00+09:00"
 
 ```cron
 # 毎日17時に投稿処理
-0 17 * * * cd /path/to/seal-mania-claude && claude -p "/post-new-releases"
+0 17 * * * cd /path/to/seal-mania-claude && claude -p "/newreleases-post"
 ```
 
 ## スキル定義
 
-`.claude/skills/new-releases/post/SKILL.md`
+`.claude/skills/newreleases-post/SKILL.md`
 
 ```markdown
 # 新商品記事投稿スキル

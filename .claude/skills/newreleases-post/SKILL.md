@@ -139,7 +139,7 @@ SLACK_WEBHOOK_URL=https://hooks.slack.com/services/...
 cron: 毎日 17:00
 
 ```cron
-0 17 * * * cd /path/to/seal-mania-claude && claude -p "/post-new-releases"
+0 17 * * * cd /path/to/seal-mania-claude && claude -p "/newreleases-post"
 ```
 
 ## 参照ドキュメント

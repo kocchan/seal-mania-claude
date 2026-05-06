@@ -206,12 +206,12 @@ createdAt: "2026-05-01T03:30:00+09:00"
 
 ```cron
 # 毎日午前6時に新商品情報収集
-0 6 * * * cd /path/to/seal-mania-claude && claude -p "/collect-new-releases"
+0 6 * * * cd /path/to/seal-mania-claude && claude -p "/newreleases-collect"
 ```
 
 ## スキル定義
 
-`.claude/skills/new-releases/collect/SKILL.md`
+`.claude/skills/newreleases-collect/SKILL.md`
 
 ```markdown
 # 新商品情報収集スキル
