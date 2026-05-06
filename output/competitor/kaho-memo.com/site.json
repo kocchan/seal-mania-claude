@@ -1,0 +1,30 @@
+{
+  "domain": "kaho-memo.com",
+  "name": "カホメモ",
+  "url": "https://kaho-memo.com",
+  "siteType": "hatena-blog",
+  "analyzedAt": "2026-05-05",
+  "totalPosts": 270,
+  "analyzedPosts": 100,
+  "urlPatterns": {
+    "entry": "/entry/{slug}-{year}-{month}"
+  },
+  "categories": [
+    "ちいかわ",
+    "パペットスンスン",
+    "シール抽選・販売情報まとめ",
+    "シール",
+    "その他キャラクター・コラボ"
+  ],
+  "contentTypes": [
+    "抽選販売情報",
+    "新商品紹介",
+    "購入レポート",
+    "キャンペーン情報"
+  ],
+  "latestArticles": [
+    { "url": "https://kaho-memo.com/entry/tamagotchi-tenshichi-ohajiki-seal-711-2026-05", "date": "2026-05-05" },
+    { "url": "https://kaho-memo.com/entry/ikebukuro-loft-bondoro-moji-lottery-2026-05", "date": "2026-05-05" },
+    { "url": "https://kaho-memo.com/entry/gongcha-marshmallow-seal-seven-campaign-2026-05", "date": "2026-05-05" }
+  ]
+}

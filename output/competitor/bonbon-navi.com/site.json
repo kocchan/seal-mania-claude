@@ -1,0 +1,38 @@
+{
+  "domain": "bonbon-navi.com",
+  "name": "ボンボンナビ",
+  "url": "https://bonbon-navi.com",
+  "feedUrl": "https://bonbon-navi.com/feed",
+  "sitemapUrl": "https://bonbon-navi.com/post-sitemap.xml",
+  "siteType": "wordpress",
+  "analyzedAt": "2026-05-05",
+  "totalPosts": 1193,
+  "analyzedPosts": 100,
+  "urlPatterns": {
+    "event": "/info/event/{store}_{date}/",
+    "news": "/info/ニュース/{slug}/",
+    "newProduct": "/items/new_arrival/{slug}/",
+    "prefecture": "/prefectures/{region}/{pref}/{slug}/"
+  },
+  "categoryBreakdown": {
+    "event": 62,
+    "newProduct": 18,
+    "news": 8,
+    "prefecture": 8,
+    "other": 4
+  },
+  "stores": [
+    "パーティリコ",
+    "キデイランド",
+    "ロフト（池袋/梅田/渋谷/横浜/千葉/栄/京都/吉祥寺）",
+    "イオンモール",
+    "セブンイレブン",
+    "フレスタ",
+    "トレッサ横浜"
+  ],
+  "latestArticles": [
+    { "url": "https://bonbon-navi.com/info/event/lalaport_fujimi20260504/", "title": "ちいかわ抽選@ららぽーと富士見", "date": "2026-05-04" },
+    { "url": "https://bonbon-navi.com/info/event/fresta_otafuku20260506/", "title": "抽選@フレスタお多福", "date": "2026-04-30" },
+    { "url": "https://bonbon-navi.com/info/event/partyrico_lecthiroshima20260506/", "title": "抽選@パーティリコLECT広島", "date": "2026-04-30" }
+  ]
+}
