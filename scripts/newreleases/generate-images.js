@@ -36,7 +36,7 @@ const genAI = new GoogleGenerativeAI(process.env.GEMINI_API_KEY);
 
 // 画像生成モデル
 const imageModel = genAI.getGenerativeModel({
-  model: 'gemini-3-pro-image-preview',
+  model: 'gemini-3.1-flash-image-preview',
   generationConfig: {
     responseModalities: ['IMAGE']
   }
