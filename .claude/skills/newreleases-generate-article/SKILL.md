@@ -18,7 +18,9 @@ claude "/newreleases-generate-article"
 
 ## 出力
 
-`output/new-releases/drafts/{date}-{slug}.md`
+`output/new-releases/drafts/{date}/{slug}.md`
+
+※ 日付フォルダを作成し、その中に記事を配置する
 
 ## WordPress対応のポイント
 
