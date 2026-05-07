@@ -1,4 +1,8 @@
 ---
+posted: true
+wpPostId: 5551
+wpPostUrl: "https://www.seal-search.com/news/reservation/bonbon-book-shizuku-present-20260731/"
+postedAt: "2026-05-07T05:39:00.070Z"
 imageGenerated: true
 type: lottery
 status: draft
