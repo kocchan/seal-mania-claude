@@ -378,11 +378,13 @@ async function generateImage(prompt, outputPath) {
 // frontmatter更新
 // =====================================
 function updateFrontmatter(filePath, content) {
-  // imageGenerated: true を追加
-  const updatedContent = content.replace(
-    /^(---\n)/,
-    '---\nimageGenerated: true\n'
-  );
+  let updatedContent;
+  if (/^imageGenerated:/m.test(content)) {
+    // 既存フィールドを上書き（重複防止）
+    updatedContent = content.replace(/^imageGenerated:.*$/m, 'imageGenerated: true');
+  } else {
+    updatedContent = content.replace(/^(---\n)/, '---\nimageGenerated: true\n');
+  }
   fs.writeFileSync(filePath, updatedContent);
 }
 
