@@ -1,7 +1,7 @@
 {
   "date": "2026-05-07",
-  "updatedAt": "2026-05-07T14:57:17.740+09:00",
-  "count": 20,
+  "updatedAt": "2026-05-07T17:43:49.123+09:00",
+  "count": 24,
   "articles": [
     {
       "isSighting": true,
@@ -362,6 +362,78 @@
       "isPosted": true,
       "wpPostId": 5591,
       "postedAt": "2026-05-07T14:59:20.445+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "愛知県",
+      "city": "名古屋市中区",
+      "shopName": "#C-pla 名古屋大須店",
+      "shopAddress": "愛知県名古屋市中区大須3丁目30-69",
+      "productName": "サンリオキャラクターズ ボンボンドロップミニチュアチャーム",
+      "sightingTime": "2026-05-07 06:41頃",
+      "statusText": "完売",
+      "confidenceMemo": "店舗公式アカウントによる完売報告",
+      "sourceUrl": "https://x.com/Cpla412249/status/2052277655308017683",
+      "sourceTweetId": "2052277655308017683",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2052277655308017683.png",
+      "isPosted": true,
+      "wpPostId": 5593,
+      "postedAt": "2026-05-07T17:43:55.091+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "神奈川県",
+      "city": "相模原市緑区",
+      "shopName": "トイ・スクエア橋本",
+      "shopAddress": "神奈川県相模原市緑区橋本3-28-1 アリオ橋本内",
+      "productName": "ボンボンドロップシール",
+      "sightingTime": "2026-05-07 06:16頃",
+      "statusText": "完売",
+      "confidenceMemo": "店舗公式アカウントによる完売報告",
+      "sourceUrl": "https://x.com/omochayasan_jp/status/2052271456466403490",
+      "sourceTweetId": "2052271456466403490",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2052271456466403490.png",
+      "isPosted": true,
+      "wpPostId": 5595,
+      "postedAt": "2026-05-07T17:44:01.319+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "新潟県",
+      "city": "上越市",
+      "shopName": "ゲオ直江津店",
+      "shopAddress": "新潟県上越市西本町3丁目8-8",
+      "productName": "ボンボンドロップ（ガチャ）",
+      "sightingTime": "2026-05-07 06:08頃",
+      "statusText": "準備中（在庫ありの可能性あり）",
+      "confidenceMemo": "目撃情報だが「準備中」の札あり",
+      "sourceUrl": "https://x.com/1tE1mK71Jc72230/status/2052269321209180318",
+      "sourceTweetId": "2052269321209180318",
+      "isPrediction": true,
+      "imagePath": "output/sightings/images/2052269321209180318.png",
+      "isPosted": true,
+      "wpPostId": 5597,
+      "postedAt": "2026-05-07T17:44:07.033+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "東京都",
+      "city": "千代田区",
+      "shopName": "萌え蔵",
+      "shopAddress": "東京都千代田区外神田3-13-2",
+      "productName": "ボンボンドロップシール",
+      "sightingTime": "2026-05-07 17:15頃",
+      "statusText": "入荷予定あり（ポイントカード所持者限定販売）",
+      "confidenceMemo": "店舗公式アカウントによる販売条件の告知",
+      "sourceUrl": "https://x.com/Moe__kura/status/2052301224427622651",
+      "sourceTweetId": "2052301224427622651",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2052301224427622651.png",
+      "isPosted": true,
+      "wpPostId": 5599,
+      "postedAt": "2026-05-07T17:44:12.985+09:00"
     }
   ]
 }
