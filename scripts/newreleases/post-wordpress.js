@@ -443,12 +443,22 @@ class WordPressService {
 // =====================================
 function updateFrontmatterPosted(filePath, content, wpPostId, wpPostUrl) {
   const now = new Date().toISOString();
-  const updates = `posted: true\nwpPostId: ${wpPostId}\nwpPostUrl: "${wpPostUrl}"\npostedAt: "${now}"\n`;
+  const fields = [
+    ['posted', 'true'],
+    ['wpPostId', String(wpPostId)],
+    ['wpPostUrl', `"${wpPostUrl}"`],
+    ['postedAt', `"${now}"`],
+  ];
 
-  const updatedContent = content.replace(
-    /^(---\n)/,
-    `---\n${updates}`
-  );
+  let updatedContent = content;
+  for (const [key, value] of fields) {
+    const lineRegex = new RegExp(`^${key}:.*$`, 'm');
+    if (lineRegex.test(updatedContent)) {
+      updatedContent = updatedContent.replace(lineRegex, `${key}: ${value}`);
+    } else {
+      updatedContent = updatedContent.replace(/^(---\n)/, `---\n${key}: ${value}\n`);
+    }
+  }
   fs.writeFileSync(filePath, updatedContent);
 }
 

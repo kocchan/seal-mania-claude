@@ -1,0 +1,64 @@
+name: 抽選販売記事 WordPress投稿
+
+# 必要な GitHub Secrets:
+#   WP_API_URL          - 例: https://www.seal-search.com/wp-json/wp/v2
+#   WP_USER             - WordPress ユーザー名
+#   WP_APP_PASSWORD     - WordPress アプリケーションパスワード
+#   YAHOO_CLIENT_ID     - Yahoo!ショッピングAPI（アフィリエイト商品検索）
+#   AMAZON_ASSOCIATE_ID - Amazonアソシエイトタグ
+#   RAKUTEN_AFFILIATE_ID - 楽天アフィリエイトID
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'output/new-releases/drafts/**/*.md'
+  workflow_dispatch:
+
+concurrency:
+  group: post-wordpress
+  cancel-in-progress: false
+
+jobs:
+  post:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: チェックアウト
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Node.js セットアップ
+        uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+          cache: 'npm'
+
+      - name: 依存関係インストール
+        run: npm ci
+
+      - name: 🚀 WordPress 投稿
+        run: npm run newreleases:post
+        env:
+          WP_API_URL: ${{ secrets.WP_API_URL }}
+          WP_USER: ${{ secrets.WP_USER }}
+          WP_APP_PASSWORD: ${{ secrets.WP_APP_PASSWORD }}
+          YAHOO_CLIENT_ID: ${{ secrets.YAHOO_CLIENT_ID }}
+          AMAZON_ASSOCIATE_ID: ${{ secrets.AMAZON_ASSOCIATE_ID }}
+          RAKUTEN_AFFILIATE_ID: ${{ secrets.RAKUTEN_AFFILIATE_ID }}
+
+      - name: 💾 投稿済みフラグをコミット
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add output/new-releases/drafts
+          if git diff --staged --quiet; then
+            echo "変更なし - コミットをスキップ"
+          else
+            git commit -m "chore: 抽選販売記事のpostedフラグ更新 [skip ci]"
+            git push
+          fi
