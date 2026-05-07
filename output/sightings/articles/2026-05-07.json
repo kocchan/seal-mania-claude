@@ -1,7 +1,7 @@
 {
   "date": "2026-05-07",
-  "updatedAt": "2026-05-07T17:43:49.123+09:00",
-  "count": 24,
+  "updatedAt": "2026-05-07T20:07:02.264+09:00",
+  "count": 27,
   "articles": [
     {
       "isSighting": true,
@@ -434,6 +434,60 @@
       "isPosted": true,
       "wpPostId": 5599,
       "postedAt": "2026-05-07T17:44:12.985+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "埼玉県",
+      "city": "さいたま市大宮区",
+      "shopName": "三省堂書店 大宮店",
+      "shopAddress": "埼玉県さいたま市大宮区桜木町1-6-2 そごう大宮店8F",
+      "productName": "公式ファンブック ボンボンドロップシール パーフェクトBOOK",
+      "sightingTime": "2026-04-28 02:30頃",
+      "statusText": "在庫あり",
+      "confidenceMemo": "書店公式アカウントによる在庫情報",
+      "sourceUrl": "https://x.com/ohmiya_sanseido/status/2052341003705848247",
+      "sourceTweetId": "2052341003705848247",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2052341003705848247.png",
+      "isPosted": true,
+      "wpPostId": 5601,
+      "postedAt": "2026-05-07T20:07:08.246+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "千葉県",
+      "city": "八千代市",
+      "shopName": "ガシャポンのデパート イオンモール八千代緑が丘店",
+      "shopAddress": "千葉県八千代市緑が丘2-1-3 イオンモール八千代緑が丘4F",
+      "productName": "サンリオキャラクターズ ボンボンドロップミニチュアチャーム",
+      "sightingTime": "2026-05-07 09:28頃",
+      "statusText": "再入荷（在庫あり、数に限りあり）",
+      "confidenceMemo": "店舗公式アカウントによる再販・入荷情報",
+      "sourceUrl": "https://x.com/gasha_yachiyo/status/2052319527061635529",
+      "sourceTweetId": "2052319527061635529",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2052319527061635529.png",
+      "isPosted": true,
+      "wpPostId": 5603,
+      "postedAt": "2026-05-07T20:07:16.263+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "宮城県",
+      "city": "名取市",
+      "shopName": "ドリームカプセル イオンモール名取",
+      "shopAddress": "宮城県名取市杜せきのした5-3-1 イオンモール名取3F",
+      "productName": "サンリオキャラクターズ ボンボンドロップ ミニチュアチャーム",
+      "sightingTime": "2026-05-07 09:18頃",
+      "statusText": "新入荷（個数制限：おひとり様2個まで）",
+      "confidenceMemo": "店舗公式アカウントによる新入荷情報",
+      "sourceUrl": "https://x.com/drecap_natori/status/2052317170395439185",
+      "sourceTweetId": "2052317170395439185",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2052317170395439185.png",
+      "isPosted": true,
+      "wpPostId": 5605,
+      "postedAt": "2026-05-07T20:07:22.425+09:00"
     }
   ]
 }
