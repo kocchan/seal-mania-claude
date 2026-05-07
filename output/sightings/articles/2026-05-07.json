@@ -1,7 +1,7 @@
 {
   "date": "2026-05-07",
-  "updatedAt": "2026-05-07T20:07:02.264+09:00",
-  "count": 27,
+  "updatedAt": "2026-05-07T23:28:37.240+09:00",
+  "count": 28,
   "articles": [
     {
       "isSighting": true,
@@ -488,6 +488,24 @@
       "isPosted": true,
       "wpPostId": 5605,
       "postedAt": "2026-05-07T20:07:22.425+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "福岡県",
+      "city": "久留米市",
+      "shopName": "ワンダーランド770東合川店",
+      "shopAddress": "福岡県久留米市東合川2丁目4-1",
+      "productName": "ボンボンドロップシール",
+      "sightingTime": "2026-05-07 12:07頃",
+      "statusText": "今週末に入荷予定（入荷次第、館内放送で案内）",
+      "confidenceMemo": "店舗公式アカウントによる入荷予告。商品画像も添付されており信頼性が高い。",
+      "sourceUrl": "https://x.com/wl_770aikawa/status/2052359541069697250",
+      "sourceTweetId": "2052359541069697250",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2052359541069697250.png",
+      "isPosted": true,
+      "wpPostId": 5607,
+      "postedAt": "2026-05-07T23:28:43.148+09:00"
     }
   ]
 }
