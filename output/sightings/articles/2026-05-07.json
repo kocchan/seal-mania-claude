@@ -1,7 +1,7 @@
 {
   "date": "2026-05-07",
-  "updatedAt": "2026-05-07T12:27:23.133+09:00",
-  "count": 14,
+  "updatedAt": "2026-05-07T14:57:17.740+09:00",
+  "count": 20,
   "articles": [
     {
       "isSighting": true,
@@ -16,7 +16,10 @@
       "sourceUrl": "https://x.com/kamo19jam/status/2052225708995617108",
       "sourceTweetId": "2052225708995617108",
       "isPrediction": false,
-      "imagePath": "output/sightings/images/2052225708995617108.png"
+      "imagePath": "output/sightings/images/2052225708995617108.png",
+      "isPosted": true,
+      "wpPostId": 5553,
+      "postedAt": "2026-05-07T14:57:23.786+09:00"
     },
     {
       "isSighting": true,
@@ -31,7 +34,10 @@
       "sourceUrl": "https://x.com/Cplaparche/status/2052223186633359392",
       "sourceTweetId": "2052223186633359392",
       "isPrediction": false,
-      "imagePath": "output/sightings/images/2052223186633359392.png"
+      "imagePath": "output/sightings/images/2052223186633359392.png",
+      "isPosted": true,
+      "wpPostId": 5555,
+      "postedAt": "2026-05-07T14:57:29.816+09:00"
     },
     {
       "isSighting": true,
@@ -46,7 +52,10 @@
       "sourceUrl": "https://x.com/GPA_izumo_staff/status/2052219235347386683",
       "sourceTweetId": "2052219235347386683",
       "isPrediction": false,
-      "imagePath": "output/sightings/images/2052219235347386683.png"
+      "imagePath": "output/sightings/images/2052219235347386683.png",
+      "isPosted": true,
+      "wpPostId": 5557,
+      "postedAt": "2026-05-07T14:57:35.615+09:00"
     },
     {
       "isSighting": true,
@@ -61,7 +70,10 @@
       "sourceUrl": "https://x.com/re_mart_okayama/status/2052195459796472314",
       "sourceTweetId": "2052195459796472314",
       "isPrediction": false,
-      "imagePath": "output/sightings/images/2052195459796472314.png"
+      "imagePath": "output/sightings/images/2052195459796472314.png",
+      "isPosted": true,
+      "wpPostId": 5559,
+      "postedAt": "2026-05-07T14:57:41.851+09:00"
     },
     {
       "isSighting": true,
@@ -76,7 +88,10 @@
       "sourceUrl": "https://x.com/kikuzawa_nappy/status/2052191194705473603",
       "sourceTweetId": "2052191194705473603",
       "isPrediction": false,
-      "imagePath": "output/sightings/images/2052191194705473603.png"
+      "imagePath": "output/sightings/images/2052191194705473603.png",
+      "isPosted": true,
+      "wpPostId": 5561,
+      "postedAt": "2026-05-07T14:57:48.303+09:00"
     },
     {
       "isSighting": true,
@@ -91,7 +106,10 @@
       "sourceUrl": "https://x.com/ekitetsu_osaka/status/2051939911453012050",
       "sourceTweetId": "2051939911453012050",
       "isPrediction": false,
-      "imagePath": "output/sightings/images/2051939911453012050.png"
+      "imagePath": "output/sightings/images/2051939911453012050.png",
+      "isPosted": true,
+      "wpPostId": 5563,
+      "postedAt": "2026-05-07T14:57:54.850+09:00"
     },
     {
       "isSighting": true,
@@ -106,7 +124,10 @@
       "sourceUrl": "https://x.com/sb_kikyou/status/2051885468946714985",
       "sourceTweetId": "2051885468946714985",
       "isPrediction": false,
-      "imagePath": "output/sightings/images/2051885468946714985.png"
+      "imagePath": "output/sightings/images/2051885468946714985.png",
+      "isPosted": true,
+      "wpPostId": 5565,
+      "postedAt": "2026-05-07T14:58:00.864+09:00"
     },
     {
       "isSighting": true,
@@ -121,7 +142,10 @@
       "sourceUrl": "https://x.com/sanyodoMizunami/status/2051859756961403235",
       "sourceTweetId": "2051859756961403235",
       "isPrediction": false,
-      "imagePath": "output/sightings/images/2051859756961403235.png"
+      "imagePath": "output/sightings/images/2051859756961403235.png",
+      "isPosted": true,
+      "wpPostId": 5567,
+      "postedAt": "2026-05-07T14:58:07.502+09:00"
     },
     {
       "isSighting": true,
@@ -136,7 +160,10 @@
       "sourceUrl": "https://x.com/Kentaro_gold24/status/2052204315721519405",
       "sourceTweetId": "2052204315721519405",
       "isPrediction": false,
-      "imagePath": "output/sightings/images/2052204315721519405.png"
+      "imagePath": "output/sightings/images/2052204315721519405.png",
+      "isPosted": true,
+      "wpPostId": 5569,
+      "postedAt": "2026-05-07T14:58:13.581+09:00"
     },
     {
       "isSighting": true,
@@ -151,7 +178,10 @@
       "sourceUrl": "https://x.com/amachan4646/status/2051948080740835780",
       "sourceTweetId": "2051948080740835780",
       "isPrediction": false,
-      "imagePath": "output/sightings/images/2051948080740835780.png"
+      "imagePath": "output/sightings/images/2051948080740835780.png",
+      "isPosted": true,
+      "wpPostId": 5571,
+      "postedAt": "2026-05-07T14:58:19.256+09:00"
     },
     {
       "isSighting": true,
@@ -166,7 +196,10 @@
       "sourceUrl": "https://x.com/ario_bepop/status/2051937284753432757",
       "sourceTweetId": "2051937284753432757",
       "isPrediction": false,
-      "imagePath": "output/sightings/images/2051937284753432757.png"
+      "imagePath": "output/sightings/images/2051937284753432757.png",
+      "isPosted": true,
+      "wpPostId": 5573,
+      "postedAt": "2026-05-07T14:58:25.264+09:00"
     },
     {
       "isSighting": true,
@@ -181,7 +214,10 @@
       "sourceUrl": "https://x.com/GiGO_Ichinoseki/status/2051861539544830298",
       "sourceTweetId": "2051861539544830298",
       "isPrediction": false,
-      "imagePath": "output/sightings/images/2051861539544830298.png"
+      "imagePath": "output/sightings/images/2051861539544830298.png",
+      "isPosted": true,
+      "wpPostId": 5575,
+      "postedAt": "2026-05-07T14:58:31.307+09:00"
     },
     {
       "isSighting": true,
@@ -196,7 +232,10 @@
       "sourceUrl": "https://x.com/rainbowholic/status/2051850391013536028",
       "sourceTweetId": "2051850391013536028",
       "isPrediction": false,
-      "imagePath": "output/sightings/images/2051850391013536028.png"
+      "imagePath": "output/sightings/images/2051850391013536028.png",
+      "isPosted": true,
+      "wpPostId": 5577,
+      "postedAt": "2026-05-07T14:58:37.343+09:00"
     },
     {
       "isSighting": true,
@@ -211,7 +250,118 @@
       "sourceUrl": "https://x.com/CB_amagasaki/status/2051632409297485983",
       "sourceTweetId": "2051632409297485983",
       "isPrediction": false,
-      "imagePath": "output/sightings/images/2051632409297485983.png"
+      "imagePath": "output/sightings/images/2051632409297485983.png",
+      "isPosted": true,
+      "wpPostId": 5579,
+      "postedAt": "2026-05-07T14:58:43.568+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "大阪府",
+      "city": "大阪市北区",
+      "shopName": "#C-pla 梅田茶屋町店",
+      "shopAddress": "大阪府大阪市北区茶屋町15-22 アーバンテラス茶屋町",
+      "productName": "サンリオキャラクターズ ボンボンドロップミニチュアチャーム",
+      "sightingTime": "2026-05-07 14:42頃",
+      "statusText": "再入荷（ごく僅か、完売の可能性あり）",
+      "confidenceMemo": "店舗公式アカウントによる再入荷通知。残数僅少の注意書きあり。",
+      "sourceUrl": "https://x.com/Cpla_chayamachi/status/2052262859535736908",
+      "sourceTweetId": "2052262859535736908",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2052262859535736908.png",
+      "isPosted": true,
+      "wpPostId": 5581,
+      "postedAt": "2026-05-07T14:58:49.537+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "北海道",
+      "city": "札幌市豊平区",
+      "shopName": "NextStage（リサイクルショップ）",
+      "shopAddress": "北海道札幌市豊平区月寒中央通11丁目2-33",
+      "productName": "ボンボンドロップ シェイカーキット",
+      "sightingTime": "2026-05-07 14:31頃",
+      "statusText": "在庫あり（入荷案内）",
+      "confidenceMemo": "店舗公式アカウントによる入荷情報。写真付き。",
+      "sourceUrl": "https://x.com/NEXTSTAGE1983/status/2052259948860694986",
+      "sourceTweetId": "2052259948860694986",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2052259948860694986.png",
+      "isPosted": true,
+      "wpPostId": 5583,
+      "postedAt": "2026-05-07T14:58:56.380+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "福岡県",
+      "city": "福岡市中央区",
+      "shopName": "#C-pla マークイズ福岡ももち店",
+      "shopAddress": "福岡県福岡市中央区地行浜2-2-1 マークイズ福岡ももち",
+      "productName": "サンリオキャラクターズ ボンボンドロップミニチュアチャーム",
+      "sightingTime": "2026-05-07 14:25頃",
+      "statusText": "完売（次回入荷未定）",
+      "confidenceMemo": "店舗公式アカウントによる完売報告。",
+      "sourceUrl": "https://x.com/cplamomochi/status/2052258557849124881",
+      "sourceTweetId": "2052258557849124881",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2052258557849124881.png",
+      "isPosted": true,
+      "wpPostId": 5585,
+      "postedAt": "2026-05-07T14:59:02.349+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "愛知県",
+      "city": "名古屋市中区",
+      "shopName": "ドリームカプセル 名古屋栄店 (MainLabo)",
+      "shopAddress": "愛知県名古屋市中区栄3-3-1 名古屋栄NOVA",
+      "productName": "サンリオ ボンボンドロップミニチュアチャーム",
+      "sightingTime": "2026-05-07 10:38頃",
+      "statusText": "完売（当日再入荷後に完売）",
+      "confidenceMemo": "店舗公式アカウントによる完売報告。当日再入荷分が完売した状況。",
+      "sourceUrl": "https://x.com/drecap_MainLabo/status/2052255339324805529",
+      "sourceTweetId": "2052255339324805529",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2052255339324805529.png",
+      "isPosted": true,
+      "wpPostId": 5587,
+      "postedAt": "2026-05-07T14:59:08.420+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "福岡県",
+      "city": "福岡市中央区",
+      "shopName": "#C-pla マークイズ福岡ももち店（2階店舗）",
+      "shopAddress": "福岡県福岡市中央区地行浜2-2-1 マークイズ福岡ももち 2階",
+      "productName": "サンリオキャラクターズ ボンボンドロップミニチュアチャーム",
+      "sightingTime": "2026-05-07 04:16頃",
+      "statusText": "再入荷（個数制限あり、3階店舗にはなし）",
+      "confidenceMemo": "店舗公式アカウントによる詳細な再入荷案内。",
+      "sourceUrl": "https://x.com/cplamomochi/status/2052241064824881428",
+      "sourceTweetId": "2052241064824881428",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2052241064824881428.png",
+      "isPosted": true,
+      "wpPostId": 5589,
+      "postedAt": "2026-05-07T14:59:14.421+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "神奈川県",
+      "city": "横浜市金沢区",
+      "shopName": "横浜・八景島シーパラダイス",
+      "shopAddress": "神奈川県横浜市金沢区八景島",
+      "productName": "ボンボンドロップシール",
+      "sightingTime": "2026-05-07 03:57頃",
+      "statusText": "在庫あり（レジにて販売）",
+      "confidenceMemo": "一般ユーザーによる目撃情報の伝聞。代行依頼の内容から販売中である可能性が高い。",
+      "sourceUrl": "https://x.com/kamo19jam/status/2052236253345849699",
+      "sourceTweetId": "2052236253345849699",
+      "isPrediction": true,
+      "imagePath": "output/sightings/images/2052236253345849699.png",
+      "isPosted": true,
+      "wpPostId": 5591,
+      "postedAt": "2026-05-07T14:59:20.445+09:00"
     }
   ]
 }
