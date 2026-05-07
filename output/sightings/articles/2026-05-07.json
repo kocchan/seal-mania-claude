@@ -1,7 +1,7 @@
 {
   "date": "2026-05-07",
-  "updatedAt": "2026-05-07T23:28:37.240+09:00",
-  "count": 28,
+  "updatedAt": "2026-05-08T06:54:30.054+09:00",
+  "count": 31,
   "articles": [
     {
       "isSighting": true,
@@ -506,6 +506,60 @@
       "isPosted": true,
       "wpPostId": 5607,
       "postedAt": "2026-05-07T23:28:43.148+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "大阪府",
+      "city": "大阪市淀川区",
+      "shopName": "駅鉄ポップショップ新大阪",
+      "shopAddress": "大阪府大阪市淀川区西中島5-16-1 JR新大阪駅構内 アルデ新大阪",
+      "productName": "新幹線×サンリオ ぷっくりシール",
+      "sightingTime": "2026-05-07 08:19頃",
+      "statusText": "入荷・在庫あり",
+      "confidenceMemo": "公式店舗アカウントによる詳細な入荷・在庫情報",
+      "sourceUrl": "https://x.com/bondoro_ch/status/2052398559845310849",
+      "sourceTweetId": "2052398559845310849",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2052398559845310849.png",
+      "isPosted": true,
+      "wpPostId": 5609,
+      "postedAt": "2026-05-08T06:54:35.953+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "大阪府",
+      "city": "堺市",
+      "shopName": "堺のイオン",
+      "shopAddress": "大阪府堺市",
+      "productName": "うるちゅる（ボンボンドロップシール）",
+      "sightingTime": "2026-05-08 15:53頃",
+      "statusText": "在庫あり",
+      "confidenceMemo": "ユーザーによる近隣店舗の目撃証言",
+      "sourceUrl": "https://x.com/keigo_ramen/status/2052416555045343588",
+      "sourceTweetId": "2052416555045343588",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2052416555045343588.png",
+      "isPosted": true,
+      "wpPostId": 5611,
+      "postedAt": "2026-05-08T06:54:42.214+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "大阪府",
+      "city": "堺市北区",
+      "shopName": "ドン・キホーテ 新金岡店",
+      "shopAddress": "大阪府堺市北区蔵前町1-7-15",
+      "productName": "うるちゅる（ボンボンドロップシール）",
+      "sightingTime": "2026-05-07",
+      "statusText": "昨日（5/7）まで在庫あり。現在は売り切れの可能性あり",
+      "confidenceMemo": "昨日までの在庫状況に関する口コミ情報",
+      "sourceUrl": "https://x.com/keigo_ramen/status/2052416555045343588",
+      "sourceTweetId": "2052416555045343588",
+      "isPrediction": true,
+      "imagePath": "output/sightings/images/2052416555045343588.png",
+      "isPosted": true,
+      "wpPostId": 5613,
+      "postedAt": "2026-05-08T06:54:48.299+09:00"
     }
   ]
 }
