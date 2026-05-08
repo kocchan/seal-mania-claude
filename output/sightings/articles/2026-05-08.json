@@ -1,7 +1,7 @@
 {
   "date": "2026-05-08",
-  "updatedAt": "2026-05-08T12:24:02.056+09:00",
-  "count": 13,
+  "updatedAt": "2026-05-08T14:26:24.809+09:00",
+  "count": 15,
   "articles": [
     {
       "isSighting": true,
@@ -236,6 +236,42 @@
       "isPosted": true,
       "wpPostId": 5639,
       "postedAt": "2026-05-08T12:25:29.083+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "北海道",
+      "city": "札幌市",
+      "shopName": "オーム模型",
+      "shopAddress": "北海道札幌市豊平区中の島2条11丁目1-1",
+      "productName": "ボンボンドロップシール",
+      "sightingTime": "2026-05-08 13:27頃",
+      "statusText": "販売終了（次回入荷未定）",
+      "confidenceMemo": "店舗公式アカウントによる売り切れ告知",
+      "sourceUrl": "https://x.com/OHM_1367/status/2052606374442623222",
+      "sourceTweetId": "2052606374442623222",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2052606374442623222.png",
+      "isPosted": true,
+      "wpPostId": 5641,
+      "postedAt": "2026-05-08T14:26:31.588+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "愛知県",
+      "city": "半田市",
+      "shopName": "三洋堂書店 乙川店",
+      "shopAddress": "愛知県半田市乙川吉野町9",
+      "productName": "ボンボンドロップシール",
+      "sightingTime": "2026-05-08 03:43頃",
+      "statusText": "在庫あり（おひとり様1点まで、制限あり）",
+      "confidenceMemo": "店舗公式アカウントによる入荷告知で信頼性が高い",
+      "sourceUrl": "https://x.com/SANYODO_OKKAWA/status/2052595139944890655",
+      "sourceTweetId": "2052595139944890655",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2052595139944890655.png",
+      "isPosted": true,
+      "wpPostId": 5643,
+      "postedAt": "2026-05-08T14:26:38.397+09:00"
     }
   ]
 }
