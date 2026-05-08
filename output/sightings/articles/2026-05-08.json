@@ -1,7 +1,7 @@
 {
   "date": "2026-05-08",
-  "updatedAt": "2026-05-08T19:22:26.474+09:00",
-  "count": 23,
+  "updatedAt": "2026-05-08T23:03:51.843+09:00",
+  "count": 25,
   "articles": [
     {
       "isSighting": true,
@@ -416,6 +416,42 @@
       "isPosted": true,
       "wpPostId": 5659,
       "postedAt": "2026-05-08T19:22:45.295+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "東京都",
+      "city": "府中市",
+      "shopName": "GR カオス府中",
+      "shopAddress": "東京都府中市宮町1丁目41-1 くるる",
+      "productName": "ボンボンドロップシール",
+      "sightingTime": "2026-05-08 22:45頃",
+      "statusText": "在庫あり（セット売りのみ）",
+      "confidenceMemo": "具体的な店名と地域情報が含まれており、信頼性が高い。",
+      "sourceUrl": "https://x.com/timatadeha/status/2052746815934697791",
+      "sourceTweetId": "2052746815934697791",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2052746815934697791.png",
+      "isPosted": true,
+      "wpPostId": 5661,
+      "postedAt": "2026-05-08T23:03:58.382+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "群馬県",
+      "city": "前橋市",
+      "shopName": "TSUTAYA 箱田店",
+      "shopAddress": "群馬県前橋市箱田町643-1",
+      "productName": "ボンボンドロップシールMOJI",
+      "sightingTime": "2026-05-08 10:34頃",
+      "statusText": "在庫あり（新作入荷）",
+      "confidenceMemo": "店舗公式アカウントによる写真付き入荷情報の投稿のため信頼性が非常に高い",
+      "sourceUrl": "https://x.com/TSUTAYAsl1217/status/2052698756244779053",
+      "sourceTweetId": "2052698756244779053",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2052698756244779053.png",
+      "isPosted": true,
+      "wpPostId": 5663,
+      "postedAt": "2026-05-08T23:04:04.270+09:00"
     }
   ]
 }
