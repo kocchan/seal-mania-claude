@@ -1,7 +1,7 @@
 {
   "date": "2026-05-09",
-  "updatedAt": "2026-05-09T22:28:30.675+09:00",
-  "count": 31,
+  "updatedAt": "2026-05-10T06:41:02.980+09:00",
+  "count": 33,
   "articles": [
     {
       "isSighting": true,
@@ -560,6 +560,42 @@
       "isPosted": true,
       "wpPostId": 5725,
       "postedAt": "2026-05-09T22:28:43.215+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "東京都",
+      "city": "目黒区",
+      "shopName": "FROGS 自由が丘",
+      "shopAddress": "東京都目黒区自由が丘2-9-10",
+      "productName": "ボンボンドロップシール 水族館（両生類）",
+      "sightingTime": "2026-05-10 17:06頃",
+      "statusText": "再入荷（店頭販売のみ、購入条件あり）",
+      "confidenceMemo": "店舗公式アカウントおよび公認情報チャンネルによる詳細な入荷情報。信頼性が非常に高い。",
+      "sourceUrl": "https://x.com/bondoro_ch/status/2053159665509585060",
+      "sourceTweetId": "2053159665509585060",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2053159665509585060.png",
+      "isPosted": true,
+      "wpPostId": 5727,
+      "postedAt": "2026-05-10T06:41:09.125+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "山口県",
+      "city": "防府市",
+      "shopName": "サンリオ（サンリオショップ）",
+      "shopAddress": "山口県防府市鐘紡町7-1 イオンタウン防府内（推測）",
+      "productName": "サンリオ ボンボンドロップシール",
+      "sightingTime": "2026-05-09",
+      "statusText": "在庫あり（販売の行列が発生、購入可能）",
+      "confidenceMemo": "ハンドルネームに含まれる地域名（NAOinHoufu/防府市）と、サンリオ店舗での行列・購入報告から情報を特定。",
+      "sourceUrl": "https://x.com/NAOinHoufu/status/2053104445752574183",
+      "sourceTweetId": "2053104445752574183",
+      "isPrediction": true,
+      "imagePath": "output/sightings/images/2053104445752574183.png",
+      "isPosted": true,
+      "wpPostId": 5729,
+      "postedAt": "2026-05-10T06:41:15.242+09:00"
     }
   ]
 }
