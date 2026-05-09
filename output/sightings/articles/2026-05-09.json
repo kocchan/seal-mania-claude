@@ -1,7 +1,7 @@
 {
   "date": "2026-05-09",
-  "updatedAt": "2026-05-09T17:05:10.978+09:00",
-  "count": 29,
+  "updatedAt": "2026-05-09T22:28:30.675+09:00",
+  "count": 31,
   "articles": [
     {
       "isSighting": true,
@@ -524,6 +524,42 @@
       "isPosted": true,
       "wpPostId": 5721,
       "postedAt": "2026-05-09T17:05:56.470+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "沖縄県",
+      "city": "名護市",
+      "shopName": "道の駅 許田",
+      "shopAddress": "沖縄県名護市字許田17-1",
+      "productName": "ぷっくりシール（沖縄限定）",
+      "sightingTime": "2026-05-09 11:39頃",
+      "statusText": "在庫あり（購入報告）",
+      "confidenceMemo": "具体的な店舗名（道の駅）と購入報告があり、信頼性が高い",
+      "sourceUrl": "https://x.com/hare_cha/status/2053079279441957203",
+      "sourceTweetId": "2053079279441957203",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2053079279441957203.png",
+      "isPosted": true,
+      "wpPostId": 5723,
+      "postedAt": "2026-05-09T22:28:37.532+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "福島県",
+      "city": "郡山市",
+      "shopName": "ガレージファクトリー アティ郡山",
+      "shopAddress": "福島県郡山市駅前1-16-7 アティ郡山 4F",
+      "productName": "ぷっくりシール",
+      "sightingTime": "2026-05-09 11:39頃",
+      "statusText": "入荷・在庫あり",
+      "confidenceMemo": "店舗公式アカウントによる入荷情報のため信頼性が非常に高い",
+      "sourceUrl": "https://x.com/gf_ati_koriyama/status/2053077301911580735",
+      "sourceTweetId": "2053077301911580735",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2053077301911580735.png",
+      "isPosted": true,
+      "wpPostId": 5725,
+      "postedAt": "2026-05-09T22:28:43.215+09:00"
     }
   ]
 }
