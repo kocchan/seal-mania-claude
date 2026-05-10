@@ -9,6 +9,9 @@ name: 抽選販売記事 WordPress投稿
 #   RAKUTEN_AFFILIATE_ID - 楽天アフィリエイトID
 
 on:
+  schedule:
+    # 毎日 10:30 JST (= 01:30 UTC) に実行。Claude Routine（10:00 実行）の完了を待つ
+    - cron: '30 1 * * *'
   push:
     branches: [main]
     paths:
@@ -24,6 +27,7 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write
+      pull-requests: write
 
     steps:
       - name: チェックアウト
@@ -31,6 +35,38 @@ jobs:
         with:
           fetch-depth: 0
           token: ${{ secrets.GITHUB_TOKEN }}
+
+      # Claude Routine が main 宛に作る PR (claude/* ブランチ) を自動マージ
+      # schedule / workflow_dispatch のみで実行（push 起動時は対象なし）
+      - name: 🔀 Claude routine の PR を main にマージ
+        if: github.event_name == 'schedule' || github.event_name == 'workflow_dispatch'
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          prs=$(gh pr list --base main --state open \
+            --json number,headRefName,isDraft \
+            --jq '.[] | select(.headRefName | startswith("claude/")) | .number')
+
+          if [ -z "$prs" ]; then
+            echo "✓ オープンな claude/* PR なし。マージ処理スキップ"
+            exit 0
+          fi
+
+          for pr in $prs; do
+            echo "▶ PR #$pr をマージ中..."
+            # Draft の場合は ready にする（既に ready ならエラーが出るが続行）
+            gh pr ready "$pr" 2>/dev/null || true
+            # Merge commit でマージ（コンフリクト等で失敗しても続行）
+            if gh pr merge "$pr" --merge --delete-branch=false; then
+              echo "✓ PR #$pr マージ成功"
+            else
+              echo "✗ PR #$pr マージ失敗（コンフリクト等）"
+            fi
+          done
+
+          # マージ後の最新 main を取り込む
+          git fetch origin main
+          git reset --hard origin/main
 
       - name: Node.js セットアップ
         uses: actions/setup-node@v4
