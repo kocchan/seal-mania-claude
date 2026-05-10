@@ -1,7 +1,7 @@
 {
   "date": "2026-05-10",
-  "updatedAt": "2026-05-10T12:34:03.011+09:00",
-  "count": 11,
+  "updatedAt": "2026-05-10T15:00:19.852+09:00",
+  "count": 14,
   "articles": [
     {
       "isSighting": true,
@@ -200,6 +200,60 @@
       "isPosted": true,
       "wpPostId": 5751,
       "postedAt": "2026-05-10T12:35:19.525+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "東京都",
+      "city": "新宿区",
+      "shopName": "キデイランド新宿店",
+      "shopAddress": "東京都新宿区新宿3-1-26 新宿マルイ アネックス",
+      "productName": "ボンボンドロップシール",
+      "sightingTime": "2026-05-10 04:00頃",
+      "statusText": "次回入荷分の購入整理券を事前抽選（LivePocket）にて配布予定",
+      "confidenceMemo": "店舗公式アカウントによる入荷・整理券配布の告知情報",
+      "sourceUrl": "https://x.com/KL_shinjuku/status/2053324152350847288",
+      "sourceTweetId": "2053324152350847288",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2053324152350847288.png",
+      "isPosted": true,
+      "wpPostId": 5787,
+      "postedAt": "2026-05-10T15:00:26.067+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "沖縄県",
+      "city": "浦添市",
+      "shopName": "サンエー浦添西海岸 PARCO CITY",
+      "shopAddress": "沖縄県浦添市西海岸3-1-1",
+      "productName": "ボンボンドロップシール",
+      "sightingTime": "2026-05-10 14:44頃",
+      "statusText": "在庫あり（7種類あり）",
+      "confidenceMemo": "沖縄のパルコという具体的な場所と「7種類あった」という具体的な在庫状況の記載があるため信頼性が高い。",
+      "sourceUrl": "https://x.com/xyaomix/status/2053350458681651494",
+      "sourceTweetId": "2053350458681651494",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2053350458681651494.png",
+      "isPosted": true,
+      "wpPostId": 5789,
+      "postedAt": "2026-05-10T15:00:32.181+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "東京都",
+      "city": "渋谷区",
+      "shopName": "SHIBUYA109",
+      "shopAddress": "東京都渋谷区道玄坂2-29-1",
+      "productName": "新作の３Dぷっくりシール（マイルル）",
+      "sightingTime": "2026-05-10 03:42頃",
+      "statusText": "入荷（在庫あり）",
+      "confidenceMemo": "店舗（渋谷109）の指定があり、公式・作家アカウントによる入荷告知のため信頼性が非常に高い。",
+      "sourceUrl": "https://x.com/MsLUTRA/status/2053319656837161203",
+      "sourceTweetId": "2053319656837161203",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2053319656837161203.png",
+      "isPosted": true,
+      "wpPostId": 5791,
+      "postedAt": "2026-05-10T15:00:38.877+09:00"
     }
   ]
 }
