@@ -188,12 +188,16 @@ async function fetchYahooProducts(keywords) {
       });
       const hits = response.data.hits;
       if (hits && hits.length > 0) {
-        return hits.map(item => ({
-          name: item.name,
-          image: item.image?.medium || '',
-          price: item.price,
-          url: item.url
-        }));
+        // ボンボンドロップシール関連商品のみに絞る
+        // （シール/ステッカー/ボンボン のいずれかを商品名に含むもの）
+        return hits
+          .filter(item => /シール|ステッカー|ボンボン/i.test(item.name || ''))
+          .map(item => ({
+            name: item.name,
+            image: item.image?.medium || '',
+            price: item.price,
+            url: item.url
+          }));
       }
       return [];
     } catch (e) {
@@ -354,9 +358,15 @@ class WordPressService {
     const mediaId = await this.uploadImage(imagePath, slug);
 
     // アフィリエイト情報取得（6商品取得して分散配置）
+    // 商品はボンボンドロップシール関連に限定するため、
+    // キャラクタータグを必ず「ボンボンドロップシール」と組み合わせて検索する
     const tags = Array.isArray(frontmatter.tags) ? frontmatter.tags : [];
+    const excludeTags = new Set(['抽選販売', 'ボンボンドロップシール', 'ぷっくりシール']);
+    const storeName = frontmatter.store || '';
+    // 店舗名・地名に含まれるタグを除外（例: パーティリコ、イオンモール幕張新都心、ららぽーと富士見、キデイランド 等）
+    const productTags = tags.filter(t => !excludeTags.has(t) && !storeName.includes(t));
     const searchKeywords = [
-      ...tags.filter(t => t !== '抽選販売' && t !== 'ボンボンドロップシール'),
+      ...productTags.map(t => `ボンボンドロップシール ${t}`),
       'ボンボンドロップシール',
       'ぷっくりシール'
     ].slice(0, 5);
