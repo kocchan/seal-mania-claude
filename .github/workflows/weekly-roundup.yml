@@ -12,9 +12,9 @@ name: 週間目撃まとめ パイプライン
 
 on:
   schedule:
-    # 毎週月曜 10:00 JST (= 月曜 01:00 UTC)
-    # 直前週の sightings-pipeline (日曜21:00 JST が最終) 完了後の実行
-    - cron: '0 1 * * 1'
+    # 毎週土曜 10:00 JST (= 土曜 01:00 UTC)
+    # 月〜金 + 土朝の目撃情報を集約。週末の読者が記事を見つけやすいタイミング
+    - cron: '0 1 * * 6'
   workflow_dispatch:
 
 concurrency:
