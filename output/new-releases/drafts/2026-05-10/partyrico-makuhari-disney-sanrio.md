@@ -1,7 +1,11 @@
 ---
+postedAt: "2026-05-10T03:57:59.645Z"
+wpPostUrl: "https://www.seal-search.com/news/reservation/partyrico-makuhari-disney-sanrio-20260510/"
+wpPostId: 5753
+posted: true
 type: lottery
 status: draft
-imageGenerated: false
+imageGenerated: true
 title: "【5/10本日締切】ボンドロセット4種抽選@パーティリコ幕張"
 description: "パーティリコ イオンモール幕張新都心店でスティッチ・キティ・マイメロ・ハンギョドンのボンボンドロップシール4種セット抽選。本日5/10 23:59締切。"
 slug: "partyrico-makuhari-disney-sanrio-20260510"
