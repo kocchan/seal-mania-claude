@@ -1,7 +1,7 @@
 {
   "date": "2026-05-10",
-  "updatedAt": "2026-05-10T17:17:29.745+09:00",
-  "count": 17,
+  "updatedAt": "2026-05-10T19:11:39.313+09:00",
+  "count": 18,
   "articles": [
     {
       "isSighting": true,
@@ -308,6 +308,24 @@
       "isPosted": true,
       "wpPostId": 5825,
       "postedAt": "2026-05-10T17:17:51.166+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "兵庫県",
+      "city": "姫路市",
+      "shopName": "喜久屋書店 花田店",
+      "shopAddress": "兵庫県姫路市飾東町庄254-1",
+      "productName": "ボンボンドロップシール",
+      "sightingTime": "2026-05-10 08:31頃",
+      "statusText": "完売（次回入荷未定）",
+      "confidenceMemo": "店舗の公式アカウントによる完売報告のため、非常に信頼性が高い情報です。",
+      "sourceUrl": "https://x.com/kikuya_hanada/status/2053392374882250820",
+      "sourceTweetId": "2053392374882250820",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2053392374882250820.png",
+      "isPosted": true,
+      "wpPostId": 5883,
+      "postedAt": "2026-05-10T19:11:46.046+09:00"
     }
   ]
 }
