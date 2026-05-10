@@ -1,7 +1,7 @@
 {
   "date": "2026-05-10",
-  "updatedAt": "2026-05-10T15:00:19.852+09:00",
-  "count": 14,
+  "updatedAt": "2026-05-10T17:17:29.745+09:00",
+  "count": 17,
   "articles": [
     {
       "isSighting": true,
@@ -254,6 +254,60 @@
       "isPosted": true,
       "wpPostId": 5791,
       "postedAt": "2026-05-10T15:00:38.877+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "香川県",
+      "city": "綾歌郡宇多津町",
+      "shopName": "お宝市番館 瀬戸大橋店",
+      "shopAddress": "香川県綾歌郡宇多津町浜三番丁21-2",
+      "productName": "ボンボンドロップシール",
+      "sightingTime": "2026-05-10 17:00頃",
+      "statusText": "在庫あり（17時より販売、お1人様3枚まで、無くなり次第終了）",
+      "confidenceMemo": "店舗公式アカウントによる入荷・販売告知のため信頼性が非常に高い",
+      "sourceUrl": "https://x.com/setootaichi_toy/status/2053379137893708018",
+      "sourceTweetId": "2053379137893708018",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2053379137893708018.png",
+      "isPosted": true,
+      "wpPostId": 5821,
+      "postedAt": "2026-05-10T17:17:37.057+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "東京都",
+      "city": "千代田区",
+      "shopName": "萌え蔵",
+      "shopAddress": "東京都千代田区外神田3-13-3 野水ビル2F",
+      "productName": "ボンボンドロップシール",
+      "sightingTime": "2026-05-10 06:01頃",
+      "statusText": "在庫あり（他シール1枚以上とのセット販売、1グループ1枚限定）",
+      "confidenceMemo": "店舗公式アカウントによる販売開始告知",
+      "sourceUrl": "https://x.com/bondoro_ch/status/2053360026648199346",
+      "sourceTweetId": "2053360026648199346",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2053360026648199346.png",
+      "isPosted": true,
+      "wpPostId": 5823,
+      "postedAt": "2026-05-10T17:17:44.653+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "東京都",
+      "city": "新宿区",
+      "shopName": "マルミヤ（早稲田の文房具店）",
+      "shopAddress": "東京都新宿区早稲田鶴巻町544",
+      "productName": "ボンボンドロップシール",
+      "sightingTime": "2026-05-10 05:40頃",
+      "statusText": "在庫あり（セット販売分、残りわずか）",
+      "confidenceMemo": "店舗公式アカウントによる残数報告",
+      "sourceUrl": "https://x.com/mamitankodomo/status/2053356217247183258",
+      "sourceTweetId": "2053356217247183258",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2053356217247183258.png",
+      "isPosted": true,
+      "wpPostId": 5825,
+      "postedAt": "2026-05-10T17:17:51.166+09:00"
     }
   ]
 }
