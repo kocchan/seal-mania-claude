@@ -454,6 +454,7 @@ async function main() {
       if (result?.id) {
         article.isPosted = true;
         article.wpPostId = result.id;
+        article.wpPostUrl = result.link;
         article.postedAt = getNowJST();
         updated = true;
         totalPosted++;

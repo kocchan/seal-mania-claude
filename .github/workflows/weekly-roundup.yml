@@ -1,0 +1,108 @@
+name: 週間目撃まとめ パイプライン
+
+# 必要な GitHub Secrets:
+#   GEMINI_API_KEY       - Gemini API（エリアグループ化＋画像生成）
+#   YAHOO_CLIENT_ID      - Yahoo!ショッピングAPI（アフィリエイト）
+#   AMAZON_ASSOCIATE_ID  - Amazonアソシエイトタグ
+#   RAKUTEN_AFFILIATE_ID - 楽天アフィリエイトID
+#   WP_API_URL           - 例: https://www.seal-search.com/wp-json/wp/v2
+#   WP_USER              - WordPress ユーザー名
+#   WP_APP_PASSWORD      - WordPress アプリケーションパスワード
+#   GOOGLE_MAP_KEY       - Google Maps API キー（Geocoding/Static/Embed）
+
+on:
+  schedule:
+    # 毎週月曜 10:00 JST (= 月曜 01:00 UTC)
+    # 直前週の sightings-pipeline (日曜21:00 JST が最終) 完了後の実行
+    - cron: '0 1 * * 1'
+  workflow_dispatch:
+
+concurrency:
+  group: weekly-roundup
+  cancel-in-progress: false
+
+jobs:
+  weekly-roundup:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: チェックアウト
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Node.js セットアップ
+        uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+          cache: 'npm'
+
+      - name: 依存関係インストール
+        run: npm ci
+
+      # ========================================
+      # Step 1: 集計＋記事md生成
+      # ========================================
+      - name: 📝 Step 1 - 記事md生成（地区別グループ化＋アフィリ取得）
+        run: npm run weekly-roundup:generate
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          YAHOO_CLIENT_ID: ${{ secrets.YAHOO_CLIENT_ID }}
+          AMAZON_ASSOCIATE_ID: ${{ secrets.AMAZON_ASSOCIATE_ID }}
+          RAKUTEN_AFFILIATE_ID: ${{ secrets.RAKUTEN_AFFILIATE_ID }}
+          Google_MAP_KEY: ${{ secrets.GOOGLE_MAP_KEY }}
+
+      - name: 生成結果を確認
+        run: |
+          echo "=== 生成された週間まとめ md ==="
+          ls -la output/weekly-roundup/*/*.md 2>/dev/null || echo "(0件)"
+
+      # ========================================
+      # Step 2: Gemini AIでアイキャッチ画像生成
+      # ========================================
+      - name: 🖼️ Step 2 - 画像生成（既存pngは自動スキップ）
+        run: npm run weekly-roundup:images
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+
+      # ========================================
+      # Step 3: WordPress投稿（更新スタイル: slugで既存記事を検索 → PUT/POST）
+      # ========================================
+      - name: 🚀 Step 3 - WP投稿（県ごとに固定slugで上書き更新）
+        run: npm run weekly-roundup:post
+        env:
+          WP_API_URL: ${{ secrets.WP_API_URL }}
+          WP_USER: ${{ secrets.WP_USER }}
+          WP_APP_PASSWORD: ${{ secrets.WP_APP_PASSWORD }}
+          YAHOO_CLIENT_ID: ${{ secrets.YAHOO_CLIENT_ID }}
+          AMAZON_ASSOCIATE_ID: ${{ secrets.AMAZON_ASSOCIATE_ID }}
+          RAKUTEN_AFFILIATE_ID: ${{ secrets.RAKUTEN_AFFILIATE_ID }}
+          Google_MAP_KEY: ${{ secrets.GOOGLE_MAP_KEY }}
+
+      # ========================================
+      # Step 4: 個別目撃記事に「県別週間まとめ」へのリンクを挿入（冪等）
+      # ========================================
+      - name: 🔗 Step 4 - 個別記事への内部リンク挿入
+        run: npm run weekly-roundup:link
+        env:
+          WP_API_URL: ${{ secrets.WP_API_URL }}
+          WP_USER: ${{ secrets.WP_USER }}
+          WP_APP_PASSWORD: ${{ secrets.WP_APP_PASSWORD }}
+
+      # ========================================
+      # 結果をコミット（md と画像、postedフラグ）
+      # ========================================
+      - name: 💾 変更をコミット
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add output/weekly-roundup/
+          if git diff --staged --quiet; then
+            echo "変更なし - コミットをスキップ"
+          else
+            git commit -m "chore: 週間目撃まとめ生成 [skip ci]"
+            git push
+          fi

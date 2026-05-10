@@ -11,7 +11,11 @@
     "generate:images": "node scripts/sightings/generate-images.js",
     "post:wordpress": "node scripts/sightings/post-wordpress.js",
     "newreleases:images": "node scripts/newreleases/generate-images.js",
-    "newreleases:post": "node scripts/newreleases/post-wordpress.js"
+    "newreleases:post": "node scripts/newreleases/post-wordpress.js",
+    "weekly-roundup:generate": "node scripts/weekly-roundup/weekly-roundup-generate.js",
+    "weekly-roundup:images": "node scripts/weekly-roundup/weekly-roundup-images.js",
+    "weekly-roundup:post": "node scripts/weekly-roundup/weekly-roundup-post.js",
+    "weekly-roundup:link": "node scripts/weekly-roundup/weekly-roundup-link.js"
   },
   "dependencies": {
     "@google/generative-ai": "^0.24.1",
