@@ -1,7 +1,7 @@
 {
   "date": "2026-05-10",
-  "updatedAt": "2026-05-10T19:11:39.313+09:00",
-  "count": 18,
+  "updatedAt": "2026-05-10T22:41:14.210+09:00",
+  "count": 20,
   "articles": [
     {
       "isSighting": true,
@@ -326,6 +326,44 @@
       "isPosted": true,
       "wpPostId": 5883,
       "postedAt": "2026-05-10T19:11:46.046+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "栃木県",
+      "city": "宇都宮市",
+      "shopName": "駿河屋 宇都宮テクノ店",
+      "shopAddress": "栃木県宇都宮市ゆいの杜5丁目1-10",
+      "productName": "ボンボンドロップシール",
+      "sightingTime": "2026-05-10 11:04頃",
+      "statusText": "在庫あり（沢山入荷、レジ前ショーケースにて展開中）",
+      "confidenceMemo": "店舗公式アカウントによる入荷告知で、具体的な陳列場所も記載されているため信頼性が非常に高い。",
+      "sourceUrl": "https://x.com/suruga_utekuno/status/2053430915498647888",
+      "sourceTweetId": "2053430915498647888",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2053430915498647888.png",
+      "isPosted": true,
+      "wpPostId": 6054,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-tochigi-utsunomiya-2026-05-10/",
+      "postedAt": "2026-05-10T22:41:19.494+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "京都府",
+      "city": "京都市中京区",
+      "shopName": "【 推活本舗 】 ぽらりすた - KYOTO - (BiVi二条内)",
+      "shopAddress": "京都府京都市中京区西ノ京栂尾町107 BiVi二条 4F",
+      "productName": "ボンボンドロップシール サンリオのもじシリーズ",
+      "sightingTime": "2026-05-10 10:35頃",
+      "statusText": "在庫あり（在庫わずか、おひとり様1日1枚限り）",
+      "confidenceMemo": "店舗公式アカウントによる在庫情報。購入制限に関する具体的な記述があり、信頼性が高い。",
+      "sourceUrl": "https://x.com/POLARISTA_KYOTO/status/2053423555820577036",
+      "sourceTweetId": "2053423555820577036",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2053423555820577036.png",
+      "isPosted": true,
+      "wpPostId": 6056,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-kyoto-nakagyo-kyoto-2026-05-10/",
+      "postedAt": "2026-05-10T22:41:25.383+09:00"
     }
   ]
 }
