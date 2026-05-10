@@ -91,7 +91,6 @@ seal-mania-claude/
 ├── .github/workflows/     # GitHub Actions定義
 ├── scripts/               # 自動化スクリプト
 ├── docs/                  # 設計ドキュメント
-├── knowledge/             # ナレッジ蓄積
 └── output/
     ├── blog/
     │   ├── drafts/        # ブログ下書き
