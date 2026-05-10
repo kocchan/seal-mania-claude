@@ -188,10 +188,9 @@ async function fetchYahooProducts(keywords) {
       });
       const hits = response.data.hits;
       if (hits && hits.length > 0) {
-        // ボンボンドロップシール関連商品のみに絞る
-        // （シール/ステッカー/ボンボン のいずれかを商品名に含むもの）
+        // ボンボンドロップシール関連商品のみに絞る（シール系キーワードを商品名に含むもの）
         return hits
-          .filter(item => /シール|ステッカー|ボンボン/i.test(item.name || ''))
+          .filter(item => /シール|ステッカー|ボンボン|ぷっくり|うるちゅる|seal|sticker|bonbon/i.test(item.name || ''))
           .map(item => ({
             name: item.name,
             image: item.image?.medium || '',
