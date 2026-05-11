@@ -1,7 +1,7 @@
 {
   "date": "2026-05-11",
-  "updatedAt": "2026-05-11T15:34:18.978+09:00",
-  "count": 8,
+  "updatedAt": "2026-05-11T18:54:15.929+09:00",
+  "count": 11,
   "articles": [
     {
       "isSighting": true,
@@ -154,6 +154,63 @@
       "wpPostId": 6074,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-aichi-atsuta-nagoya-2026-05-11/",
       "postedAt": "2026-05-11T15:34:36.571+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "東京都",
+      "city": "千代田区",
+      "shopName": "ポケタウン秋葉原",
+      "shopAddress": "東京都千代田区外神田1丁目16-10 1階 17号",
+      "productName": "ボンボンドロップシール ハローキティ もじ",
+      "sightingTime": "2026-05-11 08:01",
+      "statusText": "在庫あり（ショーケースにて展開中、価格2,000円）",
+      "confidenceMemo": "店舗公式アカウントによる詳細な住所・写真付きの情報",
+      "sourceUrl": "https://x.com/poketown_akiba/status/2053747184601035237",
+      "sourceTweetId": "2053747184601035237",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2053747184601035237.png",
+      "isPosted": true,
+      "wpPostId": 6076,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-tokyo-chiyoda-2026-05-11/",
+      "postedAt": "2026-05-11T18:54:22.561+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "岡山県",
+      "city": "津山市",
+      "shopName": "暮らしのトレジャー生活雑貨店［遊］",
+      "shopAddress": "岡山県津山市河辺1000-1 イオンモール津山 2F",
+      "productName": "ボンボンドロップシェイカーキット",
+      "sightingTime": "2026-05-11 08:27",
+      "statusText": "入荷（在庫あり）",
+      "confidenceMemo": "店舗公式アカウントによる入荷案内。店舗名から所在地を特定。",
+      "sourceUrl": "https://x.com/Treasure306548/status/2053753938072203448",
+      "sourceTweetId": "2053753938072203448",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2053753938072203448.png",
+      "isPosted": true,
+      "wpPostId": 6078,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-okayama-tsuyama-2026-05-11/",
+      "postedAt": "2026-05-11T18:54:28.498+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "三重県",
+      "city": "桑名市",
+      "shopName": "スマ本屋 三洋堂桑名店",
+      "shopAddress": "三重県桑名市大字芳ヶ崎字太田代1201-1",
+      "productName": "ボンボンドロップシール",
+      "sightingTime": "2026-05-11 06:59頃",
+      "statusText": "在庫あり（お1人様お1つまで、並び直し不可）",
+      "confidenceMemo": "店舗公式アカウントによる詳細な入荷・販売ルール情報。写真付きで信頼性が高い。",
+      "sourceUrl": "https://x.com/sanyodokuwana/status/2053731626124017758",
+      "sourceTweetId": "2053731626124017758",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2053731626124017758.png",
+      "isPosted": true,
+      "wpPostId": 6080,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-mie-kuwana-2026-05-11/",
+      "postedAt": "2026-05-11T18:54:34.794+09:00"
     }
   ]
 }
