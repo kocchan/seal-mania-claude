@@ -1,7 +1,7 @@
 {
   "date": "2026-05-11",
-  "updatedAt": "2026-05-11T18:54:15.929+09:00",
-  "count": 11,
+  "updatedAt": "2026-05-12T00:23:45.112+09:00",
+  "count": 12,
   "articles": [
     {
       "isSighting": true,
@@ -211,6 +211,25 @@
       "wpPostId": 6080,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-mie-kuwana-2026-05-11/",
       "postedAt": "2026-05-11T18:54:34.794+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "東京都",
+      "city": "渋谷区",
+      "shopName": "萌え蔵 (MAGNET by SHIBUYA109内)",
+      "shopAddress": "東京都渋谷区神南1-23-10 MAGNET by SHIBUYA109 5F",
+      "productName": "ボンボンドロップシール",
+      "sightingTime": "2026-05-12 13:00頃",
+      "statusText": "在庫あり（入手報告あり）",
+      "confidenceMemo": "渋谷の具体的な店舗名（萌え蔵）を挙げて「入手することができた」との記述があるため信頼性が高い。",
+      "sourceUrl": "https://x.com/gnCfQwwzP3R9dHR/status/2053829013047812593",
+      "sourceTweetId": "2053829013047812593",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2053829013047812593.png",
+      "isPosted": true,
+      "wpPostId": 6082,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-tokyo-shibuya-2026-05-12/",
+      "postedAt": "2026-05-12T00:23:51.633+09:00"
     }
   ]
 }
