@@ -1,7 +1,7 @@
 {
   "date": "2026-05-11",
-  "updatedAt": "2026-05-11T12:48:15.907+09:00",
-  "count": 5,
+  "updatedAt": "2026-05-11T15:34:18.978+09:00",
+  "count": 8,
   "articles": [
     {
       "isSighting": true,
@@ -97,6 +97,63 @@
       "wpPostId": 6066,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-okinawa-urasoe-2026-05-10-2/",
       "postedAt": "2026-05-11T12:48:48.688+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "鹿児島県",
+      "city": "奄美市",
+      "shopName": "TSUTAYA名瀬店",
+      "shopAddress": "鹿児島県奄美市名瀬小浜町28-12",
+      "productName": "サンリオボンボンドロップシール",
+      "sightingTime": "2026-05-11 15:22頃",
+      "statusText": "新入荷（1F雑貨コーナー）",
+      "confidenceMemo": "公式店舗アカウントによる入荷告知",
+      "sourceUrl": "https://x.com/tsutayanaze/status/2053722483631788506",
+      "sourceTweetId": "2053722483631788506",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2053722483631788506.png",
+      "isPosted": true,
+      "wpPostId": 6070,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-kagoshima-amami-2026-05-11/",
+      "postedAt": "2026-05-11T15:34:23.985+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "愛知県",
+      "city": "岡崎市",
+      "shopName": "新星堂 アピタ岡崎北店",
+      "shopAddress": "愛知県岡崎市日名北町4-46 アピタ岡崎北店2F",
+      "productName": "ボンボンドロップシール（サンリオ文字）",
+      "sightingTime": "2026-05-11 05:25頃",
+      "statusText": "在庫あり（1家族1点までの購入制限あり）",
+      "confidenceMemo": "公式店舗アカウントによる入荷・販売制限の告知",
+      "sourceUrl": "https://x.com/ssd_okazaki/status/2053708090894418174",
+      "sourceTweetId": "2053708090894418174",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2053708090894418174.png",
+      "isPosted": true,
+      "wpPostId": 6072,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-aichi-okazaki-2026-05-11/",
+      "postedAt": "2026-05-11T15:34:29.885+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "愛知県",
+      "city": "名古屋市熱田区",
+      "shopName": "#C-pla イオンモール熱田店",
+      "shopAddress": "愛知県名古屋市熱田区六野1-2-11 イオンモール熱田",
+      "productName": "サンリオキャラクターズ ボンボンドロップミニチュアチャーム",
+      "sightingTime": "2026-05-11 03:58頃",
+      "statusText": "完売（再入荷未定）",
+      "confidenceMemo": "公式店舗アカウントによる完売報告",
+      "sourceUrl": "https://x.com/Cpla49483132799/status/2053686276436664491",
+      "sourceTweetId": "2053686276436664491",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2053686276436664491.png",
+      "isPosted": true,
+      "wpPostId": 6074,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-aichi-atsuta-nagoya-2026-05-11/",
+      "postedAt": "2026-05-11T15:34:36.571+09:00"
     }
   ]
 }
