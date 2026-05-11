@@ -1,4 +1,7 @@
 ---
+postedAt: "2026-05-11T05:11:24.743Z"
+wpPostUrl: "https://www.seal-search.com/news/reservation/apitapiago-sanrio-20260515/"
+wpPostId: 6068
 type: lottery
 status: draft
 title: "【5/15締切】サンリオボンドロ抽選販売@アピタ・ピアゴ"
@@ -39,7 +42,7 @@ featuredImage: ""
 createdAt: "2026-05-11T10:03:41+09:00"
 updatedAt: "2026-05-11T10:03:41+09:00"
 imageGenerated: true
-posted: false
+posted: true
 ---
 
 # 【5/15締切】アピタ・ピアゴでサンリオボンボンドロップシール抽選販売開催！
