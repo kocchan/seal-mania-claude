@@ -1,7 +1,7 @@
 {
   "date": "2026-05-12",
-  "updatedAt": "2026-05-12T20:18:38.767+09:00",
-  "count": 19,
+  "updatedAt": "2026-05-12T23:36:59.094+09:00",
+  "count": 20,
   "articles": [
     {
       "isSighting": true,
@@ -363,6 +363,25 @@
       "wpPostId": 6120,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-yamanashi-kofu-2026-05-12/",
       "postedAt": "2026-05-12T20:19:01.089+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "沖縄県",
+      "city": "国頭郡本部町",
+      "shopName": "海洋博公園 お土産屋",
+      "shopAddress": "沖縄県国頭郡本部町字石川424 海洋博公園内",
+      "productName": "ボンボンドロップシール",
+      "sightingTime": "2026-05-12 23:24頃",
+      "statusText": "在庫あり",
+      "confidenceMemo": "店舗（施設名）が具体的であり、写真付きの目撃情報のため信頼性が非常に高い",
+      "sourceUrl": "https://x.com/aduki_0901/status/2054205990883721413",
+      "sourceTweetId": "2054205990883721413",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2054205990883721413.png",
+      "isPosted": true,
+      "wpPostId": 6122,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-okinawa-motobu-kunigami-district-2026-05-12/",
+      "postedAt": "2026-05-12T23:37:05.761+09:00"
     }
   ]
 }
