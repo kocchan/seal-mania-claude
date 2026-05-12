@@ -1,7 +1,7 @@
 {
   "date": "2026-05-12",
-  "updatedAt": "2026-05-12T23:36:59.094+09:00",
-  "count": 20,
+  "updatedAt": "2026-05-13T07:10:16.398+09:00",
+  "count": 22,
   "articles": [
     {
       "isSighting": true,
@@ -382,6 +382,44 @@
       "wpPostId": 6122,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-okinawa-motobu-kunigami-district-2026-05-12/",
       "postedAt": "2026-05-12T23:37:05.761+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "青森県",
+      "city": "青森市",
+      "shopName": "青森県営 浅虫水族館",
+      "shopAddress": "青森県青森市浅虫馬場山1-34",
+      "productName": "ボンボンドロップシール",
+      "sightingTime": "2026-05-13 19:01頃",
+      "statusText": "在庫状況の案内あり",
+      "confidenceMemo": "施設名と在庫状況へのリンクが含まれるため信頼性が高い",
+      "sourceUrl": "https://x.com/sfc_monopoly/status/2054275722580238482",
+      "sourceTweetId": "2054275722580238482",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2054275722580238482.png",
+      "isPosted": true,
+      "wpPostId": 6124,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-aomori-aomori-2026-05-13/",
+      "postedAt": "2026-05-13T07:10:29.719+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "大阪府",
+      "city": "枚方市",
+      "shopName": "ひらかたパーク",
+      "shopAddress": "大阪府枚方市枚方公園町1-1",
+      "productName": "ボンボンドロップシール",
+      "sightingTime": "2026-05-13 17:23頃",
+      "statusText": "販売開始・取扱いあり",
+      "confidenceMemo": "具体的な施設名（ひらパー）での販売について言及されている",
+      "sourceUrl": "https://x.com/miechan_heisei/status/2054251175764259305",
+      "sourceTweetId": "2054251175764259305",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2054251175764259305.png",
+      "isPosted": true,
+      "wpPostId": 6126,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-osaka-hirakata-2026-05-13/",
+      "postedAt": "2026-05-13T07:10:41.990+09:00"
     }
   ]
 }
