@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-05-13T05:03:43.080Z"
+wpPostUrl: "https://www.seal-search.com/news/reservation/kiddyland-musashikosugi-all11-20260514/"
+wpPostId: 6160
+posted: true
 type: lottery
 status: draft
 imageGenerated: true
