@@ -1,7 +1,7 @@
 {
   "date": "2026-05-13",
-  "updatedAt": "2026-05-13T23:48:24.081+09:00",
-  "count": 22,
+  "updatedAt": "2026-05-14T07:07:40.395+09:00",
+  "count": 23,
   "articles": [
     {
       "isSighting": true,
@@ -420,6 +420,25 @@
       "wpPostId": 6172,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-hyogo-toyooka-2026-05-13/",
       "postedAt": "2026-05-13T23:48:29.601+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "神奈川県",
+      "city": "横浜市",
+      "shopName": "ドン・キホーテ 横浜店",
+      "shopAddress": "神奈川県横浜市西区南幸2-15-5",
+      "productName": "ボンボンドロップシール",
+      "sightingTime": "2026-05-14 15:00頃",
+      "statusText": "抽選販売の受付中",
+      "confidenceMemo": "店舗名（横浜店）と具体的な販売形態（抽選販売）の記載があり、信頼性が高い。",
+      "sourceUrl": "https://x.com/mikage_k/status/2054583176551608612",
+      "sourceTweetId": "2054583176551608612",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2054583176551608612.png",
+      "isPosted": true,
+      "wpPostId": 6174,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-kanagawa-yokohama-2026-05-14/",
+      "postedAt": "2026-05-14T07:07:46.198+09:00"
     }
   ]
 }
