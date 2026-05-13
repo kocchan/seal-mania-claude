@@ -1,7 +1,7 @@
 {
   "date": "2026-05-13",
-  "updatedAt": "2026-05-13T17:53:20.184+09:00",
-  "count": 21,
+  "updatedAt": "2026-05-13T23:48:24.081+09:00",
+  "count": 22,
   "articles": [
     {
       "isSighting": true,
@@ -401,6 +401,25 @@
       "wpPostId": 6170,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-shizuoka-fujieda-2026-05-13/",
       "postedAt": "2026-05-13T17:53:32.551+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "兵庫県",
+      "city": "豊岡市",
+      "shopName": "城崎マリンワールド",
+      "shopAddress": "兵庫県豊岡市瀬戸1090",
+      "productName": "ボンボンドロップシール",
+      "sightingTime": "2026-05-13 12:26頃",
+      "statusText": "在庫あり（複数購入可能）",
+      "confidenceMemo": "「城崎」での購入報告に加え、同施設限定商品「グラスパーラーのシール」の言及があるため店舗を特定。",
+      "sourceUrl": "https://x.com/0KtOBPA7beGxsUS/status/2054538758373122558",
+      "sourceTweetId": "2054538758373122558",
+      "isPrediction": true,
+      "imagePath": "output/sightings/images/2054538758373122558.png",
+      "isPosted": true,
+      "wpPostId": 6172,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-hyogo-toyooka-2026-05-13/",
+      "postedAt": "2026-05-13T23:48:29.601+09:00"
     }
   ]
 }
