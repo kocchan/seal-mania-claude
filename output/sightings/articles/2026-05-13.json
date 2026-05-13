@@ -1,7 +1,7 @@
 {
   "date": "2026-05-13",
-  "updatedAt": "2026-05-13T15:23:21.264+09:00",
-  "count": 19,
+  "updatedAt": "2026-05-13T17:53:20.184+09:00",
+  "count": 21,
   "articles": [
     {
       "isSighting": true,
@@ -363,6 +363,44 @@
       "wpPostId": 6166,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-tokyo-adachi-2026-05-14/",
       "postedAt": "2026-05-13T15:23:40.410+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "埼玉県",
+      "city": "蓮田市",
+      "shopName": "本と文房具の一清堂",
+      "shopAddress": "埼玉県蓮田市大字閏戸437",
+      "productName": "ボンボンドロップシール",
+      "sightingTime": "2026-05-13 07:03頃",
+      "statusText": "在庫あり（入荷数少、一家族2枚まで、レジ販売）",
+      "confidenceMemo": "店舗公式アカウントによる販売告知であり、信頼性が極めて高い。",
+      "sourceUrl": "https://x.com/isseidou/status/2054457563639603440",
+      "sourceTweetId": "2054457563639603440",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2054457563639603440.png",
+      "isPosted": true,
+      "wpPostId": 6168,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-saitama-hasuda-2026-05-13/",
+      "postedAt": "2026-05-13T17:53:25.979+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "静岡県",
+      "city": "藤枝市",
+      "shopName": "TSUTAYA藤枝瀬戸新屋店",
+      "shopAddress": "静岡県藤枝市瀬戸新屋110",
+      "productName": "ハローキティのボンボンドロップシールモジ",
+      "sightingTime": "2026-05-13 06:23頃",
+      "statusText": "在庫あり（一家族1枚まで、レジ販売）",
+      "confidenceMemo": "店舗公式アカウントによる入荷告知であり、具体的かつ信頼性が高い。",
+      "sourceUrl": "https://x.com/TSUTAYA_fujieda/status/2054447362517635439",
+      "sourceTweetId": "2054447362517635439",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2054447362517635439.png",
+      "isPosted": true,
+      "wpPostId": 6170,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-shizuoka-fujieda-2026-05-13/",
+      "postedAt": "2026-05-13T17:53:32.551+09:00"
     }
   ]
 }
