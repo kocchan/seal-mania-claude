@@ -1,7 +1,7 @@
 {
   "date": "2026-05-13",
-  "updatedAt": "2026-05-13T12:41:50.005+09:00",
-  "count": 16,
+  "updatedAt": "2026-05-13T15:23:21.264+09:00",
+  "count": 19,
   "articles": [
     {
       "isSighting": true,
@@ -306,6 +306,63 @@
       "wpPostId": 6158,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-nagano-suzaka-2026-05-12-2/",
       "postedAt": "2026-05-13T12:43:37.799+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "東京都",
+      "city": "中央区",
+      "shopName": "文房具のかめや",
+      "shopAddress": "東京都中央区日本橋浜町2-19-9",
+      "productName": "ほわいとボンボンドロップシール",
+      "sightingTime": "2026-05-13 05:05頃",
+      "statusText": "在庫あり（お一人様2枚まで・レジ販売）",
+      "confidenceMemo": "店舗公式アカウントによる入荷情報。売場ではなくレジでの販売と指定あり。",
+      "sourceUrl": "https://x.com/kameya_hamacho/status/2054427817434284236",
+      "sourceTweetId": "2054427817434284236",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2054427817434284236.png",
+      "isPosted": true,
+      "wpPostId": 6162,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-tokyo-chuo-2026-05-13/",
+      "postedAt": "2026-05-13T15:23:27.296+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "兵庫県",
+      "city": "神戸市東灘区",
+      "shopName": "FROM STELLAR（フロムステラ）",
+      "shopAddress": "兵庫県神戸市東灘区向洋町中2-13",
+      "productName": "ドロップジェリーシール、ポムポムプリンうるちゅるポップシール",
+      "sightingTime": "2026-05-13 04:24頃",
+      "statusText": "在庫あり",
+      "confidenceMemo": "店舗公式アカウントによる入荷・在庫報告。サンリオ、トムとジェリー、パワーパフガールズ等の種類あり。",
+      "sourceUrl": "https://x.com/from_stellar/status/2054417423626117242",
+      "sourceTweetId": "2054417423626117242",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2054417423626117242.png",
+      "isPosted": true,
+      "wpPostId": 6164,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-hyogo-higashinada-kobe-2026-05-13/",
+      "postedAt": "2026-05-13T15:23:33.805+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "東京都",
+      "city": "足立区",
+      "shopName": "ワンダーランド江北店",
+      "shopAddress": "東京都足立区江北1-32-15",
+      "productName": "うるちゅる、プチドロップステッカー各種",
+      "sightingTime": "2026-05-14 入荷予定",
+      "statusText": "5月14日入荷予定",
+      "confidenceMemo": "店舗公式アカウントによる翌日の新台入替に合わせた入荷告知。",
+      "sourceUrl": "https://x.com/wl_kouhoku/status/2054441902041350161",
+      "sourceTweetId": "2054441902041350161",
+      "isPrediction": true,
+      "imagePath": "output/sightings/images/2054441902041350161.png",
+      "isPosted": true,
+      "wpPostId": 6166,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-tokyo-adachi-2026-05-14/",
+      "postedAt": "2026-05-13T15:23:40.410+09:00"
     }
   ]
 }
