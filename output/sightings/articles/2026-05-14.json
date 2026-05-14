@@ -1,7 +1,7 @@
 {
   "date": "2026-05-14",
-  "updatedAt": "2026-05-14T20:13:25.345+09:00",
-  "count": 10,
+  "updatedAt": "2026-05-14T23:26:42.767+09:00",
+  "count": 11,
   "articles": [
     {
       "isSighting": true,
@@ -192,6 +192,25 @@
       "wpPostId": 6194,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-hyogo-ono-2026-05-14/",
       "postedAt": "2026-05-14T20:13:33.102+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "東京都",
+      "city": "渋谷区",
+      "shopName": "渋谷サクラステージ SHIBUYAサイド3階 キャラコレ（ポムポムプリン POP-UP STORE）",
+      "shopAddress": "東京都渋谷区桜丘町1-1 渋谷サクラステージ SHIBUYAサイド3階",
+      "productName": "ぷっくりシール",
+      "sightingTime": "2026-05-14 02:09頃",
+      "statusText": "品切れ（再入荷未定）",
+      "confidenceMemo": "マリモクラフト公式イベントアカウントによる在庫状況の報告",
+      "sourceUrl": "https://x.com/marimocraft_eve/status/2054898157113471325",
+      "sourceTweetId": "2054898157113471325",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2054898157113471325.png",
+      "isPosted": true,
+      "wpPostId": 6196,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-tokyo-shibuya-2026-05-14-2/",
+      "postedAt": "2026-05-14T23:26:49.273+09:00"
     }
   ]
 }
