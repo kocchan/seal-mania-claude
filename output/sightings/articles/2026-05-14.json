@@ -1,7 +1,7 @@
 {
   "date": "2026-05-14",
-  "updatedAt": "2026-05-14T17:47:02.343+09:00",
-  "count": 9,
+  "updatedAt": "2026-05-14T20:13:25.345+09:00",
+  "count": 10,
   "articles": [
     {
       "isSighting": true,
@@ -173,6 +173,25 @@
       "wpPostId": 6192,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-hyogo-akashi-2026-05-14/",
       "postedAt": "2026-05-14T17:47:08.120+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "兵庫県",
+      "city": "小野市",
+      "shopName": "シャープアンドフラット",
+      "shopAddress": "兵庫県小野市中町313-2",
+      "productName": "ボンボンドロップシール（クーリア正規品）",
+      "sightingTime": "2026-05-14 19:50頃",
+      "statusText": "入荷（在庫あり、個数制限なし）",
+      "confidenceMemo": "店舗公式アカウント（@SHARPandFLAT313）による入荷案内。アカウント名およびIDの数字（313）が住所の地番と一致するため、信頼性が極めて高い。",
+      "sourceUrl": "https://x.com/SHARPandFLAT313/status/2054877227448492272",
+      "sourceTweetId": "2054877227448492272",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2054877227448492272.png",
+      "isPosted": true,
+      "wpPostId": 6194,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-hyogo-ono-2026-05-14/",
+      "postedAt": "2026-05-14T20:13:33.102+09:00"
     }
   ]
 }
