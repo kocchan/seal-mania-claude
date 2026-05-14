@@ -1,7 +1,7 @@
 {
   "date": "2026-05-14",
-  "updatedAt": "2026-05-14T12:38:58.126+09:00",
-  "count": 6,
+  "updatedAt": "2026-05-14T15:21:38.793+09:00",
+  "count": 8,
   "articles": [
     {
       "isSighting": true,
@@ -116,6 +116,44 @@
       "wpPostId": 6186,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-hyogo-higashinada-kobe-2026-05-13-2/",
       "postedAt": "2026-05-14T12:39:34.349+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "神奈川県",
+      "city": "伊勢原市",
+      "shopName": "クリエイトSD 伊勢原一丁目店",
+      "shopAddress": "神奈川県伊勢原市伊勢原1-3-42",
+      "productName": "ボンボンドロップシール サンリオ（文字タイプ）",
+      "sightingTime": "2026-05-14 04:32頃",
+      "statusText": "在庫あり（お一人様2点までの購入制限あり）",
+      "confidenceMemo": "具体的な店舗名の記載に加え、購入制限に関する詳細な言及があるため信頼性が非常に高い。",
+      "sourceUrl": "https://x.com/co_azusa/status/2054781818235474229",
+      "sourceTweetId": "2054781818235474229",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2054781818235474229.png",
+      "isPosted": true,
+      "wpPostId": 6188,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-kanagawa-isehara-2026-05-14/",
+      "postedAt": "2026-05-14T15:21:46.044+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "千葉県",
+      "city": "千葉市美浜区",
+      "shopName": "マリーンズストア",
+      "shopAddress": "千葉県千葉市美浜区美浜1 ZOZOマリンスタジアム内",
+      "productName": "マリーンズ ボンボンドロップシール",
+      "sightingTime": "2026-05-14 03:02頃",
+      "statusText": "2026-05-22より予約販売開始予定",
+      "confidenceMemo": "公式発表および日刊スポーツによる新商品発売・予約開始情報。正確な店舗（球団ショップ）と商品名が一致。",
+      "sourceUrl": "https://x.com/nuko_game15/status/2054788678913028384",
+      "sourceTweetId": "2054788678913028384",
+      "isPrediction": true,
+      "imagePath": "output/sightings/images/2054788678913028384.png",
+      "isPosted": true,
+      "wpPostId": 6190,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-chiba-mihama-chiba-2026-05-14/",
+      "postedAt": "2026-05-14T15:21:53.183+09:00"
     }
   ]
 }
