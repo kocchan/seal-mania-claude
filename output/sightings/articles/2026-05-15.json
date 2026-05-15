@@ -1,7 +1,7 @@
 {
   "date": "2026-05-15",
-  "updatedAt": "2026-05-15T17:58:25.451+09:00",
-  "count": 22,
+  "updatedAt": "2026-05-15T20:18:17.763+09:00",
+  "count": 24,
   "articles": [
     {
       "isSighting": true,
@@ -420,6 +420,44 @@
       "wpPostId": 6244,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-tokyo-akishima-2026-05-15/",
       "postedAt": "2026-05-15T17:58:58.807+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "東京都",
+      "city": "立川市",
+      "shopName": "ビックカメラ立川店 (立川たん)",
+      "shopAddress": "東京都立川市曙町2-12-2",
+      "productName": "サンリオ ボンボンドロップシール（ポチャッコ、ポムポムプリン等）",
+      "sightingTime": "2026-05-15 19:49頃",
+      "statusText": "緊急入荷・在庫あり",
+      "confidenceMemo": "店舗の擬人化アカウント「立川たん」への言及および具体的な購入報告から信頼性が高い",
+      "sourceUrl": "https://x.com/achamoorange/status/2055239161326841884",
+      "sourceTweetId": "2055239161326841884",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2055239161326841884.png",
+      "isPosted": true,
+      "wpPostId": 6246,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-tokyo-tachikawa-2026-05-15/",
+      "postedAt": "2026-05-15T20:18:23.432+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "東京都",
+      "city": "世田谷区",
+      "shopName": "スガナミ楽器経堂店・グランドピアノサロン",
+      "shopAddress": "東京都世田谷区宮坂2-19-5 松原ビル 3階",
+      "productName": "BONBONドロップシール",
+      "sightingTime": "2026-05-15 09:06頃",
+      "statusText": "4種類の柄が入荷・在庫あり",
+      "confidenceMemo": "店舗公式アカウントによる入荷・在庫告知のため信頼性が非常に高い",
+      "sourceUrl": "https://x.com/SuganamiKyodo/status/2055213289576206408",
+      "sourceTweetId": "2055213289576206408",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2055213289576206408.png",
+      "isPosted": true,
+      "wpPostId": 6248,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-tokyo-setagaya-2026-05-15/",
+      "postedAt": "2026-05-15T20:18:29.057+09:00"
     }
   ]
 }
