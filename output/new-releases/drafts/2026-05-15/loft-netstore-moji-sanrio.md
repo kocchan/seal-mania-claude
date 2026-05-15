@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-05-15T05:06:36.888Z"
+wpPostUrl: "https://www.seal-search.com/news/reservation/loft-netstore-moji-sanrio-20260518/"
+wpPostId: 6226
+posted: true
 type: lottery
 status: draft
 imageGenerated: true
