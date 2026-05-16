@@ -30,6 +30,16 @@ collect → generate-article → images → post → git push
 
 詳細: [docs/lotteryinfo-architecture.md](docs/lotteryinfo-architecture.md)
 
+### 3. 新作情報 RSS スクレイプ
+
+Google アラート等の RSS フィードから新作情報を日次取得し、記事 URL をスクレイピングして本文・OGP 画像 URL を保存する。GitHub Actions が毎日 9:00 JST に自動実行。
+
+```bash
+npm run rss:scrape
+```
+
+詳細: [docs/rss/scrape.md](docs/rss/scrape.md)
+
 ## セットアップ
 
 ```bash
@@ -55,6 +65,9 @@ YAHOO_CLIENT_ID=your-yahoo-client-id
 
 # Apify（Threads収集）
 APIFY_TOKEN=your-apify-token
+
+# RSS スクレイプ（カンマ区切りで複数指定可、Google アラート等）
+RSS_FEED_URLS=https://www.google.com/alerts/feeds/XXXX/YYYY
 ```
 
 ## テーマ設定
@@ -105,20 +118,26 @@ seal-mania-claude/
 │   ├── generate-images.js                # 画像生成スクリプト
 │   └── post-wordpress.js                 # WordPress投稿スクリプト
 │
+├── scripts/rss/
+│   └── scrape.js                         # RSS取得＋本文スクレイピング
+│
 ├── config/
 │   ├── sightings.json                    # 目撃情報テーマ設定
-│   └── lotteryinfo.json                  # 抽選販売カテゴリ設定
+│   ├── lotteryinfo.json                  # 抽選販売カテゴリ設定
+│   └── rss.json                          # RSS設定
 │
 ├── output/
 │   ├── lottery-info/
 │   │   ├── raw/{date}/                   # 収集したrawデータ
 │   │   ├── drafts/{date}/                # 生成した記事
 │   │   └── images/{date}/                # 生成した画像
+│   ├── rss/{date}/                       # RSSから取得した記事
 │   └── blog/
 │       └── raw/                          # 目撃情報rawデータ
 │
 └── docs/
-    └── lotteryinfo-architecture.md       # アーキテクチャドキュメント
+    ├── lotteryinfo-architecture.md       # アーキテクチャドキュメント
+    └── rss/scrape.md                     # RSS取得ドキュメント
 ```
 
 ## スクリプト
@@ -127,6 +146,9 @@ seal-mania-claude/
 # 抽選販売
 npm run lotteryinfo:images    # 画像生成
 npm run lotteryinfo:post      # WordPress投稿
+
+# 新作情報 RSS
+npm run rss:scrape # RSS取得＋スクレイピング
 
 # 目撃情報
 npm run scrape:yahoo          # Yahoo経由でX収集

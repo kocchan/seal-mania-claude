@@ -12,6 +12,7 @@
     "post:wordpress": "node scripts/sightings/post-wordpress.js",
     "lotteryinfo:images": "node scripts/lotteryinfo/generate-images.js",
     "lotteryinfo:post": "node scripts/lotteryinfo/post-wordpress.js",
+    "rss:scrape": "node scripts/rss/scrape.js",
     "weekly-roundup:generate": "node scripts/weekly-roundup/weekly-roundup-generate.js",
     "weekly-roundup:images": "node scripts/weekly-roundup/weekly-roundup-images.js",
     "weekly-roundup:post": "node scripts/weekly-roundup/weekly-roundup-post.js",
@@ -21,6 +22,7 @@
     "@google/generative-ai": "^0.24.1",
     "axios": "^1.15.2",
     "canvas": "^3.2.3",
+    "cheerio": "^1.2.0",
     "dotenv": "^17.4.2",
     "playwright": "^1.40.0"
   }

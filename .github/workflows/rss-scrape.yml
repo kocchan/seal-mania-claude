@@ -1,0 +1,56 @@
+name: RSS スクレイプ
+
+# 必要な GitHub Secrets:
+#   RSS_FEED_URLS - カンマ区切りの RSS フィード URL（Google アラート等）
+
+on:
+  schedule:
+    # 毎日 9:00 JST (= 00:00 UTC) に実行
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+concurrency:
+  group: rss-scrape
+  cancel-in-progress: false
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: チェックアウト
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Node.js セットアップ
+        uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+          cache: 'npm'
+
+      - name: 依存関係インストール
+        run: npm ci
+
+      - name: Playwright Chromium インストール
+        run: npx playwright install --with-deps chromium
+
+      - name: 📡 RSS スクレイプ実行
+        run: npm run rss:scrape
+        env:
+          RSS_FEED_URLS: ${{ secrets.RSS_FEED_URLS }}
+
+      - name: 💾 取得結果をコミット
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add output/rss
+          if git diff --staged --quiet; then
+            echo "変更なし - コミットをスキップ"
+          else
+            git commit -m "chore: RSS取得 [skip ci]"
+            git push
+          fi

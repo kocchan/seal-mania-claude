@@ -1,0 +1,18 @@
+{
+  "rss": {
+    "feedUrlsEnv": "RSS_FEED_URLS",
+    "maxItemsPerFeed": 30,
+    "filterKeywords": ["シール"]
+  },
+  "output": {
+    "rssDir": "output/rss"
+  },
+  "scraping": {
+    "timeoutMs": 20000,
+    "userAgent": "Mozilla/5.0 (compatible; SealManiaBot/1.0; +https://github.com/kocchan/seal-mania-claude)",
+    "minBodyChars": 200,
+    "useFallbackPlaywright": true,
+    "concurrentRequests": 3,
+    "delayMsBetweenRequests": 1000
+  }
+}
