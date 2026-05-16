@@ -1,7 +1,7 @@
 {
   "date": "2026-05-16",
-  "updatedAt": "2026-05-16T22:45:08.018+09:00",
-  "count": 37,
+  "updatedAt": "2026-05-17T06:44:25.934+09:00",
+  "count": 39,
   "articles": [
     {
       "isSighting": true,
@@ -705,6 +705,44 @@
       "wpPostId": 6384,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-tokyo-shibuya-2026-05-16-2/",
       "postedAt": "2026-05-16T22:46:00.432+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "東京都",
+      "city": "練馬区",
+      "shopName": "ファミリーマート 石神井公園駅前周辺店舗",
+      "shopAddress": "東京都練馬区石神井町",
+      "productName": "サンリオ ボンボンドロップシール",
+      "sightingTime": "2026-05-17 19:54頃",
+      "statusText": "在庫あり（残り3個）",
+      "confidenceMemo": "具体的な店舗エリアと在庫数の記載があり信頼性が高い",
+      "sourceUrl": "https://x.com/fumi23_fumi23_b/status/2055738805878206564",
+      "sourceTweetId": "2055738805878206564",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2055738805878206564.png",
+      "isPosted": true,
+      "wpPostId": 6386,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-tokyo-nerima-2026-05-17/",
+      "postedAt": "2026-05-17T06:44:31.865+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "新潟県",
+      "city": "新潟市中央区",
+      "shopName": "smikko FURUMACHI (ダブルクラッチ ポップアップ)",
+      "shopAddress": "新潟県新潟市中央区古町通",
+      "productName": "ボンボンドロップシール",
+      "sightingTime": "2026-05-17 15:23頃",
+      "statusText": "在庫あり（販売価格が1,200円〜3,000円と高額設定の報告あり）",
+      "confidenceMemo": "地域名・店舗名・価格の詳細が記載されており信頼性が高い",
+      "sourceUrl": "https://x.com/eeetp4/status/2055670412949008824",
+      "sourceTweetId": "2055670412949008824",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2055670412949008824.png",
+      "isPosted": true,
+      "wpPostId": 6388,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-niigata-chuo-niigata-2026-05-17/",
+      "postedAt": "2026-05-17T06:44:38.300+09:00"
     }
   ]
 }
