@@ -168,8 +168,11 @@ seal-mania-claude/
 npm run lotteryinfo:images    # 画像生成
 npm run lotteryinfo:post      # WordPress投稿
 
+# 新作情報
+npm run newproduct:post       # WordPress投稿（output/newproduct/drafts/）
+
 # 新作情報 RSS
-npm run rss:scrape # RSS取得＋スクレイピング
+npm run rss:scrape            # RSS取得＋スクレイピング
 
 # 目撃情報
 npm run scrape:yahoo          # Yahoo経由でX収集

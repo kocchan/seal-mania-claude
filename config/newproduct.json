@@ -1,0 +1,30 @@
+{
+  "theme": {
+    "name": "ボンボンドロップシール 新作",
+    "keywords": ["ボンボンドロップシール", "ぷっくりシール", "新作", "コラボ"]
+  },
+  "output": {
+    "draftsDir": "output/newproduct/drafts",
+    "imagesDir": "output/newproduct/images"
+  },
+  "wordpress": {
+    "categoryMap": {
+      "新作情報": 917,
+      "今月の新作": 917,
+      "オンライン通販": 919,
+      "キャラクターシール": 928,
+      "サンリオ": 930,
+      "ちいかわ": 933
+    },
+    "defaultTags": [
+      "新作",
+      "ボンボンドロップシール"
+    ],
+    "characterCategories": {
+      "ちいかわ": 933,
+      "サンリオ": 930,
+      "moji": 930
+    },
+    "_note": "categoryMap.新作情報 は WordPress 側の既存カテゴリ「今月の新作」(term ID=917, slug=new-item) にマッピング"
+  }
+}

@@ -1,4 +1,4 @@
-name: 抽選販売記事 WordPress投稿
+name: 抽選・新作記事 WordPress投稿
 
 # 必要な GitHub Secrets:
 #   WP_API_URL          - 例: https://www.seal-search.com/wp-json/wp/v2
@@ -16,6 +16,7 @@ on:
     branches: [main]
     paths:
       - 'output/lottery-info/drafts/**/*.md'
+      - 'output/newproduct/drafts/**/*.md'
   workflow_dispatch:
 
 concurrency:
@@ -77,8 +78,18 @@ jobs:
       - name: 依存関係インストール
         run: npm ci
 
-      - name: 🚀 WordPress 投稿
+      - name: 🚀 WordPress 投稿（抽選）
         run: npm run lotteryinfo:post
+        env:
+          WP_API_URL: ${{ secrets.WP_API_URL }}
+          WP_USER: ${{ secrets.WP_USER }}
+          WP_APP_PASSWORD: ${{ secrets.WP_APP_PASSWORD }}
+          YAHOO_CLIENT_ID: ${{ secrets.YAHOO_CLIENT_ID }}
+          AMAZON_ASSOCIATE_ID: ${{ secrets.AMAZON_ASSOCIATE_ID }}
+          RAKUTEN_AFFILIATE_ID: ${{ secrets.RAKUTEN_AFFILIATE_ID }}
+
+      - name: 🚀 WordPress 投稿（新作）
+        run: npm run newproduct:post
         env:
           WP_API_URL: ${{ secrets.WP_API_URL }}
           WP_USER: ${{ secrets.WP_USER }}
@@ -91,10 +102,10 @@ jobs:
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          git add output/lottery-info/drafts
+          git add output/lottery-info/drafts output/newproduct/drafts
           if git diff --staged --quiet; then
             echo "変更なし - コミットをスキップ"
           else
-            git commit -m "chore: 抽選販売記事のpostedフラグ更新 [skip ci]"
+            git commit -m "chore: 抽選/新作記事のpostedフラグ更新 [skip ci]"
             git push
           fi
