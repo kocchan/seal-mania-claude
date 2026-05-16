@@ -1,7 +1,7 @@
 {
   "date": "2026-05-16",
-  "updatedAt": "2026-05-16T14:50:53.393+09:00",
-  "count": 21,
+  "updatedAt": "2026-05-16T17:13:07.829+09:00",
+  "count": 24,
   "articles": [
     {
       "isSighting": true,
@@ -401,6 +401,63 @@
       "wpPostId": 6351,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-tokyo-taito-2026-05-16/",
       "postedAt": "2026-05-16T14:51:39.324+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "静岡県",
+      "city": "沼津市",
+      "shopName": "くまざわ書店沼津アントレ店",
+      "shopAddress": "静岡県沼津市大手町1-1-1 沼津アントレ 2F",
+      "productName": "ボンボンドロップシール 4種",
+      "sightingTime": "2026-05-16 06:46頃",
+      "statusText": "入荷（1家族2点まで、同柄不可）",
+      "confidenceMemo": "店舗公式アカウントによる入荷・販売ルールのアナウンス",
+      "sourceUrl": "https://x.com/kumazawa_numazu/status/2055540272654909538",
+      "sourceTweetId": "2055540272654909538",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2055540272654909538.png",
+      "isPosted": true,
+      "wpPostId": 6354,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-shizuoka-numazu-2026-05-16/",
+      "postedAt": "2026-05-16T17:13:13.270+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "静岡県",
+      "city": "藤枝市",
+      "shopName": "TSUTAYA藤枝瀬戸新屋店",
+      "shopAddress": "静岡県藤枝市瀬戸新屋211",
+      "productName": "ボンボンドロップ",
+      "sightingTime": "2026-05-16 06:05頃",
+      "statusText": "在庫あり（アミューズメント景品、在庫限り）",
+      "confidenceMemo": "店舗公式アカウントによるアミューズメントコーナーの在庫更新情報",
+      "sourceUrl": "https://x.com/TSUTAYA_fujieda/status/2055530113832546543",
+      "sourceTweetId": "2055530113832546543",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2055530113832546543.png",
+      "isPosted": true,
+      "wpPostId": 6356,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-shizuoka-fujieda-2026-05-16/",
+      "postedAt": "2026-05-16T17:13:19.278+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "兵庫県",
+      "city": "神戸市中央区",
+      "shopName": "アートセンターハヤカワ",
+      "shopAddress": "兵庫県神戸市中央区三宮町2-10-7",
+      "productName": "フエキくん ぷっくりシール",
+      "sightingTime": "2026-05-16 16:40頃",
+      "statusText": "入荷・在庫あり",
+      "confidenceMemo": "店舗公式アカウント（画材文具店）による入荷・販売告知。商品名はフエキくんデザインのぷっくりシール。",
+      "sourceUrl": "https://x.com/arthayakawa/status/2055553847356227769",
+      "sourceTweetId": "2055553847356227769",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2055553847356227769.png",
+      "isPosted": true,
+      "wpPostId": 6358,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-hyogo-chuo-kobe-2026-05-16/",
+      "postedAt": "2026-05-16T17:13:24.931+09:00"
     }
   ]
 }
