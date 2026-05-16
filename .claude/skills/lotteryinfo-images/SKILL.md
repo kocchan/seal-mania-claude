@@ -2,24 +2,24 @@
 
 draftsの記事内容をもとに、Gemini AIでアイキャッチ画像を生成する。
 
-**このスキルの役割**: `output/new-releases/drafts/` の記事 → 画像生成 → `output/new-releases/images/` に保存
+**このスキルの役割**: `output/lottery-info/drafts/` の記事 → 画像生成 → `output/lottery-info/images/` に保存
 
 ## 実行方法
 
 ```bash
-claude "/newreleases-images"
+claude "/lotteryinfo-images"
 ```
 
 ## 入力
 
-`output/new-releases/drafts/{date}/{slug}.md` 内のMarkdownファイル
+`output/lottery-info/drafts/{date}/{slug}.md` 内のMarkdownファイル
 
 対象条件:
 - frontmatter に `imageGenerated: true` が**ない**もの
 
 ## 出力
 
-- 画像: `output/new-releases/images/{date}/{slug}.png`
+- 画像: `output/lottery-info/images/{date}/{slug}.png`
 - 処理済みフラグ: 対象mdファイルの frontmatter に `imageGenerated: true` を追加
 
 ## 処理フロー
@@ -27,7 +27,7 @@ claude "/newreleases-images"
 ### 1. 対象ファイルを検索
 
 ```bash
-ls output/new-releases/drafts/
+ls output/lottery-info/drafts/
 ```
 
 各ファイルの frontmatter を確認し、`imageGenerated: true` が**ない**ファイルを対象とする。
@@ -143,9 +143,9 @@ if (part && part.inlineData && part.inlineData.data) {
 
 ### 5. 画像を保存
 
-保存先: `output/new-releases/images/{date}/{slug}.png`
+保存先: `output/lottery-info/images/{date}/{slug}.png`
 
-例: `output/new-releases/images/2026-05-06/partyrico-fujimi-chiikawa.png`
+例: `output/lottery-info/images/2026-05-06/partyrico-fujimi-chiikawa.png`
 
 ### 6. frontmatterを更新
 
@@ -164,7 +164,7 @@ imageGenerated: true  # ← この行を追加
 ### 7. git commit & push
 
 ```bash
-git add output/new-releases/images/ output/new-releases/drafts/
+git add output/lottery-info/images/ output/lottery-info/drafts/
 git commit -m "chore: 画像を生成 [skip ci]"
 git push
 ```
@@ -208,7 +208,7 @@ await new Promise(resolve => setTimeout(resolve, 1000));
 ```
 ✅ 画像生成完了: {件数}件
 
-保存先: output/new-releases/images/
+保存先: output/lottery-info/images/
 - {ファイル1}
 - {ファイル2}
 
@@ -225,6 +225,6 @@ await new Promise(resolve => setTimeout(resolve, 1000));
 
 | 種類 | パス |
 |------|------|
-| 入力 | `output/new-releases/drafts/{date}/{slug}.md` |
-| 出力（画像） | `output/new-releases/images/{date}/{slug}.png` |
+| 入力 | `output/lottery-info/drafts/{date}/{slug}.md` |
+| 出力（画像） | `output/lottery-info/images/{date}/{slug}.png` |
 | 出力（フラグ） | 入力ファイルのfrontmatterに `imageGenerated: true` を追加 |

@@ -2,14 +2,14 @@
 
 受付中の抽選販売情報を収集し、rawデータとして保存する。
 
-**このスキルの役割**: 情報収集 → `output/new-releases/raw/` に保存まで
+**このスキルの役割**: 情報収集 → `output/lottery-info/raw/` に保存まで
 
-**記事生成は別スキル**: `/newreleases-generate-article` で実行
+**記事生成は別スキル**: `/lotteryinfo-generate-article` で実行
 
 ## 実行方法
 
 ```bash
-claude "/newreleases-collect"
+claude "/lotteryinfo-collect"
 ```
 
 ## 情報取得元
@@ -46,7 +46,7 @@ date "+%Y-%m-%d %H:%M:%S %Z"
 
 ```bash
 # 既存のeventId/eventUrlを取得
-grep -h "eventId\|eventUrl" output/new-releases/raw/*/*.md 2>/dev/null
+grep -h "eventId\|eventUrl" output/lottery-info/raw/*/*.md 2>/dev/null
 ```
 
 #### 重複判定ルール
@@ -124,7 +124,7 @@ Google Places APIまたはWebSearchで:
 
 ### 4. rawデータの保存
 
-出力先: `output/new-releases/raw/{date}/`
+出力先: `output/lottery-info/raw/{date}/`
 
 ファイル名: `{店舗名slug}-{商品カテゴリ}.md`
 
@@ -189,7 +189,7 @@ images:
 ### 5. git commit & push
 
 ```bash
-git add output/new-releases/raw/
+git add output/lottery-info/raw/
 git commit -m "chore: 新商品・抽選情報を収集 [skip ci]"
 git push
 ```
@@ -201,26 +201,26 @@ git push
 ```
 ✅ 収集完了: {件数}件のrawデータを保存しました
 
-保存先: output/new-releases/raw/{date}/
+保存先: output/lottery-info/raw/{date}/
 - {ファイル1}
 - {ファイル2}
 
 👉 記事を生成するには以下を実行:
-   claude "/newreleases-generate-article"
+   claude "/lotteryinfo-generate-article"
 ```
 
 ## 入出力
 
 | 種類 | パス |
 |------|------|
-| 出力 | `output/new-releases/raw/{date}/` |
+| 出力 | `output/lottery-info/raw/{date}/` |
 
 ## 実行タイミング
 
 cron: 毎日 6:00 / 12:00 / 18:00
 
 ```cron
-0 6,12,18 * * * cd /path/to/seal-mania-claude && claude -p "/newreleases-collect"
+0 6,12,18 * * * cd /path/to/seal-mania-claude && claude -p "/lotteryinfo-collect"
 ```
 
 ## 競合との差別化

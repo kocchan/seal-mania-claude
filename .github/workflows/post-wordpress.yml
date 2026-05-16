@@ -15,7 +15,7 @@ on:
   push:
     branches: [main]
     paths:
-      - 'output/new-releases/drafts/**/*.md'
+      - 'output/lottery-info/drafts/**/*.md'
   workflow_dispatch:
 
 concurrency:
@@ -78,7 +78,7 @@ jobs:
         run: npm ci
 
       - name: 🚀 WordPress 投稿
-        run: npm run newreleases:post
+        run: npm run lotteryinfo:post
         env:
           WP_API_URL: ${{ secrets.WP_API_URL }}
           WP_USER: ${{ secrets.WP_USER }}
@@ -91,7 +91,7 @@ jobs:
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          git add output/new-releases/drafts
+          git add output/lottery-info/drafts
           if git diff --staged --quiet; then
             echo "変更なし - コミットをスキップ"
           else

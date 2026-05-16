@@ -6,7 +6,7 @@
 
 - **実行タイミング**: 毎日 17:00（cron）
 - **実行環境**: ローカルMac + Claude Code CLI
-- **入力**: `output/new-releases/drafts/` の下書き（approved: true, posted: false）
+- **入力**: `output/lottery-info/drafts/` の下書き（approved: true, posted: false）
 - **出力**: WordPressに投稿、下書きファイルを posted: true に更新
 
 ## 前提
@@ -58,7 +58,7 @@ brush-up-flowが完了し、下書きが approved: true になっている状態
 ### 例
 
 ```
-output/new-releases/drafts/
+output/lottery-info/drafts/
 ├── 2026-05-01-sanrio-moji.md     # approved: true, posted: false → 投稿対象
 ├── 2026-04-28-wagara-vol2.md     # approved: true, posted: true  → スキップ
 └── 2026-05-02-chiikawa-new.md    # approved: false               → スキップ
@@ -118,7 +118,7 @@ WordPress REST APIで投稿する。
 ```json
 {
   "id": 12345,
-  "link": "https://your-site.com/new-releases/sanrio-moji-2026/"
+  "link": "https://your-site.com/lottery-info/sanrio-moji-2026/"
 }
 ```
 
@@ -137,7 +137,7 @@ posted: false
 approved: true
 posted: true
 wpPostId: 12345
-wpPostUrl: "https://your-site.com/new-releases/sanrio-moji-2026/"
+wpPostUrl: "https://your-site.com/lottery-info/sanrio-moji-2026/"
 postedAt: "2026-05-01T09:00:00+09:00"
 ```
 
@@ -152,7 +152,7 @@ postedAt: "2026-05-01T09:00:00+09:00"
     {
       "color": "#36a64f",
       "title": "【速報】サンリオキャラクターズ moji 全8種が5月発売",
-      "title_link": "https://your-site.com/new-releases/sanrio-moji-2026/",
+      "title_link": "https://your-site.com/lottery-info/sanrio-moji-2026/",
       "text": "WordPress投稿ID: 12345"
     }
   ]
@@ -163,19 +163,19 @@ postedAt: "2026-05-01T09:00:00+09:00"
 
 ```cron
 # 毎日17時に投稿処理
-0 17 * * * cd /path/to/seal-mania-claude && claude -p "/newreleases-post"
+0 17 * * * cd /path/to/seal-mania-claude && claude -p "/lotteryinfo-post"
 ```
 
 ## スキル定義
 
-`.claude/skills/newreleases-post/SKILL.md`
+`.claude/skills/lotteryinfo-post/SKILL.md`
 
 ```markdown
 # 新商品記事投稿スキル
 
 ## タスク
 
-1. output/new-releases/drafts/ を読み込む
+1. output/lottery-info/drafts/ を読み込む
 
 2. 以下の条件を満たす下書きを検出:
    - approved: true
@@ -202,7 +202,7 @@ postedAt: "2026-05-01T09:00:00+09:00"
 WP_API_URL=https://your-wordpress-site.com/wp-json/wp/v2
 WP_USER=username
 WP_APP_PASSWORD=xxxx-xxxx-xxxx-xxxx
-WP_CATEGORY_NEW_RELEASES=123
+WP_CATEGORY_LOTTERY_INFO=123
 
 # アフィリエイト
 AMAZON_ASSOCIATE_ID=your-tag-22
@@ -231,7 +231,7 @@ SLACK_WEBHOOK_URL=https://hooks.slack.com/services/...
 [Step 3] WordPress投稿
 [Post] 投稿中...
 [Post] ✅ 投稿完了: ID 12345
-[Post] URL: https://your-site.com/new-releases/sanrio-moji-2026/
+[Post] URL: https://your-site.com/lottery-info/sanrio-moji-2026/
 
 [Step 4] フラグ更新・通知
 [Post] posted: true に更新

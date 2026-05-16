@@ -6,7 +6,7 @@ Slack for Claudeで人間と会話しながら、下書き記事をブラッシ�
 
 - **実行タイミング**: 人間がSlack通知を見たタイミング（随時）
 - **実行環境**: Slack for Claude
-- **入力**: `output/new-releases/drafts/` の下書き（approved: false）
+- **入力**: `output/lottery-info/drafts/` の下書き（approved: false）
 - **出力**: ブラッシュアップ済みの下書き（approved: true）
 
 ## 前提
@@ -159,7 +159,7 @@ SNSで早くも話題沸騰中の新作が発表されました。
 🤖 Claude:
 下書きを更新しました。
 
-📝 ファイル: output/new-releases/drafts/2026-05-01-sanrio-moji.md
+📝 ファイル: output/lottery-info/drafts/2026-05-01-sanrio-moji.md
 ✅ ステータス: approved: true
 🔄 git push: 完了
 

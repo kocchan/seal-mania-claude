@@ -2,13 +2,13 @@
  * 記事から画像を生成する（Gemini AI使用）
  *
  * 使い方:
- *   node scripts/newreleases/generate-images.js
+ *   node scripts/lotteryinfo/generate-images.js
  *
  * 入力:
- *   output/new-releases/drafts/{date}/{slug}.md
+ *   output/lottery-info/drafts/{date}/{slug}.md
  *
  * 出力:
- *   output/new-releases/images/{date}/{slug}.png
+ *   output/lottery-info/images/{date}/{slug}.png
  *
  * 機能:
  *   - Gemini AIで画像生成
@@ -27,8 +27,8 @@ dotenv.config();
 // 設定
 // =====================================
 const CONFIG = {
-  draftsDir: 'output/new-releases/drafts',
-  imagesDir: 'output/new-releases/images'
+  draftsDir: 'output/lottery-info/drafts',
+  imagesDir: 'output/lottery-info/images'
 };
 
 // Gemini API クライアントの初期化

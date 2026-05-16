@@ -4,9 +4,9 @@
     "keywords": ["ボンボンドロップシール", "ボンドロ", "抽選販売"]
   },
   "output": {
-    "draftsDir": "output/new-releases/drafts",
-    "imagesDir": "output/new-releases/images",
-    "rawDir": "output/new-releases/raw"
+    "draftsDir": "output/lottery-info/drafts",
+    "imagesDir": "output/lottery-info/images",
+    "rawDir": "output/lottery-info/raw"
   },
   "wordpress": {
     "categoryMap": {

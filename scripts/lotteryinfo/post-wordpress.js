@@ -2,11 +2,11 @@
  * 抽選販売記事をWordPressに投稿する
  *
  * 使い方:
- *   node scripts/newreleases/post-wordpress.js
+ *   node scripts/lotteryinfo/post-wordpress.js
  *
  * 入力:
- *   output/new-releases/drafts/{date}/{slug}.md
- *   output/new-releases/images/{date}/{slug}.png
+ *   output/lottery-info/drafts/{date}/{slug}.md
+ *   output/lottery-info/images/{date}/{slug}.png
  *
  * 機能:
  *   - Markdown記事をWordPressに投稿
@@ -25,12 +25,12 @@ const __dirname = path.dirname(fileURLToPath(import.meta.url));
 // =====================================
 // 設定読み込み
 // =====================================
-const configPath = path.join(__dirname, '../../config/newreleases.json');
+const configPath = path.join(__dirname, '../../config/lotteryinfo.json');
 const config = JSON.parse(fs.readFileSync(configPath, 'utf-8'));
 
 const CONFIG = {
-  draftsDir: config.output?.draftsDir || 'output/new-releases/drafts',
-  imagesDir: config.output?.imagesDir || 'output/new-releases/images',
+  draftsDir: config.output?.draftsDir || 'output/lottery-info/drafts',
+  imagesDir: config.output?.imagesDir || 'output/lottery-info/images',
   waitMs: 2000,
 
   // アフィリエイトID

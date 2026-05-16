@@ -5,7 +5,7 @@
 ## 実行方法
 
 ```bash
-claude "/newreleases-pipeline"
+claude "/lotteryinfo-pipeline"
 ```
 
 ## パイプライン概要
@@ -22,12 +22,12 @@ claude "/newreleases-pipeline"
 
 ```bash
 # スキル実行
-/newreleases-collect
+/lotteryinfo-collect
 ```
 
 **処理内容:**
 - LivePocket/店舗Xから抽選情報を収集
-- `output/new-releases/raw/{date}/` にrawデータを保存
+- `output/lottery-info/raw/{date}/` にrawデータを保存
 
 **成功条件:** rawファイルが1件以上生成されること
 
@@ -37,12 +37,12 @@ claude "/newreleases-pipeline"
 
 ```bash
 # スキル実行
-/newreleases-generate-article
+/lotteryinfo-generate-article
 ```
 
 **処理内容:**
 - rawデータを読み込み、WordPress用記事を生成
-- `output/new-releases/drafts/{date}/` に記事を保存
+- `output/lottery-info/drafts/{date}/` に記事を保存
 
 **成功条件:** draftsファイルが1件以上生成されること
 
@@ -52,12 +52,12 @@ claude "/newreleases-pipeline"
 
 ```bash
 # スキル実行
-/newreleases-images
+/lotteryinfo-images
 ```
 
 **処理内容:**
 - drafts記事を読み込み、Gemini AIでアイキャッチ画像を生成
-- `output/new-releases/images/{date}/` に画像を保存
+- `output/lottery-info/images/{date}/` に画像を保存
 - 処理済みdraftsに `imageGenerated: true` を追加
 
 **成功条件:** `imageGenerated: true` のファイルが1件以上あること
@@ -68,7 +68,7 @@ claude "/newreleases-pipeline"
 
 ```bash
 # スキル実行
-/newreleases-post
+/lotteryinfo-post
 ```
 
 **処理内容:**
@@ -85,23 +85,23 @@ claude "/newreleases-pipeline"
 ```bash
 # Phase 1: 情報収集
 echo "=== Phase 1: 情報収集 ==="
-# /newreleases-collect を実行
+# /lotteryinfo-collect を実行
 
 # Phase 2: 記事生成
 echo "=== Phase 2: 記事生成 ==="
-# /newreleases-generate-article を実行
+# /lotteryinfo-generate-article を実行
 
 # Phase 3: 画像生成
 echo "=== Phase 3: 画像生成 ==="
-npm run newreleases:images
+npm run lotteryinfo:images
 
 # Phase 4: WordPress投稿
 echo "=== Phase 4: WordPress投稿 ==="
-npm run newreleases:post
+npm run lotteryinfo:post
 
 # Phase 5: git push
 echo "=== Phase 5: git commit & push ==="
-git add output/new-releases/
+git add output/lottery-info/
 git commit -m "chore: 抽選販売パイプライン実行 [skip ci]"
 git push
 ```
@@ -145,7 +145,7 @@ git push
 
 ```cron
 # 毎日 7:00 にパイプライン実行
-0 7 * * * cd /path/to/seal-mania-claude && claude -p "/newreleases-pipeline"
+0 7 * * * cd /path/to/seal-mania-claude && claude -p "/lotteryinfo-pipeline"
 ```
 
 ## 部分実行
@@ -154,16 +154,16 @@ git push
 
 ```bash
 # Phase 2から開始（rawデータは既にある）
-claude "/newreleases-generate-article"
-npm run newreleases:images
-npm run newreleases:post
+claude "/lotteryinfo-generate-article"
+npm run lotteryinfo:images
+npm run lotteryinfo:post
 
 # Phase 3から開始（draftsは既にある）
-npm run newreleases:images
-npm run newreleases:post
+npm run lotteryinfo:images
+npm run lotteryinfo:post
 
 # Phase 4のみ（画像生成済み）
-npm run newreleases:post
+npm run lotteryinfo:post
 ```
 
 ## 入出力サマリー

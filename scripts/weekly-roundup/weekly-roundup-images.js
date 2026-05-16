@@ -24,7 +24,7 @@ const ROUNDUPS_DIR = 'output/weekly-roundup';
 const genAI = new GoogleGenerativeAI(process.env.GEMINI_API_KEY);
 const imageModel = genAI.getGenerativeModel({ model: 'gemini-3.1-flash-image-preview' });
 
-// 地方別カラー（newreleasesの設定と同等）
+// 地方別カラー（lotteryinfoの設定と同等）
 const PREF_TO_REGION_COLOR = {
   "北海道": "#4FC3F7", "青森県": "#4FC3F7", "岩手県": "#4FC3F7", "宮城県": "#4FC3F7",
   "秋田県": "#4FC3F7", "山形県": "#4FC3F7", "福島県": "#4FC3F7",

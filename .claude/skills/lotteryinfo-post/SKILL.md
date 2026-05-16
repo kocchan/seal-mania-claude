@@ -2,7 +2,7 @@
 
 draftsの記事をWordPressに投稿する。
 
-**このスキルの役割**: `output/new-releases/drafts/` の記事 → WordPress投稿
+**このスキルの役割**: `output/lottery-info/drafts/` の記事 → WordPress投稿
 
 ## 実行モード
 
@@ -24,15 +24,15 @@ draftsの記事をWordPressに投稿する。
 WordPress サーバーへ直接到達できる環境で実行する場合。
 
 ```bash
-npm run newreleases:post
+npm run lotteryinfo:post
 ```
 
-これにより `scripts/newreleases/post-wordpress.js` が起動し、後述の処理フロー（1〜8）を全て実行する。
+これにより `scripts/lotteryinfo/post-wordpress.js` が起動し、後述の処理フロー（1〜8）を全て実行する。
 
 完了後、frontmatter の更新（`posted: true` 等）をコミット & プッシュ:
 
 ```bash
-git add output/new-releases/drafts/
+git add output/lottery-info/drafts/
 git commit -m "chore: 抽選販売記事を投稿 [skip ci]"
 git push
 ```
@@ -43,13 +43,13 @@ git push
 
 リモート routine から呼ばれ、WordPress サーバーへ到達できない場合。
 
-**実装方針**: 自分では投稿せず、`output/new-releases/drafts/` への変更を main にコミット & プッシュするだけで、`.github/workflows/post-wordpress.yml` が path filter (`output/new-releases/drafts/**/*.md`) で自動起動する。GitHub Actions runner 上で `npm run newreleases:post` が実行され、投稿および frontmatter 更新が完結する。
+**実装方針**: 自分では投稿せず、`output/lottery-info/drafts/` への変更を main にコミット & プッシュするだけで、`.github/workflows/post-wordpress.yml` が path filter (`output/lottery-info/drafts/**/*.md`) で自動起動する。GitHub Actions runner 上で `npm run lotteryinfo:post` が実行され、投稿および frontmatter 更新が完結する。
 
 routine 側でやること:
 
 ```bash
 # drafts と images を main にコミット & プッシュ
-git add output/new-releases/
+git add output/lottery-info/
 git commit -m "chore: 抽選販売パイプライン実行 [skip ci]"
 git push
 ```
@@ -70,7 +70,7 @@ routine 側はワークフローの完了を待たずに終了して良い（Act
 
 ## 入力
 
-`output/new-releases/drafts/{date}/{slug}.md`
+`output/lottery-info/drafts/{date}/{slug}.md`
 
 対象条件:
 - `imageGenerated: true` があるもの
@@ -90,7 +90,7 @@ routine 側はワークフローの完了を待たずに終了して良い（Act
 ### 1. 対象ファイルを検索
 
 ```bash
-ls output/new-releases/drafts/
+ls output/lottery-info/drafts/
 ```
 
 各ファイルの frontmatter を確認:
@@ -108,11 +108,11 @@ ls output/new-releases/drafts/
 
 ### 3. アイキャッチ画像アップロード
 
-`output/new-releases/images/{date}/{slug}.png` をWordPressにアップロード
+`output/lottery-info/images/{date}/{slug}.png` をWordPressにアップロード
 
 ### 4. カテゴリ設定
 
-カテゴリは `config/newreleases.json` で管理:
+カテゴリは `config/lotteryinfo.json` で管理:
 
 ```json
 {
@@ -141,7 +141,7 @@ frontmatterのtagsから自動判定:
 
 ### 5. タグ設定
 
-タグは `config/newreleases.json` の `defaultTags` で管理:
+タグは `config/lotteryinfo.json` の `defaultTags` で管理:
 
 ```json
 {
@@ -218,8 +218,8 @@ YAHOO_CLIENT_ID=your-yahoo-client-id
 
 | 種類 | パス |
 |------|------|
-| 入力 | `output/new-releases/drafts/{date}/{slug}.md` (imageGenerated: true, posted: なし) |
-| 入力 | `output/new-releases/images/{date}/{slug}.png` |
+| 入力 | `output/lottery-info/drafts/{date}/{slug}.md` (imageGenerated: true, posted: なし) |
+| 入力 | `output/lottery-info/images/{date}/{slug}.png` |
 | 出力 | WordPress記事 |
 | 出力 | mdファイルに `posted: true` を追加 |
 
@@ -230,7 +230,7 @@ YAHOO_CLIENT_ID=your-yahoo-client-id
 投稿後、自分で実行:
 
 ```bash
-git add output/new-releases/drafts/
+git add output/lottery-info/drafts/
 git commit -m "chore: 抽選販売記事を投稿 [skip ci]"
 git push
 ```

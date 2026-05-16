@@ -75,7 +75,7 @@ function parseFrontmatter(content) {
 }
 
 // =====================================
-// Markdown → HTML変換（簡易、newreleases版を簡略化）
+// Markdown → HTML変換（簡易、lotteryinfo版を簡略化）
 // =====================================
 function markdownToHtml(md) {
   let html = md;

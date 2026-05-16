@@ -6,7 +6,7 @@
 
 ```
 ┌─────────────────────────────────────────────────────────────────────┐
-│                        newreleases-pipeline                         │
+│                        lotteryinfo-pipeline                         │
 ├─────────────┬─────────────┬─────────────┬─────────────┬────────────┤
 │   collect   │  generate   │   images    │    post     │  git push  │
 │             │   article   │             │             │            │
@@ -80,27 +80,27 @@
 seal-mania-claude/
 ├── .claude/
 │   ├── agent/
-│   │   └── newreleases-pipeline/     # 統合パイプライン（エージェント）
+│   │   └── lotteryinfo-pipeline/     # 統合パイプライン（エージェント）
 │   │       └── SKILL.md
 │   │
 │   └── skills/
-│       ├── newreleases-collect/          # Phase 1: 情報収集
+│       ├── lotteryinfo-collect/          # Phase 1: 情報収集
 │       │   └── SKILL.md
-│       ├── newreleases-generate-article/ # Phase 2: 記事生成
+│       ├── lotteryinfo-generate-article/ # Phase 2: 記事生成
 │       │   └── SKILL.md
-│       ├── newreleases-images/           # Phase 3: 画像生成
+│       ├── lotteryinfo-images/           # Phase 3: 画像生成
 │       │   └── SKILL.md
-│       └── newreleases-post/             # Phase 4: WordPress投稿
+│       └── lotteryinfo-post/             # Phase 4: WordPress投稿
 │           └── SKILL.md
 │
-├── scripts/newreleases/
+├── scripts/lotteryinfo/
 │   ├── generate-images.js            # 画像生成スクリプト
 │   └── post-wordpress.js             # WordPress投稿スクリプト
 │
 ├── config/
-│   └── newreleases.json              # カテゴリ・タグ設定
+│   └── lotteryinfo.json              # カテゴリ・タグ設定
 │
-├── output/new-releases/
+├── output/lottery-info/
 │   ├── raw/{date}/                   # Phase 1出力
 │   │   └── {slug}.md
 │   ├── drafts/{date}/                # Phase 2出力
@@ -109,12 +109,12 @@ seal-mania-claude/
 │       └── {slug}.png
 │
 └── docs/
-    └── newreleases-architecture.md   # このファイル
+    └── lotteryinfo-architecture.md   # このファイル
 ```
 
 ## 各スキル詳細
 
-### 1. newreleases-collect
+### 1. lotteryinfo-collect
 
 **役割:** 抽選販売情報の収集
 
@@ -142,7 +142,7 @@ images:
 ...
 ```
 
-### 2. newreleases-generate-article
+### 2. lotteryinfo-generate-article
 
 **役割:** rawデータからWordPress記事を生成
 
@@ -164,7 +164,7 @@ images:
 - description: 120文字以内
 - 見出し階層: H1→H2→H3
 
-### 3. newreleases-images
+### 3. lotteryinfo-images
 
 **役割:** Gemini AIでアイキャッチ画像を生成
 
@@ -189,7 +189,7 @@ images:
 }
 ```
 
-### 4. newreleases-post
+### 4. lotteryinfo-post
 
 **役割:** WordPress REST APIで記事投稿
 
@@ -282,20 +282,20 @@ const retry = async (fn, maxRetries = 3) => {
 
 ```cron
 # 毎日 7:00 / 13:00 / 19:00 に実行
-0 7,13,19 * * * cd /path/to/seal-mania-claude && claude -p "/newreleases-pipeline"
+0 7,13,19 * * * cd /path/to/seal-mania-claude && claude -p "/lotteryinfo-pipeline"
 ```
 
 ### 手動実行
 
 ```bash
 # 全パイプライン
-claude "/newreleases-pipeline"
+claude "/lotteryinfo-pipeline"
 
 # 個別Phase
-claude "/newreleases-collect"
-claude "/newreleases-generate-article"
-npm run newreleases:images
-npm run newreleases:post
+claude "/lotteryinfo-collect"
+claude "/lotteryinfo-generate-article"
+npm run lotteryinfo:images
+npm run lotteryinfo:post
 ```
 
 ### モニタリング

@@ -7,7 +7,7 @@
 - **実行タイミング**: 毎日朝 6:00（cron）
 - **実行環境**: ローカルMac + Claude Code CLI
 - **入力**: 公式X、PR TIMES などの情報源
-- **出力**: `output/new-releases/drafts/` に下書きファイル
+- **出力**: `output/lottery-info/drafts/` に下書きファイル
 
 ## アーキテクチャ図
 
@@ -51,7 +51,7 @@
 ## ディレクトリ構成
 
 ```
-output/new-releases/
+output/lottery-info/
 ├── raw/                          # ソース全文を保存
 │   └── 2026-05-01/
 │       ├── prtimes-12345.md
@@ -80,7 +80,7 @@ WebFetch: https://prtimes.jp/main/action.php?run=search&search=ボンボンド�
 
 ### ソースファイルのフォーマット
 
-`output/new-releases/raw/2026-05-01/prtimes-12345.md`:
+`output/lottery-info/raw/2026-05-01/prtimes-12345.md`:
 
 ```markdown
 ---
@@ -142,7 +142,7 @@ Claude CLIが `raw/` のソース全文を読み込み、リッチな記事を�
 
 ### 下書きファイルのフォーマット
 
-`output/new-releases/drafts/2026-05-01-sanrio-moji.md`:
+`output/lottery-info/drafts/2026-05-01-sanrio-moji.md`:
 
 ```markdown
 ---
@@ -160,7 +160,7 @@ stores:
   - ロフト
   - 東急ハンズ
 sourceUrl: "https://prtimes.jp/main/html/rd/p/..."
-rawFile: "output/new-releases/raw/2026-05-01/prtimes-12345.md"
+rawFile: "output/lottery-info/raw/2026-05-01/prtimes-12345.md"
 approved: false
 posted: false
 createdAt: "2026-05-01T03:30:00+09:00"
@@ -206,12 +206,12 @@ createdAt: "2026-05-01T03:30:00+09:00"
 
 ```cron
 # 毎日午前6時に新商品情報収集
-0 6 * * * cd /path/to/seal-mania-claude && claude -p "/newreleases-collect"
+0 6 * * * cd /path/to/seal-mania-claude && claude -p "/lotteryinfo-collect"
 ```
 
 ## スキル定義
 
-`.claude/skills/newreleases-collect/SKILL.md`
+`.claude/skills/lotteryinfo-collect/SKILL.md`
 
 ```markdown
 # 新商品情報収集スキル
@@ -230,7 +230,7 @@ PR TIMESでプレスリリースを検索:
 ### 2. ソース全文の取得・保存
 
 見つかった情報源のページ全文をWebFetchで取得し、
-output/new-releases/raw/{date}/ に保存する。
+output/lottery-info/raw/{date}/ に保存する。
 
 ### 3. 記事生成
 
@@ -246,7 +246,7 @@ raw/に保存したソース全文を読み込み、以下の構成でリッチ�
 
 ### 4. 下書き保存
 
-生成した記事を output/new-releases/drafts/{date}-{slug}.md に保存。
+生成した記事を output/lottery-info/drafts/{date}-{slug}.md に保存。
 
 frontmatterに以下を含める:
 - title, productName, series, releaseDate, price

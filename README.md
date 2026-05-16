@@ -13,7 +13,7 @@ SNS（X/Threads）から目撃情報を収集し、記事を生成する。
 抽選販売情報の収集からWordPress投稿までを自動化。
 
 ```
-/newreleases-pipeline
+/lotteryinfo-pipeline
 ```
 
 **パイプライン構成:**
@@ -23,12 +23,12 @@ collect → generate-article → images → post → git push
 
 | Phase | スキル | 役割 |
 |-------|--------|------|
-| 1 | `/newreleases-collect` | LivePocket/店舗Xから情報収集 → raw/ |
-| 2 | `/newreleases-generate-article` | raw/ → drafts/に記事生成 |
-| 3 | `/newreleases-images` | Gemini AIで画像生成 → images/ |
-| 4 | `/newreleases-post` | WordPress REST APIで投稿 |
+| 1 | `/lotteryinfo-collect` | LivePocket/店舗Xから情報収集 → raw/ |
+| 2 | `/lotteryinfo-generate-article` | raw/ → drafts/に記事生成 |
+| 3 | `/lotteryinfo-images` | Gemini AIで画像生成 → images/ |
+| 4 | `/lotteryinfo-post` | WordPress REST APIで投稿 |
 
-詳細: [docs/newreleases-architecture.md](docs/newreleases-architecture.md)
+詳細: [docs/lotteryinfo-architecture.md](docs/lotteryinfo-architecture.md)
 
 ## セットアップ
 
@@ -70,7 +70,7 @@ APIFY_TOKEN=your-apify-token
 }
 ```
 
-`config/newreleases.json` で抽選販売のカテゴリ・タグを設定:
+`config/lotteryinfo.json` で抽選販売のカテゴリ・タグを設定:
 
 ```json
 {
@@ -90,27 +90,27 @@ APIFY_TOKEN=your-apify-token
 seal-mania-claude/
 ├── .claude/
 │   ├── agent/
-│   │   └── newreleases-pipeline/         # 統合パイプライン
+│   │   └── lotteryinfo-pipeline/         # 統合パイプライン
 │   │       └── SKILL.md
 │   └── skills/
-│       ├── newreleases-collect/          # Phase 1: 情報収集
-│       ├── newreleases-generate-article/ # Phase 2: 記事生成
-│       ├── newreleases-images/           # Phase 3: 画像生成
-│       ├── newreleases-post/             # Phase 4: WordPress投稿
+│       ├── lotteryinfo-collect/          # Phase 1: 情報収集
+│       ├── lotteryinfo-generate-article/ # Phase 2: 記事生成
+│       ├── lotteryinfo-images/           # Phase 3: 画像生成
+│       ├── lotteryinfo-post/             # Phase 4: WordPress投稿
 │       ├── sightings-collect-x/          # X目撃情報収集
 │       ├── sightings-collect-threads/    # Threads目撃情報収集
 │       └── sightings-generate-articles/  # 目撃情報記事生成
 │
-├── scripts/newreleases/
+├── scripts/lotteryinfo/
 │   ├── generate-images.js                # 画像生成スクリプト
 │   └── post-wordpress.js                 # WordPress投稿スクリプト
 │
 ├── config/
 │   ├── sightings.json                    # 目撃情報テーマ設定
-│   └── newreleases.json                  # 抽選販売カテゴリ設定
+│   └── lotteryinfo.json                  # 抽選販売カテゴリ設定
 │
 ├── output/
-│   ├── new-releases/
+│   ├── lottery-info/
 │   │   ├── raw/{date}/                   # 収集したrawデータ
 │   │   ├── drafts/{date}/                # 生成した記事
 │   │   └── images/{date}/                # 生成した画像
@@ -118,15 +118,15 @@ seal-mania-claude/
 │       └── raw/                          # 目撃情報rawデータ
 │
 └── docs/
-    └── newreleases-architecture.md       # アーキテクチャドキュメント
+    └── lotteryinfo-architecture.md       # アーキテクチャドキュメント
 ```
 
 ## スクリプト
 
 ```bash
 # 抽選販売
-npm run newreleases:images    # 画像生成
-npm run newreleases:post      # WordPress投稿
+npm run lotteryinfo:images    # 画像生成
+npm run lotteryinfo:post      # WordPress投稿
 
 # 目撃情報
 npm run scrape:yahoo          # Yahoo経由でX収集
@@ -141,7 +141,7 @@ npm run post:wordpress        # WordPress投稿
 
 ```cron
 # 抽選販売パイプライン: 毎日 7:00 / 13:00 / 19:00
-0 7,13,19 * * * cd /path/to/seal-mania-claude && claude -p "/newreleases-pipeline"
+0 7,13,19 * * * cd /path/to/seal-mania-claude && claude -p "/lotteryinfo-pipeline"
 
 # 目撃情報収集: 毎日 6:00 / 12:00 / 18:00
 0 6,12,18 * * * cd /path/to/seal-mania-claude && npm run scrape:all

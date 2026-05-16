@@ -2,23 +2,23 @@
 
 rawデータを元に、WordPress投稿用の記事を生成してdraftsに保存する。
 
-**このスキルの役割**: `output/new-releases/raw/` → 記事生成 → `output/new-releases/drafts/` に保存
+**このスキルの役割**: `output/lottery-info/raw/` → 記事生成 → `output/lottery-info/drafts/` に保存
 
-**情報収集は別スキル**: `/newreleases-collect` で実行
+**情報収集は別スキル**: `/lotteryinfo-collect` で実行
 
 ## 実行方法
 
 ```bash
-claude "/newreleases-generate-article"
+claude "/lotteryinfo-generate-article"
 ```
 
 ## 入力
 
-`output/new-releases/raw/{date}/` 内のMarkdownファイル
+`output/lottery-info/raw/{date}/` 内のMarkdownファイル
 
 ## 出力
 
-`output/new-releases/drafts/{date}/{slug}.md`
+`output/lottery-info/drafts/{date}/{slug}.md`
 
 ※ 日付フォルダを作成し、その中に記事を配置する
 
@@ -50,7 +50,7 @@ WordPressでMarkdown→HTML変換時に崩れないよう:
 ### 1. rawデータを読み込む
 
 ```bash
-ls output/new-releases/raw/{今日の日付}/
+ls output/lottery-info/raw/{今日の日付}/
 ```
 
 各ファイルのfrontmatterから以下を確認:
@@ -274,7 +274,7 @@ A. 迷惑メールフォルダを確認してください。`@livepocket.jp` を
 
 ### 10. ファイル保存
 
-出力: `output/new-releases/drafts/{date}-{slug}.md`
+出力: `output/lottery-info/drafts/{date}-{slug}.md`
 
 slug生成ルール:
 - 店舗名をローマ字化: `partyrico-fujimi`
@@ -287,7 +287,7 @@ slug生成ルール:
 ### 11. git commit & push
 
 ```bash
-git add output/new-releases/drafts/
+git add output/lottery-info/drafts/
 git commit -m "chore: 記事を生成 [skip ci]"
 git push
 ```
@@ -297,12 +297,12 @@ git push
 ```
 ✅ 記事生成完了: {件数}件
 
-保存先: output/new-releases/drafts/
+保存先: output/lottery-info/drafts/
 - {ファイル1}
 - {ファイル2}
 
 👉 WordPressに投稿するには:
-   claude "/newreleases-post"
+   claude "/lotteryinfo-post"
 
 または手動でWordPressにコピー&ペーストしてください。
 ```
@@ -329,5 +329,5 @@ git push
 
 | 種類 | パス |
 |------|------|
-| 入力 | `output/new-releases/raw/{date}/` |
-| 出力 | `output/new-releases/drafts/{date}-{slug}.md` |
+| 入力 | `output/lottery-info/raw/{date}/` |
+| 出力 | `output/lottery-info/drafts/{date}-{slug}.md` |
