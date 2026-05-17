@@ -1,7 +1,7 @@
 {
   "date": "2026-05-17",
-  "updatedAt": "2026-05-17T22:43:11.702+09:00",
-  "count": 23,
+  "updatedAt": "2026-05-18T06:52:14.934+09:00",
+  "count": 25,
   "articles": [
     {
       "isSighting": true,
@@ -439,6 +439,44 @@
       "wpPostId": 6442,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-hyogo-kakogawa-2026-05-17/",
       "postedAt": "2026-05-17T22:43:32.573+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "兵庫県",
+      "city": "加古川市",
+      "shopName": "おたいち 加古川店",
+      "shopAddress": "兵庫県加古川市野口町良野824-2",
+      "productName": "ボンボンドロップシール",
+      "sightingTime": "2026-05-18 14:46頃",
+      "statusText": "在庫あり（入荷・品出し済み、一部売切あり）",
+      "confidenceMemo": "店舗公式アカウントによる品出し・入荷報告のため非常に信頼性が高い",
+      "sourceUrl": "https://x.com/otakakotoy/status/2056023489568809012",
+      "sourceTweetId": "2056023489568809012",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2056023489568809012.png",
+      "isPosted": true,
+      "wpPostId": 6444,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-hyogo-kakogawa-2026-05-18/",
+      "postedAt": "2026-05-18T06:52:21.750+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "東京都",
+      "city": "台東区",
+      "shopName": "ドン・キホーテ 上野店",
+      "shopAddress": "東京都台東区上野3丁目27-11",
+      "productName": "ボンボンドロップシール",
+      "sightingTime": "2026-05-17頃",
+      "statusText": "在庫あり（沢山あった）",
+      "confidenceMemo": "ハッシュタグ「ボンドロ」を含み、具体的なエリアと店舗種別の記載がある目撃情報",
+      "sourceUrl": "https://x.com/kakemochiko/status/2056051849044857126",
+      "sourceTweetId": "2056051849044857126",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2056051849044857126.png",
+      "isPosted": true,
+      "wpPostId": 6446,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-tokyo-taito-2026-05-17-2/",
+      "postedAt": "2026-05-18T06:52:28.215+09:00"
     }
   ]
 }
