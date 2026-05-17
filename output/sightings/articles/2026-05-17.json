@@ -1,7 +1,7 @@
 {
   "date": "2026-05-17",
-  "updatedAt": "2026-05-17T15:18:31.415+09:00",
-  "count": 17,
+  "updatedAt": "2026-05-17T17:28:42.697+09:00",
+  "count": 18,
   "articles": [
     {
       "isSighting": true,
@@ -325,6 +325,25 @@
       "wpPostId": 6430,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-kyoto-uji-2026-05-17-2/",
       "postedAt": "2026-05-17T15:19:15.783+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "東京都",
+      "city": "府中市",
+      "shopName": "プラサカプコン ミッテン府中店",
+      "shopAddress": "東京都府中市宮町1-41-1 ミッテン府中",
+      "productName": "サンリオキャラクターズ ボンボンドロップミニチュアチャーム",
+      "sightingTime": "2026-05-17 06:56頃",
+      "statusText": "再入荷（一日の個数制限あり）",
+      "confidenceMemo": "店舗公式アカウント（引用元）による再入荷告知のため信頼性が非常に高い",
+      "sourceUrl": "https://x.com/patrol_yo/status/2055908348185505810",
+      "sourceTweetId": "2055908348185505810",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2055908348185505810.png",
+      "isPosted": true,
+      "wpPostId": 6432,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-tokyo-fuchu-2026-05-17/",
+      "postedAt": "2026-05-17T17:28:49.259+09:00"
     }
   ]
 }
