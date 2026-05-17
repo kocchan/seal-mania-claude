@@ -1,4 +1,5 @@
 ---
+imageGenerated: true
 type: lottery
 status: draft
 title: "【5/17締切】サンリオ文字ボンドロ抽選@公式"
