@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-05-17T03:45:50.050Z"
+wpPostUrl: "https://www.seal-search.com/news/reservation/shibuya-loft-rittai-seal-20260517/"
+wpPostId: 6414
+posted: true
 imageGenerated: true
 type: lottery
 status: draft

@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-05-17T03:46:06.710Z"
+wpPostUrl: "https://www.seal-search.com/character/narumiya-31icecream-20260516/"
+wpPostId: 6416
+posted: true
 type: newproduct
 status: draft
 title: "【5/16発売】ナルミヤ×サーティワン アイスクリームプックリシール"

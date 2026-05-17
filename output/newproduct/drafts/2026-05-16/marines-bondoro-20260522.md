@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-05-17T03:45:59.012Z"
+wpPostUrl: "https://www.seal-search.com/character/marines-bondoro-20260522/"
+wpPostId: 6415
+posted: true
 type: newproduct
 status: draft
 title: "【5/22発売】マリーンズ ボンボンドロップシール"

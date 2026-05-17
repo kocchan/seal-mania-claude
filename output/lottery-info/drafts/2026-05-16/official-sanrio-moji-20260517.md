@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-05-17T03:45:35.027Z"
+wpPostUrl: "https://www.seal-search.com/news/reservation/official-sanrio-moji-20260517/"
+wpPostId: 6410
+posted: true
 imageGenerated: true
 type: lottery
 status: draft

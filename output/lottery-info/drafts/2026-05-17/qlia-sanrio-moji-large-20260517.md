@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-05-17T03:45:42.574Z"
+wpPostUrl: "https://www.seal-search.com/news/reservation/qlia-sanrio-moji-large-20260517/"
+wpPostId: 6412
+posted: true
 imageGenerated: true
 type: lottery
 status: draft
