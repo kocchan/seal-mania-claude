@@ -1,7 +1,7 @@
 {
   "date": "2026-05-17",
-  "updatedAt": "2026-05-17T17:28:42.697+09:00",
-  "count": 18,
+  "updatedAt": "2026-05-17T19:20:49.117+09:00",
+  "count": 20,
   "articles": [
     {
       "isSighting": true,
@@ -344,6 +344,44 @@
       "wpPostId": 6432,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-tokyo-fuchu-2026-05-17/",
       "postedAt": "2026-05-17T17:28:49.259+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "栃木県",
+      "city": "小山市",
+      "shopName": "駿河屋小山店",
+      "shopAddress": "栃木県小山市東城南4-1-1",
+      "productName": "ボンボンドロップシール、タイルシール（サンリオキャラクターズ：ポムポムプリン、ハローキティ、クロミ、マイメロディ、ハンギョドン、シナモロール、はぴだんぶい）",
+      "sightingTime": "2026-05-17 18:35頃",
+      "statusText": "入荷・在庫あり",
+      "confidenceMemo": "店舗公式アカウントによる写真付き入荷・販売情報",
+      "sourceUrl": "https://x.com/atoooyamaten/status/2055945201232015816",
+      "sourceTweetId": "2055945201232015816",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2055945201232015816.png",
+      "isPosted": true,
+      "wpPostId": 6434,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-tochigi-oyama-2026-05-17/",
+      "postedAt": "2026-05-17T19:20:55.158+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "栃木県",
+      "city": "宇都宮市",
+      "shopName": "TCG カードショップ オラクルベリー",
+      "shopAddress": "栃木県宇都宮市簗瀬町1606-1",
+      "productName": "ボンボンドロップシール（サンリオ、文字シール）",
+      "sightingTime": "2026-05-17 18:31頃",
+      "statusText": "在庫あり（1,000円）",
+      "confidenceMemo": "店舗公式アカウントによる販売・価格情報",
+      "sourceUrl": "https://x.com/tcg_oraclebery/status/2055944212978491788",
+      "sourceTweetId": "2055944212978491788",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2055944212978491788.png",
+      "isPosted": true,
+      "wpPostId": 6436,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-tochigi-utsunomiya-2026-05-17/",
+      "postedAt": "2026-05-17T19:21:01.890+09:00"
     }
   ]
 }
