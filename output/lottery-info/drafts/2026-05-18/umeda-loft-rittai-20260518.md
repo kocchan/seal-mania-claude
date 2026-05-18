@@ -1,4 +1,7 @@
 ---
+postedAt: "2026-05-18T05:38:07.842Z"
+wpPostUrl: "https://www.seal-search.com/news/reservation/umeda-loft-rittai-20260518/"
+wpPostId: 6480
 type: lottery
 status: draft
 title: "【5/18締切】梅田ロフト ボンドロ含む立体シール抽選"
@@ -31,7 +34,7 @@ products:
     price: null
 featuredImage: ""
 imageGenerated: true
-posted: false
+posted: true
 createdAt: "2026-05-18T10:05:00+09:00"
 updatedAt: "2026-05-18T10:05:00+09:00"
 ---
