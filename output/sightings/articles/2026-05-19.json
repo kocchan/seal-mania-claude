@@ -1,7 +1,7 @@
 {
   "date": "2026-05-19",
-  "updatedAt": "2026-05-19T20:59:36.904+09:00",
-  "count": 15,
+  "updatedAt": "2026-05-20T00:37:21.533+09:00",
+  "count": 16,
   "articles": [
     {
       "isSighting": true,
@@ -287,6 +287,25 @@
       "wpPostId": 6528,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-akita-yokote-2026-05-19/",
       "postedAt": "2026-05-19T20:59:53.469+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "滋賀県",
+      "city": "草津市",
+      "shopName": "イオンモール草津",
+      "shopAddress": "滋賀県草津市新浜町300",
+      "productName": "ボンボンドロップシール（ドアラ / 類似品）",
+      "sightingTime": "2026-05-14 08:12頃",
+      "statusText": "在庫あり（目撃情報）",
+      "confidenceMemo": "具体的な店舗名（イオンモール草津）の記載があり、実際に商品を見つけたとの投稿。ただし、公式品か類似品（海賊版）かは本人が疑問を呈している。",
+      "sourceUrl": "https://x.com/yshantian41/status/2056729007396409466",
+      "sourceTweetId": "2056729007396409466",
+      "isPrediction": true,
+      "imagePath": "output/sightings/images/2056729007396409466.png",
+      "isPosted": true,
+      "wpPostId": 6530,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-shiga-kusatsu-2026-05-14-3/",
+      "postedAt": "2026-05-20T00:37:27.156+09:00"
     }
   ]
 }
