@@ -1,7 +1,7 @@
 {
   "date": "2026-05-19",
-  "updatedAt": "2026-05-19T18:58:50.919+09:00",
-  "count": 13,
+  "updatedAt": "2026-05-19T20:59:36.904+09:00",
+  "count": 15,
   "articles": [
     {
       "isSighting": true,
@@ -249,6 +249,44 @@
       "wpPostId": 6524,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-nagano-suzaka-2026-05-19/",
       "postedAt": "2026-05-19T18:58:57.277+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "岐阜県",
+      "city": "関市",
+      "shopName": "CHOP! ちょっぷ関市本町",
+      "shopAddress": "岐阜県関市本町",
+      "productName": "うるちゅる（ボンボンドロップシール）",
+      "sightingTime": "2026-05-19 20:40頃",
+      "statusText": "入荷あり",
+      "confidenceMemo": "店舗公式アカウントによる入荷情報で信頼性が高い",
+      "sourceUrl": "https://x.com/CHOPhonmachi/status/2056701493982757146",
+      "sourceTweetId": "2056701493982757146",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2056701493982757146.png",
+      "isPosted": true,
+      "wpPostId": 6526,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-gifu-seki-2026-05-19/",
+      "postedAt": "2026-05-19T20:59:42.687+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "秋田県",
+      "city": "横手市",
+      "shopName": "ニューライフカネタ",
+      "shopAddress": "秋田県・岩手県内の20店舗（西馬音内店・大曲北店・フォンテ店・能代店は除く）",
+      "productName": "ぷっくりシール（ボンボンドロップシール）",
+      "sightingTime": "2026-05-19 10:20頃",
+      "statusText": "5/20(水)朝より販売開始（超大量入荷）",
+      "confidenceMemo": "店舗公式アカウントによる詳細な入荷・販売予告情報",
+      "sourceUrl": "https://x.com/BO7ZDzdcyNoFGdx/status/2056681268255830450",
+      "sourceTweetId": "2056681268255830450",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2056681268255830450.png",
+      "isPosted": true,
+      "wpPostId": 6528,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-akita-yokote-2026-05-19/",
+      "postedAt": "2026-05-19T20:59:53.469+09:00"
     }
   ]
 }
