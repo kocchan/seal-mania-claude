@@ -1,7 +1,7 @@
 {
   "date": "2026-05-19",
-  "updatedAt": "2026-05-19T15:45:23.764+09:00",
-  "count": 12,
+  "updatedAt": "2026-05-19T18:58:50.919+09:00",
+  "count": 13,
   "articles": [
     {
       "isSighting": true,
@@ -230,6 +230,25 @@
       "wpPostId": 6522,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-nagano-minowa-kamiina-district-2026-05-19/",
       "postedAt": "2026-05-19T15:45:29.931+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "長野県",
+      "city": "須坂市",
+      "shopName": "Will須坂インター店",
+      "shopAddress": "長野県須坂市大字井上1700-1",
+      "productName": "ボンボンドロップシール",
+      "sightingTime": "2026-05-19 07:18頃",
+      "statusText": "在庫あり（入荷済み、個数制限あり、レジ販売）",
+      "confidenceMemo": "店舗公式アカウントによる詳細な入荷・販売案内",
+      "sourceUrl": "https://x.com/Will_suzaka/status/2056635589685051821",
+      "sourceTweetId": "2056635589685051821",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2056635589685051821.png",
+      "isPosted": true,
+      "wpPostId": 6524,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-nagano-suzaka-2026-05-19/",
+      "postedAt": "2026-05-19T18:58:57.277+09:00"
     }
   ]
 }
