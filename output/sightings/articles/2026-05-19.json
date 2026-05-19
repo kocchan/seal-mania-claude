@@ -1,7 +1,7 @@
 {
   "date": "2026-05-19",
-  "updatedAt": "2026-05-19T12:48:26.177+09:00",
-  "count": 11,
+  "updatedAt": "2026-05-19T15:45:23.764+09:00",
+  "count": 12,
   "articles": [
     {
       "isSighting": true,
@@ -211,6 +211,25 @@
       "wpPostId": 6520,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-hyogo-kakogawa-2026-05-17-4/",
       "postedAt": "2026-05-19T12:49:38.322+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "長野県",
+      "city": "上伊那郡箕輪町",
+      "shopName": "TSUTAYA 箕輪店",
+      "shopAddress": "長野県上伊那郡箕輪町大字中箕輪9025",
+      "productName": "ボンボンドロップシール 公式ファンブック",
+      "sightingTime": "2026-05-19 04:19頃",
+      "statusText": "在庫あり（公式ファンブック在庫あり、シール類大量入荷）",
+      "confidenceMemo": "店舗公式アカウントによる在庫および入荷情報の告知",
+      "sourceUrl": "https://x.com/TSUTAYAminowa/status/2056590576586494112",
+      "sourceTweetId": "2056590576586494112",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2056590576586494112.png",
+      "isPosted": true,
+      "wpPostId": 6522,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-nagano-minowa-kamiina-district-2026-05-19/",
+      "postedAt": "2026-05-19T15:45:29.931+09:00"
     }
   ]
 }
