@@ -1,7 +1,7 @@
 {
   "date": "2026-05-20",
-  "updatedAt": "2026-05-20T20:48:24.149+09:00",
-  "count": 29,
+  "updatedAt": "2026-05-21T00:35:17.957+09:00",
+  "count": 30,
   "articles": [
     {
       "isSighting": true,
@@ -553,6 +553,25 @@
       "wpPostId": 6592,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-aichi-kasugai-2026-05-20/",
       "postedAt": "2026-05-20T20:48:37.104+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "愛知県",
+      "city": "名古屋市守山区",
+      "shopName": "スマ本屋 三洋堂志段味店",
+      "shopAddress": "愛知県名古屋市守山区上志段味特定土地区画整理事業地内14街区",
+      "productName": "ボンボンドロップシール 3・4",
+      "sightingTime": "2026-05-21 12:05頃",
+      "statusText": "3は残りわずか、4は在庫あり",
+      "confidenceMemo": "店舗公式アカウントによる直接の在庫投稿のため信頼性が非常に高い",
+      "sourceUrl": "https://x.com/sanyodoshidami/status/2057070233047966013",
+      "sourceTweetId": "2057070233047966013",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2057070233047966013.png",
+      "isPosted": true,
+      "wpPostId": 6594,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-aichi-moriyama-nagoya-2026-05-21/",
+      "postedAt": "2026-05-21T00:35:24.924+09:00"
     }
   ]
 }
