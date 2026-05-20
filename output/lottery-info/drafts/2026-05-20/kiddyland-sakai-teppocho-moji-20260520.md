@@ -1,4 +1,7 @@
 ---
+postedAt: "2026-05-20T05:36:25.262Z"
+wpPostUrl: "https://www.seal-search.com/news/reservation/kiddyland-sakai-teppocho-moji-20260520/"
+wpPostId: 6564
 type: lottery
 status: draft
 title: "【5/22締切】サンリオもじボンドロ抽選@堺鉄砲町"
@@ -37,7 +40,7 @@ products:
     price: null
 featuredImage: ""
 imageGenerated: true
-posted: false
+posted: true
 createdAt: "2026-05-20T10:02:00+09:00"
 updatedAt: "2026-05-20T10:02:00+09:00"
 ---

@@ -1,4 +1,7 @@
 ---
+postedAt: "2026-05-20T05:36:15.917Z"
+wpPostUrl: "https://www.seal-search.com/news/reservation/kiddyland-piole-himeji-shizuku-20260520/"
+wpPostId: 6562
 type: lottery
 status: draft
 title: "【5/23締切】しずくちゃんボンドロ抽選@キデイランド姫路"
@@ -26,7 +29,7 @@ products:
     price: null
 featuredImage: ""
 imageGenerated: true
-posted: false
+posted: true
 createdAt: "2026-05-20T10:02:00+09:00"
 updatedAt: "2026-05-20T10:02:00+09:00"
 ---
