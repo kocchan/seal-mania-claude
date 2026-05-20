@@ -1,7 +1,7 @@
 {
   "date": "2026-05-20",
-  "updatedAt": "2026-05-21T00:35:17.957+09:00",
-  "count": 30,
+  "updatedAt": "2026-05-21T07:23:29.107+09:00",
+  "count": 31,
   "articles": [
     {
       "isSighting": true,
@@ -572,6 +572,25 @@
       "wpPostId": 6594,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-aichi-moriyama-nagoya-2026-05-21/",
       "postedAt": "2026-05-21T00:35:24.924+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "静岡県",
+      "city": "沼津市",
+      "shopName": "トイカプセルワールドららぽーと沼津店",
+      "shopAddress": "静岡県沼津市東椎路字東荒301-3 ららぽーと沼津",
+      "productName": "サンリオキャラクターズ ボンボンドロップミニチュアチャーム",
+      "sightingTime": "2026-05-24 入荷予定",
+      "statusText": "2026年5月24日に再入荷予定（ガチャガチャ）",
+      "confidenceMemo": "公式店舗アカウントによる入荷予告情報。シールではなく同シリーズのチャームである点に留意。",
+      "sourceUrl": "https://x.com/patrol_yo/status/2057193031724634523",
+      "sourceTweetId": "2057193031724634523",
+      "isPrediction": true,
+      "imagePath": "output/sightings/images/2057193031724634523.png",
+      "isPosted": true,
+      "wpPostId": 6596,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-shizuoka-numazu-2026-05-24/",
+      "postedAt": "2026-05-21T07:23:34.697+09:00"
     }
   ]
 }
