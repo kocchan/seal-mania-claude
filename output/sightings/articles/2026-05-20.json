@@ -1,7 +1,7 @@
 {
   "date": "2026-05-20",
-  "updatedAt": "2026-05-20T18:46:49.775+09:00",
-  "count": 27,
+  "updatedAt": "2026-05-20T20:48:24.149+09:00",
+  "count": 29,
   "articles": [
     {
       "isSighting": true,
@@ -515,6 +515,44 @@
       "wpPostId": 6588,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-aomori-hirosaki-2026-05-20/",
       "postedAt": "2026-05-20T18:47:31.231+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "愛知県",
+      "city": "名古屋市守山区",
+      "shopName": "三洋堂書店 志段味店",
+      "shopAddress": "愛知県名古屋市守山区下志段味 桜島2261",
+      "productName": "ボンボンドロップシール（3、4）",
+      "sightingTime": "2026-05-20 09:22頃",
+      "statusText": "在庫あり（3番は残りわずか、4番は在庫あり）",
+      "confidenceMemo": "店舗公式アカウントによる詳細な在庫状況の投稿",
+      "sourceUrl": "https://x.com/sanyodoshidami/status/2057061267265995253",
+      "sourceTweetId": "2057061267265995253",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2057061267265995253.png",
+      "isPosted": true,
+      "wpPostId": 6590,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-aichi-moriyama-nagoya-2026-05-20-2/",
+      "postedAt": "2026-05-20T20:48:30.548+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "愛知県",
+      "city": "春日井市",
+      "shopName": "くまざわ書店 春日井店",
+      "shopAddress": "愛知県春日井市六軒屋町東丘22 イーアス春日井2F",
+      "productName": "ボンボンドロップシール",
+      "sightingTime": "2026-05-20 10:03頃",
+      "statusText": "一部キャラクター完売",
+      "confidenceMemo": "店舗公式アカウントによる写真付きの在庫報告",
+      "sourceUrl": "https://x.com/kmzwkasugai/status/2057039457820586466",
+      "sourceTweetId": "2057039457820586466",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2057039457820586466.png",
+      "isPosted": true,
+      "wpPostId": 6592,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-aichi-kasugai-2026-05-20/",
+      "postedAt": "2026-05-20T20:48:37.104+09:00"
     }
   ]
 }
