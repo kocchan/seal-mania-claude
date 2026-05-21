@@ -1,7 +1,7 @@
 {
   "date": "2026-05-21",
-  "updatedAt": "2026-05-21T21:12:47.851+09:00",
-  "count": 77,
+  "updatedAt": "2026-05-22T00:43:23.710+09:00",
+  "count": 79,
   "articles": [
     {
       "isSighting": true,
@@ -1465,6 +1465,44 @@
       "wpPostId": 6750,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-aichi-naka-nagoya-2026-05-21/",
       "postedAt": "2026-05-21T21:13:06.081+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "東京都",
+      "city": "新宿区",
+      "shopName": "ME TOKYO SHINJUKU",
+      "shopAddress": "東京都新宿区新宿3丁目37-14",
+      "productName": "サンリオキャラクターズ ボンボンドロップミニチュアチャーム",
+      "sightingTime": "2026-05-22 12:22頃",
+      "statusText": "緊急再入荷につき在庫あり（お1人様5個までの購入制限、在庫少量）",
+      "confidenceMemo": "店舗公式アカウントによる再入荷告知およびユーザーの購入報告あり",
+      "sourceUrl": "https://x.com/patrol_yo/status/2057443251498664200",
+      "sourceTweetId": "2057443251498664200",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2057443251498664200.png",
+      "isPosted": true,
+      "wpPostId": 6752,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-tokyo-shinjuku-2026-05-22/",
+      "postedAt": "2026-05-22T00:43:29.668+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "東京都",
+      "city": "新宿区",
+      "shopName": "ME TOKYO SHINJUKU",
+      "shopAddress": "東京都新宿区新宿3-35-10",
+      "productName": "サンリオキャラクターズ ボンボンドロップミニチュアチャーム",
+      "sightingTime": "2026-05-22 10:58頃",
+      "statusText": "少量再入荷（当日12:22に完売報告あり）",
+      "confidenceMemo": "店舗公式アカウント（@MetokyoShinjuku）による再入荷告知と完売報告のため信頼性が高い",
+      "sourceUrl": "https://x.com/MetokyoShinjuku/status/2057436745407545815",
+      "sourceTweetId": "2057436745407545815",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2057436745407545815.png",
+      "isPosted": true,
+      "wpPostId": 6754,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-tokyo-shinjuku-2026-05-22-2/",
+      "postedAt": "2026-05-22T00:43:35.735+09:00"
     }
   ]
 }
