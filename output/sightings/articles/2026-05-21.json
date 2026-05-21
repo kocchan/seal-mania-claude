@@ -1,7 +1,7 @@
 {
   "date": "2026-05-21",
-  "updatedAt": "2026-05-21T18:55:41.384+09:00",
-  "count": 74,
+  "updatedAt": "2026-05-21T21:12:47.851+09:00",
+  "count": 77,
   "articles": [
     {
       "isSighting": true,
@@ -1408,6 +1408,63 @@
       "wpPostId": 6744,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-kagawa-utazu-ayaka-district-2026-05-21/",
       "postedAt": "2026-05-21T18:57:21.243+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "東京都",
+      "city": "立川市",
+      "shopName": "#C-pla グランデュオ立川店",
+      "shopAddress": "東京都立川市柴崎町3-2-1 グランデュオ立川 6F",
+      "productName": "サンリオキャラクターズ ボンボンドロップミニチュアチャーム",
+      "sightingTime": "2026-05-21 10:39頃",
+      "statusText": "入荷あり（お一人様3個まで、並び直し可）",
+      "confidenceMemo": "店舗公式アカウントによる入荷・個数制限の告知",
+      "sourceUrl": "https://x.com/Cpla0216/status/2057411056750977042",
+      "sourceTweetId": "2057411056750977042",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2057411056750977042.png",
+      "isPosted": true,
+      "wpPostId": 6746,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-tokyo-tachikawa-2026-05-21/",
+      "postedAt": "2026-05-21T21:12:53.508+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "東京都",
+      "city": "八王子市",
+      "shopName": "ドリームカプセル イトーヨーカドー八王子店",
+      "shopAddress": "東京都八王子市狭間町1462-1 イトーヨーカドー八王子店 3F",
+      "productName": "サンリオキャラクターズ ボンボンドロップミニチュアチャーム",
+      "sightingTime": "2026-05-21 10:24頃",
+      "statusText": "再入荷あり（お一人様2個まで、並び直し可）",
+      "confidenceMemo": "店舗公式アカウントによる再入荷の告知",
+      "sourceUrl": "https://x.com/drecap_hachioji/status/2057407267583205632",
+      "sourceTweetId": "2057407267583205632",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2057407267583205632.png",
+      "isPosted": true,
+      "wpPostId": 6748,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-tokyo-hachioji-2026-05-21/",
+      "postedAt": "2026-05-21T21:12:59.691+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "愛知県",
+      "city": "名古屋市中区",
+      "shopName": "アゾンレーベルショップ名古屋",
+      "shopAddress": "愛知県名古屋市中区大須4-11-5 ZEST大須ビル2F",
+      "productName": "ぷっくりシールに変身キット ぷくリエ",
+      "sightingTime": "2026-05-21 10:07頃",
+      "statusText": "入荷（新商品）",
+      "confidenceMemo": "店舗公式アカウントによる入荷告知のため信頼性が非常に高い",
+      "sourceUrl": "https://x.com/ls_nagoya/status/2057403013841784845",
+      "sourceTweetId": "2057403013841784845",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2057403013841784845.png",
+      "isPosted": true,
+      "wpPostId": 6750,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-aichi-naka-nagoya-2026-05-21/",
+      "postedAt": "2026-05-21T21:13:06.081+09:00"
     }
   ]
 }
