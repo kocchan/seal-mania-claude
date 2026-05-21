@@ -1,7 +1,7 @@
 {
   "date": "2026-05-21",
-  "updatedAt": "2026-05-22T00:43:23.710+09:00",
-  "count": 79,
+  "updatedAt": "2026-05-22T07:17:26.905+09:00",
+  "count": 80,
   "articles": [
     {
       "isSighting": true,
@@ -1503,6 +1503,25 @@
       "wpPostId": 6754,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-tokyo-shinjuku-2026-05-22-2/",
       "postedAt": "2026-05-22T00:43:35.735+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "京都府",
+      "city": "京丹後市",
+      "shopName": "サンダイコー",
+      "shopAddress": "京都府京丹後市峰山町新町1606",
+      "productName": "ボンボンドロップシール",
+      "sightingTime": "2026-05-22 16:17頃",
+      "statusText": "在庫あり（大量）",
+      "confidenceMemo": "具体的な店舗名（京都のスーパー・サンダイコー）と在庫量の言及があり、信頼性が高い。",
+      "sourceUrl": "https://x.com/IvkbNp/status/2057495943143129509",
+      "sourceTweetId": "2057495943143129509",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2057495943143129509.png",
+      "isPosted": true,
+      "wpPostId": 6756,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-kyoto-kyotango-2026-05-22/",
+      "postedAt": "2026-05-22T07:17:34.649+09:00"
     }
   ]
 }
