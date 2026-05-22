@@ -1,7 +1,7 @@
 {
   "date": "2026-05-22",
-  "updatedAt": "2026-05-22T23:50:06.335+09:00",
-  "count": 101,
+  "updatedAt": "2026-05-23T07:06:06.893+09:00",
+  "count": 102,
   "articles": [
     {
       "isSighting": true,
@@ -1921,6 +1921,25 @@
       "wpPostId": 6960,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-iwate-morioka-2026-05-22/",
       "postedAt": "2026-05-22T23:50:22.845+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "愛知県",
+      "city": "稲沢市",
+      "shopName": "ファミリーショップ萬勝",
+      "shopAddress": "愛知県稲沢市西町3-15-25",
+      "productName": "ボンボンドロップシール（たまごっち・サンリオキャラクターズ ぷっくりシール）",
+      "sightingTime": "2026-05-23 07:00頃",
+      "statusText": "入荷（在庫あり）",
+      "confidenceMemo": "店舗公式アカウントによる入荷告知。ハッシュタグにサンリオ（クロミ・キティ）が含まれており、ぷっくりシール（ボンボンドロップシール）の入荷が確認できる。",
+      "sourceUrl": "https://x.com/mankatu0003/status/2057944232430846204",
+      "sourceTweetId": "2057944232430846204",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2057944232430846204.png",
+      "isPosted": true,
+      "wpPostId": 6962,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-aichi-inazawa-2026-05-23/",
+      "postedAt": "2026-05-23T07:06:12.611+09:00"
     }
   ]
 }
