@@ -1,4 +1,7 @@
 ---
+postedAt: "2026-05-22T05:34:33.245Z"
+wpPostUrl: "https://www.seal-search.com/news/reservation/marines-chibalotte-bonbondrop-20260522/"
+wpPostId: 6838
 type: preorder
 status: draft
 title: "【5/22予約】マリーンズボンボンドロップシール全3種"
@@ -26,7 +29,7 @@ products:
     price: 500
 featuredImage: ""
 imageGenerated: true
-posted: false
+posted: true
 createdAt: "2026-05-22T10:08:00+09:00"
 updatedAt: "2026-05-22T10:08:00+09:00"
 ---
