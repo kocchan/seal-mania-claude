@@ -1,7 +1,7 @@
 {
   "date": "2026-05-22",
-  "updatedAt": "2026-05-22T20:44:18.805+09:00",
-  "count": 98,
+  "updatedAt": "2026-05-22T23:50:06.335+09:00",
+  "count": 101,
   "articles": [
     {
       "isSighting": true,
@@ -1864,6 +1864,63 @@
       "wpPostId": 6954,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-aichi-naka-nagoya-2026-05-22-3/",
       "postedAt": "2026-05-22T20:44:58.911+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "愛知県",
+      "city": "名古屋市",
+      "shopName": "あかのれん",
+      "shopAddress": "愛知県名古屋市内",
+      "productName": "ボンボンドロップシール",
+      "sightingTime": "2026-05-21",
+      "statusText": "入荷情報あり（前日の目撃情報）",
+      "confidenceMemo": "名古屋市内の「あかのれん」店舗での入荷に関する言及。投稿者は前日に同店を訪れており、情報の具体性が高い。",
+      "sourceUrl": "https://x.com/mabo_85/status/2057812310710952016",
+      "sourceTweetId": "2057812310710952016",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2057812310710952016.png",
+      "isPosted": true,
+      "wpPostId": 6956,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-aichi-nagoya-2026-05-21/",
+      "postedAt": "2026-05-22T23:50:11.645+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "神奈川県",
+      "city": "横浜市磯子区",
+      "shopName": "ツカモーヨ 磯子店",
+      "shopAddress": "神奈川県横浜市磯子区磯子1-2-1 マリナゲート磯子内",
+      "productName": "サンリオキャラクターズ ボンボンドロップミニチュアチャーム",
+      "sightingTime": "2026-05-22 12:00",
+      "statusText": "23日(土)10時より展開開始予定（緊急入荷）",
+      "confidenceMemo": "店舗公式アカウントによる入荷・設置告知のため信頼性が非常に高い",
+      "sourceUrl": "https://x.com/Capcomisogo/status/2057793608439239053",
+      "sourceTweetId": "2057793608439239053",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2057793608439239053.png",
+      "isPosted": true,
+      "wpPostId": 6958,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-kanagawa-isogo-yokohama-2026-05-22/",
+      "postedAt": "2026-05-22T23:50:17.197+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "岩手県",
+      "city": "盛岡市",
+      "shopName": "盛岡駅 ガチャガチャ売場",
+      "shopAddress": "岩手県盛岡市盛岡駅前通1-48",
+      "productName": "サンリオのぷっくりシール（ボンボンドロップ関連）",
+      "sightingTime": "2026-05-22 13:21頃",
+      "statusText": "在庫あり（目撃情報あり）",
+      "confidenceMemo": "駅構内のガチャガチャコーナーでの具体的な目撃・購入体験談",
+      "sourceUrl": "https://x.com/Mikiko__0503__/status/2057814079604158963",
+      "sourceTweetId": "2057814079604158963",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2057814079604158963.png",
+      "isPosted": true,
+      "wpPostId": 6960,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-iwate-morioka-2026-05-22/",
+      "postedAt": "2026-05-22T23:50:22.845+09:00"
     }
   ]
 }
