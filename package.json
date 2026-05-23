@@ -12,6 +12,8 @@
     "post:wordpress": "node scripts/sightings/post-wordpress.js",
     "lotteryinfo:images": "node scripts/lotteryinfo/generate-images.js",
     "lotteryinfo:post": "node scripts/lotteryinfo/post-wordpress.js",
+    "newreleases:images": "node scripts/newreleases/generate-images.js",
+    "newreleases:post": "node scripts/newreleases/post-wordpress.js",
     "newproduct:post": "node scripts/newproduct/post-wordpress.js",
     "rss:scrape": "node scripts/rss/scrape.js",
     "weekly-roundup:generate": "node scripts/weekly-roundup/weekly-roundup-generate.js",
