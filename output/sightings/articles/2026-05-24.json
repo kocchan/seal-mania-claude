@@ -1,7 +1,7 @@
 {
   "date": "2026-05-24",
-  "updatedAt": "2026-05-24T19:28:48.565+09:00",
-  "count": 72,
+  "updatedAt": "2026-05-25T06:53:32.106+09:00",
+  "count": 73,
   "articles": [
     {
       "isSighting": true,
@@ -1370,6 +1370,25 @@
       "wpPostId": 7500,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-hyogo-chuo-kobe-2026-05-24-2/",
       "postedAt": "2026-05-24T19:29:35.607+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "東京都",
+      "city": "豊島区",
+      "shopName": "サンシャイン水族館",
+      "shopAddress": "東京都豊島区東池袋3-1 サンシャインシティ ワールドインポートマートビル 屋上",
+      "productName": "ボンボンドロップシール（水族館限定：チンアナゴ、アザラシ等）",
+      "sightingTime": "2026-05-25 13:46頃",
+      "statusText": "在庫あり（購入報告あり）",
+      "confidenceMemo": "具体的な店舗名と購入した商品の詳細、写真が含まれており信頼性が高い",
+      "sourceUrl": "https://x.com/gudenotamago/status/2058545068521521214",
+      "sourceTweetId": "2058545068521521214",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2058545068521521214.png",
+      "isPosted": true,
+      "wpPostId": 7502,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-tokyo-toshima-2026-05-25/",
+      "postedAt": "2026-05-25T06:53:39.279+09:00"
     }
   ]
 }
