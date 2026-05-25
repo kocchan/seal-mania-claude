@@ -1,7 +1,7 @@
 {
   "date": "2026-05-25",
-  "updatedAt": "2026-05-26T00:19:33.927+09:00",
-  "count": 62,
+  "updatedAt": "2026-05-26T07:05:18.747+09:00",
+  "count": 64,
   "articles": [
     {
       "isSighting": true,
@@ -1180,6 +1180,44 @@
       "wpPostId": 7626,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-tokyo-inagi-2026-05-26/",
       "postedAt": "2026-05-26T00:19:40.600+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "山梨県",
+      "city": "南アルプス市",
+      "shopName": "ガシャポンバンダイオフィシャルショップ fumotto南アルプス店",
+      "shopAddress": "山梨県南アルプス市十日市場1571-1 fumotto南アルプス内",
+      "productName": "サンリオキャラクターズ ボンボンドロップミニチュアチャーム",
+      "sightingTime": "2026-05-26 06:33頃",
+      "statusText": "開店前在庫あり",
+      "confidenceMemo": "公式ショップの開店前在庫状況報告（⭕️印）のため信頼性が高い",
+      "sourceUrl": "https://x.com/nphatarian/status/2059024959662686572",
+      "sourceTweetId": "2059024959662686572",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2059024959662686572.png",
+      "isPosted": true,
+      "wpPostId": 7628,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-yamanashi-minami-alps-2026-05-26/",
+      "postedAt": "2026-05-26T07:05:24.705+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "石川県",
+      "city": "金沢市",
+      "shopName": "ラウンドワン 金沢店",
+      "shopAddress": "石川県金沢市横川3丁目33番3号",
+      "productName": "サンリオキャラクターズ ボンボンドロップミニチュアチャーム",
+      "sightingTime": "2026-05-26 06:33頃",
+      "statusText": "開店前在庫あり",
+      "confidenceMemo": "店舗名を指定した開店前在庫状況報告（⭕️印）のため信頼性が高い",
+      "sourceUrl": "https://x.com/nphatarian/status/2059024959662686572",
+      "sourceTweetId": "2059024959662686572",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2059024959662686572.png",
+      "isPosted": true,
+      "wpPostId": 7630,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-ishikawa-kanazawa-2026-05-26/",
+      "postedAt": "2026-05-26T07:05:31.381+09:00"
     }
   ]
 }
