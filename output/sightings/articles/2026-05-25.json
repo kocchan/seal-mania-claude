@@ -1,7 +1,7 @@
 {
   "date": "2026-05-25",
-  "updatedAt": "2026-05-25T21:25:50.159+09:00",
-  "count": 61,
+  "updatedAt": "2026-05-26T00:19:33.927+09:00",
+  "count": 62,
   "articles": [
     {
       "isSighting": true,
@@ -1161,6 +1161,25 @@
       "wpPostId": 7624,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-unknown-none-2026-05-25/",
       "postedAt": "2026-05-25T21:26:01.760+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "東京都",
+      "city": "稲城市",
+      "shopName": "GIANTS TOWN STORE",
+      "shopAddress": "東京都稲城市矢野口3300-1",
+      "productName": "ジャビットのぷっくりシール",
+      "sightingTime": "2026-05-26 05:00頃",
+      "statusText": "在庫あり（新発売）",
+      "confidenceMemo": "公式告知情報。「いま大人気のぷっくりシール」として紹介されており、当該商品のトレンドに合致。",
+      "sourceUrl": "https://x.com/BlackMarines/status/2058898788077773057",
+      "sourceTweetId": "2058898788077773057",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2058898788077773057.png",
+      "isPosted": true,
+      "wpPostId": 7626,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-tokyo-inagi-2026-05-26/",
+      "postedAt": "2026-05-26T00:19:40.600+09:00"
     }
   ]
 }
