@@ -1,7 +1,7 @@
 {
   "date": "2026-05-25",
-  "updatedAt": "2026-05-25T19:22:05.686+09:00",
-  "count": 59,
+  "updatedAt": "2026-05-25T21:25:50.159+09:00",
+  "count": 61,
   "articles": [
     {
       "isSighting": true,
@@ -1123,6 +1123,44 @@
       "wpPostId": 7620,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-hokkaido-teine-sapporo-2026-05-22/",
       "postedAt": "2026-05-25T19:23:09.944+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "大阪府",
+      "city": "大阪市北区",
+      "shopName": "C-pla 梅田茶屋町店",
+      "shopAddress": "大阪府大阪市北区茶屋町15-30",
+      "productName": "サンリオキャラクターズ ボンボンドロップミニチュアチャーム",
+      "sightingTime": "2026-05-25 20:34頃",
+      "statusText": "在庫あり（再入荷、おひとり様1回まで）",
+      "confidenceMemo": "店舗公式アカウントによる入荷案内。正確な情報である可能性が高い。",
+      "sourceUrl": "https://x.com/Cpla_chayamachi1/status/2058874380537749777",
+      "sourceTweetId": "2058874380537749777",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2058874380537749777.png",
+      "isPosted": true,
+      "wpPostId": 7622,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-osaka-kita-osaka-2026-05-25-2/",
+      "postedAt": "2026-05-25T21:25:55.282+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "なし",
+      "city": "なし",
+      "shopName": "アニメイト公式オンラインショップ",
+      "shopAddress": "https://www.animate-onlineshop.jp/",
+      "productName": "サンリオ ボンボンドロップシール もじボン",
+      "sightingTime": "2026-05-25 11:17頃",
+      "statusText": "在庫あり（全8種）",
+      "confidenceMemo": "特定の商品名（もじボン）と在庫状況に言及している有効な情報。",
+      "sourceUrl": "https://x.com/shinku_seal/status/2058870107573813507",
+      "sourceTweetId": "2058870107573813507",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2058870107573813507.png",
+      "isPosted": true,
+      "wpPostId": 7624,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-unknown-none-2026-05-25/",
+      "postedAt": "2026-05-25T21:26:01.760+09:00"
     }
   ]
 }
