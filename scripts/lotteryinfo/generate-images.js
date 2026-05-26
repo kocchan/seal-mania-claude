@@ -245,6 +245,16 @@ function buildPrompt(frontmatter) {
 
   const brandDesc = brandInfo ? brandInfo.description : `${brand} characters`;
 
+  // 著作権保護ブランドはジェネリック表現に変換
+  const COPYRIGHT_BRANDS = ['ディズニー', 'Disney', 'たまごっち', 'Tamagotchi'];
+  const isCopyrightBrand = COPYRIGHT_BRANDS.some(b => brand.includes(b) || tags.some(t => t.includes(b)));
+
+  const characterTheme = isCopyrightBrand
+    ? `Draw cute fantasy-themed kawaii characters inspired by magical adventure (castles, stars, hearts, magic wands) on the stickers. No specific branded characters.`
+    : (characterDescription
+        ? `**Draw these specific characters on the stickers:**\n${characterDescription}`
+        : `Draw cute ${brand} themed characters`);
+
   if (type === 'lottery') {
     return `
 You are a professional illustrator creating a **well-balanced, pop-style hand-drawn illustration** for a web article about a lottery sale event.
@@ -255,18 +265,15 @@ You are a professional illustrator creating a **well-balanced, pop-style hand-dr
 * **Background**: Soft pastel colors (light pink, light blue, or light yellow) with subtle patterns.
 
 **[Main Elements]**
-1. **Product Illustration**: Draw cute "ボンボンドロップシール" (puffy stickers) in the center. They are colorful, round, puffy stickers featuring the characters below.
+1. **Product Illustration**: Draw cute "ボンボンドロップシール" (puffy stickers) in the center. They are colorful, round, puffy stickers featuring cute characters.
 2. **Store Name**: "${store}" written in a fun, bold hand-drawn Japanese font
 3. **Event Badge**: "抽選販売" in a playful banner or ribbon design
 4. **Deadline Date (MANDATORY)**: Draw a calendar or banner showing the deadline date "${deadline}" clearly. This MUST be visible and readable. Write "締切 ${deadline}" or "応募締切 ${deadline}" prominently
 
 **[Character/Theme - IMPORTANT]**
-Brand: **${brand}** (${brandDesc})
-
-${characterDescription ? `**Draw these specific characters on the stickers:**\n${characterDescription}` : `Draw cute ${brand} themed characters`}
+${characterTheme}
 
 **[Absolute Rules]**
-* **MUST draw the actual characters** described above - they should be recognizable
 * Keep the overall design "just right" — neither too empty nor too noisy
 * The product is **STICKERS** (puffy seal stickers), not candy
 * Make Japanese text clear and readable
@@ -354,7 +361,21 @@ async function generateImage(prompt, outputPath) {
     const result = await imageModel.generateContent(prompt);
     const response = await result.response;
 
-    const part = response.candidates[0].content.parts.find(p => p.inlineData);
+    const candidate = response.candidates?.[0];
+    if (!candidate) {
+      console.warn('   candidatesが空です');
+      return false;
+    }
+    if (candidate.finishReason === 'PROHIBITED_CONTENT' || candidate.finishReason === 'SAFETY') {
+      console.warn(`   コンテンツフィルターによりブロック (${candidate.finishReason})。フォールバックプロンプトで再試行...`);
+      return false;
+    }
+    const parts = candidate.content?.parts;
+    if (!parts) {
+      console.warn(`   partsが空です (finishReason: ${candidate.finishReason})`);
+      return false;
+    }
+    const part = parts.find(p => p.inlineData);
 
     if (part && part.inlineData && part.inlineData.data) {
       const buffer = Buffer.from(part.inlineData.data, 'base64');
