@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-05-26T05:33:54.556Z"
+wpPostUrl: "https://www.seal-search.com/news/reservation/partyrico-solamachi-disney-20260526/"
+wpPostId: 7666
+posted: true
 imageGenerated: true
 type: lottery
 status: draft
