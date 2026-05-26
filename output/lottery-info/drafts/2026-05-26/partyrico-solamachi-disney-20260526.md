@@ -1,4 +1,5 @@
 ---
+imageGenerated: true
 type: lottery
 status: draft
 title: "【5/26締切】ボンドロ ディズニー抽選@ソラマチ"
