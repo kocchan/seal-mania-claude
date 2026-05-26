@@ -1,7 +1,7 @@
 {
   "date": "2026-05-26",
-  "updatedAt": "2026-05-26T19:10:39.648+09:00",
-  "count": 63,
+  "updatedAt": "2026-05-27T00:53:30.866+09:00",
+  "count": 66,
   "articles": [
     {
       "isSighting": true,
@@ -1199,6 +1199,63 @@
       "wpPostId": 7758,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-hiroshima-naka-hiroshima-2026-05-26/",
       "postedAt": "2026-05-26T19:13:19.930+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "埼玉県",
+      "city": "戸田市",
+      "shopName": "ギガステーション戸田店",
+      "shopAddress": "埼玉県戸田市本町4-12-25 T-FRONT 3F",
+      "productName": "サンリオキャラクターズ ボンボンドロップミニチュアチャーム",
+      "sightingTime": "2026-05-27 12:58頃",
+      "statusText": "入荷案内（在庫あり）",
+      "confidenceMemo": "店舗公式アカウントによる写真付きの入荷告知のため信頼性が非常に高い",
+      "sourceUrl": "https://x.com/gigastation_ftb/status/2059257961734963589",
+      "sourceTweetId": "2059257961734963589",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2059257961734963589.png",
+      "isPosted": true,
+      "wpPostId": 7760,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-saitama-toda-2026-05-27/",
+      "postedAt": "2026-05-27T00:53:37.859+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "東京都",
+      "city": "大田区",
+      "shopName": "野沢屋本店",
+      "shopAddress": "東京都大田区本羽田1-5-8",
+      "productName": "ボンボンドロップミニチュアチャーム サンリオバージョン",
+      "sightingTime": "2026-05-27 11:16頃",
+      "statusText": "販売中止（補充直後のマナー問題によりその場で停止）",
+      "confidenceMemo": "店舗の公式アカウント（関係者）による在庫補充および販売中止の報告。商品はシールを再現したチャーム。",
+      "sourceUrl": "https://x.com/BlueSky_719/status/2059232258134020128",
+      "sourceTweetId": "2059232258134020128",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2059232258134020128.png",
+      "isPosted": true,
+      "wpPostId": 7762,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-tokyo-ota-2026-05-27/",
+      "postedAt": "2026-05-27T00:53:44.665+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "大阪府",
+      "city": "泉佐野市",
+      "shopName": "タイトーFステーションりんくうシークル店1号店",
+      "shopAddress": "大阪府泉佐野市りんくう往来南3 りんくうシークル内",
+      "productName": "うるちゅるシールミニチュアキーホルダー（mojojojo、おぱんちゅうさぎ、んぽちゃむ）",
+      "sightingTime": "2026-05-27 12:44頃",
+      "statusText": "入荷（在庫あり）",
+      "confidenceMemo": "店舗公式アカウントによる具体的な入荷・在庫情報",
+      "sourceUrl": "https://x.com/Taito_Rinku/status/2059254457108676619",
+      "sourceTweetId": "2059254457108676619",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2059254457108676619.png",
+      "isPosted": true,
+      "wpPostId": 7764,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-osaka-izumisano-2026-05-27/",
+      "postedAt": "2026-05-27T00:53:52.207+09:00"
     }
   ]
 }
