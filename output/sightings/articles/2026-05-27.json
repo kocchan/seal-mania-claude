@@ -1,7 +1,7 @@
 {
   "date": "2026-05-27",
-  "updatedAt": "2026-05-27T19:08:09.836+09:00",
-  "count": 43,
+  "updatedAt": "2026-05-27T21:17:25.982+09:00",
+  "count": 46,
   "articles": [
     {
       "isSighting": true,
@@ -819,6 +819,63 @@
       "wpPostId": 7852,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-hokkaido-toyohira-sapporo-2026-05-27/",
       "postedAt": "2026-05-27T19:09:11.839+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "鳥取県",
+      "city": "鳥取市",
+      "shopName": "ドリームカプセル シャミネ鳥取店",
+      "shopAddress": "鳥取県鳥取市東品治町111-1 シャミネ鳥取内",
+      "productName": "サンリオキャラクターズ ボンボンドロップミニチュアチャーム",
+      "sightingTime": "2026-05-27 10:38頃",
+      "statusText": "完売（当日入荷分）",
+      "confidenceMemo": "店舗公式アカウントによる入荷および即日完売の報告",
+      "sourceUrl": "https://x.com/drecap_shamine/status/2059585019686138090",
+      "sourceTweetId": "2059585019686138090",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2059585019686138090.png",
+      "isPosted": true,
+      "wpPostId": 7854,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-tottori-tottori-2026-05-27-2/",
+      "postedAt": "2026-05-27T21:17:32.096+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "神奈川県",
+      "city": "藤沢市",
+      "shopName": "アニメイト藤沢",
+      "shopAddress": "神奈川県藤沢市藤沢484-12 藤沢ビル5F",
+      "productName": "カードキャプターさくら クリアカード編 うるちゅるPOP SEAL",
+      "sightingTime": "2026-05-27 10:21頃",
+      "statusText": "入荷情報（在庫あり）",
+      "confidenceMemo": "店舗公式アカウントによる入荷告知のため信頼性が非常に高い",
+      "sourceUrl": "https://x.com/ani_fujisawa/status/2059580702019182769",
+      "sourceTweetId": "2059580702019182769",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2059580702019182769.png",
+      "isPosted": true,
+      "wpPostId": 7856,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-kanagawa-fujisawa-2026-05-27/",
+      "postedAt": "2026-05-27T21:17:37.939+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "熊本県",
+      "city": "上益城郡嘉島町",
+      "shopName": "蔦屋書店 嘉島",
+      "shopAddress": "熊本県上益城郡嘉島町大字上島字長池2232 イオンモール熊本1F",
+      "productName": "カードキャプターさくら うるちゅる",
+      "sightingTime": "2026-05-27 10:07頃",
+      "statusText": "入荷情報（在庫あり）",
+      "confidenceMemo": "店舗公式アカウントによる写真付き入荷告知のため信頼性が非常に高い",
+      "sourceUrl": "https://x.com/TSUTAYA_kasima/status/2059577106921832459",
+      "sourceTweetId": "2059577106921832459",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2059577106921832459.png",
+      "isPosted": true,
+      "wpPostId": 7858,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-kumamoto-kashima-kamimashiki-district-2026-05-27/",
+      "postedAt": "2026-05-27T21:17:44.688+09:00"
     }
   ]
 }
