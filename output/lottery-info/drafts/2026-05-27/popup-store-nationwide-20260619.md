@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-05-27T05:47:05.589Z"
+wpPostUrl: "https://www.seal-search.com/news/reservation/popup-store-nationwide-20260619/"
+wpPostId: 7802
+posted: true
 imageGenerated: true
 type: lottery
 status: draft
