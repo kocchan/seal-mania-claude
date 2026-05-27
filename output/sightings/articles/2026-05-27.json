@@ -1,7 +1,7 @@
 {
   "date": "2026-05-27",
-  "updatedAt": "2026-05-27T21:17:25.982+09:00",
-  "count": 46,
+  "updatedAt": "2026-05-28T00:58:13.897+09:00",
+  "count": 47,
   "articles": [
     {
       "isSighting": true,
@@ -876,6 +876,25 @@
       "wpPostId": 7858,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-kumamoto-kashima-kamimashiki-district-2026-05-27/",
       "postedAt": "2026-05-27T21:17:44.688+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "静岡県",
+      "city": "富士市",
+      "shopName": "ホビヨン",
+      "shopAddress": "静岡県富士市伝法2520-23（代表：富士店）",
+      "productName": "ボンボンドロップシール バインダーセット",
+      "sightingTime": "2026-05-28 12:26頃",
+      "statusText": "在庫あり（全店舗入荷・数量限定）",
+      "confidenceMemo": "ホビヨン公式アカウントによる全店舗への入荷告知のため、非常に信頼性が高い。",
+      "sourceUrl": "https://x.com/hobbyon1/status/2059612224721989827",
+      "sourceTweetId": "2059612224721989827",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2059612224721989827.png",
+      "isPosted": true,
+      "wpPostId": 7860,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-shizuoka-fuji-2026-05-28/",
+      "postedAt": "2026-05-28T00:58:19.934+09:00"
     }
   ]
 }
