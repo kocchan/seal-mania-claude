@@ -1,4 +1,7 @@
 ---
+postedAt: "2026-05-28T05:42:21.443Z"
+wpPostUrl: "https://www.seal-search.com/news/reservation/namba-marui-shizukuchan-20260612/"
+wpPostId: 7890
 type: lottery
 status: draft
 title: "【5/30締切】しずくちゃんPOP UP STORE抽選@なんばマルイ"
@@ -27,7 +30,7 @@ featuredImage: "https://www.shizukuchan.jp/news/?p=3860"
 createdAt: "2026-05-28T10:10:00+09:00"
 updatedAt: "2026-05-28T10:10:00+09:00"
 imageGenerated: true
-posted: false
+posted: true
 ---
 
 # 【5/30締切】しずくちゃんPOP UP STORE抽選がなんばマルイで開催！
