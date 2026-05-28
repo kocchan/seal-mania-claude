@@ -1,7 +1,7 @@
 {
   "date": "2026-05-28",
-  "updatedAt": "2026-05-28T21:24:43.845+09:00",
-  "count": 40,
+  "updatedAt": "2026-05-29T07:41:15.861+09:00",
+  "count": 41,
   "articles": [
     {
       "isSighting": true,
@@ -762,6 +762,25 @@
       "wpPostId": 7942,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-oita-oita-2026-05-28/",
       "postedAt": "2026-05-28T21:24:56.233+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "静岡県",
+      "city": "静岡市葵区",
+      "shopName": "SUPER WAVE 静岡店",
+      "shopAddress": "静岡県静岡市葵区伝馬町5-2",
+      "productName": "サンリオ ボンボンドロップミニチュアチャーム",
+      "sightingTime": "2026-05-29 12:09頃",
+      "statusText": "入荷あり（2026/05/29 19:00より販売開始）",
+      "confidenceMemo": "店舗公式アカウントによる具体的な入荷・販売告知。商品はミニチュアチャーム（ガチャガチャ）版。",
+      "sourceUrl": "https://x.com/patrol_yo/status/2060118667778752634",
+      "sourceTweetId": "2060118667778752634",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2060118667778752634.png",
+      "isPosted": true,
+      "wpPostId": 7944,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-shizuoka-aoi-shizuoka-2026-05-29/",
+      "postedAt": "2026-05-29T07:41:21.897+09:00"
     }
   ]
 }
