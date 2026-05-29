@@ -17,6 +17,7 @@ on:
     paths:
       - 'output/lottery-info/drafts/**/*.md'
       - 'output/newproduct/drafts/**/*.md'
+      - 'output/new-releases/drafts/**/*.md'
   workflow_dispatch:
 
 concurrency:
@@ -98,11 +99,21 @@ jobs:
           AMAZON_ASSOCIATE_ID: ${{ secrets.AMAZON_ASSOCIATE_ID }}
           RAKUTEN_AFFILIATE_ID: ${{ secrets.RAKUTEN_AFFILIATE_ID }}
 
+      - name: 🚀 WordPress 投稿（新作販売）
+        run: npm run newreleases:post
+        env:
+          WP_API_URL: ${{ secrets.WP_API_URL }}
+          WP_USER: ${{ secrets.WP_USER }}
+          WP_APP_PASSWORD: ${{ secrets.WP_APP_PASSWORD }}
+          YAHOO_CLIENT_ID: ${{ secrets.YAHOO_CLIENT_ID }}
+          AMAZON_ASSOCIATE_ID: ${{ secrets.AMAZON_ASSOCIATE_ID }}
+          RAKUTEN_AFFILIATE_ID: ${{ secrets.RAKUTEN_AFFILIATE_ID }}
+
       - name: 💾 投稿済みフラグをコミット
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          git add output/lottery-info/drafts output/newproduct/drafts
+          git add output/lottery-info/drafts output/newproduct/drafts output/new-releases/drafts
           if git diff --staged --quiet; then
             echo "変更なし - コミットをスキップ"
           else
