@@ -1,7 +1,7 @@
 {
   "date": "2026-05-30",
-  "updatedAt": "2026-05-30T17:35:26.046+09:00",
-  "count": 26,
+  "updatedAt": "2026-05-30T19:47:01.896+09:00",
+  "count": 28,
   "articles": [
     {
       "isSighting": true,
@@ -496,6 +496,44 @@
       "wpPostId": 8300,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-shizuoka-aoi-shizuoka-2026-05-30-2/",
       "postedAt": "2026-05-30T17:35:45.800+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "東京都",
+      "city": "新宿区",
+      "shopName": "おにぎりまんま",
+      "shopAddress": "東京都新宿区新宿3-31-5 ペガサス館1F",
+      "productName": "プチドロップシール（スティッチ）",
+      "sightingTime": "2026-05-30 19:00頃",
+      "statusText": "在庫あり（たくさんあるとのこと）",
+      "confidenceMemo": "具体的な店舗名と商品獲得の報告があり信頼性が高い",
+      "sourceUrl": "https://x.com/yuukichans2/status/2060669626082894212",
+      "sourceTweetId": "2060669626082894212",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2060669626082894212.png",
+      "isPosted": true,
+      "wpPostId": 8302,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-tokyo-shinjuku-2026-05-30-2/",
+      "postedAt": "2026-05-30T19:47:08.980+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "東京都",
+      "city": "新宿区",
+      "shopName": "ドン・キホーテ（新宿エリア）",
+      "shopAddress": "東京都新宿区（新宿東口本店、または新宿店と推測）",
+      "productName": "ボンボンドロップシール、うるちゅる（モンチッチ）",
+      "sightingTime": "2026-05-30 夕方",
+      "statusText": "ボンドロ入荷情報あり（夕方の時間帯）",
+      "confidenceMemo": "ボンドロに関しては「出てたみたい」という伝聞形式のため予測扱い",
+      "sourceUrl": "https://x.com/yuukichans2/status/2060669626082894212",
+      "sourceTweetId": "2060669626082894212",
+      "isPrediction": true,
+      "imagePath": "output/sightings/images/2060669626082894212.png",
+      "isPosted": true,
+      "wpPostId": 8304,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-tokyo-shinjuku-2026-05-30-3/",
+      "postedAt": "2026-05-30T19:47:15.933+09:00"
     }
   ]
 }
