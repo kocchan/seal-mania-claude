@@ -1,7 +1,7 @@
 {
   "date": "2026-05-30",
-  "updatedAt": "2026-05-30T12:38:38.745+09:00",
-  "count": 21,
+  "updatedAt": "2026-05-30T15:20:50.674+09:00",
+  "count": 23,
   "articles": [
     {
       "isSighting": true,
@@ -401,6 +401,44 @@
       "wpPostId": 8076,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-hyogo-himeji-2026-05-29-2/",
       "postedAt": "2026-05-30T12:41:07.991+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "東京都",
+      "city": "千代田区",
+      "shopName": "ポケタウン秋葉原",
+      "shopAddress": "東京都千代田区外神田1丁目16-10 1階 17号",
+      "productName": "ボンボンドロップシール ちいかわ",
+      "sightingTime": "2026-05-30 05:06頃",
+      "statusText": "在庫あり（新商品入荷）",
+      "confidenceMemo": "店舗公式アカウントによる住所・価格付きの入荷情報",
+      "sourceUrl": "https://x.com/poketown_akiba/status/2060588513704419768",
+      "sourceTweetId": "2060588513704419768",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2060588513704419768.png",
+      "isPosted": true,
+      "wpPostId": 8292,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-tokyo-chiyoda-2026-05-30/",
+      "postedAt": "2026-05-30T15:20:56.435+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "神奈川県",
+      "city": "相模原市緑区",
+      "shopName": "bepop アリオ橋本店",
+      "shopAddress": "神奈川県相模原市緑区大山町1-22 アリオ橋本1F",
+      "productName": "ボンボンドロップシール",
+      "sightingTime": "2026-05-27",
+      "statusText": "5/27に入荷（現在は完売の可能性あり）",
+      "confidenceMemo": "店舗アカウントによる入荷報告。店舗名はアカウント名から特定",
+      "sourceUrl": "https://x.com/ario_bepop/status/2060568712504336842",
+      "sourceTweetId": "2060568712504336842",
+      "isPrediction": true,
+      "imagePath": "output/sightings/images/2060568712504336842.png",
+      "isPosted": true,
+      "wpPostId": 8294,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-kanagawa-midori-sagamihara-2026-05-27/",
+      "postedAt": "2026-05-30T15:21:02.807+09:00"
     }
   ]
 }
