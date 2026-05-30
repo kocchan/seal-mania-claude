@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-05-30T05:05:29.707Z"
+wpPostUrl: "https://www.seal-search.com/news/new-item/shizukuchan-hakata-marui-baby-20260524/"
+wpPostId: 8120
+posted: true
 imageGenerated: true
 type: new-release
 status: draft

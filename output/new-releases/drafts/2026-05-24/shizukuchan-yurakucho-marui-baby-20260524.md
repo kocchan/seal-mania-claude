@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-05-30T05:05:36.672Z"
+wpPostUrl: "https://www.seal-search.com/news/new-item/shizukuchan-yurakucho-marui-baby-20260524/"
+wpPostId: 8126
+posted: true
 imageGenerated: true
 type: new-release
 status: draft

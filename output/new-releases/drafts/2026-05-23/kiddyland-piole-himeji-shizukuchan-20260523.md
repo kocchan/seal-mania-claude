@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-05-30T05:05:22.867Z"
+wpPostUrl: "https://www.seal-search.com/news/new-item/kiddyland-piole-himeji-shizukuchan-20260523/"
+wpPostId: 8114
+posted: true
 imageGenerated: true
 type: lottery
 status: draft

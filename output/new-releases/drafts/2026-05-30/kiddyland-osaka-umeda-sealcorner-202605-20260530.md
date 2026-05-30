@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-05-30T05:06:05.723Z"
+wpPostUrl: "https://www.seal-search.com/news/new-item/kiddyland-osaka-umeda-sealcorner-202605-20260530/"
+wpPostId: 8151
+posted: true
 imageGenerated: true
 type: lottery
 status: draft

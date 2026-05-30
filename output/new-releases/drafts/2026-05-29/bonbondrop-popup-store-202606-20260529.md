@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-05-30T05:05:57.669Z"
+wpPostUrl: "https://www.seal-search.com/news/new-item/bonbondrop-popup-store-202606-20260529/"
+wpPostId: 8144
+posted: true
 imageGenerated: true
 type: new-release
 status: draft
