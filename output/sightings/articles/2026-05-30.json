@@ -1,7 +1,7 @@
 {
   "date": "2026-05-30",
-  "updatedAt": "2026-05-30T22:51:40.561+09:00",
-  "count": 29,
+  "updatedAt": "2026-05-31T06:58:59.535+09:00",
+  "count": 30,
   "articles": [
     {
       "isSighting": true,
@@ -553,6 +553,25 @@
       "wpPostId": 8306,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-okayama-okayama-2026-05-30/",
       "postedAt": "2026-05-30T22:51:47.131+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "愛知県",
+      "city": "名古屋市港区",
+      "shopName": "名古屋港水族館",
+      "shopAddress": "愛知県名古屋市港区港町1-3",
+      "productName": "ボンボンドロップシール 名古屋港水族館",
+      "sightingTime": "2026-05-31 17:45頃",
+      "statusText": "在庫あり",
+      "confidenceMemo": "施設名が具体的に特定されており、目撃（発見）情報が含まれるため",
+      "sourceUrl": "https://x.com/AquaHobby22/status/2060779765330821518",
+      "sourceTweetId": "2060779765330821518",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2060779765330821518.png",
+      "isPosted": true,
+      "wpPostId": 8308,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-aichi-minato-nagoya-2026-05-31/",
+      "postedAt": "2026-05-31T06:59:05.974+09:00"
     }
   ]
 }
