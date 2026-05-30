@@ -1,7 +1,7 @@
 {
   "date": "2026-05-30",
-  "updatedAt": "2026-05-30T15:20:50.674+09:00",
-  "count": 23,
+  "updatedAt": "2026-05-30T17:35:26.046+09:00",
+  "count": 26,
   "articles": [
     {
       "isSighting": true,
@@ -439,6 +439,63 @@
       "wpPostId": 8294,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-kanagawa-midori-sagamihara-2026-05-27/",
       "postedAt": "2026-05-30T15:21:02.807+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "大阪府",
+      "city": "大阪市浪速区",
+      "shopName": "ジャングル 大阪日本橋本店",
+      "shopAddress": "大阪府大阪市浪速区日本橋3-4-16",
+      "productName": "ボンボンドロップシール（ノンタン、お茶犬）",
+      "sightingTime": "2026-05-30 17:19頃",
+      "statusText": "在庫あり（少なめの入荷）",
+      "confidenceMemo": "店舗公式アカウント（大阪日本橋ジャングル）による入荷告知ツイート",
+      "sourceUrl": "https://x.com/robojungle/status/2060637260530520458",
+      "sourceTweetId": "2060637260530520458",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2060637260530520458.png",
+      "isPosted": true,
+      "wpPostId": 8296,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-osaka-naniwa-osaka-2026-05-30/",
+      "postedAt": "2026-05-30T17:35:32.403+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "東京都",
+      "city": "新宿区",
+      "shopName": "ドン・キホーテ 新宿東南口店",
+      "shopAddress": "東京都新宿区新宿3-36-16",
+      "productName": "ボンボンドロップシール",
+      "sightingTime": "2026-05-30 06:27頃",
+      "statusText": "在庫あり",
+      "confidenceMemo": "Foursquareの位置情報共有を含む具体的な目撃投稿",
+      "sourceUrl": "https://x.com/awwsoap/status/2060609067949989958",
+      "sourceTweetId": "2060609067949989958",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2060609067949989958.png",
+      "isPosted": true,
+      "wpPostId": 8298,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-tokyo-shinjuku-2026-05-30/",
+      "postedAt": "2026-05-30T17:35:39.271+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "静岡県",
+      "city": "静岡市葵区",
+      "shopName": "オオイシ文具店",
+      "shopAddress": "静岡県静岡市葵区安西1丁目23",
+      "productName": "クラックス うるちゅるポップシール（エンジェルブルー）",
+      "sightingTime": "2026-05-30 07:27頃",
+      "statusText": "在庫あり（極少入荷・1家族1枚制限あり）",
+      "confidenceMemo": "店舗公式アカウントによる入荷・販売開始の投稿であり、信頼性が非常に高い",
+      "sourceUrl": "https://x.com/ooishibungu/status/2060623997520273802",
+      "sourceTweetId": "2060623997520273802",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2060623997520273802.png",
+      "isPosted": true,
+      "wpPostId": 8300,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-shizuoka-aoi-shizuoka-2026-05-30-2/",
+      "postedAt": "2026-05-30T17:35:45.800+09:00"
     }
   ]
 }
