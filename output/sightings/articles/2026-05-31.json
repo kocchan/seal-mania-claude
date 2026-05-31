@@ -1,7 +1,7 @@
 {
   "date": "2026-05-31",
-  "updatedAt": "2026-05-31T19:54:34.008+09:00",
-  "count": 34,
+  "updatedAt": "2026-05-31T22:56:31.922+09:00",
+  "count": 36,
   "articles": [
     {
       "isSighting": true,
@@ -648,6 +648,44 @@
       "wpPostId": 8380,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-hokkaido-chuo-sapporo-2026-05-31/",
       "postedAt": "2026-05-31T19:54:40.402+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "千葉県",
+      "city": "千葉市美浜区",
+      "shopName": "マリーンズストア",
+      "shopAddress": "千葉県千葉市美浜区美浜1 ZOZOマリンスタジアム内",
+      "productName": "マリーンズ ボンボンドロップシール",
+      "sightingTime": "2026-05-31 21:59頃",
+      "statusText": "在庫あり（販売中だが購入方法が複雑との情報）",
+      "confidenceMemo": "千葉ロッテマリーンズ公式グッズとしての販売言及があり、店舗が特定可能",
+      "sourceUrl": "https://x.com/backdrop777/status/2061069951910531322",
+      "sourceTweetId": "2061069951910531322",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2061069951910531322.png",
+      "isPosted": true,
+      "wpPostId": 8382,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-chiba-mihama-chiba-2026-05-31/",
+      "postedAt": "2026-05-31T22:56:39.036+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "岐阜県",
+      "city": "大垣市",
+      "shopName": "宮脇書店 ほんのいえ 大垣店",
+      "shopAddress": "岐阜県大垣市今宿4-52-1",
+      "productName": "ボンボンドロップシール お文具といっしょ",
+      "sightingTime": "2026-05-31 11:31頃",
+      "statusText": "在庫あり（新作入荷）",
+      "confidenceMemo": "店舗公式アカウントによる写真付きの入荷告知であり、信頼性が非常に高い",
+      "sourceUrl": "https://x.com/honnoiemiyawaki/status/2061047988676636936",
+      "sourceTweetId": "2061047988676636936",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2061047988676636936.png",
+      "isPosted": true,
+      "wpPostId": 8384,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-gifu-ogaki-2026-05-31/",
+      "postedAt": "2026-05-31T22:56:45.648+09:00"
     }
   ]
 }
