@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-05-31T05:50:09.464Z"
+wpPostUrl: "https://www.seal-search.com/news/new-item/shizukuchan-namba-marui-baby-20260525/"
+wpPostId: 8344
+posted: true
 imageGenerated: true
 type: new-release
 status: draft

@@ -1,6 +1,9 @@
 ---
+postedAt: "2026-05-31T05:50:17.154Z"
+wpPostUrl: "https://www.seal-search.com/news/new-item/umeda-loft-bonbondrop-202606-20260531/"
+wpPostId: 8346
 imageGenerated: true
-posted: false
+posted: true
 type: lottery
 status: draft
 title: "【6/1締切】梅田ロフト ボンボンドロップ 抽選"
