@@ -1,5 +1,5 @@
 ---
-imageGenerated: false
+imageGenerated: true
 posted: false
 type: lottery
 status: draft
