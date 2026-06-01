@@ -1,7 +1,7 @@
 {
   "date": "2026-06-01",
-  "updatedAt": "2026-06-01T17:31:52.388+09:00",
-  "count": 35,
+  "updatedAt": "2026-06-01T20:49:12.920+09:00",
+  "count": 37,
   "articles": [
     {
       "isSighting": true,
@@ -667,6 +667,44 @@
       "wpPostId": 8456,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-tokyo-chofu-2026-06-01-2/",
       "postedAt": "2026-06-01T17:32:52.627+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "鳥取県",
+      "city": "境港市",
+      "shopName": "鬼太郎の里 わたなべ",
+      "shopAddress": "鳥取県境港市本町11",
+      "productName": "どじょう掬いまんじゅう ぷっくりシール",
+      "sightingTime": "2026-06-01 08:42頃",
+      "statusText": "在庫あり（好評販売中）",
+      "confidenceMemo": "店舗公式アカウントによる販売告知のため信頼性が高い",
+      "sourceUrl": "https://x.com/kitarounosato_w/status/2061367875622076483",
+      "sourceTweetId": "2061367875622076483",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2061367875622076483.png",
+      "isPosted": true,
+      "wpPostId": 8458,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-tottori-sakaiminato-2026-06-01/",
+      "postedAt": "2026-06-01T20:49:20.225+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "北海道",
+      "city": "苫小牧市",
+      "shopName": "サンキューマート イオンモール苫小牧店",
+      "shopAddress": "北海道苫小牧市柳町3丁目1-20 イオンモール苫小牧 2F",
+      "productName": "ぷっくりうるちゅる感がかわいいシール",
+      "sightingTime": "2026-06-01 10:16",
+      "statusText": "在庫あり（入荷情報）",
+      "confidenceMemo": "店舗公式アカウントによる写真付きの入荷情報であるため、信頼性が非常に高い。",
+      "sourceUrl": "https://x.com/390aeontomakoma/status/2061391407378817127",
+      "sourceTweetId": "2061391407378817127",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2061391407378817127.png",
+      "isPosted": true,
+      "wpPostId": 8460,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-hokkaido-tomakomai-2026-06-01/",
+      "postedAt": "2026-06-01T20:49:27.193+09:00"
     }
   ]
 }
