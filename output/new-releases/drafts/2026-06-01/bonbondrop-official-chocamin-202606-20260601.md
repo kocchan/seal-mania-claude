@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-06-01T06:22:56.134Z"
+wpPostUrl: "https://www.seal-search.com/news/new-item/bonbondrop-official-chocamin-20260602/"
+wpPostId: 8438
+posted: true
 imageGenerated: true
 type: lottery
 status: draft
