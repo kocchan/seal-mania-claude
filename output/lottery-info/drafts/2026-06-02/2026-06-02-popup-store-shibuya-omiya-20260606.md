@@ -1,4 +1,7 @@
 ---
+postedAt: "2026-06-02T06:07:43.742Z"
+wpPostUrl: "https://www.seal-search.com/news/reservation/popup-store-shibuya-omiya-20260606/"
+wpPostId: 8510
 type: lottery
 status: draft
 title: "【6/6締切】ボンドロPOPUP STORE抽選@渋谷・大宮"
@@ -28,7 +31,7 @@ featuredImage: ""
 createdAt: "2026-06-02T10:15:00+09:00"
 updatedAt: "2026-06-02T10:15:00+09:00"
 imageGenerated: true
-posted: false
+posted: true
 ---
 
 # 【6/6締切】ボンボンドロップシールPOPUP STORE入場抽選が渋谷モディ・大宮マルイで開催！
