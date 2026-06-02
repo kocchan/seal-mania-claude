@@ -1,7 +1,7 @@
 {
   "date": "2026-06-02",
-  "updatedAt": "2026-06-02T19:49:13.408+09:00",
-  "count": 44,
+  "updatedAt": "2026-06-03T01:44:49.419+09:00",
+  "count": 45,
   "articles": [
     {
       "isSighting": true,
@@ -838,6 +838,25 @@
       "wpPostId": 8560,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-nagano-matsumoto-2026-06-02/",
       "postedAt": "2026-06-02T19:49:58.614+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "長崎県",
+      "city": "佐世保市",
+      "shopName": "ハウステンボス（内の店舗）",
+      "shopAddress": "長崎県佐世保市ハウステンボス町",
+      "productName": "ボンボンドロップシール",
+      "sightingTime": "2026-06-03 14:43頃",
+      "statusText": "在庫あり（購入報告）",
+      "confidenceMemo": "実際に購入したとの情報。ユーザー名から場所をハウステンボス周辺と推定。",
+      "sourceUrl": "https://x.com/jQ0tpXChdC9Y8Qx/status/2061821041832583199",
+      "sourceTweetId": "2061821041832583199",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2061821041832583199.png",
+      "isPosted": true,
+      "wpPostId": 8562,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-nagasaki-sasebo-2026-06-03/",
+      "postedAt": "2026-06-03T01:44:56.012+09:00"
     }
   ]
 }
