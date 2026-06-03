@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-06-03T06:21:19.923Z"
+wpPostUrl: "https://www.seal-search.com/news/new-item/bonbondrop-popup-sendai-20260626/"
+wpPostId: 8608
+posted: true
 imageGenerated: true
 type: lottery
 status: draft
