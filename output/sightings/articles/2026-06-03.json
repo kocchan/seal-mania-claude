@@ -1,7 +1,7 @@
 {
   "date": "2026-06-03",
-  "updatedAt": "2026-06-03T22:13:45.159+09:00",
-  "count": 36,
+  "updatedAt": "2026-06-04T01:59:47.181+09:00",
+  "count": 38,
   "articles": [
     {
       "isSighting": true,
@@ -686,6 +686,44 @@
       "wpPostId": 8636,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-saga-saga-2026-06-03-2/",
       "postedAt": "2026-06-03T22:14:15.247+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "大阪府",
+      "city": "大阪市港区",
+      "shopName": "海遊館",
+      "shopAddress": "大阪府大阪市港区海岸通1-1-10",
+      "productName": "水族館ボンボンドロップシール",
+      "sightingTime": "2026-06-04 15:56頃",
+      "statusText": "入荷未定（在庫なし）",
+      "confidenceMemo": "施設による公式な入荷情報を確認した旨の投稿",
+      "sourceUrl": "https://x.com/airanNico/status/2062201746580185394",
+      "sourceTweetId": "2062201746580185394",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2062201746580185394.png",
+      "isPosted": true,
+      "wpPostId": 8638,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-osaka-minato-osaka-2026-06-04/",
+      "postedAt": "2026-06-04T01:59:54.540+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "愛知県",
+      "city": "名古屋市東区",
+      "shopName": "プリズマクラブ（バンテリンドーム ナゴヤ内）",
+      "shopAddress": "愛知県名古屋市東区大幸南1-1-1",
+      "productName": "ぷっくりシール（ボンボンドロップシール）",
+      "sightingTime": "2026-06-03",
+      "statusText": "在庫あり（昨日の情報）",
+      "confidenceMemo": "返信文脈から特定。商品名は「ぷっくりシール」と表現されているため不確定要素あり",
+      "sourceUrl": "https://x.com/nekomadayo/status/2062182852658409964",
+      "sourceTweetId": "2062182852658409964",
+      "isPrediction": true,
+      "imagePath": "output/sightings/images/2062182852658409964.png",
+      "isPosted": true,
+      "wpPostId": 8640,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-aichi-higashi-nagoya-2026-06-03/",
+      "postedAt": "2026-06-04T02:00:01.394+09:00"
     }
   ]
 }
