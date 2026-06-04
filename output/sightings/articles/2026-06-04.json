@@ -1,7 +1,7 @@
 {
   "date": "2026-06-04",
-  "updatedAt": "2026-06-04T19:06:41.815+09:00",
-  "count": 34,
+  "updatedAt": "2026-06-05T00:26:23.867+09:00",
+  "count": 36,
   "articles": [
     {
       "isSighting": true,
@@ -648,6 +648,44 @@
       "wpPostId": 8708,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-saitama-fukaya-2026-06-04/",
       "postedAt": "2026-06-04T19:07:37.719+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "沖縄県",
+      "city": "国頭郡恩納村",
+      "shopName": "ファミリーマート（リザンシーパークホテル谷茶ベイ前）",
+      "shopAddress": "沖縄県国頭郡恩納村谷茶1496付近",
+      "productName": "ロディ ボンボンドロップシール",
+      "sightingTime": "2026-06-05 14:09頃",
+      "statusText": "3種類在庫あり",
+      "confidenceMemo": "具体的な店舗立地と購入報告があり信頼性が高い",
+      "sourceUrl": "https://x.com/gdg65615/status/2062537294402466261",
+      "sourceTweetId": "2062537294402466261",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2062537294402466261.png",
+      "isPosted": true,
+      "wpPostId": 8710,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-okinawa-onna-kunigami-district-2026-06-05/",
+      "postedAt": "2026-06-05T00:26:31.096+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "福岡県",
+      "city": "福岡市博多区",
+      "shopName": "しずくちゃんポップアップストア（博多）",
+      "shopAddress": "福岡県福岡市博多区（博多駅周辺の催事会場）",
+      "productName": "ボンボンドロップシール",
+      "sightingTime": "2026-06-05 12:49頃",
+      "statusText": "本日完売",
+      "confidenceMemo": "催事場での目撃情報であり、他商品を含めた在庫状況に詳しいため信頼できる",
+      "sourceUrl": "https://x.com/yy68331407/status/2062517204797772063",
+      "sourceTweetId": "2062517204797772063",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2062517204797772063.png",
+      "isPosted": true,
+      "wpPostId": 8712,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-fukuoka-fukuoka-hakata-2026-06-05/",
+      "postedAt": "2026-06-05T00:26:37.464+09:00"
     }
   ]
 }
