@@ -1,7 +1,7 @@
 {
   "date": "2026-06-05",
-  "updatedAt": "2026-06-05T21:02:58.403+09:00",
-  "count": 33,
+  "updatedAt": "2026-06-06T00:16:42.570+09:00",
+  "count": 34,
   "articles": [
     {
       "isSighting": true,
@@ -629,6 +629,25 @@
       "wpPostId": 8778,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-tokyo-suginami-2026-06-05/",
       "postedAt": "2026-06-05T21:03:20.300+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "千葉県",
+      "city": "千葉市",
+      "shopName": "SATANIC CARNIVAL '26 会場物販",
+      "shopAddress": "千葉県千葉市美浜区中瀬2-1 幕張メッセ",
+      "productName": "ボンボンドロップシール（HEY-SMITH）",
+      "sightingTime": "2026-06-07 予定",
+      "statusText": "在庫あり（イベント物販）",
+      "confidenceMemo": "イベントの公式グッズラインナップに基づく目撃情報",
+      "sourceUrl": "https://x.com/3SLXzer6h7UBO9M/status/2062885235600330824",
+      "sourceTweetId": "2062885235600330824",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2062885235600330824.png",
+      "isPosted": true,
+      "wpPostId": 8780,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-chiba-chiba-2026-06-07/",
+      "postedAt": "2026-06-06T00:16:49.185+09:00"
     }
   ]
 }
