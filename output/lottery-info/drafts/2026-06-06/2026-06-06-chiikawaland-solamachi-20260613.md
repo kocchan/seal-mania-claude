@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-06-06T05:09:09.946Z"
+wpPostUrl: "https://www.seal-search.com/news/reservation/chiikawaland-solamachi-chiikawa-20260613/"
+wpPostId: 8972
+posted: true
 imageGenerated: true
 type: lottery
 status: draft
