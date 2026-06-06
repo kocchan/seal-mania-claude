@@ -1,7 +1,7 @@
 {
   "date": "2026-06-06",
-  "updatedAt": "2026-06-06T22:55:51.555+09:00",
-  "count": 38,
+  "updatedAt": "2026-06-07T07:01:07.752+09:00",
+  "count": 39,
   "articles": [
     {
       "isSighting": true,
@@ -724,6 +724,25 @@
       "wpPostId": 9018,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-osaka-kita-osaka-2026-06-06/",
       "postedAt": "2026-06-06T22:55:57.734+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "奈良県",
+      "city": "奈良市",
+      "shopName": "秋篠寺付近の売店",
+      "shopAddress": "奈良県奈良市秋篠町357",
+      "productName": "ボンボンドロップシール",
+      "sightingTime": "2026-06-07 14:54頃",
+      "statusText": "在庫あり（饅頭店にて販売、即買い可能）",
+      "confidenceMemo": "特定の寺院（秋篠寺）でのお土産購入に付随した目撃情報であり、場所の特定が可能。",
+      "sourceUrl": "https://x.com/livre0/status/2063273218375643199",
+      "sourceTweetId": "2063273218375643199",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2063273218375643199.png",
+      "isPosted": true,
+      "wpPostId": 9020,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-nara-nara-2026-06-07/",
+      "postedAt": "2026-06-07T07:01:13.867+09:00"
     }
   ]
 }
