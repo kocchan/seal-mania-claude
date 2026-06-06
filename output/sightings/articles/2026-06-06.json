@@ -1,7 +1,7 @@
 {
   "date": "2026-06-06",
-  "updatedAt": "2026-06-06T19:52:37.208+09:00",
-  "count": 37,
+  "updatedAt": "2026-06-06T22:55:51.555+09:00",
+  "count": 38,
   "articles": [
     {
       "isSighting": true,
@@ -705,6 +705,25 @@
       "wpPostId": 9016,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-osaka-sakai-2026-06-05/",
       "postedAt": "2026-06-06T19:53:17.492+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "大阪府",
+      "city": "大阪市北区",
+      "shopName": "HEP FIVE",
+      "shopAddress": "大阪府大阪市北区角田町5-15",
+      "productName": "うるちゅるシール",
+      "sightingTime": "2026-06-06 12:21頃",
+      "statusText": "在庫あり（購入報告）",
+      "confidenceMemo": "「HEP」は大阪梅田のランドマークであるHEP FIVEを指し、実際に購入されているため信頼性が高い。",
+      "sourceUrl": "https://x.com/yuri_ccn2/status/2063234799687586104",
+      "sourceTweetId": "2063234799687586104",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2063234799687586104.png",
+      "isPosted": true,
+      "wpPostId": 9018,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-osaka-kita-osaka-2026-06-06/",
+      "postedAt": "2026-06-06T22:55:57.734+09:00"
     }
   ]
 }
