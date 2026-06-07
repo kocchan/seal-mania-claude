@@ -1,4 +1,7 @@
 ---
+postedAt: "2026-06-07T05:56:52.310Z"
+wpPostUrl: "https://www.seal-search.com/news/reservation/popup-sendai-ebeans-20260626/"
+wpPostId: 9064
 type: lottery
 status: draft
 title: "【6月上旬締切】ボンドロPOPUP仙台イービーンズの抽選予約まとめ"
@@ -23,7 +26,7 @@ featuredImage: ""
 createdAt: "2026-06-07T10:09:00+09:00"
 updatedAt: "2026-06-07T10:09:00+09:00"
 imageGenerated: true
-posted: false
+posted: true
 ---
 
 # 【6月上旬締切】ボンボンドロップシールPOPUP STORE仙台の抽選予約方法まとめ

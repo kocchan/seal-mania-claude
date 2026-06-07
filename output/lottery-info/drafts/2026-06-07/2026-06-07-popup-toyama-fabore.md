@@ -1,4 +1,7 @@
 ---
+postedAt: "2026-06-07T05:57:02.004Z"
+wpPostUrl: "https://www.seal-search.com/news/reservation/popup-toyama-fabore-20260808/"
+wpPostId: 9066
 type: lottery
 status: draft
 title: "【まもなく締切】ボンドロPOPUPファボーレ富山の抽選予約方法まとめ"
@@ -23,7 +26,7 @@ featuredImage: ""
 createdAt: "2026-06-07T10:09:00+09:00"
 updatedAt: "2026-06-07T10:09:00+09:00"
 imageGenerated: true
-posted: false
+posted: true
 ---
 
 # 【まもなく受付開始】ボンボンドロップシールPOPUP STORE ファボーレ富山の抽選予約まとめ

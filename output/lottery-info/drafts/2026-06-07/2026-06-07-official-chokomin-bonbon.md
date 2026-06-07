@@ -1,4 +1,7 @@
 ---
+postedAt: "2026-06-07T05:56:33.479Z"
+wpPostUrl: "https://www.seal-search.com/news/reservation/official-chokomin-bonbon-20260607/"
+wpPostId: 9060
 type: lottery
 status: draft
 title: "【6/7締切】ちょこみんボンボンなど4種の公式抽選販売！応募方法まとめ"
@@ -28,7 +31,7 @@ featuredImage: ""
 createdAt: "2026-06-07T10:09:00+09:00"
 updatedAt: "2026-06-07T10:09:00+09:00"
 imageGenerated: true
-posted: false
+posted: true
 ---
 
 # 【6/7締切】ちょこみんボンボンなど4種の公式抽選販売！今日が最終日

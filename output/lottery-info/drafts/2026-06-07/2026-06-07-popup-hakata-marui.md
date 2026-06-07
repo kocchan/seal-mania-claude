@@ -1,4 +1,7 @@
 ---
+postedAt: "2026-06-07T05:56:43.606Z"
+wpPostUrl: "https://www.seal-search.com/news/reservation/popup-hakata-marui-20260710/"
+wpPostId: 9062
 type: lottery
 status: draft
 title: "【6月下旬締切】ボンドロPOPUP博多マルイの抽選予約方法まとめ"
@@ -24,7 +27,7 @@ featuredImage: ""
 createdAt: "2026-06-07T10:09:00+09:00"
 updatedAt: "2026-06-07T10:09:00+09:00"
 imageGenerated: true
-posted: false
+posted: true
 ---
 
 # 【6月下旬締切予定】ボンボンドロップシールPOPUP STORE 博多マルイの抽選予約まとめ
