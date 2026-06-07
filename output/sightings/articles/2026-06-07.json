@@ -1,7 +1,7 @@
 {
   "date": "2026-06-07",
-  "updatedAt": "2026-06-07T20:06:14.322+09:00",
-  "count": 39,
+  "updatedAt": "2026-06-07T23:05:28.932+09:00",
+  "count": 42,
   "articles": [
     {
       "isSighting": true,
@@ -743,6 +743,63 @@
       "wpPostId": 9106,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-aichi-nisshin-2026-06-05-2/",
       "postedAt": "2026-06-07T20:06:34.490+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "長野県",
+      "city": "松本市",
+      "shopName": "上高地のお土産屋さん",
+      "shopAddress": "長野県松本市安曇上高地",
+      "productName": "ボンボンドロップシール",
+      "sightingTime": "2026-06-07 11:48頃",
+      "statusText": "在庫あり",
+      "confidenceMemo": "上高地エリア内の土産物店での目撃情報。特定の店名は伏せられているが、場所が限定されている。",
+      "sourceUrl": "https://x.com/ALex49632018/status/2063588956927909939",
+      "sourceTweetId": "2063588956927909939",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2063588956927909939.png",
+      "isPosted": true,
+      "wpPostId": 9108,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-nagano-matsumoto-2026-06-07/",
+      "postedAt": "2026-06-07T23:05:36.267+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "東京都",
+      "city": "豊島区",
+      "shopName": "マルジ",
+      "shopAddress": "東京都豊島区巣鴨4-22-7",
+      "productName": "ぷっくりシール",
+      "sightingTime": "2026-06-07 11:36頃",
+      "statusText": "在庫あり（50円で販売中）",
+      "confidenceMemo": "店舗名（マルジ）と地域（巣鴨）がツイート内に明記されており、場所の特定が可能。商品価格も記載されている。",
+      "sourceUrl": "https://x.com/tobi_wasabi/status/2063585932528549927",
+      "sourceTweetId": "2063585932528549927",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2063585932528549927.png",
+      "isPosted": true,
+      "wpPostId": 9110,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-tokyo-toshima-2026-06-07/",
+      "postedAt": "2026-06-07T23:05:43.021+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "東京都",
+      "city": "中野区",
+      "shopName": "本を読まない人のための本屋 wonderfulworld!",
+      "shopAddress": "東京都中野区中野5-52-15 中野ブロードウェイ",
+      "productName": "うるちゅる",
+      "sightingTime": "2026-06-07 12:15頃",
+      "statusText": "在庫あり（おひとり様1種類につき1枚まで）",
+      "confidenceMemo": "店舗公式アカウントによる入荷・販売告知ツイートであり、非常に信頼性が高い。ボンボンドロップと同系統の人気商品。",
+      "sourceUrl": "https://x.com/loudproudcrazy/status/2063595703423954991",
+      "sourceTweetId": "2063595703423954991",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2063595703423954991.png",
+      "isPosted": true,
+      "wpPostId": 9112,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-tokyo-nakano-2026-06-07/",
+      "postedAt": "2026-06-07T23:05:51.140+09:00"
     }
   ]
 }
