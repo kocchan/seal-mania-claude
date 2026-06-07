@@ -1,0 +1,20 @@
+---
+source: rss
+url: "https://www.inside-games.jp/article/2026/06/06/182533.html"
+title: "「ボンボンドロップシール」コジコジ、ノンタンの公式抽選販売が予告！「コジコジ みんな」や「タータン」も揃った4種類 | インサイド"
+siteName: "インサイド"
+publishedAt: "2026-06-06T23:11:52Z"
+fetchedAt: "2026-06-07T02:07:49.941Z"
+fetchMethod: axios
+ogImage: "https://www.inside-games.jp/imgs/ogp_f/1738822.jpg"
+description: "「ボンボンドロップシール」コジコジ、ノンタンなどの公式抽選販売が計画中！詳細は後日発表予定。"
+---
+
+## RSS要約
+
+「 ボンボンドロップシール 」コジコジ、ノンタンなどの公式抽選販売が計画中！詳細は後日発表予定。
+
+## 本文HTML（サニタイズ済み）
+
+<html><head></head><body><figure class="ctms-editor-twitter"><blockquote class="twitter-tweet" data-conversation=""><a href="https://twitter.com/bonbon_drop/status/2063093526565683211"></a></blockquote></figure><p>ボンボンドロップシール公式X（旧Twitter）は、次回の公式抽選販売で<b>「ボンボンドロップシール」コジコジ、ノンタン</b>などが対象となることを発表しました。</p><h2>◆「ボンボンドロップシール」コジコジ、ノンタンなどの抽選販売が予告！</h2><p>公式Xにて6月6日、<a target="_blank" rel="noopener noreferrer" href="https://www.inside-games.jp/article/2026/06/06/182531.html">「ボンボンドロップシール」オリジナルシリーズ</a>の抽選販売がスタート。これにあわせて、次回は「ボンボンドロップシール」コジコジ、ノンタンなどの抽選販売を予定していることが発表されました。</p><p>コジコジ、ノンタンの「ボンボンドロップシール」は5月下旬に発売されたばかりの新作です。コジコジからは「コジコジ」「みんな」、ノンタンからは「ノンタン・タータン」「もぐもぐもぐ」の合計4種をラインナップ。公式抽選では2商品1組で販売されることが多いため、今回もそのパターンが予想されます。</p><figure class="ctms-editor-image"><img src="https://www.inside-games.jp/imgs/zoom/1738818.jpg" class="inline-article-image" width="550" height="550"></figure><figure class="ctms-editor-image"><img src="https://www.inside-games.jp/imgs/zoom/1738819.jpg" class="inline-article-image" width="550" height="550"></figure><figure class="ctms-editor-image"><img src="https://www.inside-games.jp/imgs/zoom/1738820.jpg" class="inline-article-image" width="550" height="550"></figure><figure class="ctms-editor-image"><img src="https://www.inside-games.jp/imgs/zoom/1738821.jpg" class="inline-article-image" width="550" height="550"></figure><p>詳細は今後発表予定。<a target="_blank" rel="noopener noreferrer" href="https://x.com/bonbon_drop">公式X</a>をチェックしながら、応募開始に備えておくとよいでしょう。</p><br><div class="af_box"><!-- start --><div class="af_list"><div class="af_box_left"><a href="https://www.amazon.co.jp/dp/B0FXJL71V2?tag=insidegames-22&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank"><img src="https://m.media-amazon.com/images/I/51HpdpuCCmL._SL160_.jpg" class="af_box_image"></a></div><div class="af_box_right"><b><a href="https://www.amazon.co.jp/dp/B0FXJL71V2?tag=insidegames-22&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank">クラックス シール もちプニューステッカー くま 136385</a></b><br><b>￥374</b><br><span>(価格・在庫状況は記事公開時点のものです)</span><br><div class="af_box_link_amazon"><a href="https://www.amazon.co.jp/dp/B0FXJL71V2?tag=insidegames-22&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank">Amazon</a></div><div class="af_box_link_rakuten"><a href="https://hb.afl.rakuten.co.jp/hgc/0dfd5e9c.cb53a4b8.132b5a79.c657d846/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2582%25B7%25E3%2583%25BC%25E3%2583%25AB%2F" target="_blank">楽天市場</a></div></div></div><!-- //end --></div><div class="af_box"><!-- start --><div class="af_list"><div class="af_box_left"><a href="https://www.amazon.co.jp/dp/4052062124?tag=insidegames-22&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank"><img src="https://m.media-amazon.com/images/I/51LqR-gQ4kL._SL160_.jpg" class="af_box_image"></a></div><div class="af_box_right"><b><a href="https://www.amazon.co.jp/dp/4052062124?tag=insidegames-22&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank">サンリオキャラクターズ ステンドグラスシールパズル: 誰でもすぐにかんたん&amp;かわいい</a></b><br><b>￥1,760</b><br><span>(価格・在庫状況は記事公開時点のものです)</span><br><div class="af_box_link_amazon"><a href="https://www.amazon.co.jp/dp/4052062124?tag=insidegames-22&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank">Amazon</a></div><div class="af_box_link_rakuten"><a href="https://hb.afl.rakuten.co.jp/hgc/0dfd5e9c.cb53a4b8.132b5a79.c657d846/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2582%25B7%25E3%2583%25BC%25E3%2583%25AB%25E3%2580%2580%25E3%2582%25B5%25E3%2583%25B3%25E3%2583%25AA%25E3%2582%25AA%2F" target="_blank">楽天市場</a></div></div></div><!-- //end --></div>
+</body></html>
