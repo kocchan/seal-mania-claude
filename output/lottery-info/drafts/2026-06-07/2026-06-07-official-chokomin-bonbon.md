@@ -27,7 +27,7 @@ products:
 featuredImage: ""
 createdAt: "2026-06-07T10:09:00+09:00"
 updatedAt: "2026-06-07T10:09:00+09:00"
-imageGenerated: false
+imageGenerated: true
 posted: false
 ---
 
