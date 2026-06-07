@@ -1,7 +1,7 @@
 {
   "date": "2026-06-07",
-  "updatedAt": "2026-06-07T18:26:43.001+09:00",
-  "count": 36,
+  "updatedAt": "2026-06-07T20:06:14.322+09:00",
+  "count": 39,
   "articles": [
     {
       "isSighting": true,
@@ -686,6 +686,63 @@
       "wpPostId": 9100,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-yamagata-sakata-2026-06-07/",
       "postedAt": "2026-06-07T18:27:22.365+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "東京都",
+      "city": "八王子市",
+      "shopName": "ドリームカプセル イトーヨーカドー八王子店",
+      "shopAddress": "東京都八王子市狭間町1462-1 イトーヨーカドー八王子店内",
+      "productName": "サンリオキャラクターズ ボンボンドロップ ミニチュアチャーム",
+      "sightingTime": "2026-06-07 19:17頃",
+      "statusText": "再入荷（おひとり様2個まで）",
+      "confidenceMemo": "店舗公式アカウントによる再入荷告知",
+      "sourceUrl": "https://x.com/drecap_hachioji/status/2063565921533460777",
+      "sourceTweetId": "2063565921533460777",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2063565921533460777.png",
+      "isPosted": true,
+      "wpPostId": 9102,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-tokyo-hachioji-2026-06-07-2/",
+      "postedAt": "2026-06-07T20:06:20.944+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "広島県",
+      "city": "呉市",
+      "shopName": "おたいちイオン広店",
+      "shopAddress": "広島県呉市広本町2-17-1 イオン広店内",
+      "productName": "ボンボンドロップシール",
+      "sightingTime": "2026-06-07 05:00頃",
+      "statusText": "完売（本日入荷分）",
+      "confidenceMemo": "店舗公式アカウントによる完売報告",
+      "sourceUrl": "https://x.com/OtahiroT/status/2063562002518442109",
+      "sourceTweetId": "2063562002518442109",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2063562002518442109.png",
+      "isPosted": true,
+      "wpPostId": 9104,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-hiroshima-kure-2026-06-07-2/",
+      "postedAt": "2026-06-07T20:06:27.979+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "愛知県",
+      "city": "日進市",
+      "shopName": "ドリームカプセル プライムツリー赤池",
+      "shopAddress": "愛知県日進市赤池町箕ノ手1 プライムツリー赤池内",
+      "productName": "サンリオキャラクターズ ボンボンドロップミニチュアチャーム",
+      "sightingTime": "2026-06-05 09:42頃",
+      "statusText": "完売（6/5時点の情報）",
+      "confidenceMemo": "店舗公式アカウントによる過去の完売報告",
+      "sourceUrl": "https://x.com/drecap_akaike/status/2063552886353862983",
+      "sourceTweetId": "2063552886353862983",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2063552886353862983.png",
+      "isPosted": true,
+      "wpPostId": 9106,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-aichi-nisshin-2026-06-05-2/",
+      "postedAt": "2026-06-07T20:06:34.490+09:00"
     }
   ]
 }
