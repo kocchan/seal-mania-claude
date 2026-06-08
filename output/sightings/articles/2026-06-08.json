@@ -1,7 +1,7 @@
 {
   "date": "2026-06-08",
-  "updatedAt": "2026-06-08T22:03:58.675+09:00",
-  "count": 25,
+  "updatedAt": "2026-06-09T07:24:00.016+09:00",
+  "count": 26,
   "articles": [
     {
       "isSighting": true,
@@ -477,6 +477,25 @@
       "wpPostId": 9170,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-chiba-mihama-chiba-2026-06-08/",
       "postedAt": "2026-06-08T22:04:21.110+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "東京都",
+      "city": "千代田区",
+      "shopName": "有楽町マルイ",
+      "shopAddress": "東京都千代田区有楽町2-7-1",
+      "productName": "ボンボンドロップシール ベビー 新作（しずくちゃん）",
+      "sightingTime": "2026-06-09 16:30頃",
+      "statusText": "新作入荷・販売中",
+      "confidenceMemo": "具体的な店舗名（有楽町マルイ）と新作商品の具体的な言及があり、二次流通サイトの情報からも当該店舗での取り扱いが裏付けられる。",
+      "sourceUrl": "https://x.com/ryukamiyukefmg/status/2064022364619497567",
+      "sourceTweetId": "2064022364619497567",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2064022364619497567.png",
+      "isPosted": true,
+      "wpPostId": 9172,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-tokyo-chiyoda-2026-06-09/",
+      "postedAt": "2026-06-09T07:24:06.779+09:00"
     }
   ]
 }
