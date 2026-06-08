@@ -1,7 +1,7 @@
 {
   "date": "2026-06-08",
-  "updatedAt": "2026-06-08T20:10:01.486+09:00",
-  "count": 22,
+  "updatedAt": "2026-06-08T22:03:58.675+09:00",
+  "count": 25,
   "articles": [
     {
       "isSighting": true,
@@ -420,6 +420,63 @@
       "wpPostId": 9164,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-tokyo-chiyoda-2026-06-08/",
       "postedAt": "2026-06-08T20:10:20.912+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "東京都",
+      "city": "荒川区",
+      "shopName": "日暮里駅周辺のガチャガチャ売場",
+      "shopAddress": "東京都荒川区西日暮里2丁目 日暮里駅周辺",
+      "productName": "ボンボンドロップ",
+      "sightingTime": "2026-06-08 11:22頃",
+      "statusText": "完売",
+      "confidenceMemo": "特定の地名（日暮里）と具体的な在庫状況の記載があるため、信頼性が高い。",
+      "sourceUrl": "https://x.com/h7sA7lyo/status/2063944702563696655",
+      "sourceTweetId": "2063944702563696655",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2063944702563696655.png",
+      "isPosted": true,
+      "wpPostId": 9166,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-tokyo-arakawa-2026-06-08/",
+      "postedAt": "2026-06-08T22:04:07.029+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "神奈川県",
+      "city": "横浜市",
+      "shopName": "ロフト（LoFT）横浜市内店舗",
+      "shopAddress": "神奈川県横浜市内のロフト各店",
+      "productName": "オリジナル ボンボンドロップシール",
+      "sightingTime": "2026-06-08 21:16以前",
+      "statusText": "取り扱いあり（過去の目撃情報に基づく）",
+      "confidenceMemo": "地域（横浜）と特定のチェーン店（LoFT）での目撃談。現在の正確な在庫状況は不明なため予測扱い。",
+      "sourceUrl": "https://x.com/ainek1106_/status/2063958445695611352",
+      "sourceTweetId": "2063958445695611352",
+      "isPrediction": true,
+      "imagePath": "output/sightings/images/2063958445695611352.png",
+      "isPosted": true,
+      "wpPostId": 9168,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-kanagawa-yokohama-2026-06-08/",
+      "postedAt": "2026-06-08T22:04:13.962+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "千葉県",
+      "city": "千葉市美浜区",
+      "shopName": "マリーンズストア",
+      "shopAddress": "千葉県千葉市美浜区美浜1 (ZOZOマリンスタジアム内)",
+      "productName": "ボンボンドロップシール (ロッテコラボ)",
+      "sightingTime": "2026-06-08 11:48頃",
+      "statusText": "在庫あり",
+      "confidenceMemo": "「野球のロッテがボンボン売ってて」という具体的な記述、およびメーカー（サンスター・クーリア）への言及から、千葉ロッテマリーンズ公式ショップでの販売情報と特定。",
+      "sourceUrl": "https://x.com/arasa_ss/status/2063951172478894350",
+      "sourceTweetId": "2063951172478894350",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2063951172478894350.png",
+      "isPosted": true,
+      "wpPostId": 9170,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-chiba-mihama-chiba-2026-06-08/",
+      "postedAt": "2026-06-08T22:04:21.110+09:00"
     }
   ]
 }
