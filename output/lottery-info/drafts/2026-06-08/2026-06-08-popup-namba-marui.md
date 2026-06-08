@@ -1,4 +1,7 @@
 ---
+postedAt: "2026-06-08T06:12:40.088Z"
+wpPostUrl: "https://www.seal-search.com/news/reservation/popup-namba-marui-20260717/"
+wpPostId: 9146
 type: lottery
 status: draft
 title: "【7月上旬締切】ボンドロPOPUPなんばマルイの抽選予約まとめ"
@@ -23,7 +26,7 @@ featuredImage: ""
 createdAt: "2026-06-08T10:09:00+09:00"
 updatedAt: "2026-06-08T10:09:00+09:00"
 imageGenerated: true
-posted: false
+posted: true
 ---
 
 # 【7月上旬締切】ボンボンドロップシールPOPUP STOREなんばマルイの抽選予約方法まとめ

@@ -1,4 +1,7 @@
 ---
+postedAt: "2026-06-08T06:12:56.921Z"
+wpPostUrl: "https://www.seal-search.com/news/reservation/popup-shinjuku-marui-20260828/"
+wpPostId: 9150
 type: lottery
 status: draft
 title: "【8月下旬締切】ボンドロPOPUP新宿マルイアネックスの抽選予約"
@@ -23,7 +26,7 @@ featuredImage: ""
 createdAt: "2026-06-08T10:09:00+09:00"
 updatedAt: "2026-06-08T10:09:00+09:00"
 imageGenerated: true
-posted: false
+posted: true
 ---
 
 # 【8月下旬締切】ボンボンドロップシールPOPUP STORE新宿マルイアネックスの抽選予約方法まとめ

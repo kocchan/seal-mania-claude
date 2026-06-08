@@ -1,4 +1,7 @@
 ---
+postedAt: "2026-06-08T06:12:31.711Z"
+wpPostUrl: "https://www.seal-search.com/news/reservation/popup-kobe-marui-20260724/"
+wpPostId: 9144
 type: lottery
 status: draft
 title: "【7月中旬締切】ボンドロPOPUP神戸マルイの抽選予約まとめ"
@@ -23,7 +26,7 @@ featuredImage: ""
 createdAt: "2026-06-08T10:09:00+09:00"
 updatedAt: "2026-06-08T10:09:00+09:00"
 imageGenerated: true
-posted: false
+posted: true
 ---
 
 # 【7月中旬締切】ボンボンドロップシールPOPUP STORE神戸マルイの抽選予約方法まとめ
