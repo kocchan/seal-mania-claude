@@ -1,7 +1,7 @@
 {
   "date": "2026-06-08",
-  "updatedAt": "2026-06-08T16:27:56.898+09:00",
-  "count": 19,
+  "updatedAt": "2026-06-08T20:10:01.486+09:00",
+  "count": 22,
   "articles": [
     {
       "isSighting": true,
@@ -363,6 +363,63 @@
       "wpPostId": 9158,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-osaka-osaka-sayama-2026-06-08/",
       "postedAt": "2026-06-08T16:28:24.947+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "岐阜県",
+      "city": "岐阜市",
+      "shopName": "岐阜城金華山ロープウェー 山麓売店",
+      "shopAddress": "岐阜県岐阜市千畳敷下257",
+      "productName": "ボンボンドロップシール",
+      "sightingTime": "2026-06-08 08:47頃",
+      "statusText": "在庫あり",
+      "confidenceMemo": "購入報告と写真があり、信頼性が高い",
+      "sourceUrl": "https://x.com/tarochoco79/status/2063905769612063001",
+      "sourceTweetId": "2063905769612063001",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2063905769612063001.png",
+      "isPosted": true,
+      "wpPostId": 9160,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-gifu-gifu-2026-06-08/",
+      "postedAt": "2026-06-08T20:10:07.789+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "群馬県",
+      "city": "高崎市",
+      "shopName": "駿河屋 高崎OPA店",
+      "shopAddress": "群馬県高崎市八島町46-1 高崎OPA 5階",
+      "productName": "ボンボンドロップシール",
+      "sightingTime": "2026-06-08 07:31頃",
+      "statusText": "在庫あり（中古買取品・ショーケース内）",
+      "confidenceMemo": "店舗公式アカウントによる入荷・陳列情報",
+      "sourceUrl": "https://x.com/surugatakasaki/status/2063886615647514900",
+      "sourceTweetId": "2063886615647514900",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2063886615647514900.png",
+      "isPosted": true,
+      "wpPostId": 9162,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-gunma-takasaki-2026-06-08/",
+      "postedAt": "2026-06-08T20:10:14.257+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "東京都",
+      "city": "千代田区",
+      "shopName": "有楽町マルイ",
+      "shopAddress": "東京都千代田区有楽町2-7-1",
+      "productName": "しずくちゃん ボンボンドロップシール ベビー",
+      "sightingTime": "2026-06-08 07:36頃",
+      "statusText": "完売",
+      "confidenceMemo": "店舗での完売状況に関するユーザー報告",
+      "sourceUrl": "https://x.com/ryukamiyukefmg/status/2063887852296118603",
+      "sourceTweetId": "2063887852296118603",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2063887852296118603.png",
+      "isPosted": true,
+      "wpPostId": 9164,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-tokyo-chiyoda-2026-06-08/",
+      "postedAt": "2026-06-08T20:10:20.912+09:00"
     }
   ]
 }
