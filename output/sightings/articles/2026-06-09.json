@@ -1,7 +1,7 @@
 {
   "date": "2026-06-09",
-  "updatedAt": "2026-06-09T15:44:54.467+09:00",
-  "count": 24,
+  "updatedAt": "2026-06-09T18:57:53.249+09:00",
+  "count": 26,
   "articles": [
     {
       "isSighting": true,
@@ -458,6 +458,44 @@
       "wpPostId": 9220,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-tokyo-shibuya-2026-06-09/",
       "postedAt": "2026-06-09T15:45:50.841+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "兵庫県",
+      "city": "加古川市",
+      "shopName": "おたいち 加古川店",
+      "shopAddress": "兵庫県加古川市野口町坂井13-1",
+      "productName": "ボンボンドロップシール",
+      "sightingTime": "2026-06-09 07:38頃",
+      "statusText": "全種類完売（次回入荷未定）",
+      "confidenceMemo": "店舗公式アカウント（おたいち加古川店）による在庫状況・完売報告",
+      "sourceUrl": "https://x.com/otakakotoy/status/2064250650909917217",
+      "sourceTweetId": "2064250650909917217",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2064250650909917217.png",
+      "isPosted": true,
+      "wpPostId": 9222,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-hyogo-kakogawa-2026-06-09/",
+      "postedAt": "2026-06-09T18:57:59.586+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "埼玉県",
+      "city": "上尾市",
+      "shopName": "#C-pla アリオ上尾店",
+      "shopAddress": "埼玉県上尾市大字壱丁目367番地 アリオ上尾 2F",
+      "productName": "サンリオキャラクターズ ボンボンドロップミニチュアチャーム",
+      "sightingTime": "2026-06-09 07:24頃",
+      "statusText": "再入荷（一人3回までの回数制限あり）",
+      "confidenceMemo": "店舗公式アカウントによる詳細な再入荷情報",
+      "sourceUrl": "https://x.com/Cpla75573033591/status/2064247213535252829",
+      "sourceTweetId": "2064247213535252829",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2064247213535252829.png",
+      "isPosted": true,
+      "wpPostId": 9224,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-saitama-ageo-2026-06-09/",
+      "postedAt": "2026-06-09T18:58:05.904+09:00"
     }
   ]
 }
