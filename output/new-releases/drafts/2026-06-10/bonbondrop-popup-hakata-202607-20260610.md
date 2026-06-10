@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-06-10T05:53:03.498Z"
+wpPostUrl: "https://www.seal-search.com/news/new-item/bonbondrop-popup-hakata-20260710/"
+wpPostId: 9262
+posted: true
 imageGenerated: true
 type: lottery
 status: draft

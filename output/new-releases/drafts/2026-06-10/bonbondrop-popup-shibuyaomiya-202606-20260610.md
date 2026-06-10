@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-06-10T05:53:11.350Z"
+wpPostUrl: "https://www.seal-search.com/news/new-item/bonbondrop-popup-shibuyaomiya-20260619/"
+wpPostId: 9264
+posted: true
 imageGenerated: true
 type: lottery
 status: draft
