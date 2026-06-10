@@ -1,8 +1,8 @@
 {
-  "timestamp": "2026-06-10T12:17:10.351Z",
+  "timestamp": "2026-06-10T15:48:56.036Z",
   "source": "yahoo_realtime",
   "platform": "x",
-  "count": 201,
+  "count": 269,
   "data": [
     {
       "tweetId": "2064258338087702821",
@@ -3225,6 +3225,1061 @@
       "images": [
         "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i5e72TLbER0xQeK1l8ZZ0OLEbB5xlADV8qpa5drRXL2YKwL2cKBVQSwQD6DSkvLsSvl5itoFOykyWKtO8le0qRqpO2NcQULFF81LEtLqRR--Lg1rf-mAWvVCV1QRYVPPgT3iPhd6-V7a7zC6rybOasoOw1Ufo5pud8z0wDXyqX6n20kY78E8JheiEtxlkK-iyJJbubVXxXFVUCtSv4K6Gk_",
         "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i6hjVpND1OjWZ7RVcmujne-SNe8qAUp5X9GIdxkRk_7Q24E1L0mxg12-b_lmqy0Pl8jywwz72hskBXc2AB__1il_fJeXG_zY504PUx8bocKtqQtkP-zqDRot0ew3UGmT-Obx5tLyQkSPS7gdwUoKpGtMqjCfEsqiPvxt6fUDnev-Q=="
+      ],
+      "isProcessed": true,
+      "_filepath": "output/sightings/raw/yahoo-2026-06-10.json"
+    },
+    {
+      "tweetId": "2064733474729181677",
+      "userId": "DaiichiBossJP",
+      "text": "コジコジのボンボンドロップシール！懐かしくてつい欲しくなる衝動抑えきれない！！  新品 ｟ 正規品 ｠ボンボンドロップシール コジコジ みんな 柄 jp.mercari.com/item/m70285521…第一党ボス@DaiichiBossJP12分前",
+      "user": "第一党ボス",
+      "time": "2026-06-11T00:36:56.036+09:00",
+      "timeRaw": "12分前",
+      "url": "https://x.com/DaiichiBossJP/status/2064733474729181677",
+      "hashtags": [],
+      "images": [
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i5e72TLbER0xQeK1l8ZZ0OLepcwgT8GW_SMtjept2LBYPRsIopK-LQi0MjUlek24DhiQM0pwbMYz27uMYp1YkSNTstIX2pxQIkx7G7G9m4mGLpVqQB9bXvQnI6dBIWRJtQBkN1CNuYazWow8S0ULjS28PGrBQ5-c9XlBHCs4QS9PffMjMpMVrIWr_EjzeX-UG_2AlyUrSPNWtPYbtd5R9jN"
+      ],
+      "isProcessed": true,
+      "_filepath": "output/sightings/raw/yahoo-2026-06-10.json"
+    },
+    {
+      "tweetId": "2064730198856339790",
+      "userId": "piekochannn",
+      "text": "もっつりん、正直そんな美味しくないーとか聞くわりに完売してるし並んでる。美味しくないことないんだと思う。ボンボンドロップやん。nyantaro@piekochannn25分前",
+      "user": "nyantaro",
+      "time": "2026-06-11T00:23:56.036+09:00",
+      "timeRaw": "25分前",
+      "url": "https://x.com/piekochannn/status/2064730198856339790",
+      "hashtags": [],
+      "images": [
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i5e72TLbER0xQeK1l8ZZ0OLRYlPkl3hjtyg2yKFIdroi5NC6m8k6gKLbDv85yBcs0VRRdQt6Gz0e7N7hozkCZXJt7RyRAZngi4UgOsbTsq-hVR1ZWGv0pYVlzj-jvR5u8kIjWe34w3a07zhtr4gM03YDkNM1QCzyov1rOI2RSvNtX9LW11tha04XZb35qZhrJ4w4LHN47kHx4piZpgAaFqF"
+      ],
+      "isProcessed": true,
+      "_filepath": "output/sightings/raw/yahoo-2026-06-10.json"
+    },
+    {
+      "tweetId": "2064730155931808050",
+      "userId": "yueliang_612",
+      "text": "返信先:@yassho_yaぷくぷくシール ボンボンドロップシール よく分からないけどユエリャン@yueliang_61226分前",
+      "user": "ユエリャン",
+      "time": "2026-06-11T00:22:56.036+09:00",
+      "timeRaw": "26分前",
+      "url": "https://x.com/yueliang_612/status/2064730155931808050",
+      "hashtags": [],
+      "images": [
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i5e72TLbER0xQeK1l8ZZ0OLM1L0IkrPRSueJfTCQ4TCEq6yUJpvgoGONrmntTrXf33vuZJnNKyraP06opApkz7rCLuiVXhPEL7MiGq2C7beiC-CTcm-20c-AfKAmLT2OYqE1VqeGsHwIF9tfyO82TmE1ZZ4uPZNJdS_yY_4gcub8GS97hGEFaPjPfGRXl8xAaDafk_JhFGPSriF7kIZGTsm"
+      ],
+      "isProcessed": true,
+      "_filepath": "output/sightings/raw/yahoo-2026-06-10.json"
+    },
+    {
+      "tweetId": "2064726673195721056",
+      "userId": "Lapin00515",
+      "text": "野生でオリジナル絵柄のボンボンドロップを探す活動に限界を感じる🫠 商品の抽選は基本当たらないし大人しくポップアップに申し込むしかないのか🫠しょっちゅう鯖落ちしてるけどwwwかおるん@僕ラブ50🐾四季誕02@Lapin0051539分前",
+      "user": "かおるん@僕ラブ50🐾四季誕02",
+      "time": "2026-06-11T00:09:56.036+09:00",
+      "timeRaw": "39分前",
+      "url": "https://x.com/Lapin00515/status/2064726673195721056",
+      "hashtags": [],
+      "images": [
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i5e72TLbER0xQeK1l8ZZ0OLCpmgvPFIiY1IOH-F8RjW8eXuHKZQ5odgXKoWHzV_Znpp0RzwyLB3FRug7TyvFFXu3wpFGIzRiKKPzlMHiFAYoj5pOsIsrVvw-8NxBw5036DPIpPfFmvZuGl6r9oa9QFblmjqZbPJgcJGwYpyKXcOgNYBF8fHJxp7L_hICfyg7Zzn789WH73O1tdxp530EAXh"
+      ],
+      "isProcessed": true,
+      "_filepath": "output/sightings/raw/yahoo-2026-06-10.json"
+    },
+    {
+      "tweetId": "2064723906569920768",
+      "userId": "M10073125",
+      "text": "ボンボンドロップのガチャを見つけて マイメロ欲しいってやったけど出なくて 3回出来たけど出なくて 悲しんでたらマイメロ無いやつじゃん😂 キティちゃんは赤担の娘にあげるとして 私はシナモロールかポムポムプリンが良かったなぁ これだからガチャは好きじゃない… のに最近やたらやってる🤭 pic.x.com/rRjmt2PcP2えむ⁵@M100731251150分前",
+      "user": "えむ⁵",
+      "time": "2026-06-10T23:58:56.036+09:00",
+      "timeRaw": "50分前",
+      "url": "https://x.com/M10073125/status/2064723906569920768",
+      "hashtags": [],
+      "images": [
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i5e72TLbER0xQeK1l8ZZ0OLB-3NjaDgRqwj7I-YMMEvSgfSCFg31iom3MoszXW1PWecrl19ECoN8kFU7gboh7yXtoFq831PSq2XD6MzLVnHlTI5qURXqgdpj8rV4ZQQDV2lJtA800O_qzbCpv5SBdQyBL-_lV5ykmCXYCZcea0QZ2PTwYROcnoOfhdAEo390QO9_8ObiEk4nNnlzcK45R39",
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i6hjVpND1OjWZ7RVcmujne-fCjKF2jzsPSm8-0pOzEYMVUlrZF_tFBjGPs0MF3IrQae5h4ctejqaLA8DBDEGLTY27CtWRQiZuFxm7u5tvI-R_6pseqm2Z0z1J6QCePMCCyHQKHtzcWXcHlIEMk-LAdlz40Uco_2314kCGrF2bdgxg==",
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i6hjVpND1OjWZ7RVcmujne-rFf7tEWzEBqejzBW8kc_nNaPXYCW_XjHtX_LOEqj7_p4WMKq9AzSD58yM5ovn0ZP0K-pKHDYzWji5vYT9umaN5lxs1s29gV6H1M7SXk_3UyhRCFSoaXhzYHoUqiLkHApcGFKWgwb30H454x887m0Lw=="
+      ],
+      "isProcessed": true,
+      "_filepath": "output/sightings/raw/yahoo-2026-06-10.json"
+    },
+    {
+      "tweetId": "2064720242149093604",
+      "userId": "sounya_n",
+      "text": "Souくん、シール帳とボンボンドロップシール達差し入れしたら、シール帳はじめてくれないかな📕💭ぴよ〜@sounya_n14:44",
+      "user": "ぴよ〜",
+      "time": "2026-06-11T14:44:00.000+09:00",
+      "timeRaw": "14:44",
+      "url": "https://x.com/sounya_n/status/2064720242149093604",
+      "hashtags": [],
+      "images": [
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i5e72TLbER0xQeK1l8ZZ0OLAoUTZ0atYy4KwCT8pDDLNta5L5H-LnTvZlv09Xh-QZ_yLXq3BIt9OF-LjM3yc47K1yZC-plXlbTTdd11XMyuMVE4s-HQOtsTCv5fRhNSs-EOFUrZ7oeQE299g6Y690Ak6zq57FpvelPwxNYJU7OZQ7g0jcCZQXl1FtV2H_RM83HuWmcZUlIZ1bPmivN54NVp"
+      ],
+      "isProcessed": true,
+      "_filepath": "output/sightings/raw/yahoo-2026-06-10.json"
+    },
+    {
+      "tweetId": "2064715462261571861",
+      "userId": "yurikobooks",
+      "text": "ブーム前以来、ボンボンドロップシール売り場で見たことないなぁ。 うるちゅるシールというのはたまに見かけるけど。🍓ウリコ🍓@yurikobooks14:25",
+      "user": "🍓ウリコ🍓",
+      "time": "2026-06-11T14:25:00.000+09:00",
+      "timeRaw": "14:25",
+      "url": "https://x.com/yurikobooks/status/2064715462261571861",
+      "hashtags": [],
+      "images": [
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i5e72TLbER0xQeK1l8ZZ0OLDkBAa0Q21wEu3WQbGB5J5oJ8URqTkwaeK8CQJ0mDdWW9957xIZRlqMG0GTelBUbtdb2ejUvCUN2z0znLdlz84QVjFSCoGZu5iLOMXF3CoJcSIXoGZh8vttKouw6YSE0ll-FQRMHB8aaWIWnL_9d55kftGtv3uYJp6K9Qap6vhURRLRpCX4juIwnR5dAoUgE-"
+      ],
+      "isProcessed": true,
+      "_filepath": "output/sightings/raw/yahoo-2026-06-10.json"
+    },
+    {
+      "tweetId": "2064709173158228128",
+      "userId": "kasumin_saita09",
+      "text": "ボンボンドロップシールについて✨️  店舗では、ロフトやハンズ、イオン、キデイランド、文具店・ファンシーショップ、書店などで入荷が確認されてるみたい。  ただし人気の柄はすぐに売り切れることが多いそう😭 多くの店舗が抽選販売で、締切になってる場合もアリかすみん🌸シール@kasumin_saita0914:00",
+      "user": "かすみん🌸シール",
+      "time": "2026-06-11T14:00:00.000+09:00",
+      "timeRaw": "14:00",
+      "url": "https://x.com/kasumin_saita09/status/2064709173158228128",
+      "hashtags": [],
+      "images": [
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i5e72TLbER0xQeK1l8ZZ0OLvgV__ZmMFULWkzE8m46GjGLZR8q3cQMWf2sRrsiHeyinXmTfdbsyMg2mR9sXAZa-UqOuKQROMbXG3zwDLrENakpZQkXCSKF76jzhfsmgpp2HqSXmOfCiPoA1_QtE16qpsrmlQImkhgoXnP1rCIbn764K2PW9s2e5VL1th5FsJ1OH-i2BgOtulU_vVnnzL4zZ"
+      ],
+      "isProcessed": true,
+      "_filepath": "output/sightings/raw/yahoo-2026-06-10.json"
+    },
+    {
+      "tweetId": "2064705919343325675",
+      "userId": "kuri_man_jyu",
+      "text": "都内のドンキに軒並み再入荷してるってポストたくさん流れてきたから仕事終わりに地元のドンキ来たら酒カス©も含めてマスコット全種残ってた〜🥳  ついでにサンリオ文字シリーズのボンボンドロップシールも売ってたから棚ぼた感がすごい()kmj🌰@kuri_man_jyu13:47",
+      "user": "kmj🌰",
+      "time": "2026-06-11T13:47:00.000+09:00",
+      "timeRaw": "13:47",
+      "url": "https://x.com/kuri_man_jyu/status/2064705919343325675",
+      "hashtags": [],
+      "images": [
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i5e72TLbER0xQeK1l8ZZ0OLoY9JYfw0XWdAxFpPArMwRUIQdd1luBJ0Pg2T-2QWEvBYMbbno1WKDb_nSr4Stwn4hfcvytTN-yinCXpbUWK1sr08Esb8dsL2gzGrHYQ_NIpHZwhpb3RYuQKTM2renSyeVMlqMly8kEawGZpEyYSj40YcJbZTI7kRt-nZRMwxIdUushGOj5efJjT61zfetKIW"
+      ],
+      "isProcessed": true,
+      "_filepath": "output/sightings/raw/yahoo-2026-06-10.json"
+    },
+    {
+      "tweetId": "2064703198406094884",
+      "userId": "QopPCvfUhD47284",
+      "text": "【発覚】偽ボンボンドロップシールを販売目的で持ってた疑い、雑貨店の女経営者を逮捕 news.livedoor.com/article/detail…  女は「中国からの輸入品で偽物と知って売ってた」って認めてるらしい。警察は店を捜索してダンボール60箱分のシールを押収。今後、販売の実態を調べるみたい。のわ@QopPCvfUhD4728413:36",
+      "user": "のわ",
+      "time": "2026-06-11T13:36:00.000+09:00",
+      "timeRaw": "13:36",
+      "url": "https://x.com/QopPCvfUhD47284/status/2064703198406094884",
+      "hashtags": [],
+      "images": [
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8P6b-YUbn3oNOitp_cHdw_uJ74V6_SfYweFQS1qwk-_TJcz301WI2Cz5eywMtn22AoNcm-px-tUtzgy1UghJnmv5CSX3nK1QdnMN8PmdZ_qSU_tLrY5bztAawi997k2aD0PQI8bppeqemfjVhU461isgsL7D2Sl1B_zbLtx9WJFDWmsCthWLKZMqqZeAdP0T9uUO7vwCTdJbQvUBaXJxbTinLqNWnhJaG3v165qGUTgw"
+      ],
+      "isProcessed": true,
+      "_filepath": "output/sightings/raw/yahoo-2026-06-10.json"
+    },
+    {
+      "tweetId": "2064703191330283879",
+      "userId": "oyysk51",
+      "text": "【速報】偽のボンボンドロップシールを売るために持ってた疑いで、雑貨店の女社長が逮捕されたみたい😳 news.livedoor.com/article/detail…  女は「中国から仕入れた偽物って知ってて売ってた」って認めてるらしい。警察が店を捜索したら段ボール60箱分のシールが見つかって、これから販売の実態を調べるんだゆうこりん@oyysk5113:36",
+      "user": "ゆうこりん",
+      "time": "2026-06-11T13:36:00.000+09:00",
+      "timeRaw": "13:36",
+      "url": "https://x.com/oyysk51/status/2064703191330283879",
+      "hashtags": [],
+      "images": [
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8P6b-YUbn3oNOitp_cHdw_uJ74V6_SfYweFQS1qwk-_TJcz301WI2Cz5eywMtn22AoNcm-px-tUtzgy1UghJnmv5CSX3nK1QdnMN8PmdZ_qSU_tLrY5bztAawi997k2aD0PQI8bppeqemfjVhU461isgsL7D2Sl1B_zbLtx9WJFDWmsCthWLKZMqqZeAdP0T9uUO7vwCTdJbQvUBaXJxbTinLqNWnhJaG3v165qGUTgw"
+      ],
+      "isProcessed": true,
+      "_filepath": "output/sightings/raw/yahoo-2026-06-10.json"
+    },
+    {
+      "tweetId": "2064703190030008791",
+      "userId": "poyteen12",
+      "text": "【発覚】偽のボンボンドロップシールを売るために持ってた疑いで、雑貨店の女社長が逮捕されたって。 news.livedoor.com/article/detail…  女は「中国から輸入したもので偽物だと知って売ってた」って認めてるみたい。警察は店を家宅捜索して、段ボール60箱分のシールを押収。これから販売の実態を調べるそうm i y u k i@poyteen1213:36",
+      "user": "m i y u k i",
+      "time": "2026-06-11T13:36:00.000+09:00",
+      "timeRaw": "13:36",
+      "url": "https://x.com/poyteen12/status/2064703190030008791",
+      "hashtags": [],
+      "images": [
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i5e72TLbER0xQeK1l8ZZ0OLgovL2wGyMf2nT_q72omOaW5EhblK2ypO2Pr2j5p6xMVCIme_4i_Q519M_vWlnIO75HaIO5vXk1jBr9FQOyf-xXDCWbJMUCastuLEtgovJt30Ok042KFva_w8nkjc2937-VuE4uRuNj7naz5P93qADw-ZsRj5JcsFt4SoCPn_M6fPiXmEwm6AxjiRWExTrtlf"
+      ],
+      "isProcessed": true,
+      "_filepath": "output/sightings/raw/yahoo-2026-06-10.json"
+    },
+    {
+      "tweetId": "2064703187504992288",
+      "userId": "sasaki_kohki",
+      "text": "【ニュース】偽のボンボンドロップシールを売る目的で持ってた疑いで、雑貨店やってる女性が捕まったみたい news.livedoor.com/article/detail…  女は「中国から輸入したもので偽物って知ってて売ってた」って認めてるらしい。警察は店を調べて段ボール60箱分のシールを押収。これから売りさばいた実態を調べコウキ@sasaki_kohki13:36",
+      "user": "コウキ",
+      "time": "2026-06-11T13:36:00.000+09:00",
+      "timeRaw": "13:36",
+      "url": "https://x.com/sasaki_kohki/status/2064703187504992288",
+      "hashtags": [],
+      "images": [
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i5e72TLbER0xQeK1l8ZZ0OLteKo08cACoqM_dvVrcwvU53JWNSOxvc9goerXVT0sAu90PtRoQg-CaxdAaaOBPhFbtxfeLCBthJRBi_xSCDZa8MCxlBqLNZkuRZCAQlAsDZozlAzvSahCUGJ6wUeOAmQ5izYj3uRD2twvsr8_N7C-1U1qIJlv-HkoL-ciNdY78A21ot6DznU6W1l0WPxux2d"
+      ],
+      "isProcessed": true,
+      "_filepath": "output/sightings/raw/yahoo-2026-06-10.json"
+    },
+    {
+      "tweetId": "2064703186095780342",
+      "userId": "m3zFnxNDAt2q7E8",
+      "text": "【発覚】偽ボンボンドロップシールを売るため持ってた疑いで、雑貨店の女店主を逮捕 news.livedoor.com/article/detail…  女は「中国からの輸入品で偽物と知って売ってた」って認めてるみたい。警察は家宅捜索でダンボール60箱分のシールを押収。これから販売の実態を調べるらしい。うっこ@m3zFnxNDAt2q7E813:36",
+      "user": "うっこ",
+      "time": "2026-06-11T13:36:00.000+09:00",
+      "timeRaw": "13:36",
+      "url": "https://x.com/m3zFnxNDAt2q7E8/status/2064703186095780342",
+      "hashtags": [],
+      "images": [
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8P6b-YUbn3oNOitp_cHdw_uJ74V6_SfYweFQS1qwk-_TJcz301WI2Cz5eywMtn22AoNcm-px-tUtzgy1UghJnmv5CSX3nK1QdnMN8PmdZ_qSU_tLrY5bztAawi997k2aD0PQI8bppeqemfjVhU461isgsL7D2Sl1B_zbLtx9WJFDWmsCthWLKZMqqZeAdP0T9uUO7vwCTdJbQvUBaXJxbTinLqNWnhJaG3v165qGUTgw"
+      ],
+      "isProcessed": true,
+      "_filepath": "output/sightings/raw/yahoo-2026-06-10.json"
+    },
+    {
+      "tweetId": "2064703183583387837",
+      "userId": "Ayano3710",
+      "text": "【発覚】偽ボンボンドロップシールを販売目的で所持した疑い、雑貨店経営の女を逮捕 news.livedoor.com/article/detail…  女は「中国からの輸入品で偽物と知りながら売ってた」と容疑認めてるんだって。警察は店を捜索して段ボール60箱分のシール押収。今後、販売の実態を調べる方針みたい。だいぶデカい事件彩乃@Ayano371013:36",
+      "user": "彩乃",
+      "time": "2026-06-11T13:36:00.000+09:00",
+      "timeRaw": "13:36",
+      "url": "https://x.com/Ayano3710/status/2064703183583387837",
+      "hashtags": [],
+      "images": [
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i5e72TLbER0xQeK1l8ZZ0OLiZyzQT-N7ow0S5Nibq1L1qNSH_bMwEussLbqn2r2Hq93PNBwKoqV4ar544fib_B5KhcSW_JK-dbydWrnwCOSP7asPB4eLZn_LzieTatWaZ5cJ8TTHuAp4oRU1GsF8GSSf17VHwZHW9NTi38cJS05B5Te9o9yXXBxsfLmqPchW4RDKg2ook41n9N9-F6YSD7l"
+      ],
+      "isProcessed": true,
+      "_filepath": "output/sightings/raw/yahoo-2026-06-10.json"
+    },
+    {
+      "tweetId": "2064703183000330470",
+      "userId": "greenaxolotl",
+      "text": "【ニュース】偽のボンボンドロップシールを販売するため持ってたとして、雑貨店の女経営者が逮捕されたみたい🚨  女は「中国からの輸入品で偽物と知って売ってた」って認めてるそう。警察は店を捜索して段ボール60箱分のシールを押収。これから販売の実態を調べるらしいあほろーとる@greenaxolotl13:36",
+      "user": "あほろーとる",
+      "time": "2026-06-11T13:36:00.000+09:00",
+      "timeRaw": "13:36",
+      "url": "https://x.com/greenaxolotl/status/2064703183000330470",
+      "hashtags": [],
+      "images": [
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i5e72TLbER0xQeK1l8ZZ0OL1HtACthIdSulBe0IC35PbQ_Cq1LcQxkeMSb1TrrF1D3Qod3KTH9OcYpKs7J8l9BSoCA8mMAG6aiHbgBpwTA2T5nCE51RX_rovpGFFpQeIPrRssoevwek5X2gLSkf9lCv-bXSGBv_FFZRMXkeUyVzoKJMGQfFKvRuZxZKEE1a8D0PJidGSOO5gqhrH2tKX321"
+      ],
+      "isProcessed": true,
+      "_filepath": "output/sightings/raw/yahoo-2026-06-10.json"
+    },
+    {
+      "tweetId": "2064703179594596390",
+      "userId": "Qoo32a",
+      "text": "バカだな〜中国から輸入した偽物のボンボンドロップシール、持ってただけで逮捕された雑貨店の女経営者。  「偽物と知りつつ売ってた」って認めてるみたい。 警察は店を捜索して段ボール60箱分も押収したって。 販売ルートとかもっと調べるらしい。 news.livedoor.com/article/detail…PEANUTS@Qoo32a13:36",
+      "user": "PEANUTS",
+      "time": "2026-06-11T13:36:00.000+09:00",
+      "timeRaw": "13:36",
+      "url": "https://x.com/Qoo32a/status/2064703179594596390",
+      "hashtags": [],
+      "images": [
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i5e72TLbER0xQeK1l8ZZ0OLGttTld8dFh4qUz1GQOc8jFlEVIQaZ6PV4fFXpVqjbKto3y97txurRs_7s7QqBHqcaJiNxhMxOsiN7wVruJwUluIQavg2_6XbqHwFhcs3DliTJrZ2IcMAj-AiAsrSjYmPKI2hss5_u1-Hf9ESiclOxkoVprbP33N68zJbU2GDFa1qG_I1bfvpeLsJDfXkTHgL"
+      ],
+      "isProcessed": true,
+      "_filepath": "output/sightings/raw/yahoo-2026-06-10.json"
+    },
+    {
+      "tweetId": "2064703174670426565",
+      "userId": "Dotakumayu723",
+      "text": "【ニュース】偽のボンボンドロップシールを売ろうとしてた？雑貨店の女店主が逮捕されたみたい😳 news.livedoor.com/article/detail…  女は「中国から輸入したやつで偽物って知ってて売ってた」って認めてるんだって。警察は店を調べて段ボール60箱分のシールを押収。これから販売の詳細を調べていくらしい。まゆ🐯🍌@Dotakumayu72313:36",
+      "user": "まゆ🐯🍌",
+      "time": "2026-06-11T13:36:00.000+09:00",
+      "timeRaw": "13:36",
+      "url": "https://x.com/Dotakumayu723/status/2064703174670426565",
+      "hashtags": [],
+      "images": [
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i5e72TLbER0xQeK1l8ZZ0OLXYtOZ46NE6d2diHV8Wrj5Sv_TFK65Mh1laLtKEWy1FoAgxyMc4zANJi8iPg5VaRHpsE5vNA6uhdSzCj0Ul_l6DCqhIinBzPxdNL0vat9W5tfxANbhwTiH95_oerA9v1u85hdNcln2bXfjLmbiJ_hRM3dCM6N6xhSQ4W0gRy2QoBYZgUXTzKAj4ApdsGHkkOb"
+      ],
+      "isProcessed": true,
+      "_filepath": "output/sightings/raw/yahoo-2026-06-10.json"
+    },
+    {
+      "tweetId": "2064703169322696733",
+      "userId": "tomoya0204a",
+      "text": "【発覚】偽のボンボンドロップシールを売るために持ってたとして、雑貨店の女店主が逮捕されたみたい news.livedoor.com/article/detail…  女は「中国から仕入れた偽物って知ってて売ってた」って認めてるんだって。警察は店を調べて段ボール60箱分のシールを押収。これから販売の実態を調べるらしいよ。白石ともや@tomoya0204a13:36",
+      "user": "白石ともや",
+      "time": "2026-06-11T13:36:00.000+09:00",
+      "timeRaw": "13:36",
+      "url": "https://x.com/tomoya0204a/status/2064703169322696733",
+      "hashtags": [],
+      "images": [
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i5e72TLbER0xQeK1l8ZZ0OLs4gSRloyapsCfAranmj-9nRanDAIRzj5f1-ZinkO9kbCKt6eCQanNsi0xehTpwcmc11YI2FaQymQmsxmCtqy5iGK_BZePuPp4lKvL0bjsJrzQaamjN54jS7BRy1Gteuo9o-ZAudV-OGxN-zyPNXN_uCaYDDaiDBVLpUntrtjYupaSNpvxU6Iksuc6KjXfLJP"
+      ],
+      "isProcessed": true,
+      "_filepath": "output/sightings/raw/yahoo-2026-06-10.json"
+    },
+    {
+      "tweetId": "2064703168844595461",
+      "userId": "PWG7fc8lzP79909",
+      "text": "【発覚】偽のボンボンドロップシールを売るために持ってた疑いで、雑貨店の女経営者が逮捕されたみたい news.livedoor.com/article/detail…  女は「中国から輸入したもので、偽物ってわかった上で売ってた」って認めてるらしいよ。警察は店を家宅捜索して段ボール60箱分のシールを押収。これから販売の実態を84mt_te3@PWG7fc8lzP7990913:36",
+      "user": "84mt_te3",
+      "time": "2026-06-11T13:36:00.000+09:00",
+      "timeRaw": "13:36",
+      "url": "https://x.com/PWG7fc8lzP79909/status/2064703168844595461",
+      "hashtags": [],
+      "images": [
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8P6b-YUbn3oNOitp_cHdw_uJ74V6_SfYweFQS1qwk-_TJcz301WI2Cz5eywMtn22AoNcm-px-tUtzgy1UghJnmv5CSX3nK1QdnMN8PmdZ_qSU_tLrY5bztAawi997k2aD0PQI8bppeqemfjVhU461isgsL7D2Sl1B_zbLtx9WJFDWmsCthWLKZMqqZeAdP0T9uUO7vwCTdJbQvUBaXJxbTinLqNWnhJaG3v165qGUTgw"
+      ],
+      "isProcessed": true,
+      "_filepath": "output/sightings/raw/yahoo-2026-06-10.json"
+    },
+    {
+      "tweetId": "2064703167452102981",
+      "userId": "6CIE9UttFkeyMQT",
+      "text": "【発覚】偽のボンボンドロップシールを売るために持ってた疑いで、雑貨店の女店主が逮捕されたみたい😱 news.livedoor.com/article/detail…  女は「中国から輸入したもので、偽物と知って売ってた」って認めてるんだって。警察は店を捜索して段ボール60箱分のシールを押収したそうで、これから販売の実態を調がっきー🇺🇸駐在妻@6CIE9UttFkeyMQT13:36",
+      "user": "がっきー🇺🇸駐在妻",
+      "time": "2026-06-11T13:36:00.000+09:00",
+      "timeRaw": "13:36",
+      "url": "https://x.com/6CIE9UttFkeyMQT/status/2064703167452102981",
+      "hashtags": [],
+      "images": [
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i5e72TLbER0xQeK1l8ZZ0OLmZt-8CKQoDU7Y0ePHwIsaz60pt515U11lgjkHY5bzYI7Nmb09yEBqfpmJ8mXAmMTEXNArMbfbYptAL3X3YrROHhS6u0Poa5OxzlmtUj-XgO21NYGPW8zumbwsxrEE5j6xeCsrHWcKoQWeJ3pIhUAitri0ZgcCJkoXpP5cKWprYr11rUwhAUvFurCbyGYwz29"
+      ],
+      "isProcessed": true,
+      "_filepath": "output/sightings/raw/yahoo-2026-06-10.json"
+    },
+    {
+      "tweetId": "2064703164897710410",
+      "userId": "hayato11294",
+      "text": "【発覚】偽のボンボンドロップシールを売るために持ってた疑いで、雑貨店の女経営者が逮捕されたみたい news.livedoor.com/article/detail…  女は「中国から仕入れた偽物って知ってて売ってた」って認めてるらしい。警察は店を家宅捜索して段ボール60箱分のシールを押収、これから販売の実態を調べる方針だっhayato 1129@hayato1129413:36",
+      "user": "hayato 1129",
+      "time": "2026-06-11T13:36:00.000+09:00",
+      "timeRaw": "13:36",
+      "url": "https://x.com/hayato11294/status/2064703164897710410",
+      "hashtags": [],
+      "images": [
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8P6b-YUbn3oNOitp_cHdw_uJ74V6_SfYweFQS1qwk-_TJcz301WI2Cz5eywMtn22AoNcm-px-tUtzgy1UghJnmv5CSX3nK1QdnMN8PmdZ_qSU_tLrY5bztAawi997k2aD0PQI8bppeqemfjVhU461isgsL7D2Sl1B_zbLtx9WJFDWmsCthWLKZMqqZeAdP0T9uUO7vwCTdJbQvUBaXJxbTinLqNWnhJaG3v165qGUTgw"
+      ],
+      "isProcessed": true,
+      "_filepath": "output/sightings/raw/yahoo-2026-06-10.json"
+    },
+    {
+      "tweetId": "2064703154604978367",
+      "userId": "paEzO7iZunGuUVX",
+      "text": "【見つかった】ニセのボンボンドロップシールを売る目的で持ってた疑いで、雑貨店の女店主を逮捕したって news.livedoor.com/article/detail…  女は「中国から輸入した偽物って分かってて売ってた」って認めてるみたい。警察は店を調べて段ボール60箱分のシールを押収。これから販売の実態を調べるらしいよ。ほに@paEzO7iZunGuUVX13:36",
+      "user": "ほに",
+      "time": "2026-06-11T13:36:00.000+09:00",
+      "timeRaw": "13:36",
+      "url": "https://x.com/paEzO7iZunGuUVX/status/2064703154604978367",
+      "hashtags": [],
+      "images": [
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i5e72TLbER0xQeK1l8ZZ0OLNGmUAiNrpDHwG3cd1sjuDQLszYUkOkpSYqj1_LH0zUxNn73jMKTD-clRKwIrU0XQ7Yy7qrO2jldznv4V2ZsAwx9PCP3aekL3FCxwfKiZI_ujjf4uL9ckwhJlLiRDcqlx6o20vMGcjUfqjXYEO9p6YR1LumkZhWhPVMlhPSBFhYyWwgyqwSZIuJpKQmkljBhi"
+      ],
+      "isProcessed": true,
+      "_filepath": "output/sightings/raw/yahoo-2026-06-10.json"
+    },
+    {
+      "tweetId": "2064703071243124962",
+      "userId": "nasayuta",
+      "text": "偽のボンボンドロップシールを売ろうとして持ってた疑いで、雑貨店の女経営者が捕まったみたい news.livedoor.com/article/detail…  「中国から輸入したもので、偽物って知りながら売ってた」って認めてるらしい。警察が店を捜索したら段ボール60箱分のシールが出てきてて、これから販売の実態を調べるんだっimoan@nasayuta13:35",
+      "user": "imoan",
+      "time": "2026-06-11T13:35:00.000+09:00",
+      "timeRaw": "13:35",
+      "url": "https://x.com/nasayuta/status/2064703071243124962",
+      "hashtags": [],
+      "images": [
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i5e72TLbER0xQeK1l8ZZ0OL7b-FMh1sWaP7cfRKG1jCW73jKgfa67zHKhzDn6Vncz_wdgrOFuSXYPzkBMjBkbjxZgc_C0kk-MENyKSYuVrtIhSefgCNqugagE-AkZ-DHGMHt69ZvgVbiRInv0grrVnG16Jmsmk45yeeh8OWLN3WkW4TCDMQsESMScVUpUbGr4vZFNWIJXGTqBhAiskZVrKi"
+      ],
+      "isProcessed": true,
+      "_filepath": "output/sightings/raw/yahoo-2026-06-10.json"
+    },
+    {
+      "tweetId": "2064703038556942670",
+      "userId": "sota_04_25",
+      "text": "偽のボンボンドロップシールを売るために持ってた疑いで、雑貨店の女社長が逮捕されたみたい😳 news.livedoor.com/article/detail…  「中国から輸入した偽物って知ってて売ってた」って認めてるらしい。警察は店からダンボール60箱分のシールを押収してて、これから販売の実態を調べるんだって。S@sota_04_2513:35",
+      "user": "S",
+      "time": "2026-06-11T13:35:00.000+09:00",
+      "timeRaw": "13:35",
+      "url": "https://x.com/sota_04_25/status/2064703038556942670",
+      "hashtags": [],
+      "images": [
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i5e72TLbER0xQeK1l8ZZ0OLzRU23ekhegNSRNe6BuA4VYxhj-7hc-sXfDSc6DIpTpqz1l06nAJ2SyelnFgR1xiGTlCZuJXgNRhmJ91f72iUY4mqwMljSy00xWyHlMWfzqiTCBqgpUXAez3Die68YvcbnTUyB4AS2yJfj6sV8nToEjNff7sKFLWapv_7ljAFjSZr-3ED3t7tDg7wTxFFTfp4"
+      ],
+      "isProcessed": true,
+      "_filepath": "output/sightings/raw/yahoo-2026-06-10.json"
+    },
+    {
+      "tweetId": "2064703019623866505",
+      "userId": "Y3Ddfe",
+      "text": "【速報】偽のボンボンドロップシールを売るために持ってたとして、雑貨店の女社長が逮捕されたみたい news.livedoor.com/article/detail…  女は「中国から仕入れた偽物って知ってて売ってた」って認めてるらしい。警察は店からダンボール60箱分のシールを押収してて、これから販売の実態を調べるそうだ🙂@Y3Ddfe13:35",
+      "user": "🙂",
+      "time": "2026-06-11T13:35:00.000+09:00",
+      "timeRaw": "13:35",
+      "url": "https://x.com/Y3Ddfe/status/2064703019623866505",
+      "hashtags": [],
+      "images": [
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i5e72TLbER0xQeK1l8ZZ0OL43bT4iwPVO4BJx-CAW8DFfywuOYIuhc2kk73Sof0xZxQSk3URyFWK3nOECnFleuktePK_7LS5KAXHTndCSM-euUANShn2ir3cwXzuQHFs1k-zOLsw4L1OVpLNeNgjLS_vZzU6bCvq8jNUpBbjOlO37bAaxKM0sSb-GYlT2_l2tlbsizXHnTTJ2Xu4Vef_pJz"
+      ],
+      "isProcessed": true,
+      "_filepath": "output/sightings/raw/yahoo-2026-06-10.json"
+    },
+    {
+      "tweetId": "2064702992969093462",
+      "userId": "Mydream1029",
+      "text": "【発覚】偽ボンボンドロップシールを販売目的で持ってた疑いで、雑貨店の女店主を逮捕したって news.livedoor.com/article/detail…  女は「中国から入れた偽物って知ってて売ってた」と認めてるみたい。警察は店を家宅捜索して、段ボール60箱分のシールを押収。今後、実際に売ってたかどうか調べる方針らしいトッシー@Mydream102913:35",
+      "user": "トッシー",
+      "time": "2026-06-11T13:35:00.000+09:00",
+      "timeRaw": "13:35",
+      "url": "https://x.com/Mydream1029/status/2064702992969093462",
+      "hashtags": [],
+      "images": [
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i5e72TLbER0xQeK1l8ZZ0OL82dv1r7VssJIAt0UzECV-d5ikdUDlUhlbA114Z8Y0kFzlfzTbYDjavSoBhN5EyHwP8O4WeHU_srhceNkP-RhJl7a7Tz3Am9CJGIDZHfaZYqmXdVdQ6QWfaQ_FurNY4iqqtgLcrxApw0R8xHGxyPetxyanAaqNkxks4WGdPNCxSVZV1dASb1E9cEwG3WA1BKK"
+      ],
+      "isProcessed": true,
+      "_filepath": "output/sightings/raw/yahoo-2026-06-10.json"
+    },
+    {
+      "tweetId": "2064702980017082525",
+      "userId": "1030_motoaki",
+      "text": "【発覚】偽ボンボンドロップシールを販売目的で持ってた疑いで、雑貨店の女経営者が逮捕されたみたい news.livedoor.com/article/detail…  女は「中国からの輸入品で偽物と知って売ってた」って認めてるらしい。警察は店を家宅捜索して段ボール60箱分のシールを押収したそうで、これから販売の実態を調べる方廣瀬 友昭@1030_motoaki13:35",
+      "user": "廣瀬 友昭",
+      "time": "2026-06-11T13:35:00.000+09:00",
+      "timeRaw": "13:35",
+      "url": "https://x.com/1030_motoaki/status/2064702980017082525",
+      "hashtags": [],
+      "images": [
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i5e72TLbER0xQeK1l8ZZ0OL7zfH7NaMCESns6QpD4MoW-fmR4A7x6hAwe6B25bbhLIleDPsWDlfvdcZAizib7OhuKEcZkb0zsn2bb2-ws98SgN-mt2tE6TwbE2y-_NR47WyNG88uWDUeMGcRsrQsit5UqORbl7pWe1YNfKhGww8D0yU7Q-NOclDgZIWHGxQUZ1z-xeLJhXGSKXmIuERpFTZ"
+      ],
+      "isProcessed": true,
+      "_filepath": "output/sightings/raw/yahoo-2026-06-10.json"
+    },
+    {
+      "tweetId": "2064702971905237252",
+      "userId": "DFzLd85LZODCsjB",
+      "text": "【ニュース】偽のボンボンドロップシールを販売目的で持ってた疑いで、雑貨店の女経営者が逮捕されたみたい。  女は「中国から輸入したもので、偽物ってわかりながら売ってた」って容疑認めてるらしい。警察は店を家宅捜索して、段ボール60箱分のシールを押収。これから販売の詳細を調べる方針だっゆべる@DFzLd85LZODCsjB13:35",
+      "user": "ゆべる",
+      "time": "2026-06-11T13:35:00.000+09:00",
+      "timeRaw": "13:35",
+      "url": "https://x.com/DFzLd85LZODCsjB/status/2064702971905237252",
+      "hashtags": [],
+      "images": [
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i5e72TLbER0xQeK1l8ZZ0OLOSAdU67ZLEDGgvndlSeibTkUvxAD9eH1HDiOGXmI8oIvP2N9L4Ey2UzgqmGUfXIbJQHa_v-BFbsZtkJFf5Mb6nnEn9zTQB8j8qK6bqQVZfmc50fg00udHRBkx576LhO1FJwTPmWNoAI-iAzkbB_ZJSy_pNvoMGPOAyNPEuLQiW-ZqGpXZE3X0tF2l_J1i414"
+      ],
+      "isProcessed": true,
+      "_filepath": "output/sightings/raw/yahoo-2026-06-10.json"
+    },
+    {
+      "tweetId": "2064702960073154565",
+      "userId": "GWOIu128lReAvHb",
+      "text": "【ニュース】偽のボンボンドロップシールを販売目的で持ってた疑いで、雑貨店の女経営者が逮捕されたって news.livedoor.com/article/detail…  女は「中国からの輸入品だと知ってて売ってた」と認めてるんだって。警察は店を捜索して段ボール60箱分のシールを押収、これから販売の実態を調べるみたいハムハム@GWOIu128lReAvHb13:35",
+      "user": "ハムハム",
+      "time": "2026-06-11T13:35:00.000+09:00",
+      "timeRaw": "13:35",
+      "url": "https://x.com/GWOIu128lReAvHb/status/2064702960073154565",
+      "hashtags": [],
+      "images": [
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8P6b-YUbn3oNOitp_cHdw_uJ74V6_SfYweFQS1qwk-_TJcz301WI2Cz5eywMtn22AoNcm-px-tUtzgy1UghJnmv5CSX3nK1QdnMN8PmdZ_qSU_tLrY5bztAawi997k2aD0PQI8bppeqemfjVhU461isgsL7D2Sl1B_zbLtx9WJFDWmsCthWLKZMqqZeAdP0T9uUO7vwCTdJbQvUBaXJxbTinLqNWnhJaG3v165qGUTgw"
+      ],
+      "isProcessed": true,
+      "_filepath": "output/sightings/raw/yahoo-2026-06-10.json"
+    },
+    {
+      "tweetId": "2064702943975424155",
+      "userId": "sThTUqsCUSVVrmv",
+      "text": "【発覚】偽ボンボンドロップシールを販売目的で持ってた疑いで、雑貨店の女経営者が逮捕されたって。 news.livedoor.com/article/detail…  女は「中国から輸入したやつで、偽物ってわかって売ってた」って認めてるらしい。警察はお店を家宅捜索して段ボール60箱分のシールを押収。これから販売の実態を調べるさつき@sThTUqsCUSVVrmv13:35",
+      "user": "さつき",
+      "time": "2026-06-11T13:35:00.000+09:00",
+      "timeRaw": "13:35",
+      "url": "https://x.com/sThTUqsCUSVVrmv/status/2064702943975424155",
+      "hashtags": [],
+      "images": [
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8P6b-YUbn3oNOitp_cHdw_uJ74V6_SfYweFQS1qwk-_TJcz301WI2Cz5eywMtn22AoNcm-px-tUtzgy1UghJnmv5CSX3nK1QdnMN8PmdZ_qSU_tLrY5bztAawi997k2aD0PQI8bppeqemfjVhU461isgsL7D2Sl1B_zbLtx9WJFDWmsCthWLKZMqqZeAdP0T9uUO7vwCTdJbQvUBaXJxbTinLqNWnhJaG3v165qGUTgw"
+      ],
+      "isProcessed": true,
+      "_filepath": "output/sightings/raw/yahoo-2026-06-10.json"
+    },
+    {
+      "tweetId": "2064702928804614643",
+      "userId": "hEedkNjeFJ84522",
+      "text": "【発覚】偽のボンボンドロップシールを売るために持ってた疑いで、雑貨店の女社長が逮捕されたみたい。 news.livedoor.com/article/detail…  女は「中国から輸入したやつで偽物って知ってて売ってた」って認めてるらしい。警察は店を家宅捜索して段ボール60箱分のシールを押収。今後の販売実態を調べるそうだྀི@hEedkNjeFJ8452213:35",
+      "user": "ྀི",
+      "time": "2026-06-11T13:35:00.000+09:00",
+      "timeRaw": "13:35",
+      "url": "https://x.com/hEedkNjeFJ84522/status/2064702928804614643",
+      "hashtags": [],
+      "images": [
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i5e72TLbER0xQeK1l8ZZ0OLM2kVIMmlfNXRrwfq3ifjTNsKW9dLkOkUHDTrxfv7Yb9FiIUcXZm9P0ZSVt_Q5un9kw1IjGeAyTKHsHLX9onpsRPIqtcQLFU8rpyOVYipxJ2qZAagSaCy7mbS7UOHCrKOWCMw3KYGgM7evQL29eTNeb4hVj6dzWfm-thvTZTR7zNKGVk_yb17Lg1AuNV_8jKQ"
+      ],
+      "isProcessed": true,
+      "_filepath": "output/sightings/raw/yahoo-2026-06-10.json"
+    },
+    {
+      "tweetId": "2064702920021692873",
+      "userId": "Z9w5X1Rz7P1iXhl",
+      "text": "【発覚】偽のボンボンドロップシールを売るために持ってた疑いで、雑貨店の女経営者が逮捕されたみたい🔍 news.livedoor.com/article/detail…  女は「中国から輸入して偽物ってわかった上で売ってた」って認めてるんだって。警察は店を捜索して段ボール60箱分のシールを押収したから、これから販売の実態を調なお@Z9w5X1Rz7P1iXhl13:35",
+      "user": "なお",
+      "time": "2026-06-11T13:35:00.000+09:00",
+      "timeRaw": "13:35",
+      "url": "https://x.com/Z9w5X1Rz7P1iXhl/status/2064702920021692873",
+      "hashtags": [],
+      "images": [
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i5e72TLbER0xQeK1l8ZZ0OLyKAzRmF-slu0PszbXcCKW2L6F9_eKfaZ4W7UoCd7jMK0Bb0XT9HGxZfLH3OqmyTfr-3Cm62Mu4w5dJtpjts0MPv6WXgKmcD4sAlyqVbZWt03NeGIK1M6aga4MzGgxksx7IEqcRtvouRqYnQ37uMDagqVSizUg01NUsRpu8gGyMBONnw4n_B9T7hHQpQRYCNx"
+      ],
+      "isProcessed": true,
+      "_filepath": "output/sightings/raw/yahoo-2026-06-10.json"
+    },
+    {
+      "tweetId": "2064702909322072218",
+      "userId": "nmonmonmonmonmo",
+      "text": "偽のボンボンドロップシールを売るために持ってた疑いで、雑貨店の女経営者が逮捕されたみたい😳 news.livedoor.com/article/detail…  女は「中国から輸入した偽物って知ってて売ってた」って認めてるらしい。警察は店を家宅捜索して段ボール60箱分のシールを押収。今後は販売実態を調べるんだって。生尾宏司@nmonmonmonmonmo13:35",
+      "user": "生尾宏司",
+      "time": "2026-06-11T13:35:00.000+09:00",
+      "timeRaw": "13:35",
+      "url": "https://x.com/nmonmonmonmonmo/status/2064702909322072218",
+      "hashtags": [],
+      "images": [
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i5e72TLbER0xQeK1l8ZZ0OLO1TmXoHlcmgLIiWeiqB3auP2SXK72Al8e3tFymSnCi8eWWX6e8K3QvCEShKyYBxHjrBrXSEDRtNTEZMJh-UiSQJWq5ySkkupeo2XGabZL-UriqhqkZmXjEwcfgJ7uyPL5DnIttOXZEXnR5NC4sW1SDKU7BGyVlrzW2PZcXLnTBoi4x3-IeU3UxkhKL0yJqLc"
+      ],
+      "isProcessed": true,
+      "_filepath": "output/sightings/raw/yahoo-2026-06-10.json"
+    },
+    {
+      "tweetId": "2064702886760833119",
+      "userId": "yuka1346408",
+      "text": "【発覚】偽のボンボンドロップシールを売るために持ってた疑いで、雑貨店の女社長が逮捕されたみたい news.livedoor.com/article/detail…  女は「中国から輸入したやつで偽物って分かって売ってた」って認めてるんだって。警察は店を家宅捜索してダンボール60箱分も押収したから、これから販売の実態を調べるユカ@yuka134640813:35",
+      "user": "ユカ",
+      "time": "2026-06-11T13:35:00.000+09:00",
+      "timeRaw": "13:35",
+      "url": "https://x.com/yuka1346408/status/2064702886760833119",
+      "hashtags": [],
+      "images": [
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8P6b-YUbn3oNOitp_cHdw_uJ74V6_SfYweFQS1qwk-_TJcz301WI2Cz5eywMtn22AoNcm-px-tUtzgy1UghJnmv5CSX3nK1QdnMN8PmdZ_qSU_tLrY5bztAawi997k2aD0PQI8bppeqemfjVhU461isgsL7D2Sl1B_zbLtx9WJFDWmsCthWLKZMqqZeAdP0T9uUO7vwCTdJbQvUBaXJxbTinLqNWnhJaG3v165qGUTgw"
+      ],
+      "isProcessed": true,
+      "_filepath": "output/sightings/raw/yahoo-2026-06-10.json"
+    },
+    {
+      "tweetId": "2064702878053491194",
+      "userId": "asw_acco",
+      "text": "偽のボンボンドロップシール、販売目的で持ってた疑いで雑貨店の女経営者が逮捕されたって😳 news.livedoor.com/article/detail…  女は「中国からの輸入品で偽物ってわかって売ってた」って認めてるみたい。警察が店を捜索したら段ボール60箱分のシールを押収。これから販売の実態を調べる方針だそう。結構な栗野亜希子@asw_acco13:35",
+      "user": "栗野亜希子",
+      "time": "2026-06-11T13:35:00.000+09:00",
+      "timeRaw": "13:35",
+      "url": "https://x.com/asw_acco/status/2064702878053491194",
+      "hashtags": [],
+      "images": [
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i5e72TLbER0xQeK1l8ZZ0OLHDfF-ZpWIh6Fob7t9o_67dcWkofY01IH2EgFNxr14bFP4FuaitHa0TIPj9Fw6VDLa-IicMKL5TbhIrtZhU9NlwiSpZmbR0AEfal0MJGhoV7GnWs4eaufUSW-LvBbBCwLHQAljpvdUQg17tpXpJ8oKQLNTnqcjeU3286AAHYpXGtUng23Yi9PeCzaTGrGJjGy"
+      ],
+      "isProcessed": true,
+      "_filepath": "output/sightings/raw/yahoo-2026-06-10.json"
+    },
+    {
+      "tweetId": "2064702868163313785",
+      "userId": "0n4o1T6Kp9M1TUj",
+      "text": "【発覚】偽ボンボンドロップシールを売るために持ってた疑いで、雑貨店の女店主が逮捕されたみたい news.livedoor.com/article/detail…  女は「中国から仕入れた偽物って知ってて売ってた」って認めてるらしい。警察は店を捜索して段ボール60箱分のシールを押収。これから販売の実態を詳しく調べるって。パウジー@0n4o1T6Kp9M1TUj13:34",
+      "user": "パウジー",
+      "time": "2026-06-11T13:34:00.000+09:00",
+      "timeRaw": "13:34",
+      "url": "https://x.com/0n4o1T6Kp9M1TUj/status/2064702868163313785",
+      "hashtags": [],
+      "images": [
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i5e72TLbER0xQeK1l8ZZ0OLGyRNiB8dLa4to6RjK0K9PyiEnzFl1wi2F7OghMSEFrrADWfxwrl2wf6G17uOP4vvLgvtIGiZklL_4kw36dHZ41NjjVZ3eEtAAxeJTY8WW-6B9YA84j5GuTR3s__oapbWmTH7wFDMirmVn9HCNDFhKI_zNXdzuODhvoVVs6HY6yxPp50BULIMdUCLf_T3shj3"
+      ],
+      "isProcessed": true,
+      "_filepath": "output/sightings/raw/yahoo-2026-06-10.json"
+    },
+    {
+      "tweetId": "2064735056770519049",
+      "userId": "028mts",
+      "text": "ぷっくりシール、去年の野音のしおりも、定番の中にちょびっと遊び心を入れてくるのが良い でも60周年だしガチャとかランダムとかもっとエグい商売始めても良かったんでない？(言い方)サト🐘@028mts6分前",
+      "user": "サト🐘",
+      "time": "2026-06-11T00:42:56.036+09:00",
+      "timeRaw": "6分前",
+      "url": "https://x.com/028mts/status/2064735056770519049",
+      "hashtags": [],
+      "images": [
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i5e72TLbER0xQeK1l8ZZ0OLsJU43qkdigF_B0Ln80vS_EzqzwH8BRYvwYJS6g-z7F5g4TArKqaCEKkQhgnguQHqVSgZ2lFx3qhEEgSc0tJ36XTAZOVmZkyRPem4YsILVOWY8ZKgBZCKXF3M8owTPrSZZmi7zoUbgNFInzhH1Zi7tPKpvWlFu2zvI45hCnIcYqKd5AdrGIHfYmhGDwllP-H6"
+      ],
+      "isProcessed": true,
+      "_filepath": "output/sightings/raw/yahoo-2026-06-10.json"
+    },
+    {
+      "tweetId": "2064734376169214414",
+      "userId": "black_schwan",
+      "text": "ぷっくりシールに選ばれた写真は、ファンの間で人気があったものが多い。これはまずい。ファンの欲望、熱望、渇望が読み取られておりますぞ…！きちっち@black_schwan9分前",
+      "user": "きちっち",
+      "time": "2026-06-11T00:39:56.036+09:00",
+      "timeRaw": "9分前",
+      "url": "https://x.com/black_schwan/status/2064734376169214414",
+      "hashtags": [],
+      "images": [
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i5e72TLbER0xQeK1l8ZZ0OLTAmjF4d5x98u8T_GsSlBNbk2Wn_zalncNbHAR97jQniHbJq_WW3IdCVzc2_cCFFN2gj_1TIiLV2ZyjS8dwz2gYVtAkKoF27CBifGArEZo4OsRqwW4AjDe1VWWCzqudPbS2GX0OyVrnw0Pos_89oOytyoGOKWX4TRxYpgqQL5CEf6B_T6r3p8SBc9jkug1FHQ"
+      ],
+      "isProcessed": true,
+      "_filepath": "output/sightings/raw/yahoo-2026-06-10.json"
+    },
+    {
+      "tweetId": "2064730808666206501",
+      "userId": "Yukipi322",
+      "text": "祝還暦だからといってグッズが高額すぎるものやバラエティに富みすぎてないとこが好き。でも流行りに乗ってぷっくりシール売るとこ大好き。お誕生日おめでとう(フライング)ムーコ🦛🎂@Yukipi32223分前",
+      "user": "ムーコ🦛🎂",
+      "time": "2026-06-11T00:25:56.036+09:00",
+      "timeRaw": "23分前",
+      "url": "https://x.com/Yukipi322/status/2064730808666206501",
+      "hashtags": [],
+      "images": [
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i5e72TLbER0xQeK1l8ZZ0OLUVF-hQjyIzep7hVCn2dnKy04E5cRe614wJ_qt9Ik1ieD7hBG9lZ5mdWZOh7cJ0DDCC0EJx0EX_wrXRFE5Rinozt42D4juew-pr2EpGwqEk6G8o5wQ5gTniysQHBNGIQUTcf1JLO2X6XyxqgINW8GE31GIA7gaSvb9EuoH-1Iz689s7Dg2khaQrJ7yI7kRrzh"
+      ],
+      "isProcessed": true,
+      "_filepath": "output/sightings/raw/yahoo-2026-06-10.json"
+    },
+    {
+      "tweetId": "2064726593113870401",
+      "userId": "akira_n7",
+      "text": "ミヤジさんのTシャツ(高い方)買ったら間違いなくアビの来季ユニ買えないな😭  ぷっくりシールとか流行りに寄せてきてミヤジスタッフあざといな🤣🤣🤣❤️ x.com/miyamoto_hiroj…宮本浩次Official@miyamoto_hiroji14:13宮本浩次「60周年記念公演  さあ、ドーンと行くぜ！」のグッズ販売が決定いたしました。 会場販売と通信販売を実施いたします。  #宮本浩次  miyamotohiroji.com/goods/ akira_n7@akira_n71140分前",
+      "user": "akira_n7",
+      "time": "2026-06-11T14:13:00.000+09:00",
+      "timeRaw": "14:13",
+      "url": "https://x.com/akira_n7/status/2064726593113870401",
+      "hashtags": [
+        "#宮本浩次"
+      ],
+      "images": [
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i5e72TLbER0xQeK1l8ZZ0OLv08XjIGWu0gqy_6yL2rksdX2zSa8ckaDdgCKKFvzFWMqGDdPQFmGgh1-wBA3UqEWENCp_qO0gxUOTRlknA6GeFAYBwrbUuf0mg0Qwmeosg1_PN_5GeC_CX7bLKtiFyy4rIAERavXByw4WnUemPzJyKF76L1Ka7BRXRzIUOtz8B60veAzdeVOSY8_-RclF12Y",
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i5e72TLbER0xQeK1l8ZZ0OLMvjkuCstF3UIiyKeJsUaq6PuphIzV8sZY9QSqAUfYSsdhlUXw5DKLHbgiqWKfag4ad4kwzlSQOwkEJ_iKSDdLXdOIzZO5N_7CiRcBuoA6rhYsGSr8btWcmDhPcsBONhi0FQ2w1sAwu7Fy3p5pg6o24edWZ8Knvdd7H3gg87l2NBS3xfIz93BGiVnhQti7qPh",
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i6hjVpND1OjWZ7RVcmujne-YNTwwfyTwEC1dSB5VtaCuzQCcEQK-MjHC88LG5Iflu9T7ceCEkXpi7up89d4jbb9C0SjFMSkeT4mzTyjYfb9db2F92rRwz7QvdfuKzGehEHXTXuKntBu59HZeHm6xheeB6HRzG2C6zM_9Fk19sNiSQ=="
+      ],
+      "isProcessed": true,
+      "_filepath": "output/sightings/raw/yahoo-2026-06-10.json"
+    },
+    {
+      "tweetId": "2064725298395189714",
+      "userId": "sayumabijou",
+      "text": "ぷっくりシール⁉️⁉️⁉️⁉️⁉️ とりあえず今流行りを押さえてる 宮本と称する文字の中から｢ぷっくり｣というひらがなが列挙するなどこの瞬間まで1mmも想像しなかったぞ🤣🤣🤣🤣🤣 一つ一つの宮本さんが面白すぎ 勿体なくて使わないけど、これ、買っちゃうよ～ 売り切れ必須No.🐶  #宮本浩次さゆま@傍らには常にBijou🐕‍🦺@sayumabijou45分前",
+      "user": "さゆま@傍らには常にBijou🐕‍🦺",
+      "time": "2026-06-11T00:03:56.036+09:00",
+      "timeRaw": "45分前",
+      "url": "https://x.com/sayumabijou/status/2064725298395189714",
+      "hashtags": [
+        "#宮本浩次さゆま"
+      ],
+      "images": [
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i5e72TLbER0xQeK1l8ZZ0OLsr4wu6zG3twds26GKH-URukkNcoLfD3wde18Wdo73bE_P7laQ8aUNP8PIjAFnfd-Yd0ntn74xF1W04ydJ5R0RqpjJT7vCAUzvLJ07vM48cGcSnSjvKcMVGztBh6ai4jPQXe_sqo3xJ0VXTXrxuiO3cmaYRIWRaNf7V3f7Q_kn_M2lMrZyJ9ryMkV0C_HwEUj"
+      ],
+      "isProcessed": true,
+      "_filepath": "output/sightings/raw/yahoo-2026-06-10.json"
+    },
+    {
+      "tweetId": "2064724521131843928",
+      "userId": "mimi59021900",
+      "text": "愛らしいぷっくりシール🩷 ミヤジのぷっくりしたお顔はないのかー😅ぷっくり顔のぷっくりシール欲しかったなー😆 野音の白パンミヤジ沢山貼りたい🤍 お子ちゃまミヤジまでいるー😍 楽しすぎる！！ #宮本浩次mimi@mimi5902190048分前",
+      "user": "mimi",
+      "time": "2026-06-11T00:00:56.036+09:00",
+      "timeRaw": "48分前",
+      "url": "https://x.com/mimi59021900/status/2064724521131843928",
+      "hashtags": [
+        "#宮本浩次mimi"
+      ],
+      "images": [
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i5e72TLbER0xQeK1l8ZZ0OLLu40NR8t6FAngwnyANvnGNL2lg0JAPHThv2zj-_7x-hS9pSLOJYy3U3S4JP6frIZfKmvmLBlZTj4bsqcqGwcdt-GuBsmVIMYywZnbOdbOT8GYtIsOr2LQA_y3q39WFet0Q8fXLJ-0kLk5q7TU6FdtS8YJ3JpwDYZrbroXHgS46erPTuwBxxFei7HyZFHkgs9"
+      ],
+      "isProcessed": true,
+      "_filepath": "output/sightings/raw/yahoo-2026-06-10.json"
+    },
+    {
+      "tweetId": "2064724212988919992",
+      "userId": "yuzuele",
+      "text": "ぷっくりシールは2つは買わないとだな🧐 ばぁばそのシール欲しい〜って言われるに違いない🤣 これレアシールよ 友達に自慢出来るぞ‼️ ってドヤ顔ばぁば( ≖ᴗ≖​)ﾆﾔｯあやまま@yuzuele49分前",
+      "user": "あやまま",
+      "time": "2026-06-10T23:59:56.036+09:00",
+      "timeRaw": "49分前",
+      "url": "https://x.com/yuzuele/status/2064724212988919992",
+      "hashtags": [],
+      "images": [
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i5e72TLbER0xQeK1l8ZZ0OLAeTy02UYYi8BqcXiM63DgdVKzatmIfWZcbFEfGX0eJGUQZC3mmIAS4qO2L4DSPADbSQPJzB4fzxU_WmWWh2mPC3l3THJj5NjAIXPJ-aDu0rHUyBJSsQ_Lo7DraSi67zkQbGA4Psj-c-4GgkB9_5WaROfrfK3q1Nt8ODGFOQJRL5N4SOw9Kb_VHsaHarWYNfw"
+      ],
+      "isProcessed": true,
+      "_filepath": "output/sightings/raw/yahoo-2026-06-10.json"
+    },
+    {
+      "tweetId": "2064723268901405147",
+      "userId": "n0_n1sy",
+      "text": "さよならわたしのリングノート。2年間ありがとうしあわせだったよ。泣いてなんかないよ泣いてなんか泣いてわぁぁぁん…！！！ しかしぷっくりシールかわいすぎるな。トートも。Tシャツ赤いのもたぶん欲しくなるしピンクもきっと見たら欲しくなるしなんぼあってもええですからね14時からね承知。のこ@n0_n1sy53分前",
+      "user": "のこ",
+      "time": "2026-06-10T23:55:56.036+09:00",
+      "timeRaw": "53分前",
+      "url": "https://x.com/n0_n1sy/status/2064723268901405147",
+      "hashtags": [],
+      "images": [
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i5e72TLbER0xQeK1l8ZZ0OLiucmH2TzQdEvNP5xnRg5T_ShqqOdwn24ph4Vcngi6K82AIulNySxiACyaK1yFwTJHfIgQSWOVJSodk_Usb7Qf5dUZ1xpxYAPPoLjWZug7wwKuGFR6pQ5KGidWWjbYMQoN0p2fypMlGVI9wX0iiDTEYIw1sJW4KmqhYFL70ZZpa7jLIdSPHhusQm0c2i2oovz"
+      ],
+      "isProcessed": true,
+      "_filepath": "output/sightings/raw/yahoo-2026-06-10.json"
+    },
+    {
+      "tweetId": "2064722936582603018",
+      "userId": "chinchilla_bd",
+      "text": "チンチラのぷっくりシール買うしかないよね🥹 pic.x.com/eFqZkmcZj9コウとマロ🐭チンチラ@chinchilla_bd54分前",
+      "user": "コウとマロ🐭チンチラ",
+      "time": "2026-06-10T23:54:56.036+09:00",
+      "timeRaw": "54分前",
+      "url": "https://x.com/chinchilla_bd/status/2064722936582603018",
+      "hashtags": [],
+      "images": [
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i5e72TLbER0xQeK1l8ZZ0OLbDhoDqh9MqUdbyO7u6rIZNCwlKsL8p8asOPZIRDgmR6rX52GpwqtILRbFRfD-GSFuorcNbtJk_Zu2qcoGgUq-2jaR6RlHPYFr3EMTJzAOk7CaZ9O5pahdxcEqHeWVJ3dI-mYOXMf7l9N4ryfNsulkPiy52ZHmsy-RleM3n74dpx0FXW2KXh_OJ753t2-9edX",
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i6hjVpND1OjWZ7RVcmujne-USaqVibh2y_lw-mxuonIVuZn43Dy6rBGs-0R5w4vcmP9qYYCr5djizXv7b5qcjzkv-dNx8iyLacvjqZoektCOawWPY0RuuRCKgaNVvpAo_xuboGPW90wAxHHri4DQ6e2nMCKpBKAoCmC4aABeLVeyg=="
+      ],
+      "isProcessed": true,
+      "_filepath": "output/sightings/raw/yahoo-2026-06-10.json"
+    },
+    {
+      "tweetId": "2064722008974475315",
+      "userId": "XA6OMzED3P6Zgxq",
+      "text": "#宮本浩次 アルバムとうたコンのリピに忙しくまだBlu-rayに辿り着いていません 素敵な💿何回聴いても飽きないし発見があるしどんどん好きになる 4曲目めっちゃ好きです さて、グッズを吟味しなくっちゃ ぷっくりシール可愛いすぎる、誰だ提案したのは…ありがたうフジ@XA6OMzED3P6Zgxq58分前",
+      "user": "フジ",
+      "time": "2026-06-10T23:50:56.036+09:00",
+      "timeRaw": "58分前",
+      "url": "https://x.com/XA6OMzED3P6Zgxq/status/2064722008974475315",
+      "hashtags": [
+        "#宮本浩次"
+      ],
+      "images": [
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i5e72TLbER0xQeK1l8ZZ0OLI_rOBvpZjJSYWc7ov7QCm9WGbVSrIz7rVJnZqjGbz_XLFvBy0wayDgCbv8HeO8S-2CsBitQBq-JuaRl0wc4v2yncNYAl1KT-tv0ZxmvXcGGJVmN2bSt7moRjzmlCc3V3eeiWfgq9__F0T_wl1FGBRAWG-rKm4b1ZoC7RbPQkTMcExVrbM23nDyNGugdtLW8D"
+      ],
+      "isProcessed": true,
+      "_filepath": "output/sightings/raw/yahoo-2026-06-10.json"
+    },
+    {
+      "tweetId": "2064721336627548181",
+      "userId": "Tianlanronchi",
+      "text": "グッズ詳細確認。 カラフルTシャツ、キッズサイズまであるのね。 そして、トートバッグにプリントされたLET’S  DOHN! に心奪われている。 ノートないのが、ちょっと残念。 ぷっくりシールは争奪戦かな。天藍@Tianlanronchi14:48",
+      "user": "天藍",
+      "time": "2026-06-11T14:48:00.000+09:00",
+      "timeRaw": "14:48",
+      "url": "https://x.com/Tianlanronchi/status/2064721336627548181",
+      "hashtags": [],
+      "images": [
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i5e72TLbER0xQeK1l8ZZ0OL1IqHpvCj0sUvUpbMfA45DjX00xj7_yKvI27tjuioxYCWuDhqmPDjUM7dUSTRieBEWX4me8CK16ySYCoBW34kgIxh1L1yPFknh1b65Rm83snYcgzMEUx_6GnjJYURaST6vpnyKIyzS8xCl6Dv9BgnD3ljkyhcEd_Hrt_FYXSeeV2O5rBjmZNTdiMeAmlBKo6X"
+      ],
+      "isProcessed": true,
+      "_filepath": "output/sightings/raw/yahoo-2026-06-10.json"
+    },
+    {
+      "tweetId": "2064721287109583069",
+      "userId": "htgcmc",
+      "text": "周年のイベントで槙くんのぷっくりシール出ないかなぁha@htgcmc14:48",
+      "user": "ha",
+      "time": "2026-06-11T14:48:00.000+09:00",
+      "timeRaw": "14:48",
+      "url": "https://x.com/htgcmc/status/2064721287109583069",
+      "hashtags": [],
+      "images": [
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i5e72TLbER0xQeK1l8ZZ0OLNHfQEfrmlXGv8hbBQVZRkQR13EO_kojF7ODMKvnPM-coDwX5EY4RGhTRFz2D6Mo8Wb02f_9YK9CF1tb5Id4gP_JMn2MjpfkrMC_gv0ge4O0c3mpYwxlW3t5Bu9K-K2--gK9ye0JtjjeMeGvgqhdDT8C15fdbqJItugw7iEUOctqXpLQK33msbSI2dk_a0ET3"
+      ],
+      "isProcessed": true,
+      "_filepath": "output/sightings/raw/yahoo-2026-06-10.json"
+    },
+    {
+      "tweetId": "2064721112207085726",
+      "userId": "Newsin22ev_bo",
+      "text": "ぷっくりシール もう名前から笑うしかない🐘新新米子象@Newsin22ev_bo14:47",
+      "user": "🐘新新米子象",
+      "time": "2026-06-11T14:47:00.000+09:00",
+      "timeRaw": "14:47",
+      "url": "https://x.com/Newsin22ev_bo/status/2064721112207085726",
+      "hashtags": [],
+      "images": [
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i5e72TLbER0xQeK1l8ZZ0OLIuq58y2vXYz_jCPfzDS4VrbwpnDPnoHOw-lbTQd7JyvNSDlOidUfSp4RYU4a28E3XnqBRqHgryS_WmpGtvetEYQnefWZLy_HKyEQ9g6PA9Wr4GJwIbK4qPa6-7L54-J8kr2_7ME35-N6e3CstOgQBwIAzMyrxmwu2SS2TdVAB5SbyqPsTlitDuDjb5aT4zZT"
+      ],
+      "isProcessed": true,
+      "_filepath": "output/sightings/raw/yahoo-2026-06-10.json"
+    },
+    {
+      "tweetId": "2064720202869444713",
+      "userId": "gakihi62",
+      "text": "ぷっくりシール可愛い(  ૢ ⦁ .ꔷ ૢ) 在庫切れないようにお願いします♡𝔾𝔸𝕂𝕀 𓈒𓂂𓂃◌𓈒@gakihi6214:43",
+      "user": "𝔾𝔸𝕂𝕀 𓈒𓂂𓂃◌𓈒",
+      "time": "2026-06-11T14:43:00.000+09:00",
+      "timeRaw": "14:43",
+      "url": "https://x.com/gakihi62/status/2064720202869444713",
+      "hashtags": [],
+      "images": [
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i5e72TLbER0xQeK1l8ZZ0OLZuFQD231tTIqsg_nfXU7Bdost37DMFJidsk-QyRMV_QM1coLK5Eg8Cv_zHgjtEXFrpyy3Ebf89sK10M8jamV9rWOPfswbnIGbpHwE6_X6SrU5FRxgnx_rHcIoEh40G-AE8RMhsvwLtqYhz4L7hNDnk-411vXZE7loHQEeU9-yj3yu2stBjxdF9c3ioww3Ycr"
+      ],
+      "isProcessed": true,
+      "_filepath": "output/sightings/raw/yahoo-2026-06-10.json"
+    },
+    {
+      "tweetId": "2064720155293487327",
+      "userId": "n0_n1sy",
+      "text": "返信先:@MirMotto当たり前にあると思ってものすごく楽しみにしてたことを思い知らされてるよ😇もう飽きたんw？わたし最高BDの2冊目使い切るとこだったのに…！！ぷっくりシールに騙されないよっ(買うけれども😇のこ@n0_n1sy14:43",
+      "user": "のこ",
+      "time": "2026-06-11T14:43:00.000+09:00",
+      "timeRaw": "14:43",
+      "url": "https://x.com/n0_n1sy/status/2064720155293487327",
+      "hashtags": [],
+      "images": [
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i5e72TLbER0xQeK1l8ZZ0OLiucmH2TzQdEvNP5xnRg5T_ShqqOdwn24ph4Vcngi6K82AIulNySxiACyaK1yFwTJHfIgQSWOVJSodk_Usb7Qf5dUZ1xpxYAPPoLjWZug7wwKuGFR6pQ5KGidWWjbYMQoN0p2fypMlGVI9wX0iiDTEYIw1sJW4KmqhYFL70ZZpa7jLIdSPHhusQm0c2i2oovz"
+      ],
+      "isProcessed": true,
+      "_filepath": "output/sightings/raw/yahoo-2026-06-10.json"
+    },
+    {
+      "tweetId": "2064719230134796650",
+      "userId": "Erika70210144",
+      "text": "RP ぷっくりシール!? 小学生女子のトレンドまで押さえにくるなんてw絶対優秀なグッズ担当スタッフいるわ(因みに現中三娘はシールブーム通ってない) 今治バスタオルも分かってる…！ 深夜バスのタオルケット代わりに最適なのよ買うErika@Erika7021014414:39",
+      "user": "Erika",
+      "time": "2026-06-11T14:39:00.000+09:00",
+      "timeRaw": "14:39",
+      "url": "https://x.com/Erika70210144/status/2064719230134796650",
+      "hashtags": [],
+      "images": [
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i5e72TLbER0xQeK1l8ZZ0OLmPhWpaIIKL8UofJa6RrIhjBu2bkwE3jfUiv6OGNxWt3X4qN-ZxHiGvMN3UZvoxWy3TlMl5AGUTNUUdqlJEdv0IwcHEYnFdH9GdWLEwW0iMBx9XZVHTTbAPYj2VrPq0rtLVtS99iHN72r7Ls9WDTH8UpbpZ-wONZpPVhP_jBK0vXvVsmtDjPCE9CJAGR9VOfd"
+      ],
+      "isProcessed": true,
+      "_filepath": "output/sightings/raw/yahoo-2026-06-10.json"
+    },
+    {
+      "tweetId": "2064718403785662668",
+      "userId": "6RiEKlv",
+      "text": "え、宮本さんのぷっくりシールとか可愛すぎじゃない！？😂 絶対欲しい！！！💖Ri🐘@6RiEKlv14:36",
+      "user": "Ri🐘",
+      "time": "2026-06-11T14:36:00.000+09:00",
+      "timeRaw": "14:36",
+      "url": "https://x.com/6RiEKlv/status/2064718403785662668",
+      "hashtags": [],
+      "images": [
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i5e72TLbER0xQeK1l8ZZ0OLJL4Yha5Cs4csPM6IthtJugceZ0HTuZeIMupIBusVmhK0EBj3kVhxt5iLkVfpLNTGqfv8K5R9PzL4a5UrcSia8REQNxUbUWdkQ7QUp5NWuer9jNmUjlHqmru6GBQouvNXKBGJBP1lO_5MBP_Jql5BHpiPY24_1RQDvL-4fdhepujXCudDlJ4P-zQoiXrhdnKL"
+      ],
+      "isProcessed": true,
+      "_filepath": "output/sightings/raw/yahoo-2026-06-10.json"
+    },
+    {
+      "tweetId": "2064717979640881381",
+      "userId": "l0ver__338o",
+      "text": "返信先:@miyamoto_hiroji宮本さんのぷっくりシールが買えるとは！！！ 在庫たんまりでお願いします！！！！！ﾅｲﾅｲ@l0ver__338o14:35",
+      "user": "ﾅｲﾅｲ",
+      "time": "2026-06-11T14:35:00.000+09:00",
+      "timeRaw": "14:35",
+      "url": "https://x.com/l0ver__338o/status/2064717979640881381",
+      "hashtags": [],
+      "images": [
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i5e72TLbER0xQeK1l8ZZ0OL4BkeRPnmxzz6asXH9z_adTcdnVR4ysNJMYS2JROZbriTHqG0tDZWHBByx8mJ2Pm8WSGUIlvDPiwkxxbJm2tkWXURez18Xtjq_MVIuhhQz_hS2vhsNDR7v3JJ3BuIBjado0OruQhhY2T7UPEl-znW-RK-m17IhU9R8jvsonc6D4dE0lDPDR9eBE-1J2yIMfXc"
+      ],
+      "isProcessed": true,
+      "_filepath": "output/sightings/raw/yahoo-2026-06-10.json"
+    },
+    {
+      "tweetId": "2064715367004692882",
+      "userId": "nina26534139",
+      "text": "ぷっくりシールがトレンドに上がりそうな予感…😂  つかノートがないっ！ショック💦 x.com/miyamoto_hiroj…宮本浩次Official@miyamoto_hiroji14:13宮本浩次「60周年記念公演  さあ、ドーンと行くぜ！」のグッズ販売が決定いたしました。 会場販売と通信販売を実施いたします。  #宮本浩次  miyamotohiroji.com/goods/ にな@nina2653413914:24",
+      "user": "にな",
+      "time": "2026-06-11T14:13:00.000+09:00",
+      "timeRaw": "14:13",
+      "url": "https://x.com/nina26534139/status/2064715367004692882",
+      "hashtags": [
+        "#宮本浩次"
+      ],
+      "images": [
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i5e72TLbER0xQeK1l8ZZ0OLh2tHhwMFNtZq7VK1JpRKzH9MlxMvjYkraqQF7HF0Ykh52Xg8qFZBOF7p9cHwHcdn3hJxXKZtgqWmtex9xQfXmJ4ms8TbpyTRpWDeHD6TKVFB200_KmiBnDBPuigHXYIXfyaOSh46Nq95mvOIvQqedGTUFLSvbLva_Cscqgqgr8fPehOWTyhxB56lxWwHVPc_",
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i5e72TLbER0xQeK1l8ZZ0OLMvjkuCstF3UIiyKeJsUaq6PuphIzV8sZY9QSqAUfYSsdhlUXw5DKLHbgiqWKfag4ad4kwzlSQOwkEJ_iKSDdLXdOIzZO5N_7CiRcBuoA6rhYsGSr8btWcmDhPcsBONhi0FQ2w1sAwu7Fy3p5pg6o24edWZ8Knvdd7H3gg87l2NBS3xfIz93BGiVnhQti7qPh",
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i6hjVpND1OjWZ7RVcmujne-YNTwwfyTwEC1dSB5VtaCuzQCcEQK-MjHC88LG5Iflu9T7ceCEkXpi7up89d4jbb9C0SjFMSkeT4mzTyjYfb9db2F92rRwz7QvdfuKzGehEHXTXuKntBu59HZeHm6xheeB6HRzG2C6zM_9Fk19sNiSQ=="
+      ],
+      "isProcessed": true,
+      "_filepath": "output/sightings/raw/yahoo-2026-06-10.json"
+    },
+    {
+      "tweetId": "2064715094874099892",
+      "userId": "milly10176664",
+      "text": "待ってました！ ぷっくりシールたまらん！！かわいすぎる！！😆😆  Tシャツカワイイと思ったら後ろがドーン😆 エヌハリコラボ嬉しい！  ⋯お茶が、宮本茶がない⋯  #宮本浩次みりぃ@milly1017666414:23",
+      "user": "みりぃ",
+      "time": "2026-06-11T14:23:00.000+09:00",
+      "timeRaw": "14:23",
+      "url": "https://x.com/milly10176664/status/2064715094874099892",
+      "hashtags": [
+        "#宮本浩次みりぃ"
+      ],
+      "images": [
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i5e72TLbER0xQeK1l8ZZ0OLO1Op5IZfAXIfUu2WxI1vjElcgB-G1e3lJuMQ5DCCklda5w2UB9RyLNmGpjITVSJiesHKo7dTVmdzbjytYBa9oQAY9pYbRL97rBhQ1zLGHPqElTTCAZw6L7jj2AR0jYYNfvJDH7gJHf_DCfdwZsbZ6ojwElqb2Ov61ElpNlT33iom1-bK8hdN9nopRh0PLR6k"
+      ],
+      "isProcessed": true,
+      "_filepath": "output/sightings/raw/yahoo-2026-06-10.json"
+    },
+    {
+      "tweetId": "2064714285788594339",
+      "userId": "Ririeriri10",
+      "text": "ぷっくりシールとか全然集めてないんだけど、今日たまたま見かけたのがあまりにも🐟概念でつい買ってしまった🥰 だって尾びれに、二匹の赤いお魚のシールまであったんだもん🥹 pic.x.com/oXoyztB8beリリエ🐟️🪼@Ririeriri1014:20",
+      "user": "リリエ🐟️🪼",
+      "time": "2026-06-11T14:20:00.000+09:00",
+      "timeRaw": "14:20",
+      "url": "https://x.com/Ririeriri10/status/2064714285788594339",
+      "hashtags": [],
+      "images": [
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i5e72TLbER0xQeK1l8ZZ0OLjmk_zICFHxrAK3YzziHNEH4MeknZJytQjabjUHu0tiGoX6tPDXtcIz4-COO2_SIb8GTLGAhiUN-jLUxckcTri1o3Y6aOSuoFuZHcVd7bkCWZ4vn0KyXBZVxXWYOxpstPvYyiDzrV2CPe68S8NjTYKEZfhq2fk9UmYLH87D83QO2QqrBnThh3OE3Uo_k8E-i9",
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i6hjVpND1OjWZ7RVcmujne-_9ekFiu6uFm9j5H_CyP49PAwkw0JflqtQkaokmrK8Q9CMD6PVnGbMf9hEBpvz_mMldSYL5wbyBNx-0fKI8vLL3r9emYZt_eZftTuXq_gGS8OYLw6mzpr5b7xFILHNDrjwP74SkeMIAm2GQnJKshy1g==",
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i6hjVpND1OjWZ7RVcmujne-0JoBcT1NaZezitqHRNtTAv-lvEwcirrwki0kcAIUUWOk1RBKYubYZJIlWXXapFJe4lC0P8LTW0-QVr_YsbcQmwxdAMD6LkgH0c7Jjxy1dvEHwvqYYjKd8hapDi59LJZQVAzkUAlfAFKNI_AgDd0XCg=="
+      ],
+      "isProcessed": true,
+      "_filepath": "output/sightings/raw/yahoo-2026-06-10.json"
+    },
+    {
+      "tweetId": "2064714014492615114",
+      "userId": "suzuikgk",
+      "text": "仕事で嫌な事あって落ち込んでたけど ・親友のベビの性別がわかった ・好きなマフィン屋さんのマフィン買えた ・もっちゅりんと偶然出会えた ・ボンドロと黒尾さんのぷっくりシール買えた ・リマインダーの今日のリスト全て達成した！ いい事の方が多かったから結果プラスで終われてハッピー！𓂃 𓈒🍀すー🫧🩵@suzuikgk14:19",
+      "user": "すー🫧🩵",
+      "time": "2026-06-11T14:19:00.000+09:00",
+      "timeRaw": "14:19",
+      "url": "https://x.com/suzuikgk/status/2064714014492615114",
+      "hashtags": [],
+      "images": [
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i5e72TLbER0xQeK1l8ZZ0OLV15_fekxI9uRTo_aZDW7wWK7urrCBFnZ0xfbyektN_1nMV8th_-UUUhJ7O0fQZUsNK8LrBCrLK3l7mQKunOQcjK6FZ34jTIJ9nRZy8knAcbkspW5M9LqVpHlCSeiXPdrme3yKChjLg_nq2W4iBTuhDi3a94kndVtiI8co_aes7msqPZCB4U24P8krm06Aebh"
+      ],
+      "isProcessed": true,
+      "_filepath": "output/sightings/raw/yahoo-2026-06-10.json"
+    },
+    {
+      "tweetId": "2064712997847924828",
+      "userId": "l0ver__338o",
+      "text": "ミヤジのぷっくりシールだって！！？？？！？ 買うしかないやろ！！！！！  #宮本浩次ﾅｲﾅｲ@l0ver__338o114:15",
+      "user": "ﾅｲﾅｲ",
+      "time": "2026-06-11T14:15:00.000+09:00",
+      "timeRaw": "14:15",
+      "url": "https://x.com/l0ver__338o/status/2064712997847924828",
+      "hashtags": [
+        "#宮本浩次"
+      ],
+      "images": [
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i5e72TLbER0xQeK1l8ZZ0OL4BkeRPnmxzz6asXH9z_adTcdnVR4ysNJMYS2JROZbriTHqG0tDZWHBByx8mJ2Pm8WSGUIlvDPiwkxxbJm2tkWXURez18Xtjq_MVIuhhQz_hS2vhsNDR7v3JJ3BuIBjado0OruQhhY2T7UPEl-znW-RK-m17IhU9R8jvsonc6D4dE0lDPDR9eBE-1J2yIMfXc"
+      ],
+      "isProcessed": true,
+      "_filepath": "output/sightings/raw/yahoo-2026-06-10.json"
+    },
+    {
+      "tweetId": "2064707130595455377",
+      "userId": "lownr9",
+      "text": "シール大好きですぐに１００均で買う人間だけど ぷっくりシールには興味が無いんだけど この間初めて魔法少女ステッキ型のぷっくりシールあってそれだけは滅茶苦茶惹かれた（買ってない）  明日イオン行った時売ってたら買っちゃうかもしれない…狼崎 野良@lownr913:51",
+      "user": "狼崎 野良",
+      "time": "2026-06-11T13:51:00.000+09:00",
+      "timeRaw": "13:51",
+      "url": "https://x.com/lownr9/status/2064707130595455377",
+      "hashtags": [],
+      "images": [
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i5e72TLbER0xQeK1l8ZZ0OLqyWeSyjxUM7aH2FYXaNRgXTVHaczMYMrLnmo2UFHY4qoWc2Hl5HwJy-jfZnVf-2XcT1GQ1ocg9x4IgfEihDpsEbzomqHUnccZpMeaYlKf2cTGC1XVpg3Mc8iClRj9eBVusAhXK5mm1xzt_rNK1Ri8V4NHh2jxPSoZpqulXCh5Em85Vn9nU2yfZiN2cA-tCiV"
+      ],
+      "isProcessed": true,
+      "_filepath": "output/sightings/raw/yahoo-2026-06-10.json"
+    },
+    {
+      "tweetId": "2064699020115882002",
+      "userId": "yamiarisu2817",
+      "text": "最近シール帳にハマってます！ 平成女児だった私が昔ハマらなかったのに今ハマるという、さすが平成を生きた女！ うたプリのぷっくりシールとかないかな💦 今日アニメイト行ったらハイキューはあったんだよな〜😭ヤミアリス@yamiarisu281713:19",
+      "user": "ヤミアリス",
+      "time": "2026-06-11T13:19:00.000+09:00",
+      "timeRaw": "13:19",
+      "url": "https://x.com/yamiarisu2817/status/2064699020115882002",
+      "hashtags": [],
+      "images": [
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i5e72TLbER0xQeK1l8ZZ0OLvEXLjRKo-MI9G-gD3-kornVM_lo03RFIrGZZCBOP6jrLN-j7kuF8Dk3ygil3F1irhiktdV7prfTOyGlnGGJxw5KBd9R7kSRjIBnWyVAsprJXGWS1kt5G_kGf7wFaRadVbQZoWfk9IPfwFOrpsrNODr8fmfpcf8scW_Uf_LRa36M0Ivx9FbLJ0dQXxhUM_RH1"
+      ],
+      "isProcessed": true,
+      "_filepath": "output/sightings/raw/yahoo-2026-06-10.json"
+    },
+    {
+      "tweetId": "2064697848734921181",
+      "userId": "kayataku_cutest",
+      "text": "こういう物販はしない派だったんだが、ぷっくりシールは必須級か...？ お布施のつもりで10連するか... x.com/cutie_street_/…CUTIE STREET【Official】@CUTIE_STREET_8:00🎉💎リリース記念くじ 開催決定💎🎉  「キュートなキューたい」や「ナイスだね」のMV衣装 さらに、ロゼッタ衣装の豪華景品が当たる🎁  🤍サイン入りソロチェキ 🤍サイン入りアクリルパネル 🤍チェキスタンド 🤍チェキファイル などなど❕  ▼詳細はこちら❕ sukisuki-shop.com/kuji/3708 かやたく改め とろたく@kayataku_cutest13:15",
+      "user": "かやたく改め とろたく",
+      "time": "2026-06-11T08:00:00.000+09:00",
+      "timeRaw": "8:00",
+      "url": "https://x.com/kayataku_cutest/status/2064697848734921181",
+      "hashtags": [],
+      "images": [
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i5e72TLbER0xQeK1l8ZZ0OLq3EtZ9gF62o-c6CwGje1-Ub7JCeQx0CJuaqTuZGixCfaMrBrgPFsx4XS_p7Y14eBSgJmSPEQGcXp6eHra_Uv0A9Dt_4u9DoGQLjW4kpQsYdSjg0LAs_TmtRYC9vdiP7lxYGiGH-dCe2B_Xz8P9feKU9oTbDFrmBVtDU2f4TX6qkclpadzAZIfVsN6D0QCcJN",
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i5e72TLbER0xQeK1l8ZZ0OL54SJ25RdVwsoHZAmlCjRwseu0EQt4qpnpY30qEW78Xq-R-eVL1FzpPC-bG7oItqDafG7q9XJMflJHQ4vkelwyBugkgEV-2aB4nfenD7zd6Web99ZQoOu5SasSfdwZS2GlnEuI1xhq9OW3cXlVPIpimv3Fy7KJtcVJUWkz8SjfliSFvxcUzyGQfxHe64gilzF",
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i6hjVpND1OjWZ7RVcmujne-CTOHqQchZhs_dh_XJbswqewn6ho_4f0fJCnWg2WgW2FCLH7hSt7PtVYnDSL0L8HoPs50nVXKfkWSeZDKdFAqyERcofLmu6pyZLXYykiJNLQsOAUj4sVvIwTtVuBg8cdKS7xp9iqqAIaqj-WdlEFVsw=="
+      ],
+      "isProcessed": true,
+      "_filepath": "output/sightings/raw/yahoo-2026-06-10.json"
+    },
+    {
+      "tweetId": "2064696200729870420",
+      "userId": "meaialice",
+      "text": "🆕からこんうるちゅるじゃない!?似合ってるー？  #地下アイドル #JC pic.x.com/HyVUfnlWMa苺娃ありす🩵🐰まかろんぱぁてぃ@6月14日生誕祭🎂@meaialice832713:08",
+      "user": "苺娃ありす🩵🐰まかろんぱぁてぃ@6月14日生誕祭🎂",
+      "time": "2026-06-11T13:08:00.000+09:00",
+      "timeRaw": "13:08",
+      "url": "https://x.com/meaialice/status/2064696200729870420",
+      "hashtags": [
+        "#地下アイドル",
+        "#JC"
+      ],
+      "images": [
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i5e72TLbER0xQeK1l8ZZ0OLVbDB1EZ7LHaSX5HjQzsgzzbGQC1-cLNduywtKHWAG_szUZqORM81QLTS4b8Xn08wbCw20F65j1K7p4IX8eQ5jkv4z0_KbA4EnctU_C1a2EbmAqfTd03l8thFdOrhF1RvKzDVbWDg3Jg9iEXsnXwMrJPU2qY3i6aXQw8haWok2PdPG_92E8x7w2cMUOe2h1Ll",
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i6hjVpND1OjWZ7RVcmujne-9x6Dt4VNozNb0Ak8N4ZYzvXIER60xb0f5DmVUIafNPQdbHknnZqwE7QWmnzIe-dlV8mAScnf4ipYUx06pzLVe3DtlyQU-zj79K-HXQMIfPsOQ0FRJE93J8mDZc2pYwTDZdDZl79p5GLcmCxizH1-ug=="
+      ],
+      "isProcessed": true,
+      "_filepath": "output/sightings/raw/yahoo-2026-06-10.json"
+    },
+    {
+      "tweetId": "2064724523166187978",
+      "userId": "ya_yuyu_yo",
+      "text": "左完成したつもりだったのだが なんかピンと来なくて修正してるなう😖  線細くして、お顔をちょっと潰してもっともちっとさせて、目をうるちゅるに！ ベース変わらないけどかなり雰囲気変わった？？かも！👀  良くなってそうだったら右で進めようかなぁ…！！🤔 pic.x.com/loCCiWSIy2ゆゆ🚑 🩺@ya_yuyu_yo48分前",
+      "user": "ゆゆ🚑 🩺",
+      "time": "2026-06-11T00:00:56.036+09:00",
+      "timeRaw": "48分前",
+      "url": "https://x.com/ya_yuyu_yo/status/2064724523166187978",
+      "hashtags": [],
+      "images": [
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i5e72TLbER0xQeK1l8ZZ0OLPMGbLP0MoypHhtemhEaElrA2lUl5YvUMA2Ra6KgswCorshfyBQa-qv5NqQJihR_-eqDwZt7uEC-165MDZLnvjJe4X_-69bb_kLEv8T4yHj9M-2tOgEJBwnNvemJIe35pNHGxsQmk10dM0d5YZddDKMAV1f-hYCrwt3f7lg1JXiHAasVXDX0pBVUYds9X2fit",
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i6hjVpND1OjWZ7RVcmujne-Ml1vD8EtCMVjPpVBLY7tF5TCwgkDV6HgIt4IaStukr4pSbIbHiNojVj9JXyyK6B-n6OZiOtSy4ElX1V92rmUXITKKpz9hDhctlG2chvPjSM9mHe1XhEptcyxOJdbvn87vlkyjv5nvbxUnpLmSHT5uA=="
+      ],
+      "isProcessed": true,
+      "_filepath": "output/sightings/raw/yahoo-2026-06-10.json"
+    },
+    {
+      "tweetId": "2064705587078975522",
+      "userId": "la_musique07",
+      "text": "昨日だけでも色々🥹💕 お茶犬もやっと買えたので新作コンプできたし、うるちゅる新作も結局コンプしてしまった〜😂 ずっと欲しかったこのあたりのコットンパフィも買えて嬉しかった☺️ ノンタン3枚目だけど(笑)、ノンタンの笑顔に本当に癒される🥹✨ でも今は1番欲しいのはオリジナル…🥹🙏 pic.x.com/rQj1cQcX62mai@la_musique0713:45",
+      "user": "mai",
+      "time": "2026-06-11T13:45:00.000+09:00",
+      "timeRaw": "13:45",
+      "url": "https://x.com/la_musique07/status/2064705587078975522",
+      "hashtags": [],
+      "images": [
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i5e72TLbER0xQeK1l8ZZ0OLrdEptlZlMd4qeNF2jiq_fiFFfMeU3avCU8oKln1Asfag-vxh37EKX8bwp2DsMJZsHDUsZ2ziED6xiZV9NGc58oqjOQ1g2EWOIktTwq1pLSh6wDJQJxP-9eg_uVvj1da49LYzf4UjOortqpw3YbA0BIUCZXhGNj4P_bFFif4yiHe5Ms7K-qwpYN3r76oAJtsW",
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i6hjVpND1OjWZ7RVcmujne-cZHgxR03a9onLQSa2ntjTBCyyL_wTqcIxmB-dAii2RYyydBrr4jIhs9eJIw7TSIy8Ip45oZ9xHPr7woMiluU5pGSG2DEkcOZbFjrexyypQD2hZh-BHutZrg0yQ-zPqM5gOcx4HEvp0PNRXG5Q4HjZA==",
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i6hjVpND1OjWZ7RVcmujne-g3QP_F9dGN3Kdm4IpWfu2L2u3pQ4YycofCYeoRHU095jx8xveUr6Y38OBN8NRQwHr_utgNbVqWXjHCAwDY2pUj443SbiQLGYtL26EssWImaZ31m-RI0LAR7WKwFoLhaagth8srxIj10K1G-eM08DsQ==",
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i6hjVpND1OjWZ7RVcmujne-t-ODZX3V0xFYJw_wDIw248toFtDzC-UU9w9sF8F5XW44FjG_Wf1HYZoD9YxCbca06KHaKEHcXBy-DFZNOSCmXiooHOoPRWUWLZTav0Qa0QTm8y00FUKE7S3-41pUmU6woVgMA1A3dTm0AVytXXptGg==",
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i6hjVpND1OjWZ7RVcmujne-ERXRO4_rQu6YgG6dm-65dmMlBTz6W-CmrO-rESkBEnSD974aqYyNJJx5a0CTZ7DDHqPhMv3Q8dVjTsCEdPHFzbObkIH3EMCWIaGa9f3qkzpbD2cYsxGwkPYeaj2eeb7bHPtcjZOJvCJzEEMggOsqiA=="
+      ],
+      "isProcessed": true,
+      "_filepath": "output/sightings/raw/yahoo-2026-06-10.json"
+    },
+    {
+      "tweetId": "2064705086379655655",
+      "userId": "n1PXRXNs5Y68488",
+      "text": "しのちゃんのお顔になりたいなと思うくらい、好きだし綺麗だなと思っています( ᴖ ᴖ)　漫画みたいに綺麗な輪郭、きりっとした太め眉、とろ～んと甘いタレ目、全く主張しないスッと通った鼻、ぽってりうるちゅる唇、かわいいお顔で長身←わたしの理想そのものだ～…😭　中身も外見も大好きですさざめき@n1PXRXNs5Y6848813:43",
+      "user": "さざめき",
+      "time": "2026-06-11T13:43:00.000+09:00",
+      "timeRaw": "13:43",
+      "url": "https://x.com/n1PXRXNs5Y68488/status/2064705086379655655",
+      "hashtags": [],
+      "images": [
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i5e72TLbER0xQeK1l8ZZ0OLNGUvJwTh1X2ZtpLVt8153CBf-dGXige0UZKxTwNwqE0oG16c0TkJ0mvLBOga9vdcmaO-5Ng8SvmbeO-GS-ZxqCAb9v01pDFGK5vNvQB_MUXh8ZfA5HEd6LJ3mMbtbfi3QO-MNoPlO196PA4YNefR0iGWTLq5QlIQ-Ru-YNgpTLXZyX4UNaL4-i38c6rwUdgR"
+      ],
+      "isProcessed": true,
+      "_filepath": "output/sightings/raw/yahoo-2026-06-10.json"
+    },
+    {
+      "tweetId": "2064692505107648559",
+      "userId": "k_byakkooooo",
+      "text": "今日の収穫〜 コットンパフィとかうるちゅるもあったけどあんまりささらんかった pic.x.com/rUFhtPZ4auはな@k_byakkooooo12:53",
+      "user": "はな",
+      "time": "2026-06-11T12:53:00.000+09:00",
+      "timeRaw": "12:53",
+      "url": "https://x.com/k_byakkooooo/status/2064692505107648559",
+      "hashtags": [],
+      "images": [
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i5e72TLbER0xQeK1l8ZZ0OLueF1kaxSpzQet3Ta7yOC-me37od6ZUwUzpZ3gl3p2PTFf58o6F4nU4X-ZBvfxVrCuQ_fX2FLIg3VDf1teqP3KYtvBWEjJHhe16eGuVsOfsggQKiSq_IzrEGWv_Utf3swrJwXECJMmfwUZpo7IoxvelKeXsBFkruTVAF2-SjmC55pnbVdydPmYelQ-bH9X3_n",
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i6hjVpND1OjWZ7RVcmujne-OdiaxniJV_2-fqmpqbx7DZWgNufBApsuH4vL9Rx2XDBD0zKp58U-gYZXIcfnZn-0WNNiRtmqJIGLb5cIDaWL2-5Rl3esmcwoIU_D5B9tBsWx3bTBr-aY6oZN3QnlbhximeSmnBzzMi0yl1GJOoDhEg=="
       ],
       "isProcessed": true,
       "_filepath": "output/sightings/raw/yahoo-2026-06-10.json"
