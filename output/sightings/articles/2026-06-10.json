@@ -1,7 +1,7 @@
 {
   "date": "2026-06-10",
-  "updatedAt": "2026-06-10T19:15:19.619+09:00",
-  "count": 20,
+  "updatedAt": "2026-06-10T21:18:08.548+09:00",
+  "count": 21,
   "articles": [
     {
       "isSighting": true,
@@ -382,6 +382,25 @@
       "wpPostId": 9278,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-kanagawa-sagamihara-minami-2026-06-10/",
       "postedAt": "2026-06-10T19:15:32.475+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "栃木県",
+      "city": "宇都宮市",
+      "shopName": "駿河屋 宇都宮テクノ店",
+      "shopAddress": "栃木県宇都宮市ゆいの杜1丁目2-21",
+      "productName": "ちいかわシリーズ ボンボンドロップシール",
+      "sightingTime": "2026-06-10 10:38頃",
+      "statusText": "在庫あり（各1点のみ、在庫僅少）",
+      "confidenceMemo": "店舗公式アカウントによる写真付きの入荷情報であり、信頼性が非常に高い",
+      "sourceUrl": "https://x.com/suruga_utekuno/status/2064658363456389314",
+      "sourceTweetId": "2064658363456389314",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2064658363456389314.png",
+      "isPosted": true,
+      "wpPostId": 9280,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-tochigi-utsunomiya-2026-06-10/",
+      "postedAt": "2026-06-10T21:18:16.810+09:00"
     }
   ]
 }
