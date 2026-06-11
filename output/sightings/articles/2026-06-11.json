@@ -1,7 +1,7 @@
 {
   "date": "2026-06-11",
-  "updatedAt": "2026-06-11T19:49:38.575+09:00",
-  "count": 21,
+  "updatedAt": "2026-06-11T21:42:36.747+09:00",
+  "count": 23,
   "articles": [
     {
       "isSighting": true,
@@ -401,6 +401,44 @@
       "wpPostId": 9326,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-saitama-midori-saitama-2026-04-25/",
       "postedAt": "2026-06-11T19:49:52.394+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "東京都",
+      "city": "台東区",
+      "shopName": "ヨルトパペリ",
+      "shopAddress": "東京都台東区谷中2-15-5",
+      "productName": "うるちゅるmojojojo、うるちゅるカードキャプターさくら、きゅるるんvol.3",
+      "sightingTime": "2026-06-11 21:19頃",
+      "statusText": "在庫あり（おひとりさま1点までの個数制限あり）",
+      "confidenceMemo": "店舗公式アカウントによる新商品入荷および在庫情報。入荷数少なめとのこと。",
+      "sourceUrl": "https://x.com/hinata_no_te/status/2065046347619917940",
+      "sourceTweetId": "2065046347619917940",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2065046347619917940.png",
+      "isPosted": true,
+      "wpPostId": 9328,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-tokyo-taito-2026-06-11/",
+      "postedAt": "2026-06-11T21:42:44.436+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "鹿児島県",
+      "city": "鹿児島市",
+      "shopName": "PukaPuka屋",
+      "shopAddress": "鹿児島県鹿児島市東千石町17-7",
+      "productName": "うるちゅるポップシール",
+      "sightingTime": "2026-06-11 21:12頃",
+      "statusText": "在庫あり（再入荷予定なし、残り僅かの可能性）",
+      "confidenceMemo": "店舗公式アカウントによる在庫情報。再入荷なしと明記されているため信頼性が高い。",
+      "sourceUrl": "https://x.com/PukaPuka_ya/status/2065044691029258694",
+      "sourceTweetId": "2065044691029258694",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2065044691029258694.png",
+      "isPosted": true,
+      "wpPostId": 9330,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-kagoshima-kagoshima-2026-06-11/",
+      "postedAt": "2026-06-11T21:42:50.728+09:00"
     }
   ]
 }
