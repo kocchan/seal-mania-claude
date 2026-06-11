@@ -1,7 +1,7 @@
 {
   "date": "2026-06-11",
-  "updatedAt": "2026-06-11T21:42:36.747+09:00",
-  "count": 23,
+  "updatedAt": "2026-06-12T01:12:57.425+09:00",
+  "count": 24,
   "articles": [
     {
       "isSighting": true,
@@ -439,6 +439,25 @@
       "wpPostId": 9330,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-kagoshima-kagoshima-2026-06-11/",
       "postedAt": "2026-06-11T21:42:50.728+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "大阪府",
+      "city": "豊中市",
+      "shopName": "伊丹空港（大阪国際空港）",
+      "shopAddress": "大阪府豊中市蛍池西町3丁目555",
+      "productName": "ボンボンドロップシール（COJI-COJI、富士山など）",
+      "sightingTime": "2026-06-12 13:05頃",
+      "statusText": "在庫あり（複数種類あり）",
+      "confidenceMemo": "空港内での購入報告。具体的な商品名（COJI-COJI、富士山）と写真への言及があり信頼性が高い。",
+      "sourceUrl": "https://x.com/emichin24451/status/2065057883059093541",
+      "sourceTweetId": "2065057883059093541",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2065057883059093541.png",
+      "isPosted": true,
+      "wpPostId": 9332,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-osaka-toyonaka-2026-06-12/",
+      "postedAt": "2026-06-12T01:13:05.305+09:00"
     }
   ]
 }
