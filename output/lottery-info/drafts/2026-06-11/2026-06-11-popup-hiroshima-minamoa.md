@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-06-11T06:10:51.844Z"
+wpPostUrl: "https://www.seal-search.com/news/reservation/popup-hiroshima-minamoa-20260815/"
+wpPostId: 9306
+posted: true
 imageGenerated: true
 type: lottery
 status: draft

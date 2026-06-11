@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-06-11T06:10:59.023Z"
+wpPostUrl: "https://www.seal-search.com/news/reservation/popup-kasugai-yorokka-20260731/"
+wpPostId: 9308
+posted: true
 imageGenerated: true
 type: lottery
 status: draft
