@@ -1,7 +1,7 @@
 {
   "date": "2026-06-11",
-  "updatedAt": "2026-06-11T16:28:53.922+09:00",
-  "count": 19,
+  "updatedAt": "2026-06-11T19:49:38.575+09:00",
+  "count": 21,
   "articles": [
     {
       "isSighting": true,
@@ -363,6 +363,44 @@
       "wpPostId": 9322,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-yamanashi-minami-alps-2026-06-11/",
       "postedAt": "2026-06-11T16:29:38.379+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "大阪府",
+      "city": "泉南市",
+      "shopName": "未来屋書店 りんくう泉南店",
+      "shopAddress": "大阪府泉南市りんくう南浜3-12 イオンモールりんくう泉南 2F",
+      "productName": "ボンボンドロップシール（ノンタン、お抹茶、お文具といっしょ、COJI-COJI）",
+      "sightingTime": "2026-06-11 08:27頃",
+      "statusText": "在庫あり（レジ前と文具コーナーにて展開中）",
+      "confidenceMemo": "店舗公式アカウントによる入荷・展開写真付きの投稿のため信頼性が非常に高い",
+      "sourceUrl": "https://x.com/ms_rinkusennan/status/2064987831223922711",
+      "sourceTweetId": "2064987831223922711",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2064987831223922711.png",
+      "isPosted": true,
+      "wpPostId": 9324,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-osaka-sennan-2026-06-11/",
+      "postedAt": "2026-06-11T19:49:45.727+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "埼玉県",
+      "city": "さいたま市緑区",
+      "shopName": "GiGOイオンモール浦和美園",
+      "shopAddress": "埼玉県さいたま市緑区美園5丁目50-1 イオンモール浦和美園 3F",
+      "productName": "うるちゅるシールBIG ～GiGO限定～",
+      "sightingTime": "2026-04-25 00:00頃",
+      "statusText": "完売商品の再入荷（在庫あり）",
+      "confidenceMemo": "店舗公式アカウントによる詳細な入荷情報",
+      "sourceUrl": "https://x.com/GiGO_UrawaM/status/2065021701289803794",
+      "sourceTweetId": "2065021701289803794",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2065021701289803794.png",
+      "isPosted": true,
+      "wpPostId": 9326,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-saitama-midori-saitama-2026-04-25/",
+      "postedAt": "2026-06-11T19:49:52.394+09:00"
     }
   ]
 }
