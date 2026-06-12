@@ -1,7 +1,7 @@
 {
   "date": "2026-06-12",
-  "updatedAt": "2026-06-12T16:21:43.356+09:00",
-  "count": 25,
+  "updatedAt": "2026-06-12T21:16:03.837+09:00",
+  "count": 26,
   "articles": [
     {
       "isSighting": true,
@@ -477,6 +477,25 @@
       "wpPostId": 9386,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-kanagawa-midori-sagamihara-2026-06-12/",
       "postedAt": "2026-06-12T16:22:59.925+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "愛知県",
+      "city": "名古屋市千種区",
+      "shopName": "未来屋書店 東山店",
+      "shopAddress": "愛知県名古屋市千種区星が丘元町15-5 星が丘テラスWEST内",
+      "productName": "ボンボンドロップシール",
+      "sightingTime": "2026-06-12 04:24頃",
+      "statusText": "完売（COJI-COJI版も完売）",
+      "confidenceMemo": "店舗公式アカウントによる公式情報",
+      "sourceUrl": "https://x.com/ms_higashiyama/status/2065388757864599878",
+      "sourceTweetId": "2065388757864599878",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2065388757864599878.png",
+      "isPosted": true,
+      "wpPostId": 9388,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-aichi-chikusa-nagoya-2026-06-12-2/",
+      "postedAt": "2026-06-12T21:16:10.532+09:00"
     }
   ]
 }
