@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-06-12T06:06:53.213Z"
+wpPostUrl: "https://www.seal-search.com/news/reservation/loft-netstore-chiikawa-20260614/"
+wpPostId: 9360
+posted: true
 imageGenerated: true
 type: lottery
 status: draft
