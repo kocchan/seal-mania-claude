@@ -1,7 +1,7 @@
 {
   "date": "2026-06-13",
-  "updatedAt": "2026-06-13T18:26:05.201+09:00",
-  "count": 21,
+  "updatedAt": "2026-06-13T20:12:32.848+09:00",
+  "count": 22,
   "articles": [
     {
       "isSighting": true,
@@ -401,6 +401,25 @@
       "wpPostId": 9536,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-miyagi-miyagino-sendai-2026-06-13/",
       "postedAt": "2026-06-13T18:26:19.076+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "大阪府",
+      "city": "大阪市浪速区",
+      "shopName": "遊べるガチャ屋さん 大阪日本橋",
+      "shopAddress": "大阪府大阪市浪速区日本橋",
+      "productName": "ボンボンドロップ",
+      "sightingTime": "2026-06-13 19:32頃",
+      "statusText": "在庫あり（ガチャ景品として入荷）",
+      "confidenceMemo": "店舗公式アカウントによる入荷・景品設定告知",
+      "sourceUrl": "https://x.com/asoberugachaya/status/2065744258410414404",
+      "sourceTweetId": "2065744258410414404",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2065744258410414404.png",
+      "isPosted": true,
+      "wpPostId": 9538,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-osaka-naniwa-osaka-2026-06-13/",
+      "postedAt": "2026-06-13T20:12:38.999+09:00"
     }
   ]
 }
