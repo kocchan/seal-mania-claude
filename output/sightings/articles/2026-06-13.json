@@ -1,7 +1,7 @@
 {
   "date": "2026-06-13",
-  "updatedAt": "2026-06-13T15:56:52.751+09:00",
-  "count": 19,
+  "updatedAt": "2026-06-13T18:26:05.201+09:00",
+  "count": 21,
   "articles": [
     {
       "isSighting": true,
@@ -363,6 +363,44 @@
       "wpPostId": 9532,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-okayama-kurashiki-2026-06-13-2/",
       "postedAt": "2026-06-13T15:57:56.679+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "熊本県",
+      "city": "熊本市中央区",
+      "shopName": "TCG カードショップ オラクルベリー",
+      "shopAddress": "熊本県熊本市中央区手取本町5-20",
+      "productName": "ボンボンドロップシール（コジコジ、お茶犬）",
+      "sightingTime": "2026-06-13 07:08頃",
+      "statusText": "入荷・在庫あり",
+      "confidenceMemo": "店舗公式アカウントによる入荷・販売告知のため信頼性が高い",
+      "sourceUrl": "https://x.com/tcg_oraclebery/status/2065692886625370547",
+      "sourceTweetId": "2065692886625370547",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2065692886625370547.png",
+      "isPosted": true,
+      "wpPostId": 9534,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-kumamoto-kumamoto-chuo-2026-06-13/",
+      "postedAt": "2026-06-13T18:26:11.876+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "宮城県",
+      "city": "仙台市宮城野区",
+      "shopName": "南海部品仙台店",
+      "shopAddress": "宮城県仙台市宮城野区中野5丁目5-3",
+      "productName": "Honda×Kuromi ぷっくりシール",
+      "sightingTime": "2026-06-13 07:21頃",
+      "statusText": "入荷・在庫あり",
+      "confidenceMemo": "店舗公式アカウントによる写真付きの入荷告知であり、信頼性が非常に高い",
+      "sourceUrl": "https://x.com/nankai_sendai/status/2065696029513769047",
+      "sourceTweetId": "2065696029513769047",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2065696029513769047.png",
+      "isPosted": true,
+      "wpPostId": 9536,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-miyagi-miyagino-sendai-2026-06-13/",
+      "postedAt": "2026-06-13T18:26:19.076+09:00"
     }
   ]
 }
