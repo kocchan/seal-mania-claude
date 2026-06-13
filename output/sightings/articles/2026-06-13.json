@@ -1,7 +1,7 @@
 {
   "date": "2026-06-13",
-  "updatedAt": "2026-06-13T23:10:49.676+09:00",
-  "count": 29,
+  "updatedAt": "2026-06-14T07:02:42.963+09:00",
+  "count": 30,
   "articles": [
     {
       "isSighting": true,
@@ -553,6 +553,25 @@
       "wpPostId": 9552,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-kanagawa-sagamihara-minami-2026-06-13/",
       "postedAt": "2026-06-13T23:11:33.074+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "埼玉県",
+      "city": "三郷市",
+      "shopName": "ぐるぐる大帝国三郷店",
+      "shopAddress": "埼玉県三郷市半田1062",
+      "productName": "ボンボンドロップシール（たまごっち、ディズニー等）",
+      "sightingTime": "2026-06-14 06:40頃",
+      "statusText": "買取強化中（在庫状況は買取により変動）",
+      "confidenceMemo": "店舗公式アカウントによる情報。中古販売店のため入荷状況は買取に依存する。不確定要素があるため予測フラグを有効化。",
+      "sourceUrl": "https://x.com/misato_omocha/status/2065912338755330265",
+      "sourceTweetId": "2065912338755330265",
+      "isPrediction": true,
+      "imagePath": "output/sightings/images/2065912338755330265.png",
+      "isPosted": true,
+      "wpPostId": 9554,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-saitama-misato-2026-06-14/",
+      "postedAt": "2026-06-14T07:02:49.530+09:00"
     }
   ]
 }
