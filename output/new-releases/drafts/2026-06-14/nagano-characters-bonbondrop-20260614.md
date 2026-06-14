@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-06-14T06:10:06.635Z"
+wpPostUrl: "https://www.seal-search.com/news/new-item/nagano-characters-bonbondrop-20260614/"
+wpPostId: 9588
+posted: true
 imageGenerated: true
 type: new-release
 status: draft
