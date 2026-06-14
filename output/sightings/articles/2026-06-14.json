@@ -1,7 +1,7 @@
 {
   "date": "2026-06-14",
-  "updatedAt": "2026-06-14T16:20:25.024+09:00",
-  "count": 23,
+  "updatedAt": "2026-06-14T18:46:26.296+09:00",
+  "count": 24,
   "articles": [
     {
       "isSighting": true,
@@ -439,6 +439,25 @@
       "wpPostId": 9602,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-nagano-matsumoto-2026-06-14/",
       "postedAt": "2026-06-14T16:21:12.990+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "山形県",
+      "city": "鶴岡市",
+      "shopName": "JA庄内たがわ 産直んめ農マルシェ",
+      "shopAddress": "山形県鶴岡市外目町1-5",
+      "productName": "ボンボンドロップシール",
+      "sightingTime": "2026-06-14 18:01頃",
+      "statusText": "完売（再入荷未定）",
+      "confidenceMemo": "店舗公式アカウントによる在庫状況の報告のため信頼性が非常に高い",
+      "sourceUrl": "https://x.com/jashonai730/status/2066083560885510416",
+      "sourceTweetId": "2066083560885510416",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2066083560885510416.png",
+      "isPosted": true,
+      "wpPostId": 9604,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-yamagata-tsuruoka-2026-06-14/",
+      "postedAt": "2026-06-14T18:46:33.898+09:00"
     }
   ]
 }
