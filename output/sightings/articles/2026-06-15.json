@@ -1,7 +1,7 @@
 {
   "date": "2026-06-15",
-  "updatedAt": "2026-06-15T21:30:22.142+09:00",
-  "count": 22,
+  "updatedAt": "2026-06-16T00:12:53.756+09:00",
+  "count": 23,
   "articles": [
     {
       "isSighting": true,
@@ -420,6 +420,25 @@
       "wpPostId": 9654,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-kanagawa-yokohama-2026-06-15/",
       "postedAt": "2026-06-15T21:30:47.480+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "東京都",
+      "city": "新宿区",
+      "shopName": "ビックカメラ 新宿東口店",
+      "shopAddress": "東京都新宿区新宿3丁目26-10",
+      "productName": "プチドロ、コットンパフィー",
+      "sightingTime": "2026-06-16 13:30頃",
+      "statusText": "在庫あり（たくさんあった）",
+      "confidenceMemo": "商品名は「プチドロ」だが、ボンボンドロップシールと同メーカーの類似・関連商品として報告",
+      "sourceUrl": "https://x.com/saorin1311/status/2066515656112218236",
+      "sourceTweetId": "2066515656112218236",
+      "isPrediction": true,
+      "imagePath": "output/sightings/images/2066515656112218236.png",
+      "isPosted": true,
+      "wpPostId": 9656,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-tokyo-shinjuku-2026-06-16/",
+      "postedAt": "2026-06-16T00:13:00.775+09:00"
     }
   ]
 }
