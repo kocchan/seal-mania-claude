@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-06-15T06:41:57.889Z"
+wpPostUrl: "https://www.seal-search.com/news/new-item/bonbondrop-popup-namba-20260717/"
+wpPostId: 9626
+posted: true
 imageGenerated: true
 type: lottery
 status: draft
