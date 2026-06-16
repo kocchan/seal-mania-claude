@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-06-16T06:54:55.119Z"
+wpPostUrl: "https://www.seal-search.com/news/new-item/bonbondrop-popup-kobe-20260724/"
+wpPostId: 9684
+posted: true
 imageGenerated: true
 type: lottery
 status: draft

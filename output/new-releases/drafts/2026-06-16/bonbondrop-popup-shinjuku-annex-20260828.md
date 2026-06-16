@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-06-16T06:55:03.726Z"
+wpPostUrl: "https://www.seal-search.com/news/new-item/bonbondrop-popup-shinjuku-annex-20260828/"
+wpPostId: 9686
+posted: true
 imageGenerated: true
 type: lottery
 status: draft

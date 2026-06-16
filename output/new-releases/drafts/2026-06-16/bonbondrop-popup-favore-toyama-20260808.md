@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-06-16T06:54:47.014Z"
+wpPostUrl: "https://www.seal-search.com/news/new-item/bonbondrop-popup-favore-toyama-20260808/"
+wpPostId: 9682
+posted: true
 imageGenerated: true
 type: lottery
 status: draft
