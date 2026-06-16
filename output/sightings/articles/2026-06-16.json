@@ -1,7 +1,7 @@
 {
   "date": "2026-06-16",
-  "updatedAt": "2026-06-16T22:27:58.580+09:00",
-  "count": 25,
+  "updatedAt": "2026-06-17T02:04:45.552+09:00",
+  "count": 26,
   "articles": [
     {
       "isSighting": true,
@@ -477,6 +477,25 @@
       "wpPostId": 9712,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-tokyo-chuo-2026-06-16/",
       "postedAt": "2026-06-16T22:28:04.527+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "大阪府",
+      "city": "大阪市中央区",
+      "shopName": "シールステーション",
+      "shopAddress": "大阪府大阪市中央区西心斎橋1-6-17 中川ビル3F",
+      "productName": "新作ボンボンドロップシール",
+      "sightingTime": "2026-06-17 07:46頃",
+      "statusText": "入荷予定（定価販売）",
+      "confidenceMemo": "店舗公式アカウントによる入荷告知。具体的な店舗名（シールステーション）が明記されているため、信頼性が非常に高い。",
+      "sourceUrl": "https://x.com/seal_sos/status/2066876945426768176",
+      "sourceTweetId": "2066876945426768176",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2066876945426768176.png",
+      "isPosted": true,
+      "wpPostId": 9714,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-osaka-chuo-osaka-2026-06-17/",
+      "postedAt": "2026-06-17T02:04:51.968+09:00"
     }
   ]
 }
