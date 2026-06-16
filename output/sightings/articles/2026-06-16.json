@@ -1,7 +1,7 @@
 {
   "date": "2026-06-16",
-  "updatedAt": "2026-06-16T17:43:40.545+09:00",
-  "count": 23,
+  "updatedAt": "2026-06-16T20:24:56.737+09:00",
+  "count": 24,
   "articles": [
     {
       "isSighting": true,
@@ -439,6 +439,25 @@
       "wpPostId": 9708,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-hyogo-amagasaki-2026-06-16/",
       "postedAt": "2026-06-16T17:44:55.837+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "沖縄県",
+      "city": "中頭郡北中城村",
+      "shopName": "ドリームカプセル SouthLabo",
+      "shopAddress": "沖縄県中頭郡北中城村ライカム1番地 イオンモール沖縄ライカム 1F",
+      "productName": "サンリオキャラクターズ ボンボンドロップミニチュアチャーム",
+      "sightingTime": "2026-06-16 19:34頃",
+      "statusText": "再入荷（お一人様2回までの個数制限あり）",
+      "confidenceMemo": "店舗公式アカウントによる在庫・再入荷情報。名称「SouthLabo」はイオンモール沖縄ライカム店を指す。",
+      "sourceUrl": "https://x.com/drecap_South/status/2066831776987992293",
+      "sourceTweetId": "2066831776987992293",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2066831776987992293.png",
+      "isPosted": true,
+      "wpPostId": 9710,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-okinawa-kitanakagusuku-nakagami-district-2026-06-16/",
+      "postedAt": "2026-06-16T20:25:04.160+09:00"
     }
   ]
 }
