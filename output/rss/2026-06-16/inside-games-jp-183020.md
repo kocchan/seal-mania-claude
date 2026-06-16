@@ -1,0 +1,20 @@
+---
+source: rss
+url: "https://www.inside-games.jp/article/2026/06/16/183020.html"
+title: "ボンボンドロップシールに「リラックマ」「きかんしゃトーマス」など4キャラクターが仲間入り！6月より順次発売 | インサイド"
+siteName: "インサイド"
+publishedAt: "2026-06-16T01:33:39Z"
+fetchedAt: "2026-06-16T02:30:49.505Z"
+fetchMethod: axios
+ogImage: "https://www.inside-games.jp/imgs/ogp_f/1742904.jpg"
+description: "ボンボンドロップシールに「リラックマ」「ナルミヤキャラクターズ」「きかんしゃトーマス」「パウパトロール」のデザインが新登場！"
+---
+
+## RSS要約
+
+新キャラクターの「 ボンボンドロップシール 」は2026年6月より発売予定。価格は各550円（税込）です。詳細はサンスター文具公式サイトをご確認ください。
+
+## 本文HTML（サニタイズ済み）
+
+<html><head></head><body><figure class="ctms-editor-image"><img src="https://www.inside-games.jp/imgs/zoom/1742893.jpg" class="inline-article-image" width="640" height="360"></figure><p>サンスター文具は、<b>新キャラクターの「ボンボンドロップシール」</b>を6月より発売します。</p><h2>◆ボンボンドロップシールに「リラックマ」「きかんしゃトーマス」など新商品続々！</h2><p>大人気の「ボンボンドロップシール」より、新たに「リラックマ」「ナルミヤキャラクターズ」「きかんしゃトーマス」「パウパトロール」のデザインが登場します。ラインナップは各キャラクター2種の合計8種です。</p><h3>■リラックマ ごゆるり/なかよし</h3><figure class="ctms-editor-image"><img src="https://www.inside-games.jp/imgs/zoom/1742889.jpg" class="inline-article-image" width="640" height="506"></figure><h3>■ナルミヤキャラクターズ エンジェルブルー×デイジーラヴァーズ/メゾピアノ×ポンポネット</h3><figure class="ctms-editor-image"><img src="https://www.inside-games.jp/imgs/zoom/1742890.jpg" class="inline-article-image" width="640" height="506"></figure><h3>■きかんしゃトーマス ぼうけん/なかまたち</h3><figure class="ctms-editor-image"><img src="https://www.inside-games.jp/imgs/zoom/1742891.jpg" class="inline-article-image" width="640" height="506"></figure><h3>■パウパトロール バッジ/フルーツ</h3><figure class="ctms-editor-image"><img src="https://www.inside-games.jp/imgs/zoom/1742888.jpg" class="inline-article-image" width="640" height="506"></figure><hr><p>新キャラクターの「ボンボンドロップシール」は2026年6月より発売予定。価格は各550円（税込）です。詳細は<a target="_blank" rel="noopener noreferrer" href="https://www.sun-star-st.jp/items_tag/bonbondrop/">サンスター文具公式サイト</a>をご確認ください。</p><br><div class="af_box"><!-- start --><div class="af_list"><div class="af_box_left"><a href="https://www.amazon.co.jp/dp/B0DLKPDQMJ?tag=insidegames-22&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank"><img src="https://m.media-amazon.com/images/I/61qDi+JMsCL._SL160_.jpg" class="af_box_image"></a></div><div class="af_box_right"><b><a href="https://www.amazon.co.jp/dp/B0DLKPDQMJ?tag=insidegames-22&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank">カミオジャパン サンリオキャラクターズ シールバインダー おやすみ 054690</a></b><br><b>￥935</b><br><span>(価格・在庫状況は記事公開時点のものです)</span><br><div class="af_box_link_amazon"><a href="https://www.amazon.co.jp/dp/B0DLKPDQMJ?tag=insidegames-22&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank">Amazon</a></div><div class="af_box_link_rakuten"><a href="https://hb.afl.rakuten.co.jp/hgc/0dfd5e9c.cb53a4b8.132b5a79.c657d846/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2582%25B5%25E3%2583%25B3%25E3%2583%25AA%25E3%2582%25AA%25E3%2580%2580%25E3%2582%25B7%25E3%2583%25BC%25E3%2583%25AB%25E5%25B8%25B3%2F" target="_blank">楽天市場</a></div></div></div><!-- //end --></div><div class="af_box"><!-- start --><div class="af_list"><div class="af_box_left"><a href="https://www.amazon.co.jp/dp/B0G33FXRNK?tag=insidegames-22&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank"><img src="https://m.media-amazon.com/images/I/41U8rq2p8QL._SL160_.jpg" class="af_box_image"></a></div><div class="af_box_right"><b><a href="https://www.amazon.co.jp/dp/B0G33FXRNK?tag=insidegames-22&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank">カミ307365 サンリオキャラクターズ シールバインダーサンリオ シート シール帳 ファイル 整理 ステッカー 文房具 雑貨 グッズ</a></b><br><b>￥859</b><br><span>(価格・在庫状況は記事公開時点のものです)</span><br><div class="af_box_link_amazon"><a href="https://www.amazon.co.jp/dp/B0G33FXRNK?tag=insidegames-22&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank">Amazon</a></div><div class="af_box_link_rakuten"><a href="https://hb.afl.rakuten.co.jp/hgc/0dfd5e9c.cb53a4b8.132b5a79.c657d846/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2582%25B5%25E3%2583%25B3%25E3%2583%25AA%25E3%2582%25AA%25E3%2580%2580%25E3%2582%25B7%25E3%2583%25BC%25E3%2583%25AB%25E5%25B8%25B3%2F" target="_blank">楽天市場</a></div></div></div><!-- //end --></div>
+</body></html>
