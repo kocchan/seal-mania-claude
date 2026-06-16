@@ -1,7 +1,7 @@
 {
   "date": "2026-06-16",
-  "updatedAt": "2026-06-17T02:04:45.552+09:00",
-  "count": 26,
+  "updatedAt": "2026-06-17T07:52:21.400+09:00",
+  "count": 27,
   "articles": [
     {
       "isSighting": true,
@@ -496,6 +496,25 @@
       "wpPostId": 9714,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-osaka-chuo-osaka-2026-06-17/",
       "postedAt": "2026-06-17T02:04:51.968+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "埼玉県",
+      "city": "さいたま市大宮区",
+      "shopName": "ボンボンドロップシール ポップアップ (大宮会場)",
+      "shopAddress": "埼玉県さいたま市大宮区大宮駅周辺",
+      "productName": "ボンボンドロップシール (クーリア/キャラクター)",
+      "sightingTime": "2026-06-17 07:42頃",
+      "statusText": "ポップアップ開催中（19日分抽選・整理券あり）",
+      "confidenceMemo": "代行募集ツイートにより大宮でのポップアップ開催と在庫状況が判明",
+      "sourceUrl": "https://x.com/wenrit_/status/2067015052071415989",
+      "sourceTweetId": "2067015052071415989",
+      "isPrediction": true,
+      "imagePath": "output/sightings/images/2067015052071415989.png",
+      "isPosted": true,
+      "wpPostId": 9716,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-saitama-omiya-saitama-2026-06-17/",
+      "postedAt": "2026-06-17T07:52:28.093+09:00"
     }
   ]
 }
