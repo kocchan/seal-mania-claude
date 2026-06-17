@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-06-17T06:31:59.245Z"
+wpPostUrl: "https://www.seal-search.com/news/new-item/bonbondrop-popup-yorokka-kasugai-20260731/"
+wpPostId: 9744
+posted: true
 imageGenerated: true
 type: lottery
 status: draft

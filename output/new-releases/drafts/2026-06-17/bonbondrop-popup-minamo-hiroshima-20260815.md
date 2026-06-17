@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-06-17T06:31:50.831Z"
+wpPostUrl: "https://www.seal-search.com/news/new-item/bonbondrop-popup-minamo-hiroshima-20260815/"
+wpPostId: 9742
+posted: true
 imageGenerated: true
 type: lottery
 status: draft
