@@ -1,7 +1,7 @@
 {
   "date": "2026-06-17",
-  "updatedAt": "2026-06-17T20:08:47.078+09:00",
-  "count": 24,
+  "updatedAt": "2026-06-18T00:49:26.999+09:00",
+  "count": 25,
   "articles": [
     {
       "isSighting": true,
@@ -458,6 +458,25 @@
       "wpPostId": 9768,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-oita-beppu-2026-06-17/",
       "postedAt": "2026-06-17T20:09:21.371+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "埼玉県",
+      "city": "越谷市",
+      "shopName": "宮脇書店 ほんのいえ越谷店",
+      "shopAddress": "埼玉県越谷市大里525-1",
+      "productName": "ちいかわ ボンボンドロップシール",
+      "sightingTime": "2026-06-18 14:09頃",
+      "statusText": "完売",
+      "confidenceMemo": "店舗公式アカウントによる正確な在庫情報の投稿",
+      "sourceUrl": "https://x.com/honnoiemiyawaki/status/2067248197035262327",
+      "sourceTweetId": "2067248197035262327",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2067248197035262327.png",
+      "isPosted": true,
+      "wpPostId": 9770,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-saitama-koshigaya-2026-06-18/",
+      "postedAt": "2026-06-18T00:49:33.918+09:00"
     }
   ]
 }
