@@ -1,7 +1,7 @@
 {
   "date": "2026-06-18",
-  "updatedAt": "2026-06-18T19:41:28.710+09:00",
-  "count": 32,
+  "updatedAt": "2026-06-18T21:21:06.683+09:00",
+  "count": 33,
   "articles": [
     {
       "isSighting": true,
@@ -610,6 +610,25 @@
       "wpPostId": 9834,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-fukushima-iwaki-2026-06-18/",
       "postedAt": "2026-06-18T19:42:02.897+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "大阪府",
+      "city": "大阪市住之江区",
+      "shopName": "遊楽舎 ドン・キホーテ住之江公園店",
+      "shopAddress": "大阪府大阪市住之江区新北島1丁目1-1",
+      "productName": "ボンボンドロップシール moji",
+      "sightingTime": "2026-06-18 11:00頃",
+      "statusText": "在庫あり（新商品入荷）",
+      "confidenceMemo": "店舗の公式アカウントによる写真付きの入荷告知ツイートのため、信頼性が非常に高い。",
+      "sourceUrl": "https://x.com/yuurakusya_02/status/2067562975456555134",
+      "sourceTweetId": "2067562975456555134",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2067562975456555134.png",
+      "isPosted": true,
+      "wpPostId": 9836,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-osaka-suminoe-osaka-2026-06-18/",
+      "postedAt": "2026-06-18T21:21:13.158+09:00"
     }
   ]
 }
