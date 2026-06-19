@@ -1,7 +1,7 @@
 {
   "date": "2026-06-19",
-  "updatedAt": "2026-06-19T17:29:23.946+09:00",
-  "count": 30,
+  "updatedAt": "2026-06-19T19:48:04.929+09:00",
+  "count": 33,
   "articles": [
     {
       "isSighting": true,
@@ -572,6 +572,63 @@
       "wpPostId": 9896,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-hokkaido-toyohira-sapporo-2026-06-19/",
       "postedAt": "2026-06-19T17:30:55.851+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "東京都",
+      "city": "渋谷区",
+      "shopName": "ボンボンドロップ ポップアップストア 渋谷",
+      "shopAddress": "東京都渋谷区（渋谷駅周辺の特設会場）",
+      "productName": "ボンボンドロップ",
+      "sightingTime": "2026-06-19 12:00頃",
+      "statusText": "在庫あり（混雑・棚に人が密集）",
+      "confidenceMemo": "店舗の混雑状況まで具体的に記載されており信頼性が高い",
+      "sourceUrl": "https://x.com/minana3000zxm7/status/2067912133342593039",
+      "sourceTweetId": "2067912133342593039",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2067912133342593039.png",
+      "isPosted": true,
+      "wpPostId": 9898,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-tokyo-shibuya-2026-06-19/",
+      "postedAt": "2026-06-19T19:48:10.996+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "静岡県",
+      "city": "浜松市",
+      "shopName": "ドリームカプセル 遠鉄百貨店",
+      "shopAddress": "静岡県浜松市中央区砂山町320-2 遠鉄百貨店",
+      "productName": "サンリオキャラクターズ ボンボンドロップミニチュアチャーム",
+      "sightingTime": "2026-06-19 09:18頃",
+      "statusText": "入荷（在庫あり）",
+      "confidenceMemo": "店舗公式アカウントによる入荷告知のため信頼性が極めて高い",
+      "sourceUrl": "https://x.com/drecap_entetsu/status/2067899927569822138",
+      "sourceTweetId": "2067899927569822138",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2067899927569822138.png",
+      "isPosted": true,
+      "wpPostId": 9900,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-shizuoka-hamamatsu-2026-06-19/",
+      "postedAt": "2026-06-19T19:48:17.395+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "鹿児島県",
+      "city": "鹿児島市",
+      "shopName": "ドリームカプセル SouthLabo（イオンモール鹿児島）",
+      "shopAddress": "鹿児島県鹿児島市東開町7 イオンモール鹿児島 3階",
+      "productName": "サンリオキャラクターズ ボンボンドロップミニチュアチャーム",
+      "sightingTime": "2026-06-19 08:46頃",
+      "statusText": "再入荷（在庫あり、回数制限あり）",
+      "confidenceMemo": "店舗公式アカウントによる再入荷告知であり、回数制限の具体的指示もあるため信頼性が高い",
+      "sourceUrl": "https://x.com/drecap_South/status/2067891741597090187",
+      "sourceTweetId": "2067891741597090187",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2067891741597090187.png",
+      "isPosted": true,
+      "wpPostId": 9902,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-kagoshima-kagoshima-2026-06-19/",
+      "postedAt": "2026-06-19T19:48:23.625+09:00"
     }
   ]
 }
