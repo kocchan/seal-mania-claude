@@ -1,7 +1,7 @@
 {
   "date": "2026-06-19",
-  "updatedAt": "2026-06-20T00:30:30.934+09:00",
-  "count": 41,
+  "updatedAt": "2026-06-20T07:01:43.251+09:00",
+  "count": 42,
   "articles": [
     {
       "isSighting": true,
@@ -781,6 +781,25 @@
       "wpPostId": 9918,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-saitama-koshigaya-2026-06-20/",
       "postedAt": "2026-06-20T00:30:38.270+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "東京都",
+      "city": "町田市",
+      "shopName": "原宿Picnic 町田ジョルナ店",
+      "shopAddress": "東京都町田市原町田6-6-14 町田ジョルナ内",
+      "productName": "ボンボンドロップシール、ボンボンドロップシール手帳",
+      "sightingTime": "2026-06-20 15:37頃",
+      "statusText": "在庫あり（大量入荷・イベント販売）",
+      "confidenceMemo": "店舗公式アカウントによる販売告知のため、非常に信頼性が高い。画像によるラインナップ確認も可能。",
+      "sourceUrl": "https://x.com/harajuku_picnic/status/2067995289647190350",
+      "sourceTweetId": "2067995289647190350",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2067995289647190350.png",
+      "isPosted": true,
+      "wpPostId": 9920,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-tokyo-machida-2026-06-20/",
+      "postedAt": "2026-06-20T07:01:49.322+09:00"
     }
   ]
 }
