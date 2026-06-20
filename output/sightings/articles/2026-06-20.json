@@ -1,7 +1,7 @@
 {
   "date": "2026-06-20",
-  "updatedAt": "2026-06-20T18:28:36.103+09:00",
-  "count": 71,
+  "updatedAt": "2026-06-20T20:14:14.016+09:00",
+  "count": 72,
   "articles": [
     {
       "isSighting": true,
@@ -1351,6 +1351,25 @@
       "wpPostId": 10195,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-tokyo-hino-2026-06-20/",
       "postedAt": "2026-06-20T18:29:43.337+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "東京都",
+      "city": "豊島区",
+      "shopName": "池袋の販売店舗（ちいかわ取扱店）",
+      "shopAddress": "東京都豊島区池袋",
+      "productName": "ボンボンドロップシール ちいかわ",
+      "sightingTime": "2026-06-20 09:48頃",
+      "statusText": "在庫あり（整理列あり）",
+      "confidenceMemo": "池袋にてスタッフが最後尾案内を行っている現場の目撃情報。ちいかわのボンボンドロップシールであることが明記されている。",
+      "sourceUrl": "https://x.com/le_matin_vient/status/2068269642809012371",
+      "sourceTweetId": "2068269642809012371",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2068269642809012371.png",
+      "isPosted": true,
+      "wpPostId": 10197,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-tokyo-toshima-2026-06-20/",
+      "postedAt": "2026-06-20T20:14:21.019+09:00"
     }
   ]
 }
