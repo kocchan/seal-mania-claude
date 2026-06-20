@@ -1,4 +1,7 @@
 ---
+postedAt: "2026-06-20T05:48:40.671Z"
+wpPostUrl: "https://www.seal-search.com/news/reservation/mofusand-tokyoeki-bonbondrop-202607/"
+wpPostId: 10101
 type: lottery
 status: draft
 title: "【6/22締切】ボンボンドロップシール抽選＠もふもふストア東京駅"
@@ -23,7 +26,7 @@ products:
     price: 550
 featuredImage: ""
 imageGenerated: true
-posted: false
+posted: true
 createdAt: "2026-06-20T10:15:00+09:00"
 updatedAt: "2026-06-20T10:15:00+09:00"
 ---
