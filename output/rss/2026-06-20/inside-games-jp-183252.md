@@ -1,0 +1,20 @@
+---
+source: rss
+url: "https://www.inside-games.jp/article/2026/06/19/183252.html"
+title: "「ボンボンドロップシール」オリジナル ミニ シリーズが6月下旬より再販予告！なないろ、よるねこなど全4種 | インサイド"
+siteName: "インサイド"
+publishedAt: "2026-06-19T12:43:17Z"
+fetchedAt: "2026-06-20T02:02:19.669Z"
+fetchMethod: axios
+ogImage: "https://www.inside-games.jp/imgs/ogp_f/1742468.jpg"
+description: "「ボンボンドロップシール」オリジナル ミニ シリーズが再販！6月下旬から順次出荷予定。"
+---
+
+## RSS要約
+
+品切れ中の「 ボンボンドロップシール 」オリジナル ミニ シリーズが再販されます。ラインナップは「めろめろボンボン」「よるねこボンボン」などを含む全4種です&nbsp;...
+
+## 本文HTML（サニタイズ済み）
+
+<html><head></head><body><figure class="ctms-editor-twitter"><blockquote class="twitter-tweet" data-conversation=""><a href="https://twitter.com/bonbon_drop/status/2065630241951998454"></a></blockquote></figure><p>ボンボンドロップシール公式X（旧Twitter）は、<b>「ボンボンドロップシール」</b>のオリジナル ミニ シリーズを再販すると予告しています。</p><h2>◆オリジナル ミニ シリーズ全4種が再販！</h2><p>品切れ中の「ボンボンドロップシール」オリジナル ミニ シリーズが再販されます。ラインナップは「めろめろボンボン」「よるねこボンボン」などを含む全4種です。</p><h3>■ボンボンドロップシール ミニ／めろめろボンボン</h3><figure class="ctms-editor-image"><img src="https://www.inside-games.jp/imgs/zoom/1742464.jpg" class="inline-article-image" width="550" height="550"></figure><h3>■ボンボンドロップシール ミニ／なないろボンボン</h3><figure class="ctms-editor-image"><img src="https://www.inside-games.jp/imgs/zoom/1742465.jpg" class="inline-article-image" width="550" height="550"></figure><h3>■ボンボンドロップシール ミニ／よるねこボンボン</h3><figure class="ctms-editor-image"><img src="https://www.inside-games.jp/imgs/zoom/1742466.jpg" class="inline-article-image" width="542" height="550"></figure><h3>■ボンボンドロップシール ミニ／ゆめいろボンボン</h3><figure class="ctms-editor-image"><img src="https://www.inside-games.jp/imgs/zoom/1742467.jpg" class="inline-article-image" width="542" height="550"></figure><hr><p>再販される「ボンボンドロップシール」オリジナル ミニ シリーズは6月下旬から順次出荷予定です。詳細は<a target="_blank" rel="noopener noreferrer" href="https://x.com/bonbon_drop/status/2065630241951998454">公式X</a>をご確認ください。</p><br><div class="af_box"><!-- start --><div class="af_list"><div class="af_box_left"><a href="https://www.amazon.co.jp/dp/B0DLKR7ZVS?tag=insidegames-22&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank"><img src="https://m.media-amazon.com/images/I/51otjIzjp3L._SL160_.jpg" class="af_box_image"></a></div><div class="af_box_right"><b><a href="https://www.amazon.co.jp/dp/B0DLKR7ZVS?tag=insidegames-22&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank">カミオジャパン サンリオキャラクターズ シールバインダー 集合 054706</a></b><br><b>￥935</b><br><span>(価格・在庫状況は記事公開時点のものです)</span><br><div class="af_box_link_amazon"><a href="https://www.amazon.co.jp/dp/B0DLKR7ZVS?tag=insidegames-22&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank">Amazon</a></div><div class="af_box_link_rakuten"><a href="https://hb.afl.rakuten.co.jp/hgc/0dfd5e9c.cb53a4b8.132b5a79.c657d846/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2582%25B7%25E3%2583%25BC%25E3%2583%25AB%25E5%25B8%25B3%25E3%2580%2580%25E3%2582%25B5%25E3%2583%25B3%25E3%2583%25AA%25E3%2582%25AA%2F" target="_blank">楽天市場</a></div></div></div><!-- //end --></div><div class="af_box"><!-- start --><div class="af_list"><div class="af_box_left"><a href="https://www.amazon.co.jp/dp/B0G33FXRNK?tag=insidegames-22&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank"><img src="https://m.media-amazon.com/images/I/41U8rq2p8QL._SL160_.jpg" class="af_box_image"></a></div><div class="af_box_right"><b><a href="https://www.amazon.co.jp/dp/B0G33FXRNK?tag=insidegames-22&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank">カミ307365 サンリオキャラクターズ シールバインダーサンリオ シート シール帳 ファイル 整理 ステッカー 文房具 雑貨 グッズ</a></b><br><b>￥859</b><br><span>(価格・在庫状況は記事公開時点のものです)</span><br><div class="af_box_link_amazon"><a href="https://www.amazon.co.jp/dp/B0G33FXRNK?tag=insidegames-22&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank">Amazon</a></div><div class="af_box_link_rakuten"><a href="https://hb.afl.rakuten.co.jp/hgc/0dfd5e9c.cb53a4b8.132b5a79.c657d846/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2582%25B7%25E3%2583%25BC%25E3%2583%25AB%25E5%25B8%25B3%25E3%2580%2580%25E3%2582%25B5%25E3%2583%25B3%25E3%2583%25AA%25E3%2582%25AA%2F" target="_blank">楽天市場</a></div></div></div><!-- //end --></div>
+</body></html>
