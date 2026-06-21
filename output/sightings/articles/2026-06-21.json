@@ -1,7 +1,7 @@
 {
   "date": "2026-06-21",
-  "updatedAt": "2026-06-21T16:29:41.267+09:00",
-  "count": 24,
+  "updatedAt": "2026-06-21T18:59:06.931+09:00",
+  "count": 26,
   "articles": [
     {
       "isSighting": true,
@@ -458,6 +458,44 @@
       "wpPostId": 10263,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-kanagawa-sagamihara-minami-2026-06-21/",
       "postedAt": "2026-06-21T16:30:15.121+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "神奈川県",
+      "city": "相模原市南区",
+      "shopName": "B-STOCK 相模大野店",
+      "shopAddress": "神奈川県相模原市南区相模大野3-2-1 相模大野ステーションスクエア B館 4F",
+      "productName": "ボンボンドロップシール サンリオmoji (ポムポムプリン/マイメロディ/ポチャッコ)",
+      "sightingTime": "2026-06-21 08:26頃",
+      "statusText": "入荷・在庫あり（1人各1枚・合計3枚までの購入制限あり）",
+      "confidenceMemo": "店舗公式アカウントによる入荷・販売情報の告知。レジ前での販売と詳細な個数制限があり、信頼性が極めて高い。",
+      "sourceUrl": "https://x.com/bstock_ohno/status/2068611524567150729",
+      "sourceTweetId": "2068611524567150729",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2068611524567150729.png",
+      "isPosted": true,
+      "wpPostId": 10265,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-kanagawa-sagamihara-minami-2026-06-21-2/",
+      "postedAt": "2026-06-21T18:59:14.143+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "大阪府",
+      "city": "吹田市",
+      "shopName": "ハンズ江坂店",
+      "shopAddress": "大阪府吹田市豊津町9-40",
+      "productName": "ボンボンドロップシール（お文具さんバージョン）",
+      "sightingTime": "2026-06-21 07:47頃",
+      "statusText": "在庫あり（並ばずに購入可能）",
+      "confidenceMemo": "江坂のハンズにて、お文具さんバージョンを「難なく買えた」との具体的な購入報告あり。",
+      "sourceUrl": "https://x.com/yaibayamana/status/2068601785011621975",
+      "sourceTweetId": "2068601785011621975",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2068601785011621975.png",
+      "isPosted": true,
+      "wpPostId": 10267,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-osaka-suita-2026-06-21/",
+      "postedAt": "2026-06-21T18:59:21.082+09:00"
     }
   ]
 }
