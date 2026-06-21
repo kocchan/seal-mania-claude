@@ -1,0 +1,20 @@
+---
+source: rss
+url: "https://www.inside-games.jp/article/2026/06/20/183287.html"
+title: "「ボンボンドロップシール」が公式抽選販売！お文具さんといっしょ、コジコジなど2商品1組の全4セット | インサイド"
+siteName: "インサイド"
+publishedAt: "2026-06-20T10:31:27Z"
+fetchedAt: "2026-06-21T02:14:29.489Z"
+fetchMethod: axios
+ogImage: "https://www.inside-games.jp/imgs/ogp_f/1745107.webp"
+description: "「ボンボンドロップシール」お文具さんといっしよ、コジコジ、お茶犬、ノンタンが公式抽選販売！6月21日23時59分まで応募受付中。"
+---
+
+## RSS要約
+
+「 ボンボンドロップシール 」お文具さんといっしよ、コジコジ、お茶犬、ノンタンが公式抽選販売！6月21日23時59分まで応募受付中。 フィギュア・グッズ グッズ.
+
+## 本文HTML（サニタイズ済み）
+
+<html><head></head><body><figure class="ctms-editor-twitter"><blockquote class="twitter-tweet" data-conversation=""><a href="https://twitter.com/bonbon_drop/status/2068166956998447218"></a></blockquote></figure><p>ボンボンドロップシール公式X（旧Twitter）は、<b>「ボンボンドロップシール」</b>の抽選販売を開始しました。</p><h2>◆「ボンボンドロップシール」お文具さんといっしよ、コジコジなどが公式抽選！</h2><p>「ボンボンドロップシール」お文具さんといっしよ、コジコジ、お茶犬、ノンタンについて、公式抽選販売の実施が決定しました。ラインナップは2商品1組の全4セットで、お一人様1セットの販売となります。</p><p>内容は、お文具さんといっしよセットが「お文具さん、みんな」、コジコジセットが「コジコジ、みんな」、お茶犬セットが「みんな、たべもの」、ノンタンセットが「ノンタン・タータン、もぐもぐ」です。価格は各1,100円（税込）です。</p><figure class="ctms-editor-image"><img src="https://www.inside-games.jp/imgs/zoom/1745103.jpg" class="inline-article-image" width="640" height="829"></figure><figure class="ctms-editor-image"><img src="https://www.inside-games.jp/imgs/zoom/1745104.jpg" class="inline-article-image" width="640" height="909"></figure><figure class="ctms-editor-image"><img src="https://www.inside-games.jp/imgs/zoom/1745105.jpg" class="inline-article-image" width="640" height="872"></figure><figure class="ctms-editor-image"><img src="https://www.inside-games.jp/imgs/zoom/1745106.jpg" class="inline-article-image" width="640" height="872"></figure><p>抽選販売申し込みフォームに必要事項を記入の上、送信することで応募完了となります。応募期間は6月20日12時～6月21日23時59分まで、発送時期は7月10日までの出荷を予定。詳細は<a target="_blank" rel="noopener noreferrer" href="https://x.com/bonbon_drop/status/2068166956998447218">公式X</a>及び<a target="_blank" rel="noopener noreferrer" href="https://t.co/72hubb8yxL">申し込みフォーム</a>をご確認ください。</p><br><div class="af_box"><!-- start --><div class="af_list"><div class="af_box_left"><a href="https://www.amazon.co.jp/dp/B0D9B5RYMH?tag=insidegames-22&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank"><img src="https://m.media-amazon.com/images/I/51MJrVs4kTL._SL160_.jpg" class="af_box_image"></a></div><div class="af_box_right"><b><a href="https://www.amazon.co.jp/dp/B0D9B5RYMH?tag=insidegames-22&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank">お文具といっしょ バスボール ひのきのかおり 75g 1回分</a></b><br><b>￥551</b><br><span>(価格・在庫状況は記事公開時点のものです)</span><br><div class="af_box_link_amazon"><a href="https://www.amazon.co.jp/dp/B0D9B5RYMH?tag=insidegames-22&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank">Amazon</a></div><div class="af_box_link_rakuten"><a href="https://hb.afl.rakuten.co.jp/hgc/0dfd5e9c.cb53a4b8.132b5a79.c657d846/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2581%258A%25E6%2596%2587%25E5%2585%25B7%25E3%2581%2595%25E3%2582%2593%2F" target="_blank">楽天市場</a></div></div></div><!-- //end --></div><div class="af_box"><!-- start --><div class="af_list"><div class="af_box_left"><a href="https://www.amazon.co.jp/dp/B0DQTYY96W?tag=insidegames-22&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank"><img src="https://m.media-amazon.com/images/I/41MbVLhFoTL._SL160_.jpg" class="af_box_image"></a></div><div class="af_box_right"><b><a href="https://www.amazon.co.jp/dp/B0DQTYY96W?tag=insidegames-22&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank">ティーズファクトリー お文具といっしょ３チャームキーホルダー おしり H37×W30×D3mm OB-5546526SR</a></b><br><b>￥968</b><br><span>(価格・在庫状況は記事公開時点のものです)</span><br><div class="af_box_link_amazon"><a href="https://www.amazon.co.jp/dp/B0DQTYY96W?tag=insidegames-22&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank">Amazon</a></div><div class="af_box_link_rakuten"><a href="https://hb.afl.rakuten.co.jp/hgc/0dfd5e9c.cb53a4b8.132b5a79.c657d846/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2581%258A%25E6%2596%2587%25E5%2585%25B7%25E3%2581%2595%25E3%2582%2593%2F" target="_blank">楽天市場</a></div></div></div><!-- //end --></div>
+</body></html>
