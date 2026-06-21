@@ -1,4 +1,7 @@
 ---
+postedAt: "2026-06-21T06:22:32.939Z"
+wpPostUrl: "https://www.seal-search.com/news/reservation/umeda-loft-okimu-202606/"
+wpPostId: 10253
 type: lottery
 status: draft
 title: "【6/22締切】お文具といっしょ抽選＠梅田ロフト"
@@ -23,7 +26,7 @@ products:
     price: 550
 featuredImage: ""
 imageGenerated: true
-posted: false
+posted: true
 createdAt: "2026-06-21T10:11:00+09:00"
 updatedAt: "2026-06-21T10:11:00+09:00"
 ---

@@ -1,4 +1,7 @@
 ---
+postedAt: "2026-06-21T06:22:08.471Z"
+wpPostUrl: "https://www.seal-search.com/news/reservation/partyrico-kameari-202606/"
+wpPostId: 10247
 type: lottery
 status: draft
 title: "【6/22締切】ボンドロ新作抽選＠パーティリコ亀有"
@@ -20,7 +23,7 @@ products:
     price: 550
 featuredImage: ""
 imageGenerated: true
-posted: false
+posted: true
 createdAt: "2026-06-21T10:11:00+09:00"
 updatedAt: "2026-06-21T10:11:00+09:00"
 ---
