@@ -1,7 +1,7 @@
 {
   "date": "2026-06-21",
-  "updatedAt": "2026-06-21T18:59:06.931+09:00",
-  "count": 26,
+  "updatedAt": "2026-06-22T07:10:33.467+09:00",
+  "count": 27,
   "articles": [
     {
       "isSighting": true,
@@ -496,6 +496,25 @@
       "wpPostId": 10267,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-osaka-suita-2026-06-21/",
       "postedAt": "2026-06-21T18:59:21.082+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "奈良県",
+      "city": "生駒郡斑鳩町",
+      "shopName": "法隆寺門前のお土産店",
+      "shopAddress": "奈良県生駒郡斑鳩町法隆寺1丁目付近",
+      "productName": "ボンボンドロップシール",
+      "sightingTime": "2026-06-22 18:34頃",
+      "statusText": "在庫あり（販売価格700円）",
+      "confidenceMemo": "「法隆寺の手前にあるお土産屋さん」という具体的な場所の記述があり、写真付きの投稿であるため信頼性が高い。",
+      "sourceUrl": "https://x.com/jackdaniel758/status/2068764527035077073",
+      "sourceTweetId": "2068764527035077073",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2068764527035077073.png",
+      "isPosted": true,
+      "wpPostId": 10269,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-nara-ikaruga-ikoma-district-2026-06-22/",
+      "postedAt": "2026-06-22T07:10:41.311+09:00"
     }
   ]
 }
