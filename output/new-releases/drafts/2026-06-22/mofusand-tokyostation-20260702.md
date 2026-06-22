@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-06-22T06:44:30.215Z"
+wpPostUrl: "https://www.seal-search.com/news/new-item/mofusand-tokyostation-20260702/"
+wpPostId: 10295
+posted: true
 imageGenerated: true
 type: lottery
 status: draft

@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-06-22T06:44:39.562Z"
+wpPostUrl: "https://www.seal-search.com/news/new-item/narumiya-bonbondrop-lumine-shinjuku-20260701/"
+wpPostId: 10297
+posted: true
 imageGenerated: true
 type: lottery
 status: draft
