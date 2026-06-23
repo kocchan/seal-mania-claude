@@ -1,6 +1,9 @@
 ---
+postedAt: "2026-06-23T05:34:41.649Z"
+wpPostUrl: "https://www.seal-search.com/news/new-item/kichijoji-loft-bonbondrop-20260628/"
+wpPostId: 10369
 imageGenerated: true
-posted: false
+posted: true
 type: lottery
 status: draft
 title: "【6/23締切】ボンボンドロップシールA 抽選整理券@吉祥寺ロフト（6/28販売）"

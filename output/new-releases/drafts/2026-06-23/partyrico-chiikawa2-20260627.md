@@ -1,6 +1,9 @@
 ---
+postedAt: "2026-06-23T05:34:50.635Z"
+wpPostUrl: "https://www.seal-search.com/news/new-item/partyrico-chiikawa2-20260627/"
+wpPostId: 10371
 imageGenerated: true
-posted: false
+posted: true
 type: lottery
 status: draft
 title: "【6/23締切】ちいかわ第2弾ボンドロ抽選@パーティリコ幕張・仙台・いわき（6/27〜6/29販売）"
