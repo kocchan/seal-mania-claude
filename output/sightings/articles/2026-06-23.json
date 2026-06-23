@@ -1,7 +1,7 @@
 {
   "date": "2026-06-23",
-  "updatedAt": "2026-06-23T18:55:09.033+09:00",
-  "count": 33,
+  "updatedAt": "2026-06-23T20:57:08.586+09:00",
+  "count": 34,
   "articles": [
     {
       "isSighting": true,
@@ -629,6 +629,25 @@
       "wpPostId": 10403,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-tokyo-machida-2026-06-27/",
       "postedAt": "2026-06-23T18:56:07.486+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "埼玉県",
+      "city": "越谷市",
+      "shopName": "ちいかわらんど 越谷レイクタウン店",
+      "shopAddress": "埼玉県越谷市レイクタウン4丁目2番地2 イオンレイクタウンkaze 2F",
+      "productName": "ボンボンドロップ",
+      "sightingTime": "2026-06-23 10:45頃",
+      "statusText": "入荷情報あり（オープン記念）",
+      "confidenceMemo": "新店オープンに伴う公式の入荷・告知情報のため信頼性が高い",
+      "sourceUrl": "https://x.com/xjapan0827/status/2069371379166986450",
+      "sourceTweetId": "2069371379166986450",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2069371379166986450.png",
+      "isPosted": true,
+      "wpPostId": 10405,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-saitama-koshigaya-2026-06-23/",
+      "postedAt": "2026-06-23T20:57:15.002+09:00"
     }
   ]
 }
