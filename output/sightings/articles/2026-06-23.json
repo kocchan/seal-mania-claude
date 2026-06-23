@@ -1,7 +1,7 @@
 {
   "date": "2026-06-23",
-  "updatedAt": "2026-06-23T20:57:08.586+09:00",
-  "count": 34,
+  "updatedAt": "2026-06-24T00:14:14.915+09:00",
+  "count": 35,
   "articles": [
     {
       "isSighting": true,
@@ -648,6 +648,25 @@
       "wpPostId": 10405,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-saitama-koshigaya-2026-06-23/",
       "postedAt": "2026-06-23T20:57:15.002+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "埼玉県",
+      "city": "上尾市",
+      "shopName": "bepop アリオ上尾店",
+      "shopAddress": "埼玉県上尾市壱丁目367 アリオ上尾",
+      "productName": "ボンボンドロップシール（うるちゅる）",
+      "sightingTime": "2026-06-21",
+      "statusText": "6月21日入荷（事後報告のため在庫状況は要確認）",
+      "confidenceMemo": "店舗公式アカウントによる写真付き入荷報告",
+      "sourceUrl": "https://x.com/ario_bepop/status/2069400745435333085",
+      "sourceTweetId": "2069400745435333085",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2069400745435333085.png",
+      "isPosted": true,
+      "wpPostId": 10407,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-saitama-ageo-2026-06-21/",
+      "postedAt": "2026-06-24T00:14:21.731+09:00"
     }
   ]
 }
