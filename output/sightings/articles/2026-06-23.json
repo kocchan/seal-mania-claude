@@ -1,7 +1,7 @@
 {
   "date": "2026-06-23",
-  "updatedAt": "2026-06-24T00:14:14.915+09:00",
-  "count": 35,
+  "updatedAt": "2026-06-24T07:09:45.930+09:00",
+  "count": 36,
   "articles": [
     {
       "isSighting": true,
@@ -667,6 +667,25 @@
       "wpPostId": 10407,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-saitama-ageo-2026-06-21/",
       "postedAt": "2026-06-24T00:14:21.731+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "群馬県",
+      "city": "前橋市",
+      "shopName": "くぅぶんぐ",
+      "shopAddress": "群馬県前橋市問屋町2-10-1",
+      "productName": "ボンボンドロップシール（リラックマ、ナルミヤキャラクターズ、ちいかわ）",
+      "sightingTime": "2026-06-24 15:48頃",
+      "statusText": "入荷予定（メルマガ会員先行販売）",
+      "confidenceMemo": "文房具店公式アカウントによる入荷告知。店舗名から住所を特定。",
+      "sourceUrl": "https://x.com/kuu_bung/status/2069447570422981068",
+      "sourceTweetId": "2069447570422981068",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2069447570422981068.png",
+      "isPosted": true,
+      "wpPostId": 10409,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-gunma-maebashi-2026-06-24/",
+      "postedAt": "2026-06-24T07:09:54.032+09:00"
     }
   ]
 }
