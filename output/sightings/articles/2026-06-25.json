@@ -1,7 +1,7 @@
 {
   "date": "2026-06-25",
-  "updatedAt": "2026-06-25T18:34:38.184+09:00",
-  "count": 21,
+  "updatedAt": "2026-06-25T20:38:56.552+09:00",
+  "count": 24,
   "articles": [
     {
       "isSighting": true,
@@ -401,6 +401,63 @@
       "wpPostId": 10545,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-aichi-nishio-2026-06-25/",
       "postedAt": "2026-06-25T18:35:06.971+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "北海道",
+      "city": "旭川市",
+      "shopName": "GiGO メガセンタートライアル旭川",
+      "shopAddress": "北海道旭川市上常盤町1丁目 メガセンタートライアル旭川内",
+      "productName": "ＴＷＩＣＥ ＬＯＶＥＬＹＳ うるちゅるシールｍｉｎｉ",
+      "sightingTime": "2026-06-27 入荷予定",
+      "statusText": "2026年6月27日に入荷予定",
+      "confidenceMemo": "店舗公式アカウントによる入荷予告ツイート",
+      "sourceUrl": "https://x.com/GiGO_Asahikawa/status/2070099693796000077",
+      "sourceTweetId": "2070099693796000077",
+      "isPrediction": true,
+      "imagePath": "output/sightings/images/2070099693796000077.png",
+      "isPosted": true,
+      "wpPostId": 10547,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-hokkaido-asahikawa-2026-06-27-3/",
+      "postedAt": "2026-06-25T20:39:03.384+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "北海道",
+      "city": "函館市",
+      "shopName": "GiGO 函館昭和",
+      "shopAddress": "北海道函館市昭和3丁目24-18",
+      "productName": "TWICE LOVELYS うるちゅるシールmini",
+      "sightingTime": "2026-06-27 入荷予定",
+      "statusText": "2026年6月27日に入荷予定",
+      "confidenceMemo": "店舗公式アカウントによる入荷予告ツイート",
+      "sourceUrl": "https://x.com/GiGO_Showa/status/2070081950442995872",
+      "sourceTweetId": "2070081950442995872",
+      "isPrediction": true,
+      "imagePath": "output/sightings/images/2070081950442995872.png",
+      "isPosted": true,
+      "wpPostId": 10549,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-hokkaido-hakodate-2026-06-27-3/",
+      "postedAt": "2026-06-25T20:39:10.475+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "愛知県",
+      "city": "名古屋市中区",
+      "shopName": "セブンイレブン名古屋金山駅西店",
+      "shopAddress": "愛知県名古屋市中区金山1-11-10",
+      "productName": "うるちゅるポップシール サンリオキャラクターズ",
+      "sightingTime": "2026-06-25 09:34頃",
+      "statusText": "在庫あり（大量入荷）",
+      "confidenceMemo": "店舗公式アカウントによる入荷完了報告。ベビーデザインのサンリオキャラクターズ。",
+      "sourceUrl": "https://x.com/711_Kanayama_w/status/2070078067746480478",
+      "sourceTweetId": "2070078067746480478",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2070078067746480478.png",
+      "isPosted": true,
+      "wpPostId": 10551,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-aichi-naka-nagoya-2026-06-25/",
+      "postedAt": "2026-06-25T20:39:17.327+09:00"
     }
   ]
 }
