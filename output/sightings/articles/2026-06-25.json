@@ -1,7 +1,7 @@
 {
   "date": "2026-06-25",
-  "updatedAt": "2026-06-25T20:38:56.552+09:00",
-  "count": 24,
+  "updatedAt": "2026-06-25T23:42:31.701+09:00",
+  "count": 26,
   "articles": [
     {
       "isSighting": true,
@@ -458,6 +458,44 @@
       "wpPostId": 10551,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-aichi-naka-nagoya-2026-06-25/",
       "postedAt": "2026-06-25T20:39:17.327+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "愛知県",
+      "city": "海部郡蟹江町",
+      "shopName": "イオンタウン蟹江",
+      "shopAddress": "愛知県海部郡蟹江町蟹江新田道附161",
+      "productName": "ボンボンドロップシール",
+      "sightingTime": "2026-06-25 13:32頃",
+      "statusText": "在庫あり。キャラクターではない通常デザインは比較的入手しやすい状態。",
+      "confidenceMemo": "投稿者の地域情報および店舗名の記載があり、購入報告のため信頼性が高い。",
+      "sourceUrl": "https://x.com/sea_zoo_cafe/status/2070137968871064007",
+      "sourceTweetId": "2070137968871064007",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2070137968871064007.png",
+      "isPosted": true,
+      "wpPostId": 10553,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-aichi-kanie-ama-district-2026-06-25/",
+      "postedAt": "2026-06-25T23:42:38.914+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "北海道",
+      "city": "札幌市手稲区",
+      "shopName": "GiGOイオン札幌手稲",
+      "shopAddress": "北海道札幌市手稲区前田1条11-1-1 イオン札幌手稲ショッピングセンター内",
+      "productName": "TWICE LOVELYS うるちゅルシールミニ",
+      "sightingTime": "2026-06-27",
+      "statusText": "2026年6月27日より限定景品として入荷予定",
+      "confidenceMemo": "店舗公式アカウントによる入荷告知情報。商品はボンドロと同ジャンルの「うるちゅるシール」。",
+      "sourceUrl": "https://x.com/GiGO_Teine/status/2070122644259897539",
+      "sourceTweetId": "2070122644259897539",
+      "isPrediction": true,
+      "imagePath": "output/sightings/images/2070122644259897539.png",
+      "isPosted": true,
+      "wpPostId": 10555,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-hokkaido-teine-sapporo-2026-06-27-3/",
+      "postedAt": "2026-06-25T23:42:46.739+09:00"
     }
   ]
 }
