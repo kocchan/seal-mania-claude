@@ -1,7 +1,7 @@
 {
   "date": "2026-06-26",
-  "updatedAt": "2026-06-26T18:39:55.327+09:00",
-  "count": 47,
+  "updatedAt": "2026-06-26T20:43:26.018+09:00",
+  "count": 50,
   "articles": [
     {
       "isSighting": true,
@@ -895,6 +895,63 @@
       "wpPostId": 10651,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-tokyo-akishima-2026-06-26/",
       "postedAt": "2026-06-26T18:41:57.782+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "三重県",
+      "city": "鳥羽市",
+      "shopName": "鳥羽水族館",
+      "shopAddress": "三重県鳥羽市鳥羽3-3-6",
+      "productName": "ボンボンドロップシール（深海魚、くらげ、ペンギンなど）",
+      "sightingTime": "2026-06-26 19:48頃",
+      "statusText": "在庫あり（深海魚シリーズなどを購入）",
+      "confidenceMemo": "館内での購入報告であり、具体的な種類への言及もあるため信頼性が高い。",
+      "sourceUrl": "https://x.com/cafe_paradise_C/status/2070459220957556781",
+      "sourceTweetId": "2070459220957556781",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2070459220957556781.png",
+      "isPosted": true,
+      "wpPostId": 10653,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-mie-toba-2026-06-26/",
+      "postedAt": "2026-06-26T20:43:33.538+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "福岡県",
+      "city": "福岡市早良区",
+      "shopName": "ワンダーランド西新店",
+      "shopAddress": "福岡県福岡市早良区西新4-1-1",
+      "productName": "ボンボンドロップシール",
+      "sightingTime": "2026-06-27 10:00予定",
+      "statusText": "2026年6月27日(土)10:00より入荷予定（数量限定）",
+      "confidenceMemo": "店舗公式アカウントによる入荷告知のため、信頼性が非常に高い。",
+      "sourceUrl": "https://x.com/wl_nishijin/status/2070464841744343211",
+      "sourceTweetId": "2070464841744343211",
+      "isPrediction": true,
+      "imagePath": "output/sightings/images/2070464841744343211.png",
+      "isPosted": true,
+      "wpPostId": 10655,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-fukuoka-sawara-fukuoka-2026-06-27/",
+      "postedAt": "2026-06-26T20:43:40.928+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "富山県",
+      "city": "高岡市",
+      "shopName": "雑多貨屋",
+      "shopAddress": "富山県高岡市本町3-11",
+      "productName": "ボンボンドロップシール（ちょこみんボンボン／まじょねこボンボン）",
+      "sightingTime": "2026-06-28 12:00予定",
+      "statusText": "6/28(日) 12:00より販売開始予定（少量入荷・お一人様1点限り）",
+      "confidenceMemo": "店舗公式アカウントによる入荷・販売告知。具体的な種類と販売条件の記載あり。",
+      "sourceUrl": "https://x.com/zattakaya_shop/status/2070453685134704807",
+      "sourceTweetId": "2070453685134704807",
+      "isPrediction": true,
+      "imagePath": "output/sightings/images/2070453685134704807.png",
+      "isPosted": true,
+      "wpPostId": 10657,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-toyama-takaoka-2026-06-28/",
+      "postedAt": "2026-06-26T20:43:48.435+09:00"
     }
   ]
 }
