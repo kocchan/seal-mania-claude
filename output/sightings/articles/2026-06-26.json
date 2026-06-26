@@ -1,7 +1,7 @@
 {
   "date": "2026-06-26",
-  "updatedAt": "2026-06-26T20:43:26.018+09:00",
-  "count": 50,
+  "updatedAt": "2026-06-26T23:35:13.319+09:00",
+  "count": 53,
   "articles": [
     {
       "isSighting": true,
@@ -952,6 +952,63 @@
       "wpPostId": 10657,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-toyama-takaoka-2026-06-28/",
       "postedAt": "2026-06-26T20:43:48.435+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "宮城県",
+      "city": "仙台市",
+      "shopName": "ボンボンドロップシール ポップアップストア 仙台",
+      "shopAddress": "宮城県仙台市内（ポップアップストア会場）",
+      "productName": "ボンボンドロップシール（モフサンド等）",
+      "sightingTime": "2026-06-26 12:15頃",
+      "statusText": "モフサンドは完売。その他在庫はあるが補充待ちの可能性あり。",
+      "confidenceMemo": "ポップアップストア初日の開催に伴う具体的な売り切れ情報の投稿",
+      "sourceUrl": "https://x.com/GranSmart3037/status/2070480988107628671",
+      "sourceTweetId": "2070480988107628671",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2070480988107628671.png",
+      "isPosted": true,
+      "wpPostId": 10659,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-miyagi-sendai-2026-06-26/",
+      "postedAt": "2026-06-26T23:35:20.823+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "香川県",
+      "city": "高松市",
+      "shopName": "Element",
+      "shopAddress": "香川県高松市北浜町4-10 北浜アリー内",
+      "productName": "うるちゅるポップシール",
+      "sightingTime": "2026-06-26 12:23",
+      "statusText": "2026年6月27日よりハッピーバッグとして数量限定販売（入荷済み）",
+      "confidenceMemo": "店舗公式アカウントによる入荷・販売告知。内容物確定の情報。",
+      "sourceUrl": "https://x.com/element5429/status/2070483069128347983",
+      "sourceTweetId": "2070483069128347983",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2070483069128347983.png",
+      "isPosted": true,
+      "wpPostId": 10661,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-kagawa-takamatsu-2026-06-26/",
+      "postedAt": "2026-06-26T23:35:27.848+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "大阪府",
+      "city": "和泉市",
+      "shopName": "GiGO和泉",
+      "shopAddress": "大阪府和泉市府中町1-2-1",
+      "productName": "ＴＷＩＣＥ　ＬＯＶＥＬＹＳうるちゅるシールｍｉｎｉ ~ＧｉＧＯ限定~",
+      "sightingTime": "2026-06-26 12:42",
+      "statusText": "2026年6月27日よりプライズ機にて稼働開始（入荷済み）",
+      "confidenceMemo": "店舗公式アカウントによる景品入荷・稼働告知。",
+      "sourceUrl": "https://x.com/GiGO_Izumifuchu/status/2070487896487059690",
+      "sourceTweetId": "2070487896487059690",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2070487896487059690.png",
+      "isPosted": true,
+      "wpPostId": 10663,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-osaka-izumi-2026-06-26/",
+      "postedAt": "2026-06-26T23:35:35.321+09:00"
     }
   ]
 }
