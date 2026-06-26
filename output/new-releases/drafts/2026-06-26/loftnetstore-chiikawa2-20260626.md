@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-06-26T05:42:11.052Z"
+wpPostUrl: "https://www.seal-search.com/news/new-item/loftnetstore-chiikawa2-20260626/"
+wpPostId: 10599
+posted: true
 imageGenerated: true
 type: lottery
 status: draft
