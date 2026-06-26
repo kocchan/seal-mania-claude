@@ -1,7 +1,7 @@
 {
   "date": "2026-06-26",
-  "updatedAt": "2026-06-26T23:35:13.319+09:00",
-  "count": 53,
+  "updatedAt": "2026-06-27T07:10:47.374+09:00",
+  "count": 54,
   "articles": [
     {
       "isSighting": true,
@@ -1009,6 +1009,25 @@
       "wpPostId": 10663,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-osaka-izumi-2026-06-26/",
       "postedAt": "2026-06-26T23:35:35.321+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "山梨県",
+      "city": "甲斐市",
+      "shopName": "万代書店山梨本店",
+      "shopAddress": "山梨県甲斐市西八幡4415",
+      "productName": "うるちゅるPOPシールminiキーホルダー",
+      "sightingTime": "2026-06-27 14:40頃",
+      "statusText": "入荷（在庫あり）",
+      "confidenceMemo": "店舗公式アカウント（万代書店山梨本店 アミューズコーナー）による入荷情報",
+      "sourceUrl": "https://x.com/amnekomandai/status/2070517667719770302",
+      "sourceTweetId": "2070517667719770302",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2070517667719770302.png",
+      "isPosted": true,
+      "wpPostId": 10665,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-yamanashi-kai-2026-06-27/",
+      "postedAt": "2026-06-27T07:10:55.474+09:00"
     }
   ]
 }
