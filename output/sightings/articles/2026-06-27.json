@@ -1,7 +1,7 @@
 {
   "date": "2026-06-27",
-  "updatedAt": "2026-06-27T17:45:36.094+09:00",
-  "count": 42,
+  "updatedAt": "2026-06-27T19:56:08.305+09:00",
+  "count": 45,
   "articles": [
     {
       "isSighting": true,
@@ -800,6 +800,63 @@
       "wpPostId": 10927,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-kanagawa-sagamihara-minami-2026-06-27-4/",
       "postedAt": "2026-06-27T17:45:43.217+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "神奈川県",
+      "city": "相模原市",
+      "shopName": "B-STOCK 相模大野店",
+      "shopAddress": "神奈川県相模原市南区相模大野3-8-1 相模大野ステーションスクエア B館4F",
+      "productName": "BONBON DROPおそろいキーチャーム",
+      "sightingTime": "2026-06-27 19:50頃",
+      "statusText": "入荷（お一人様一種につき一点まで）",
+      "confidenceMemo": "店舗公式アカウントによる入荷情報",
+      "sourceUrl": "https://x.com/bstock_ohno/status/2070822222600732912",
+      "sourceTweetId": "2070822222600732912",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2070822222600732912.png",
+      "isPosted": true,
+      "wpPostId": 10929,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-kanagawa-sagamihara-2026-06-27-3/",
+      "postedAt": "2026-06-27T19:56:15.578+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "宮城県",
+      "city": "仙台市",
+      "shopName": "仙台駅前 E BeanS（イービーンズ）",
+      "shopAddress": "宮城県仙台市青葉区中央4-1-1",
+      "productName": "ボンボンドロップシール",
+      "sightingTime": "2026-06-27 19:47頃",
+      "statusText": "在庫あり（一部売り切れ）",
+      "confidenceMemo": "POPUPストアでの購入報告",
+      "sourceUrl": "https://x.com/pe_no_tsuma/status/2070821380111945871",
+      "sourceTweetId": "2070821380111945871",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2070821380111945871.png",
+      "isPosted": true,
+      "wpPostId": 10931,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-miyagi-sendai-2026-06-27/",
+      "postedAt": "2026-06-27T19:56:22.796+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "福岡県",
+      "city": "糟屋郡篠栗町",
+      "shopName": "若杉の湯",
+      "shopAddress": "福岡県糟屋郡篠栗町若杉679",
+      "productName": "ぷっくりシール（カキ）",
+      "sightingTime": "2026-06-27 18:57頃",
+      "statusText": "在庫あり",
+      "confidenceMemo": "現地での購入報告および写真あり",
+      "sourceUrl": "https://x.com/chikushilvania/status/2070808869463630282",
+      "sourceTweetId": "2070808869463630282",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2070808869463630282.png",
+      "isPosted": true,
+      "wpPostId": 10933,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-fukuoka-sasaguri-kasuya-district-2026-06-27/",
+      "postedAt": "2026-06-27T19:56:30.123+09:00"
     }
   ]
 }
