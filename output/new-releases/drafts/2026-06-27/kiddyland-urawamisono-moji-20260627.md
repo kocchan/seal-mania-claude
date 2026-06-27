@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-06-27T05:08:03.824Z"
+wpPostUrl: "https://www.seal-search.com/news/new-item/kiddyland-urawamisono-moji-20260627/"
+wpPostId: 10770
+posted: true
 imageGenerated: true
 type: lottery
 status: draft
