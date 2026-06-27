@@ -1,7 +1,7 @@
 {
   "date": "2026-06-27",
-  "updatedAt": "2026-06-27T19:56:08.305+09:00",
-  "count": 45,
+  "updatedAt": "2026-06-27T22:54:46.474+09:00",
+  "count": 48,
   "articles": [
     {
       "isSighting": true,
@@ -857,6 +857,63 @@
       "wpPostId": 10933,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-fukuoka-sasaguri-kasuya-district-2026-06-27/",
       "postedAt": "2026-06-27T19:56:30.123+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "愛知県",
+      "city": "名古屋市",
+      "shopName": "ハンズ 名古屋店",
+      "shopAddress": "愛知県名古屋市中村区名駅1-1-4 ジェイアール名古屋タカシマヤ内",
+      "productName": "ボンボンドロップシール アルファベットシナモン",
+      "sightingTime": "2026-06-27 12:00頃",
+      "statusText": "在庫あり（購入報告）",
+      "confidenceMemo": "名古屋遠征時の購入報告、写真付きで信頼性が高い",
+      "sourceUrl": "https://x.com/__nenecoco/status/2070840037986693257",
+      "sourceTweetId": "2070840037986693257",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2070840037986693257.png",
+      "isPosted": true,
+      "wpPostId": 10935,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-aichi-nagoya-2026-06-27/",
+      "postedAt": "2026-06-27T22:54:54.509+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "東京都",
+      "city": "千代田区",
+      "shopName": "HOBBY SHOPあんこう AKIHABARA店",
+      "shopAddress": "東京都千代田区外神田3-14-7",
+      "productName": "ボンボンドロップシール（3〜5枚入り確定セット）",
+      "sightingTime": "2026-06-27 11:18",
+      "statusText": "在庫あり（数量限定販売）",
+      "confidenceMemo": "店舗公式アカウントによる販売告知",
+      "sourceUrl": "https://x.com/hobby_anko_akb/status/2070829091838890079",
+      "sourceTweetId": "2070829091838890079",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2070829091838890079.png",
+      "isPosted": true,
+      "wpPostId": 10937,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-tokyo-chiyoda-2026-06-27-3/",
+      "postedAt": "2026-06-27T22:55:02.045+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "福岡県",
+      "city": "福岡市早良区",
+      "shopName": "ワンダーランド西新店",
+      "shopAddress": "福岡県福岡市早良区西新4-1-1",
+      "productName": "ボンボンドロップシール",
+      "sightingTime": "2026-06-28 10:00頃（予定）",
+      "statusText": "入荷予定（数に限りあり）",
+      "confidenceMemo": "店舗公式アカウントによる入荷予告ツイート",
+      "sourceUrl": "https://x.com/wl_nishijin/status/2070827229303672837",
+      "sourceTweetId": "2070827229303672837",
+      "isPrediction": true,
+      "imagePath": "output/sightings/images/2070827229303672837.png",
+      "isPosted": true,
+      "wpPostId": 10939,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-fukuoka-sawara-fukuoka-2026-06-28/",
+      "postedAt": "2026-06-27T22:55:09.142+09:00"
     }
   ]
 }
