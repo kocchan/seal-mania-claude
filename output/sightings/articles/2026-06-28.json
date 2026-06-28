@@ -1,7 +1,7 @@
 {
   "date": "2026-06-28",
-  "updatedAt": "2026-06-28T18:20:22.621+09:00",
-  "count": 24,
+  "updatedAt": "2026-06-28T20:04:07.126+09:00",
+  "count": 26,
   "articles": [
     {
       "isSighting": true,
@@ -458,6 +458,44 @@
       "wpPostId": 10987,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-hiroshima-nishi-hiroshima-2026-06-18/",
       "postedAt": "2026-06-28T18:20:50.345+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "静岡県",
+      "city": "静岡市",
+      "shopName": "オオイシ文具店",
+      "shopAddress": "静岡県静岡市葵区宮ケ崎町21",
+      "productName": "サンスター ボンボンドロップシール ナルミヤキャラクターズ（メゾピアノ、ポンポネット）",
+      "sightingTime": "2026-06-28 19:07頃",
+      "statusText": "極少入荷、販売開始（1家族1枚の購入制限あり）",
+      "confidenceMemo": "店舗公式アカウントによる詳細な入荷・販売告知",
+      "sourceUrl": "https://x.com/ooishibungu/status/2071173511003967839",
+      "sourceTweetId": "2071173511003967839",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2071173511003967839.png",
+      "isPosted": true,
+      "wpPostId": 10989,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-shizuoka-shizuoka-2026-06-28-2/",
+      "postedAt": "2026-06-28T20:04:15.158+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "福岡県",
+      "city": "福岡市早良区",
+      "shopName": "スマイルステーション野芥店",
+      "shopAddress": "福岡県福岡市早良区野芥4丁目45-55",
+      "productName": "TWICE LOVELYS うるちゅるシールミニ",
+      "sightingTime": "2026-06-28 09:29頃",
+      "statusText": "入荷（在庫あり）",
+      "confidenceMemo": "店舗公式アカウントによる入荷情報で信頼性が非常に高い。ハッシュタグに福岡と記載あり。",
+      "sourceUrl": "https://x.com/smile_noke/status/2071164029998112992",
+      "sourceTweetId": "2071164029998112992",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2071164029998112992.png",
+      "isPosted": true,
+      "wpPostId": 10991,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-fukuoka-sawara-fukuoka-2026-06-28-2/",
+      "postedAt": "2026-06-28T20:04:22.574+09:00"
     }
   ]
 }
