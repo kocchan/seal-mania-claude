@@ -1,8 +1,8 @@
 {
-  "timestamp": "2026-06-28T04:01:08.227Z",
+  "timestamp": "2026-06-28T06:58:48.564Z",
   "source": "yahoo_realtime",
   "platform": "x",
-  "count": 106,
+  "count": 143,
   "data": [
     {
       "tweetId": "2070621575074980241",
@@ -1707,6 +1707,614 @@
       "images": [
         "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i5e72TLbER0xQeK1l8ZZ0OLvAwj2Fzvf07N-q_gY_iPG9a4GAaTK2O8Y3pHaLnHrAF8tfJ-ChJyZA4x7SY5yFUGid1wHhgn-yJdibj-CpnLeHZleEM91AAvKHX8RkAvqGkxTA87JQ80WFn8-UcNDOURevtZsjmCUxBTfSxKPXUkZqBnQu0Bl198uJkrkF7lwuy_4oHdwqz5haIp01hK-5cT",
         "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i6hjVpND1OjWZ7RVcmujne-hA-GMgsKW4q0On3rMg-FmoXGzFlGJE-pinH8CebLb5tioI1HQx6d7jQd8HBqFna9BCa04ZOIhVZaD1oZCzVCBhRt8dGk2N9M_Bl3jfz2hJdjPgUzhD3ylbZ5UJB5G0N2QOA6ccH1RKDoh7qBvOe_5g=="
+      ],
+      "isProcessed": true,
+      "_filepath": "output/sightings/raw/yahoo-2026-06-28.json"
+    },
+    {
+      "tweetId": "2071124004757491913",
+      "userId": "thukimoto1",
+      "text": "ボンボンドロップの本物に出会ったことがないthukimoto@@thukimoto19分前",
+      "user": "thukimoto@",
+      "time": "2026-06-28T15:49:48.564+09:00",
+      "timeRaw": "9分前",
+      "url": "https://x.com/thukimoto1/status/2071124004757491913",
+      "hashtags": [],
+      "images": [
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i5e72TLbER0xQeK1l8ZZ0OLBHrsLY_8nyyjkGbvfcBs9cqz54tTu-RhPqwEpfZEpn8AMgnV-a9mhChFUNQ5pOjdXCNkteFZCA6YSjqkHyyWDKUAl2uYyRq5dYpBk-Rxse8Tt9dat_aLwt5oaY3IOTaLTLOc9SnIO0WQwNppKHl4z5XnBMx-kPsecAN3FM7Wjy2eQAmeSvLoEOM1lS1vo39k"
+      ],
+      "isProcessed": true,
+      "_filepath": "output/sightings/raw/yahoo-2026-06-28.json"
+    },
+    {
+      "tweetId": "2071121909560082467",
+      "userId": "southern_dori",
+      "text": "未だにボンボンドロップシールとやらの本物を店で見たことがないのでどんなんか知らない南鳥八蜂(Blue and yellow flag)@southern_dori17分前",
+      "user": "南鳥八蜂(Blue and yellow flag)",
+      "time": "2026-06-28T15:41:48.564+09:00",
+      "timeRaw": "17分前",
+      "url": "https://x.com/southern_dori/status/2071121909560082467",
+      "hashtags": [],
+      "images": [
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i5e72TLbER0xQeK1l8ZZ0OL_PsxYd0TlPfuyR-ZT972EISn_0wjq4JtyXfwZEhdRDo9Tm-GY70y5hlyrzXdho7wQUaDg30v3JuPDwv1-rR6WYnBQK7v-EJgtpTHrfkbz3vKsW1htIASI-h0tZ4ln1K6EEqQjsbeJZCNU6PI5aMIW5L0oM47u_VQ8qaYEr3zEYunwXTQzRGtgnUDV-D38wkL"
+      ],
+      "isProcessed": true,
+      "_filepath": "output/sightings/raw/yahoo-2026-06-28.json"
+    },
+    {
+      "tweetId": "2071121214165455016",
+      "userId": "ftt5oo",
+      "text": "スーパーに買い物に行ったらレジ近くに野生のボンボンドロップ売ってた✨️ 3つまでだったから悩みながらお買いあげ😊 来月はしずくちゃんポップアップあたってるからそこでもシール買えるかな？ 早く姪っ子ちゃんに会いたい🥰  今はふなっしーのページ作ってヒャッハーして楽しい🤙 pic.x.com/k303uJRa8jぷっくぷく@ftt5oo20分前",
+      "user": "ぷっくぷく",
+      "time": "2026-06-28T15:38:48.564+09:00",
+      "timeRaw": "20分前",
+      "url": "https://x.com/ftt5oo/status/2071121214165455016",
+      "hashtags": [],
+      "images": [
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i5e72TLbER0xQeK1l8ZZ0OL35J132M3KYzYfGIHbzWYkbyf8iwTvIoTpJMxTbJAGa1cwLatW5xdMW980DsXFlXJA9dmUpd4R9Gn0CV1xW8-3nA4Mds31gnXbEqg7TJrVzICCsyJH5mdUELZZ4OTR1FnPJhdzerk7iFyOQnM60zmyWOcTjeVoU4kEesaKyEA2sATdxw4oDt9w1OQJrLfnPQB",
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i6hjVpND1OjWZ7RVcmujne-Ov1jZPqdWCvdTy6hErNvphY2DifjJ3sdFaEDxIx8k-GdYtrzPJhxiF8pM0dbdvicrJa-pVht7MXKTeXGb3sOuTfG8EfbI116vVqUugHcAmnjEhXbFEi3vWAsUyWI5_nleXXtWxhzRD_0fA2XjI6NKw==",
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i6hjVpND1OjWZ7RVcmujne-svQXHhZqGCrMiirvCQKggnI_2p0A0odcaxpTb-cxHgAw7b7SN4BnjCO9CzC74oFK9B_oU7lQBojx5uJBLON12XWZrLS7i-B0uXfG0h1NDDIUuK6yYGLvMkmqdXaxI6_pWpaTc6vlxu0HmX9af4rwyA=="
+      ],
+      "isProcessed": true,
+      "_filepath": "output/sightings/raw/yahoo-2026-06-28.json"
+    },
+    {
+      "tweetId": "2071117766015451532",
+      "userId": "sb_kikyou",
+      "text": "ご好評につきボンボンドロップシールは完売致しました。  次回の入荷は未定です。  #ボンボンドロップシールスーパーブックス桔梗店@sb_kikyou33分前",
+      "user": "スーパーブックス桔梗店",
+      "time": "2026-06-28T15:25:48.564+09:00",
+      "timeRaw": "33分前",
+      "url": "https://x.com/sb_kikyou/status/2071117766015451532",
+      "hashtags": [
+        "#ボンボンドロップシールスーパーブックス桔梗店"
+      ],
+      "images": [
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i5e72TLbER0xQeK1l8ZZ0OL-JwqgVS801FJ3htUAYnFLYtkEQ0d2ReUiZKcZEvoNdm9CT5k4wsMucrkniWtZOKME2eS3vu6d14ZYJS3ShsJbm6n614FsgMBWbZiaSoSE_NIG3sGSb58EHycSHjGLaqle2rSB3mH68bIgpXCKRG7gakzouWUNt6on7tSBSKlXrXlLdduZL8L7SMj9921a07t"
+      ],
+      "isProcessed": true,
+      "_filepath": "output/sightings/raw/yahoo-2026-06-28.json"
+    },
+    {
+      "tweetId": "2071112756330451172",
+      "userId": "MattSUN_mAATsun",
+      "text": "返信先:@ggitwo2今日のはボンボンドロップシールじゃないですね😆 似たようなものがいっぱいありますので私はどれがどれかはわかってないですwwwMattSUN（マットサン）@スクナファミリー@MattSUN_mAATsun53分前",
+      "user": "MattSUN（マットサン）@スクナファミリー",
+      "time": "2026-06-28T15:05:48.564+09:00",
+      "timeRaw": "53分前",
+      "url": "https://x.com/MattSUN_mAATsun/status/2071112756330451172",
+      "hashtags": [],
+      "images": [
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i5e72TLbER0xQeK1l8ZZ0OLv1X5aqD8vuRXWTahehFJLTBw6DDoI4jgUTuBkARXsZ_-1EvQA1eAO1On8Gbltf_pDkPTg2TvwPp7GItrQI_J92a9Jwo4aElXl2dg0bK1Rozr4gPK_AXtK-NvCM9O37pSU40KW5pJ6d2FjdJhrld-8yFQ7za7GjqUGh4b2x0nHRe30Ig3-i75mZ7JuNvIOr7s"
+      ],
+      "isProcessed": true,
+      "_filepath": "output/sightings/raw/yahoo-2026-06-28.json"
+    },
+    {
+      "tweetId": "2071109441450373203",
+      "userId": "k58nKjPUOw64695",
+      "text": "うるちゅるPOPシールや、大人気のオバケーヌ柄が入荷しました✨ 🍬ボンボンドロップシール販売中🍬 店内商品を5,000円以上ご購入いただいた方限定で、数量限定のボンボンドロップシールをご購入いただけます✨ 購入可能なデザインはなんと17種類🎉はち@k58nKjPUOw646955:52",
+      "user": "はち",
+      "time": "2026-06-28T05:52:00.000+09:00",
+      "timeRaw": "5:52",
+      "url": "https://x.com/k58nKjPUOw64695/status/2071109441450373203",
+      "hashtags": [],
+      "images": [
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i5e72TLbER0xQeK1l8ZZ0OL9I8_vOG-TtfOaFpD-0fbSJbYMc-OfpezwFs8WA8yYcmOTF4rMgO2c8rkr7rXsW6MXKCIDfwotkbvObqqbRjQXDztCH6jUXGIv7fCM9dpRY1DB-wfLKP7niRg9gavlyRmBx0Y7MfT8KV8DV6XwHhctGtnt8-7pk7VTrt7Hw7C1mubd2Vp10uBiJtpTu3ody6h"
+      ],
+      "isProcessed": true,
+      "_filepath": "output/sightings/raw/yahoo-2026-06-28.json"
+    },
+    {
+      "tweetId": "2071109235769999863",
+      "userId": "k58nKjPUOw64695",
+      "text": "ボンボンドロップシールが店頭で売ってるの初めて見た！ リラックマじゃなかったけど、キラキラチュルチュルで可愛かった。 いつかリラックマも入荷してくれるかな？はち@k58nKjPUOw646955:51",
+      "user": "はち",
+      "time": "2026-06-28T05:51:00.000+09:00",
+      "timeRaw": "5:51",
+      "url": "https://x.com/k58nKjPUOw64695/status/2071109235769999863",
+      "hashtags": [],
+      "images": [
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i5e72TLbER0xQeK1l8ZZ0OL9I8_vOG-TtfOaFpD-0fbSJbYMc-OfpezwFs8WA8yYcmOTF4rMgO2c8rkr7rXsW6MXKCIDfwotkbvObqqbRjQXDztCH6jUXGIv7fCM9dpRY1DB-wfLKP7niRg9gavlyRmBx0Y7MfT8KV8DV6XwHhctGtnt8-7pk7VTrt7Hw7C1mubd2Vp10uBiJtpTu3ody6h"
+      ],
+      "isProcessed": true,
+      "_filepath": "output/sightings/raw/yahoo-2026-06-28.json"
+    },
+    {
+      "tweetId": "2071104656445743442",
+      "userId": "sb_kikyou",
+      "text": "ボンボンドロップシール入荷しました！       人気商品につきボンボンドロップシールは1家族１柄につき１枚まで、最大3柄までの購入制限を設けさせて頂きます。  並び直し不可、代理購入不可となっております。   ※電話でのお取り置きはしておりません。    #ボンボンドロップシール pic.x.com/iNyDpmLEjqスーパーブックス桔梗店@sb_kikyou25:33",
+      "user": "スーパーブックス桔梗店",
+      "time": "2026-06-28T05:33:00.000+09:00",
+      "timeRaw": "5:33",
+      "url": "https://x.com/sb_kikyou/status/2071104656445743442",
+      "hashtags": [
+        "#ボンボンドロップシール"
+      ],
+      "images": [
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i5e72TLbER0xQeK1l8ZZ0OL-JwqgVS801FJ3htUAYnFLYtkEQ0d2ReUiZKcZEvoNdm9CT5k4wsMucrkniWtZOKME2eS3vu6d14ZYJS3ShsJbm6n614FsgMBWbZiaSoSE_NIG3sGSb58EHycSHjGLaqle2rSB3mH68bIgpXCKRG7gakzouWUNt6on7tSBSKlXrXlLdduZL8L7SMj9921a07t",
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i6hjVpND1OjWZ7RVcmujne-AuBHCOh06wSci-deiBxw-3H88MmR6EM6IkIGmMNQw5CNO5W_dKeZmqQ0bLId_FT_1U_Pgo0RMnMigjzh349v1KI1ssC68v-7uvnUf9S0ySp3jCnCzhaK8n7Ro8bd3Y9UClyybOZUP4yXd4XupLVlrA==",
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i6hjVpND1OjWZ7RVcmujne-Ho_w2VGUNe6ggOFc3LKjXNvp19DT2YGUq-1pyfzktcRqModl_xhZd3w9wrLYsQEdqCx4qpnDPqJHkVUICche4iLym1bRNjWQdEorADucjgJkK7t8yr8rwQg4hPVpuMRNq3FaAo-7E71ldXIybyXJXw=="
+      ],
+      "isProcessed": true,
+      "_filepath": "output/sightings/raw/yahoo-2026-06-28.json"
+    },
+    {
+      "tweetId": "2071104304937947178",
+      "userId": "ooishibungu",
+      "text": "🔴入荷速報   (極少入荷)  サンスター「ボンボンドロップシール」 :きかんしゃトーマス　なかまたち  ￥550（税込）  🔷只今より販売開始 購入制限あり1家族1枚 pic.x.com/k5UykyGHoPオオイシ文具店@ooishibungu5:32",
+      "user": "オオイシ文具店",
+      "time": "2026-06-28T05:32:00.000+09:00",
+      "timeRaw": "5:32",
+      "url": "https://x.com/ooishibungu/status/2071104304937947178",
+      "hashtags": [],
+      "images": [
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i5e72TLbER0xQeK1l8ZZ0OLq9d7OSl3rLGrS-_DeHrFOByfKfBbcymY5Ykrl0X-86uepB1qEJLIlgXxswC7TC7kwpZNwBorph4AJgUHTG7dLvjyAKcbhEkky2mu5DT5KuPScHssOxIFN4yqeD68pssY-rCaghBiFdQSI3WzOdz82hr0bxEVZ51iAvJL6-PMPsLlOxrGuQHN0q7YKL-epnC-",
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i6hjVpND1OjWZ7RVcmujne-AtRKb0fvunOS6NjbyURwPCThr2ARCylYubEXNSj7yghConZLQiaZHq8rQHJvEZspNp4Cz8tT-G2egKpvZdjhh5tPMTtPsv-_3wgqPU1xGb9BAg7Rae7hFxC_7HbFvGB0GvP2-cKJgPtl5YXNAPElAg=="
+      ],
+      "isProcessed": true,
+      "_filepath": "output/sightings/raw/yahoo-2026-06-28.json"
+    },
+    {
+      "tweetId": "2071104300189933899",
+      "userId": "mimumemo_2019",
+      "text": "まだいけますよー！！ 検索ぺージに載ってない✨  (今買える)急ぎ！定価ちいかわ♡ボンボンドロップシール！ | みむめも φ(.. ) 12さい9さいこそだて♡ ameblo.jp/mm20100707/ent… #Amebaブログ #アメブロ #ボンボンドロップシールmimu@mimumemo_20195:31",
+      "user": "mimu",
+      "time": "2026-06-28T05:31:00.000+09:00",
+      "timeRaw": "5:31",
+      "url": "https://x.com/mimumemo_2019/status/2071104300189933899",
+      "hashtags": [
+        "#Amebaブログ",
+        "#アメブロ",
+        "#ボンボンドロップシールmimu"
+      ],
+      "images": [
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i5e72TLbER0xQeK1l8ZZ0OLU3fDBWss7bYc3VPuJ_BgP-zItBw-kDv4jzIaRGAoTmGc3AVQcyg3ypqa_0E-g9pJCbwIhEnqHf4eFcV3bkm1l-XkDYjWV1sV--bWKpy8qvN_LBw5kGERit8VfN5Sl_nFBy7HYEsPW4XeYesRPCJEWRUgzQV0GCj5nH6zJXjIBNO9WNhgjAGTwXs4UXUKK7Kf"
+      ],
+      "isProcessed": true,
+      "_filepath": "output/sightings/raw/yahoo-2026-06-28.json"
+    },
+    {
+      "tweetId": "2071103499287584824",
+      "userId": "koubainonihohi",
+      "text": "ボンボンドロップシールが店頭で売ってるの初めて見た！ リラックマじゃなかったけど、キラキラチュルチュルで可愛かった。 いつかリラックマも入荷してくれるかな？紅梅@koubainonihohi5:28",
+      "user": "紅梅",
+      "time": "2026-06-28T05:28:00.000+09:00",
+      "timeRaw": "5:28",
+      "url": "https://x.com/koubainonihohi/status/2071103499287584824",
+      "hashtags": [],
+      "images": [
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i5e72TLbER0xQeK1l8ZZ0OLfKpJLiN0ygM9PwjeBMHQgou9k9RssB_kQkC6cLrUtUx7kK8BF_eK0Lh1G8rGP_JaOmKu9Rkt3hlgjVxHnCwz2FcLEuueYEyELYtFaN2HyN-bVx2UrKwWrhqiWm5L4-xvn4TqlwgmDpQgAruhbr8vmKdmCRAUYmKqsWpH_oJrDbejoQMtmOQru_J2EI4Xrwdh"
+      ],
+      "isProcessed": true,
+      "_filepath": "output/sightings/raw/yahoo-2026-06-28.json"
+    },
+    {
+      "tweetId": "2071102553564262737",
+      "userId": "ctcomb",
+      "text": "ボンボンドロップシールとかは、大抵母親に貢いでいます。 私は勿体無くていつまでも使えないのに対して、母親は喜んで容赦なく使うからです。かたこんぶ@ctcomb5:25",
+      "user": "かたこんぶ",
+      "time": "2026-06-28T05:25:00.000+09:00",
+      "timeRaw": "5:25",
+      "url": "https://x.com/ctcomb/status/2071102553564262737",
+      "hashtags": [],
+      "images": [
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i5e72TLbER0xQeK1l8ZZ0OL-zti3IpqmdpIZPFnMREsvjniLZ3J58jAVKJI-800ph8PaYSi45kdekAJO078hNQ3f470UZgGfHmpHoXfEv3WQPhaEUikWqFFPX3ZURxE8d91Yde2LclKxHol8YZfUdqW79zGoCUFsUlLjNIJmQGJspCGkDmM2_U5AXpnFY06GaNSUKeUaD0fzL9IGlvb1b7t"
+      ],
+      "isProcessed": true,
+      "_filepath": "output/sightings/raw/yahoo-2026-06-28.json"
+    },
+    {
+      "tweetId": "2071101535929684120",
+      "userId": "mi___uka_",
+      "text": "コジコジのボンボンドロップシールが買えたから乗り遅れた感すごいけどボンドロスマホケース作ってみた。背面でコジコジが暴れ回っている…ユ@mi___uka_5:21",
+      "user": "ユ",
+      "time": "2026-06-28T05:21:00.000+09:00",
+      "timeRaw": "5:21",
+      "url": "https://x.com/mi___uka_/status/2071101535929684120",
+      "hashtags": [],
+      "images": [
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i5e72TLbER0xQeK1l8ZZ0OLiYC9bVGaSLtDde0q2kSdylG-tY222V1FI_NlmDNOYofqnelOb3YSdWcqLnmznRqAL8xckNj_RQiyOL8P5YhLC0Mo0esC2FlJHsQDjPfs1r9soIbNL8_SXY-IcO3yf6-YeBH-YM7mbDeDpNupy7qyWNUblIWIwlkpEN6NG1a9TwwvAZIDKtmxbi2O04NK073J"
+      ],
+      "isProcessed": true,
+      "_filepath": "output/sightings/raw/yahoo-2026-06-28.json"
+    },
+    {
+      "tweetId": "2071098651817169354",
+      "userId": "yukkka3",
+      "text": "シールブームは終わったのか？相変わらずボンボンドロップは見ないけど。私の中のシール熱は冷めた。抽選も申し込まなくなった。娘もそろそろ飽きたかなゆーか8y, 2y@yukkka35:09",
+      "user": "ゆーか8y, 2y",
+      "time": "2026-06-28T05:09:00.000+09:00",
+      "timeRaw": "5:09",
+      "url": "https://x.com/yukkka3/status/2071098651817169354",
+      "hashtags": [],
+      "images": [
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i5e72TLbER0xQeK1l8ZZ0OLIuaI1aIlqaSSOGo8tbJIHP3AmvmFFwyig7W1jZ4FjnbtNETzCoGOZkQ7mcAXirabpJbUN64bLQzfBWx3XIwu2pxOzPwNO9UEVm75uYuXQ_1MbmJKy3q6Y00oXIDt7gyBFsgRIhvm8Rg0_BPEA0laiAtJOj8Fw1b8mz7_IOen87XtZNlZ2kU_uwGwxIs7H3Sr"
+      ],
+      "isProcessed": true,
+      "_filepath": "output/sightings/raw/yahoo-2026-06-28.json"
+    },
+    {
+      "tweetId": "2071096129933262973",
+      "userId": "piyooshikatsu",
+      "text": "ボンボンドロップシール、売切れたみたい😭早いね😭 だれか買えてたらいいなぁ✨  また、再販あった場合は投稿します☺️  つぎは、鬼滅の刃DVD〜✨ぴよの推し活日記🐥@piyooshikatsu4:59",
+      "user": "ぴよの推し活日記🐥",
+      "time": "2026-06-28T04:59:00.000+09:00",
+      "timeRaw": "4:59",
+      "url": "https://x.com/piyooshikatsu/status/2071096129933262973",
+      "hashtags": [],
+      "images": [
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i5e72TLbER0xQeK1l8ZZ0OLnqa4DuHkKYxc4_s09Z1111xVKVK_5PYVQKgWmNA81YpV5TPEa_hjMWWciclcDd2AIr969C1osDh4IOSQcSE11nXeVhlZWyi5EaS-LR6S5DcbvSeqO5802mEZN7ypYyBkZUN9AMYVnFZw8mhdpUMd7aijHmKImxYI-oOWtP5DVfADVDs2nfN5zcfhMVWzOYyp"
+      ],
+      "isProcessed": true,
+      "_filepath": "output/sightings/raw/yahoo-2026-06-28.json"
+    },
+    {
+      "tweetId": "2071092956577374589",
+      "userId": "chikabu9402160",
+      "text": "ボンボンドロップシール（正規）あったからなんとなく買ってしまった。確かにかわいい。 pic.x.com/96KXYVozXKちいかぶ@chikabu94021604:46",
+      "user": "ちいかぶ",
+      "time": "2026-06-28T04:46:00.000+09:00",
+      "timeRaw": "4:46",
+      "url": "https://x.com/chikabu9402160/status/2071092956577374589",
+      "hashtags": [],
+      "images": [
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i5e72TLbER0xQeK1l8ZZ0OLePFeyyQdqzYttJSkWW8BlBSTPzKLcCp-KTRxmSBJ1MMY3mUOABz26JuQiNjdDgMi3XzUdy2dCTRoDkTpZcT3zf-AO0jk-ZopFmjHXakcRfkNUDgacaxuye0jHkvL8wzY9nHTQvb_6sKweBFjJw7np-lZ6imW910vxc65iehI2ZU8i61CapF9mWO8hcdCe9tk",
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i6hjVpND1OjWZ7RVcmujne-Oykama9_rxufIzjAbBMfcM-W0vN8OggPZWWoi2SAPXYGY3aTArfs_LQ4rARQLC1RKVjSyLR87sl15Q9NQ4si9z1QCcSbsTYAHTFiRDmcpu3l7vlPu4HY5YfpeUSukuQn4IP7pt1oJxyaqle6ITVwRw=="
+      ],
+      "isProcessed": true,
+      "_filepath": "output/sightings/raw/yahoo-2026-06-28.json"
+    },
+    {
+      "tweetId": "2071089248602911071",
+      "userId": "Rutile_Amethyst",
+      "text": "待って……レースリボンを切って土台に挟んだら、見た目可愛すぎるし、シールが透けて重ならなくて見やすすぎる…… ボンボンドロップシール収納ファイリングの最適解を見つけたかもしれない…… pic.x.com/kuxOHEaTZu𝚁𝚞𝚝𝚒𝚕𝚎 𓅪 𓇬𓂂𓈒@Rutile_Amethyst4:32",
+      "user": "𝚁𝚞𝚝𝚒𝚕𝚎 𓅪 𓇬𓂂𓈒",
+      "time": "2026-06-28T04:32:00.000+09:00",
+      "timeRaw": "4:32",
+      "url": "https://x.com/Rutile_Amethyst/status/2071089248602911071",
+      "hashtags": [],
+      "images": [
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i5e72TLbER0xQeK1l8ZZ0OLHuRVs5elCpVHoBeN3U_k0tWBPEsI3Z3CI2V6AL5GA_dCZsDrsE_TeiPLoYVcxud7pjH0_yzNiIWL8YWDbVjy0ukqjb5_IH4BWs6QtEgvIdgjcLD0bUDsNHJ-mCAlPsxRA6OTBtxVMONeqk_0RJKpN60H9mz5BuiLJe2tWGbl1B1E-qsUSaThVHAX3FRFAd9l",
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i6hjVpND1OjWZ7RVcmujne-y42d8RL6-dffakfcUxaFW9EPnhEpN0E1MLZila-qKDHTMGFXnPptOOT7VsDo8xRZy7L7QejhSkGPXWKPkSPmOCu_oxQUABbenItCyEEJfcqFK2aF8933j9CNSgcvIVmjuoxokR41h5MfAldwQkOoBg==",
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i6hjVpND1OjWZ7RVcmujne-q6uMAjPvouZ7D-QDaUgP7eoDB9cK7mlZa1FBmKT2rPw3KfohWjsIDcqk4Xv0nN-eZaDuRLdeygNDrXdnL264cjHNWbgrI9QqaRpMB7jl2Zd6v_ipgQcXO8y8E9OcKdTVqjrsAiPuxZ8uCQ64RJAlNQ==",
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i6hjVpND1OjWZ7RVcmujne-WSuSGE_EVLqTQdMEcVnCE7LEjTI4wiRHVZiWBT11XhL3pWWl8oJGS0eNGnJDrgqciV8L67xeLZ5pea5adTV4MpCpYKX3BiOLRDwD0L95XRjpQuQAdmHxMLbJF2APsw96S1Z9iy7IN_ZjqR38KYJxuw=="
+      ],
+      "isProcessed": true,
+      "_filepath": "output/sightings/raw/yahoo-2026-06-28.json"
+    },
+    {
+      "tweetId": "2071086331644825616",
+      "userId": "rainbowholic",
+      "text": "うるちゅるPOPシールや、大人気のオバケーヌ柄が入荷しました✨ 🍬ボンボンドロップシール販売中🍬 店内商品を5,000円以上ご購入いただいた方限定で、数量限定のボンボンドロップシールをご購入いただけます✨ 購入可能なデザインはなんと17種類🎉  #ボンボンドロップシール pic.x.com/nlk86KB2XQrainbowholic文具喫茶@rainbowholic4:20",
+      "user": "rainbowholic文具喫茶",
+      "time": "2026-06-28T04:20:00.000+09:00",
+      "timeRaw": "4:20",
+      "url": "https://x.com/rainbowholic/status/2071086331644825616",
+      "hashtags": [
+        "#ボンボンドロップシール"
+      ],
+      "images": [
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i5e72TLbER0xQeK1l8ZZ0OLuNgTE4vDHKUtStcGr4gzScPNjYAIKoDg1Cul_IxRu3T2uD106TQceB3pygAGsEVCSZjVYYvrF4Zabe6AshjgXlqEdYqiNeK5tuvid0ctAwVjHnCXgHzoS2-Iqn1ve48jsVnPXUFeF5kQIAKJMZ8KoXFd7n8Q33qZQVjMGB4jSU5p3-REHJ1QKBIDhI5A0bb0",
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i6hjVpND1OjWZ7RVcmujne-OdjT65IO8zT2AEZurb8nhXLcppqsoMx8_isxH4SyZaT832z3hX5wBf3N6ubojOFM2BrznM9bvq2vFkesyGMGvwHSU9WMrKGWcO5olAR-J3leojG6E-Kut3Hn5YMpVdzLW-fS6jsAdsx2pzMGv8aA8A=="
+      ],
+      "isProcessed": true,
+      "_filepath": "output/sightings/raw/yahoo-2026-06-28.json"
+    },
+    {
+      "tweetId": "2071125804722032943",
+      "userId": "tyababa_ko",
+      "text": "🛍️通販について8〜9月ごろ予定…(BOOTH) ・イラスト本 →少し在庫復活させる予定です。  ・ぷっくりシール(単体) →グッズセットのご用意は難しいのですが、単体のみ通販検討してます。茶跋扈@6/28東1【せ56a】@tyababa_ko112分前",
+      "user": "茶跋扈@6/28東1【せ56a】",
+      "time": "2026-06-28T15:56:48.564+09:00",
+      "timeRaw": "2分前",
+      "url": "https://x.com/tyababa_ko/status/2071125804722032943",
+      "hashtags": [],
+      "images": [
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i5e72TLbER0xQeK1l8ZZ0OLjjZwJkZxleav7DLnAO8YQbD5Assb5K9dPd-tRecHBA2aosN9eXDEmAddbBfD0FbeAvOJLBFJIQDjHC2dkvNMDS1adK0tQamEqYVJW-d8zivEtb64w9CDsVkfTLWYh4RadMxN5AYVblropHw_jIHWqgcpAJvqbMtfhK5HKtqinr2HkcVwHyECNYdGMjkGllAx"
+      ],
+      "isProcessed": true,
+      "_filepath": "output/sightings/raw/yahoo-2026-06-28.json"
+    },
+    {
+      "tweetId": "2071125255469555990",
+      "userId": "tyababa_ko",
+      "text": "🌟今回の新作グッズセット(ぷっくりシール+アクリルシール+クリアファイル) →10月インテに持って行きます！ (もし残れば2月も…？)  🌟バレンタインコーデおべぐだアクスタ →こちらも10月インテに持って行きます (残り少しです。再販の予定はおそらくないかも)茶跋扈@6/28東1【せ56a】@tyababa_ko4分前",
+      "user": "茶跋扈@6/28東1【せ56a】",
+      "time": "2026-06-28T15:54:48.564+09:00",
+      "timeRaw": "4分前",
+      "url": "https://x.com/tyababa_ko/status/2071125255469555990",
+      "hashtags": [],
+      "images": [
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i5e72TLbER0xQeK1l8ZZ0OLjjZwJkZxleav7DLnAO8YQbD5Assb5K9dPd-tRecHBA2aosN9eXDEmAddbBfD0FbeAvOJLBFJIQDjHC2dkvNMDS1adK0tQamEqYVJW-d8zivEtb64w9CDsVkfTLWYh4RadMxN5AYVblropHw_jIHWqgcpAJvqbMtfhK5HKtqinr2HkcVwHyECNYdGMjkGllAx"
+      ],
+      "isProcessed": true,
+      "_filepath": "output/sightings/raw/yahoo-2026-06-28.json"
+    },
+    {
+      "tweetId": "2071124954570232075",
+      "userId": "belleco_emutan",
+      "text": "皮膚科の帰りにSeria寄ったら商品が変わってた！笑 お目当ての日焼けシリーズシールあったよ〜✨ お会計しようとしたら、店員さんが「あ！サンリオのぷっくりシールまだ出てないんでふがいります？？」って出してくれた🤣 ちなみにステッカーシールは、この2枚でした♡ 可愛い( *´艸｀) pic.x.com/a4OzAgMKh6bellechan/お嬢@belleco_emutan5分前",
+      "user": "bellechan/お嬢",
+      "time": "2026-06-28T15:53:48.564+09:00",
+      "timeRaw": "5分前",
+      "url": "https://x.com/belleco_emutan/status/2071124954570232075",
+      "hashtags": [],
+      "images": [
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i5e72TLbER0xQeK1l8ZZ0OLuTx75WegujATksG5WWY84TTv1jn3revNHFWLUq117osjXgDA3FOXmoZYaOAu1Yc9u-9C2e94zYBBd9R09EZ79bwWqDszxCMTqGy1f-DAOKZMxQBsqJ-LP9azCO6VvTvmLZC-s5aBxSvp6cFRyGU9aTj6KaV_wEDNOC7VrEbLW6cUUQu5eKked3kokqLEfH2G",
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i6hjVpND1OjWZ7RVcmujne-34iAkx99hxACU0EvWvQRUOfPKde5iBvwlTF8tESD_NwsimFgAJaEHP0-6EUIJcLxcbJMmnaB2lk8nuQmdIw9dbyLVaCat3cnVh1N0iqifjvOeOlGQvtPVTTluMFamc0rdfMcaM_JRE6KqHchmIAu7Q==",
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i6hjVpND1OjWZ7RVcmujne-9KG4P8cwz_DDNVHNPDlyFYUoBDR2nU3_J6OKlphTb6i_o2KTuLELQ1QFMLasYvkRTPUneHIP3vP4U4eKWp6U0zUqlAlasFna0qZAkHIpsULITgzY_WyHEl16kV-aFA9-npcKOab1b_UDhrXPjRM7eQ=="
+      ],
+      "isProcessed": true,
+      "_filepath": "output/sightings/raw/yahoo-2026-06-28.json"
+    },
+    {
+      "tweetId": "2071116300886388814",
+      "userId": "Yuubi_110927",
+      "text": "こういうかわいいぷっくりシールを上手く活用する方法をしらない🥹スマホケース……？入らなさそうだしな……人生@Yuubi_11092739分前",
+      "user": "人生",
+      "time": "2026-06-28T15:19:48.564+09:00",
+      "timeRaw": "39分前",
+      "url": "https://x.com/Yuubi_110927/status/2071116300886388814",
+      "hashtags": [],
+      "images": [
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i5e72TLbER0xQeK1l8ZZ0OL8zJ18LRsbLzcMpI5eA08pc7jbAWs1r2Bj2r5HBdIfRc6wx81_49W2HmuoNLFUQDSnEgSgtDMmN_UOZZayKYBzGIBNcgeQ4erl_OybaC6IwLMcPo2UAY4SKd65JwJoZXkm0vD6sjNIw8zXXc3W8_D8-HgXG4Y9XJBaRRgTBe5ZSnyYXj8xcCZm6y9kOlQ7Jzb"
+      ],
+      "isProcessed": true,
+      "_filepath": "output/sightings/raw/yahoo-2026-06-28.json"
+    },
+    {
+      "tweetId": "2071113397995995435",
+      "userId": "shirapoyo0530",
+      "text": "削りいちご🍓はぷっくりシール木澤くんでした。 山野くん出ないなぁ 誰か叶くんか山野くんか壮真くんと取り替えてちょʚïɞ.• pic.x.com/dWxOpALgA2ℳ𝒜ℛ𝒪𝒞ℋℐ𝒦ℐ⋆˚ʚɞ𝒮ℋℐℛ𝒜𝒮𝒰6月26、27、28日現地@shirapoyo0530151分前",
+      "user": "ℳ𝒜ℛ𝒪𝒞ℋℐ𝒦ℐ⋆˚ʚɞ𝒮ℋℐℛ𝒜𝒮𝒰6月26、27、28日現地",
+      "time": "2026-06-28T15:07:48.564+09:00",
+      "timeRaw": "51分前",
+      "url": "https://x.com/shirapoyo0530/status/2071113397995995435",
+      "hashtags": [],
+      "images": [
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i5e72TLbER0xQeK1l8ZZ0OLsbEQov-dVHw-qsrCIvXjNXuCDlmnb8-ip3igpc6lMFF8xLUA4RNolB-T5KZ5hdMtD19rggZdYbrPWV0phFJlde8kSpgjVz-kpS-sw9x0Xvoclqn8C41TBNTxhMdUCK0I-DlioRuKKxvczvIOTelXwM5QF45vyWIkhdy3TbP3IjUJJCvoPXJ63oLsFS-zk3mq",
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i6hjVpND1OjWZ7RVcmujne-P1qLASV0xgUBvUVcMJW8JBKQN8Q-soVq51bs8RiCNGvdOCXpCL-LOoPxUuuh8HE7ga95dftNicIUNb71vB95eI4ZvuZBHg3IU5NaZzTdmToDnd-FHsRzfs5KDjGC67Fnfes-9c5x73k0Zaxx4FWs8A=="
+      ],
+      "isProcessed": true,
+      "_filepath": "output/sightings/raw/yahoo-2026-06-28.json"
+    },
+    {
+      "tweetId": "2071107683282010617",
+      "userId": "junjun_zett",
+      "text": "ゼトリオのぷっくりシールグッズ販売してくんないかなぁ ぜったいかわいいじゅん@junjun_zett5:45",
+      "user": "じゅん",
+      "time": "2026-06-28T05:45:00.000+09:00",
+      "timeRaw": "5:45",
+      "url": "https://x.com/junjun_zett/status/2071107683282010617",
+      "hashtags": [],
+      "images": [
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i5e72TLbER0xQeK1l8ZZ0OLtqV9qXcyu09f9DhIV06c0yvcWRyzeVvEqcRUxQ7itCEgCdpr56WEOszSEF2G7StuOjSj-vKtpO_nhZbd693_OisJ5g4tyBiGrBpr-IPHO3hpKVT8kDVR18Bj7IFKofFC7yyEtPxIyAEl4hJ02zYIKxfOeWJHuHaQQD2pvKVvg7x7h3v8HKnaSzGE2Jtnz6wS"
+      ],
+      "isProcessed": true,
+      "_filepath": "output/sightings/raw/yahoo-2026-06-28.json"
+    },
+    {
+      "tweetId": "2071103242818498604",
+      "userId": "gf_ati_koriyama",
+      "text": "+｡:.ﾟஐ⋆*♡･:*ೄ‧͙·*♪+｡:.ﾟஐ⋆*♡･:*ೄ‧͙·*♪  　˚｡.✩🍀雑貨入荷情報🍀✩.˚｡  ぷっくりシールやウォーターシール、 ヘアアクセ、Tシャツなど販売中🐼💜  #福島 #郡山 #アティ郡山 #ガレージファクトリーアティ郡山 #シル活 #平成女児   +｡:.ﾟஐ⋆*♡･:*ೄ‧͙·*♪+｡:.ﾟஐ⋆*♡･:*ೄ‧͙·*♪ pic.x.com/uPEt5kuifbガレージファクトリー アティ郡山@gf_ati_koriyama5:27",
+      "user": "ガレージファクトリー アティ郡山",
+      "time": "2026-06-28T05:27:00.000+09:00",
+      "timeRaw": "5:27",
+      "url": "https://x.com/gf_ati_koriyama/status/2071103242818498604",
+      "hashtags": [
+        "#福島",
+        "#郡山",
+        "#アティ郡山",
+        "#ガレージファクトリーアティ郡山",
+        "#シル活",
+        "#平成女児"
+      ],
+      "images": [
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i5e72TLbER0xQeK1l8ZZ0OLOS-Q6hiaPNyoToMYZqoF4pzXTD8SA2k6otdKjL80QGlgwiGZaVEjEgeLIFk5-b9W9vobBzGIjjEnSExOzmjGmZwIOT7LuWLNsQ0dNjFG2muuOQ37jUwiIGeb5xAp85BAZPVkDUB-UnZz_oWyN2z2FaxRaKMDDwQ8c-dowSIQy5kKdfvOqQk_pC2eSnwRCJAg"
+      ],
+      "isProcessed": true,
+      "_filepath": "output/sightings/raw/yahoo-2026-06-28.json"
+    },
+    {
+      "tweetId": "2071100445272215694",
+      "userId": "yura_nicobar",
+      "text": "収集癖のあった女児時代に集めたシールと、ぷっくりシールなるものをとりあえず詰めました。  女児先輩方対戦お願いいたします。  今からシール台紙なるものを百均に探しに行きます。 pic.x.com/IQgKoaCeIE悠響（ゆら）@ニコバー大阪梅田Mixコンカフェ@yura_nicobar115:16",
+      "user": "悠響（ゆら）@ニコバー大阪梅田Mixコンカフェ",
+      "time": "2026-06-28T05:16:00.000+09:00",
+      "timeRaw": "5:16",
+      "url": "https://x.com/yura_nicobar/status/2071100445272215694",
+      "hashtags": [],
+      "images": [
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i5e72TLbER0xQeK1l8ZZ0OLqqMOK2QNv0xtVvfyOVK1OHwS73siw3S5oWEH_kyQyq2_56G5QXSLPhPpnGi4RLtLI9e2NZSG84u08ofloxhJz36GSZ7ubr594MBLVkFc1-35xK5lWClvkS4L0oEETbCjt4SafT3wR50Ao78hRiJ8ICOcGt1VtqEetm4tkzzfsaa0yXEmW6E0eIDCZRas8a46",
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i6hjVpND1OjWZ7RVcmujne-qIble57cv7PSi_HdaBrbPqIXce_wnRvojK2K7aDWZEt4w6YjjtoJyHgyCkKyADyNgIrT72Wldqj2dA2Gp_7xrRyrV-bNVqUqW1qbtIldR7d0Z0araHZGfqjKZpJ0gaP_ET6MSl3_4XzaDEBgXFMH2w=="
+      ],
+      "isProcessed": true,
+      "_filepath": "output/sightings/raw/yahoo-2026-06-28.json"
+    },
+    {
+      "tweetId": "2071098053080326378",
+      "userId": "tahirikka",
+      "text": "返信先:@erikoro_arale1えー！わたし今のところガチャで並んでるのは見たことないです！でもガチャコーナーはすごく混んでたりするしポケモンのガチャとか一人5回までって貼られてるの見ました🫣 ついでにボンドロシールも本物見たことないです😂ドロップシールとかぷっくりシールは見かけるんですが！たひぴよ/仕事募集中@tahirikka5:07",
+      "user": "たひぴよ/仕事募集中",
+      "time": "2026-06-28T05:07:00.000+09:00",
+      "timeRaw": "5:07",
+      "url": "https://x.com/tahirikka/status/2071098053080326378",
+      "hashtags": [],
+      "images": [
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i5e72TLbER0xQeK1l8ZZ0OL44cpM3EfTyeDI3AK3x-Uj5QC7QA4R5nv50t99Us1zB97h6Q8Yvjh70AX0zliJgVXY2FFemcerXPtuGLHkYIX-N8N7XPWs6b7UnwSSNH44w0mM6BmVUZK_2824LmlcmpwNce2L_terWQ8vih5aOOooaOCZZqBLf7zmq0KyJmOYgsAZknXUwLG8Ju9qK-OHYnx"
+      ],
+      "isProcessed": true,
+      "_filepath": "output/sightings/raw/yahoo-2026-06-28.json"
+    },
+    {
+      "tweetId": "2071090289142546805",
+      "userId": "_socha_27",
+      "text": "【残】 ●ビジュアルフォト‧‧‧勝利橋本×4、風磨篠塚×2、原猪俣×3  ●3形態フレークシール‧‧‧勝利×3、風磨🙅🏻‍♀️、寺西🙅🏻‍♀️、橋本🙅🏻‍♀️、猪俣×1、篠塚×3  ●ぷっくりシール‧‧‧風磨×2、寺西×1、橋本🙅🏻‍♀️  書いてないメンバーはフルであります。𝐒.@_socha_274:36",
+      "user": "𝐒.",
+      "time": "2026-06-28T04:36:00.000+09:00",
+      "timeRaw": "4:36",
+      "url": "https://x.com/_socha_27/status/2071090289142546805",
+      "hashtags": [],
+      "images": [
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i5e72TLbER0xQeK1l8ZZ0OLYtvJxNB6iSgMCZoAdKGHZH3ItH5XxoDEaJHXigvMVE63yDVqB1JMdgTXWvl8vUKV6Ti9KIKWTYGamyh9aiMIliiKOYrDU7cVkNeE7jTh-rHjILodFhE0yJ9bcrRzyfIwq_dVICs38cRoQiEZ34-j4TR_i0Ll2NbbXQ9OawYwRl-Fj9EQzN716MV7VBoSEzi6"
+      ],
+      "isProcessed": true,
+      "_filepath": "output/sightings/raw/yahoo-2026-06-28.json"
+    },
+    {
+      "tweetId": "2071124636189008350",
+      "userId": "GiGO_Wakabadai",
+      "text": "🌈注目景品🌈  >>> TWICE LOVELYS <<< 『TWICE』JAPANデビュー9周年を記念して GiGO限定景品が登場中✨  ⭐うるちゅるシールミニ ⭐ハンディファン ⭐ラバーマット  まだまだ在庫あります！ 是非お越しください✨  #TWICELOVELYS #GiGO #GiGOソコラ若葉台 x.com/GENDA_GiGO/sta…GiGOグループのお店 公式@GENDA_GiGO6月18日(木) 5:10🍭TWICE LOVELYS🍭 『TWICE』JAPANデビュー9周年を記念してGiGO限定景品が登場‼   6/27(土)～ うるちゅルシールミニ、ハンディファン、ラバーマット 7/25(土)～ うるちゅるシールBIG、ストロー付きタンブラー、収納付きエコバッグ  LOVELYSをドットで表現したかわいくポップなデザインが特徴👍 GiGO SOCOLA若葉台@GiGO_Wakabadai6分前",
+      "user": "GiGO SOCOLA若葉台",
+      "time": "2026-06-18T00:00:00.000+09:00",
+      "timeRaw": "6月18日(木) 5:10",
+      "url": "https://x.com/GiGO_Wakabadai/status/2071124636189008350",
+      "hashtags": [
+        "#TWICELOVELYS",
+        "#GiGO",
+        "#GiGOソコラ若葉台"
+      ],
+      "images": [
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i5e72TLbER0xQeK1l8ZZ0OLCXYLhla93PygHepfLAJmxvJu94BQRnEO2noXB1MHpQhFME1dpQfbW6N5YRWUNy1yDtiunJKSHtoLzYxwL27rk4lviF6phYVDbjmf8-h6uQbXx1rYYiOA92l5KCcnONthZ3v2mFOWOCbTZqfxveJ2U9iq35VD0-LLCpe_4ZQkeYxMycIjU31tvSMMWPJFZ6Kd",
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i5e72TLbER0xQeK1l8ZZ0OLVhnAxyu2WxqLbUHSUdPQYtm4_F_UciBVyxJWIidoxhf4rHdcRdGzxwB2Tl_q1E9Kd6JcW2Z5qceRP9NMG7C4h7WyctjTG2WxGpZP7dHDleGFlU3uCbTzGYpFmnhMoWPSrcnuGDDjq2pUhGAtIRRbqVf0rfe5kCsb3HCBxHZ7ucrkYYIRIS5dChF-PkJvZdXk",
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i6hjVpND1OjWZ7RVcmujne-ofSPfQRahW4HwG-e6bDXLMNTFWuNAAN0NE8DNGo75KzH64CSOXZ9fTRQNR7pz_pHLOdwcba6izAddJ3mfHNmm7hgoiLJ-S4jb4yW2tGm3kqFREA4p_PH317Cx6iggyiSsaJhS_36lxCZuiGkr6LXxw=="
+      ],
+      "isProcessed": true,
+      "_filepath": "output/sightings/raw/yahoo-2026-06-28.json"
+    },
+    {
+      "tweetId": "2071113883482550583",
+      "userId": "GiGO_H_miyoshi",
+      "text": "[景品のご案内]  TWICE LOVELYS うるちゅるシールmini ～GiGO限定〜  続々入荷しております！  ご来店お待ちしております！  #GiGO #スマイルステーション #TWICELOVEYS pic.x.com/d3HJ86OvYyスマイルステーション三次店@GiGO_H_miyoshi49分前",
+      "user": "スマイルステーション三次店",
+      "time": "2026-06-28T15:09:48.564+09:00",
+      "timeRaw": "49分前",
+      "url": "https://x.com/GiGO_H_miyoshi/status/2071113883482550583",
+      "hashtags": [
+        "#GiGO",
+        "#スマイルステーション",
+        "#TWICELOVEYS"
+      ],
+      "images": [
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i5e72TLbER0xQeK1l8ZZ0OLeWYgdcAgun4xZvHdRTrMXnPUPCXq_BCdIMpH67se7_fVGKRcCyRfW1saLM7HsZOUkjzJKbHpEOFm3IigbEX1GKpc6Pph0CHnMda0cDL37LP4C91BZgsW6VBl7MaWelDvdXOJ5spF62Kc2szst5XPHtPXIN5W_pn-QwMGJnXSOW8-EDMWY6kk_4BOdykidrDg",
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i6hjVpND1OjWZ7RVcmujne-ipN2hHBii1BBq-cVG8jz162TB8_t3638kIhHREmiuI3xyIoM9dswoK1vWkFm_S_wqNYeiiJSFksiJaPrq6Fm2YQu0y20F5DdBKYS8I6YpeWFirm8SqdUV5xoegRAPrrDHJxbmo3bvLlvE0gxMCfKDA=="
+      ],
+      "isProcessed": true,
+      "_filepath": "output/sightings/raw/yahoo-2026-06-28.json"
+    },
+    {
+      "tweetId": "2071111642910441809",
+      "userId": "Shiyuichibi",
+      "text": "これもうるちゅるのオリジナルの海？水族館？のやつ このちゅるんとした質感が良いのであって、アニメコラボ系の上からプリントされててうるちゅるしてないやつはうるちゅるとして立体にする必要ないんよと思ってしまう… pic.x.com/xZboIzqniwしゆ@Shiyuichibi58分前",
+      "user": "しゆ",
+      "time": "2026-06-28T15:00:48.564+09:00",
+      "timeRaw": "58分前",
+      "url": "https://x.com/Shiyuichibi/status/2071111642910441809",
+      "hashtags": [],
+      "images": [
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i5e72TLbER0xQeK1l8ZZ0OLiphPQzN4elW5H9I7lYpbXXRj83esZiH3x883gpVXCmqQibWKm-cTFnnqk0rNmqkThxFheTc9cQ6eE_qcYrNFiNlZ77ooNVp-GrWT-AxlCp17j6feZ9l3BjFArN5RAMlNw-1pWtaxoCahL-pw-rNWudpN1s8ZEOJYTwTdj6q0Uy4=",
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i6hjVpND1OjWZ7RVcmujne-qhBYue7BtjFd4vzN1obZgY4Zg_WBqquauPw3Wgv4DX3EKGEdeDuHqv0fDrqmcrsJM9JazaG3SCD0A8cJNGAPJ4J9An5Cd7PS_cfGavZ7nGDB63-r8OwtQy84UF5jIGUXJb6qV4OVKpVCtM4UnUVtYw=="
+      ],
+      "isProcessed": true,
+      "_filepath": "output/sightings/raw/yahoo-2026-06-28.json"
+    },
+    {
+      "tweetId": "2071104998721855629",
+      "userId": "Taito_Kinuyama",
+      "text": "🎶新景品入荷情報🎶  ナルミヤキャラクターズ うるちゅるシールミニキーホルダー  入荷致しました‼️  #タイステ pic.x.com/d0Ff2h8Qpfタイステ衣山店@Taito_Kinuyama5:34",
+      "user": "タイステ衣山店",
+      "time": "2026-06-28T05:34:00.000+09:00",
+      "timeRaw": "5:34",
+      "url": "https://x.com/Taito_Kinuyama/status/2071104998721855629",
+      "hashtags": [
+        "#タイステ"
+      ],
+      "images": [
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i5e72TLbER0xQeK1l8ZZ0OLV5n094RxWJq4XDULKbjznrQRMEK26a7SDm_f9OyFU2IFrj2yr04MsPc17C_2QC362d0_l5NZo1dhrs1kRBrc9AfGFSH81BzYagcNzeFd6EPpa4zIH5Lr-fdoXQo8I9NvJRUyeaeyjyzQHHs7StWh15u4cURJz5R7jsq-V4UESEH42z6IhZ7dhOz28KR9VAU5",
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i6hjVpND1OjWZ7RVcmujne-OG17u7mEJ35FxzWx8ysn5ruqq7_0c3WU_eiUGhLUTx3p6ItoS-nfGbhxKO2YFOYmK9q513V9Llmgi_eToVfylGyrcRh4Da-sSgV2pxAgQJGSgZkFSVZs1CBIF4yggSo5gjmEDjj_EtppBk3o5qvl6A==",
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i6hjVpND1OjWZ7RVcmujne-9sivbid2V1URuUx6RVwX_Au_I7StKBfB7WEwhHcGz8bfsL_EALvI3ZgIt2ohiH_8Vf5AhjYC61hTr-UNSUdYP5f6Xc_-ufdJWL0VwNqe6YAn4UgbY-c9Cr3LNQeClx8axsiFkX__lacgfpVx_-_Pzw==",
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i6hjVpND1OjWZ7RVcmujne-KejOi6p5I5tVQHKGoZgqFk2M-RCxiFy1ndfDQmDD_3fa-GYhNlmZnvQIgumoqwc8_VRP2eLR12z5i-k2SbkHoJteVYuV-FAIVK0zB5NpqEuNN_T4BB1s1555a8OvTa869QllWRnLaRzuoo8YoShvZA==",
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i6hjVpND1OjWZ7RVcmujne-swwZm05_mLbgouNsne9IH04H0WP1Lf-YLVg46ICwUsVBLjGmnyZTw0e8RESGVHKb1yaeimdF9YfO2VqTMtF_F2bmbNRfPO8xaNjInBvXNRE2-fSokvex8h_MOUBohcGv8-DpZiO3SrL_ub748kGS-w=="
+      ],
+      "isProcessed": true,
+      "_filepath": "output/sightings/raw/yahoo-2026-06-28.json"
+    },
+    {
+      "tweetId": "2071099999098986962",
+      "userId": "etaaaaaana",
+      "text": "本屋さんにきたら、野生のボンドロとうるちゅるに出会えた🙌  昨日も雑貨屋さんにうるちゅる売ってたし、日常の買い物でも普通に出会えるようになってきて娘嬉しそう👧🏻✨茶達🍵6y🎀@etaaaaaana5:14",
+      "user": "茶達🍵6y🎀",
+      "time": "2026-06-28T05:14:00.000+09:00",
+      "timeRaw": "5:14",
+      "url": "https://x.com/etaaaaaana/status/2071099999098986962",
+      "hashtags": [],
+      "images": [
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i5e72TLbER0xQeK1l8ZZ0OLlkK62kSAwKYGBEmGAEFyMvOe7EsUSACa9jaow9iyL-Doxf5IlOLpV4bGbGcZ2t4DVV7TGtK-uzZTaCpvBA6Yc-61-wF9MUnsBEJq_EGRAppKpbOjzZ6XdVyuuR2BI1r_VJ_jRK5_dq0Dz20e-lY_h3t1zJWqFWDQVIZis-VL931EhwZqiYcaLXNM5YYk0gWT"
+      ],
+      "isProcessed": true,
+      "_filepath": "output/sightings/raw/yahoo-2026-06-28.json"
+    },
+    {
+      "tweetId": "2071095927792959807",
+      "userId": "yue_______l",
+      "text": "てかこのモンチッチのうるちゅるシール2個セットで買わないといけなくて1個余ってるんだけど、誰か買い取ってくれる人いたりする？ㅠ ̫ㅠ x.com/yue_______l/st…𝒚𝒖𝒖𝒏𝒂💟@yue_______l4:25るなちゃんモンチッチだいぶ集まったよ~ 🎶　今から貼り貼りします🎶　ちなみにこんなのも作りました🎶　明日のオン特たのしみよ🎶　@runa_swdp #るなにしかハマるな 🍓 𝒚𝒖𝒖𝒏𝒂💟@yue_______l4:58",
+      "user": "𝒚𝒖𝒖𝒏𝒂💟",
+      "time": "2026-06-28T04:25:00.000+09:00",
+      "timeRaw": "4:25",
+      "url": "https://x.com/yue_______l/status/2071095927792959807",
+      "hashtags": [
+        "#るなにしかハマるな"
+      ],
+      "images": [
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i5e72TLbER0xQeK1l8ZZ0OLcNwnDSYwWKnfcLyNMviz28DhidWD-kIWz3YZ-8ktFXfJoinWhCDCIj3rURaZUgeLdeBo9ZYgp_1Zsq1QCGqvMGLJudjDFvG9v1zCwG1YcGZaufsuPWpnTfZyzEUe30leTwaA4VifQ-vmJAAdKpbpSmltOKClM-630bRXn3rHhU6mGEolTDbPsPX8zetVHkrk",
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i5e72TLbER0xQeK1l8ZZ0OLcNwnDSYwWKnfcLyNMviz28DhidWD-kIWz3YZ-8ktFXfJoinWhCDCIj3rURaZUgeLdeBo9ZYgp_1Zsq1QCGqvMGLJudjDFvG9v1zCwG1YcGZaufsuPWpnTfZyzEUe30leTwaA4VifQ-vmJAAdKpbpSmltOKClM-630bRXn3rHhU6mGEolTDbPsPX8zetVHkrk",
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i6hjVpND1OjWZ7RVcmujne-bNSn1OSepeiPXqAki__S-O08MqIzxF3nB3GN6uSHOehsFwCsW5OV1c-Ug1tvr-fQVbWSh1KuGXZEOex7AfgrSJzRSDM1wPlYMILzoSEoDzJej6HsK2Idy2J3y1FcWkub1Q5culj17jM3DsMOyBB3SA=="
+      ],
+      "isProcessed": true,
+      "_filepath": "output/sightings/raw/yahoo-2026-06-28.json"
+    },
+    {
+      "tweetId": "2071095686112981005",
+      "userId": "N_0904s",
+      "text": "返信先:@spttsnhnkysうるちゅるで可愛いよね🥹 もうこのガチャがない😭回しまくりたかったなぁ🐈🎀@N_0904s4:57",
+      "user": "なぁ🐈🎀",
+      "time": "2026-06-28T04:57:00.000+09:00",
+      "timeRaw": "4:57",
+      "url": "https://x.com/N_0904s/status/2071095686112981005",
+      "hashtags": [],
+      "images": [
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i5e72TLbER0xQeK1l8ZZ0OLpoLTjoboSImHe8X8QQsXPTu8IuK3Ea_i3E82jjWlvHAcy9mXSnQtJxRVlguaYeqLEjM5VIolzj9zysRT-lvc_cjGGIDnXgnBDCIJUW1nXERZ1BKqdLoL6XWd8C6uKL1UVSIp4xuGEd11tVcMWydhLsWiub0wBzAp8d9Po2-Uy5PSmyHJRTK3eoOIqL6M6Xvq"
+      ],
+      "isProcessed": true,
+      "_filepath": "output/sightings/raw/yahoo-2026-06-28.json"
+    },
+    {
+      "tweetId": "2071094018381852844",
+      "userId": "Town_o6",
+      "text": "私は昔ペドロのことをぺょょぱゅかぅと呼んでいたのを、流石にキショいか…とペドロ呼びに矯正しているのですが、やはりこの頃のペドロはあまりにもうるちゅるすぎ、ぺょょと呼ぶ他ないだろと思いましたまち@Town_o64:51",
+      "user": "まち",
+      "time": "2026-06-28T04:51:00.000+09:00",
+      "timeRaw": "4:51",
+      "url": "https://x.com/Town_o6/status/2071094018381852844",
+      "hashtags": [],
+      "images": [
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i5e72TLbER0xQeK1l8ZZ0OLCI8ins2Vf7dViNR-cecfOSk8lJvNFmaQcjcjuXmbeiiSe1oeRmefNr_zOFzrdRTXqo1E_JeVKM0GlGAOvUcNXaGQciNgOR4GRFcIoQW9kJ8arbfew9ebayDRJvmuhAI7k4gEXFdPM_wgMqvToDYgNOzMLn7LmVVUSQ_8bk4qy3ZZyY7L7c7ydoQtwVLRUITW"
+      ],
+      "isProcessed": true,
+      "_filepath": "output/sightings/raw/yahoo-2026-06-28.json"
+    },
+    {
+      "tweetId": "2071088882339475897",
+      "userId": "9caho19",
+      "text": "返信先:@ru_popmart初めまして、検索から失礼します。 ナカムラくんのうるちゅるなどはお求めではないでしょうか？𝓚@9caho194:30",
+      "user": "𝓚",
+      "time": "2026-06-28T04:30:00.000+09:00",
+      "timeRaw": "4:30",
+      "url": "https://x.com/9caho19/status/2071088882339475897",
+      "hashtags": [],
+      "images": [
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i5e72TLbER0xQeK1l8ZZ0OL759uZaRXM8KGzlZkIhYNHMKfyMwlgoMWN4pa95pB3UwBHYS0_eY5yL8MnDxudEIAc-nooMru0NC7Q5NNwoTQGAosw4oYx9rlhSqFZCjQLfSXC9Er9cQ9AMdblr9p9w-o8IJgVsIpqL40NBmtgm12C8lYfKhGI_qp6hWjyHoZDLoRakOPN-KdokusqNTmTxUW"
       ],
       "isProcessed": true,
       "_filepath": "output/sightings/raw/yahoo-2026-06-28.json"
