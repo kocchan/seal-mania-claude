@@ -1,7 +1,7 @@
 {
   "date": "2026-06-28",
-  "updatedAt": "2026-06-28T20:04:07.126+09:00",
-  "count": 26,
+  "updatedAt": "2026-06-29T07:01:00.567+09:00",
+  "count": 28,
   "articles": [
     {
       "isSighting": true,
@@ -496,6 +496,44 @@
       "wpPostId": 10991,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-fukuoka-sawara-fukuoka-2026-06-28-2/",
       "postedAt": "2026-06-28T20:04:22.574+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "宮城県",
+      "city": "仙台市青葉区",
+      "shopName": "ボンボンドロップシール ポップアップストア 仙台会場（仙台駅周辺）",
+      "shopAddress": "宮城県仙台市青葉区中央（仙台駅周辺の商業施設）",
+      "productName": "ボンボンドロップシール",
+      "sightingTime": "2026-06-29 14:00頃",
+      "statusText": "在庫あり",
+      "confidenceMemo": "近隣の飲食店「青山文庫」への立ち寄り情報の記述があり、仙台駅周辺で開催のポップアップと特定",
+      "sourceUrl": "https://x.com/kotsumesan75/status/2071248101156044972",
+      "sourceTweetId": "2071248101156044972",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2071248101156044972.png",
+      "isPosted": true,
+      "wpPostId": 10993,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-miyagi-aoba-sendai-2026-06-29/",
+      "postedAt": "2026-06-29T07:01:07.949+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "埼玉県",
+      "city": "さいたま市大宮区",
+      "shopName": "ボンボンドロップシール ポップアップストア 大宮",
+      "shopAddress": "埼玉県さいたま市大宮区（大宮駅周辺の商業施設）",
+      "productName": "ボンボンドロップシール",
+      "sightingTime": "2026-06-29 13:00頃",
+      "statusText": "在庫あり（人気種類は完売、再入荷なし）",
+      "confidenceMemo": "大宮のポップアップ会場での具体的な在庫状況および参戦報告",
+      "sourceUrl": "https://x.com/STFbdlmRB7ayTAu/status/2071242133991047349",
+      "sourceTweetId": "2071242133991047349",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2071242133991047349.png",
+      "isPosted": true,
+      "wpPostId": 10995,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-saitama-omiya-saitama-2026-06-29/",
+      "postedAt": "2026-06-29T07:01:16.270+09:00"
     }
   ]
 }
