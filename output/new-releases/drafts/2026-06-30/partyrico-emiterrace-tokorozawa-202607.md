@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-06-30T05:37:58.644Z"
+wpPostUrl: "https://www.seal-search.com/news/new-item/partyrico-emiterrace-tokorozawa-202607/"
+wpPostId: 11090
+posted: true
 imageGenerated: true
 type: lottery
 status: draft
