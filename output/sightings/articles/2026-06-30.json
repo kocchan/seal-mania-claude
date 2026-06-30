@@ -1,7 +1,7 @@
 {
   "date": "2026-06-30",
-  "updatedAt": "2026-06-30T23:29:59.145+09:00",
-  "count": 35,
+  "updatedAt": "2026-07-01T07:14:07.579+09:00",
+  "count": 36,
   "articles": [
     {
       "isSighting": true,
@@ -667,6 +667,25 @@
       "wpPostId": 11128,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-tokyo-chiyoda-2026-06-30/",
       "postedAt": "2026-06-30T23:30:20.812+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "東京都",
+      "city": "豊島区",
+      "shopName": "ヨドバシカメラ マルチメディア池袋",
+      "shopAddress": "東京都豊島区南池袋1-28-1",
+      "productName": "ボンボンドロップシール",
+      "sightingTime": "2026-07-01 06:00頃",
+      "statusText": "在庫あり（長蛇の列が発生中）",
+      "confidenceMemo": "具体的な店舗名（ヨドバシ池袋）と混雑状況の記載があり信頼性が高い",
+      "sourceUrl": "https://x.com/Dx5vFcQJtm41372/status/2072054889568710882",
+      "sourceTweetId": "2072054889568710882",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2072054889568710882.png",
+      "isPosted": true,
+      "wpPostId": 11130,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-tokyo-toshima-2026-07-01/",
+      "postedAt": "2026-07-01T07:14:13.947+09:00"
     }
   ]
 }
