@@ -1,7 +1,7 @@
 {
   "date": "2026-06-30",
-  "updatedAt": "2026-06-30T12:53:50.732+09:00",
-  "count": 16,
+  "updatedAt": "2026-06-30T15:53:16.305+09:00",
+  "count": 19,
   "articles": [
     {
       "isSighting": true,
@@ -306,6 +306,63 @@
       "wpPostId": 11088,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-gunma-maebashi-2026-06-29/",
       "postedAt": "2026-06-30T12:55:39.564+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "東京都",
+      "city": "豊島区",
+      "shopName": "ヨドバシカメラ マルチメディア池袋",
+      "shopAddress": "東京都豊島区南池袋1-28-1",
+      "productName": "ボンボンドロップシール（お茶犬、コジコジ）",
+      "sightingTime": "2026-06-30 05:04頃",
+      "statusText": "在庫あり（お一人様3点まで、コジコジは1種制限あり）",
+      "confidenceMemo": "購入報告あり。個別の商品名と購入制限について具体的な記述があるため信頼性が高い。",
+      "sourceUrl": "https://x.com/P_Tukihi/status/2071822215918895537",
+      "sourceTweetId": "2071822215918895537",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2071822215918895537.png",
+      "isPosted": true,
+      "wpPostId": 11092,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-tokyo-toshima-2026-06-30-2/",
+      "postedAt": "2026-06-30T15:53:23.489+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "愛知県",
+      "city": "名古屋市守山区",
+      "shopName": "白沢書店",
+      "shopAddress": "愛知県名古屋市守山区白沢町201",
+      "productName": "ボンボンドロップシール（リラックマ、ナルミヤキャラクターズ）",
+      "sightingTime": "2026-06-30 04:40頃",
+      "statusText": "入荷・在庫あり（お一人様 各1枚、計2枚まで）",
+      "confidenceMemo": "店舗公式アカウントによる入荷情報。個数制限の記載もあり信頼性が非常に高い。",
+      "sourceUrl": "https://x.com/shirasawashoten/status/2071816190004260942",
+      "sourceTweetId": "2071816190004260942",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2071816190004260942.png",
+      "isPosted": true,
+      "wpPostId": 11094,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-aichi-moriyama-nagoya-2026-06-30/",
+      "postedAt": "2026-06-30T15:53:30.619+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "京都府",
+      "city": "京都市上京区",
+      "shopName": "鶴文堂",
+      "shopAddress": "京都府京都市上京区河原町通丸太町上る出水町274",
+      "productName": "ボンボンドロップシール（ちいかわ、リラックマ等5柄）",
+      "sightingTime": "2026-06-30 04:27頃",
+      "statusText": "入荷・在庫あり",
+      "confidenceMemo": "店舗公式アカウントによる入荷案内。具体的なキャラクター名の記載もある。",
+      "sourceUrl": "https://x.com/kakubundo151/status/2071812829418500473",
+      "sourceTweetId": "2071812829418500473",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2071812829418500473.png",
+      "isPosted": true,
+      "wpPostId": 11096,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-kyoto-kamigyo-kyoto-2026-06-30/",
+      "postedAt": "2026-06-30T15:53:38.111+09:00"
     }
   ]
 }
