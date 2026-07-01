@@ -1,7 +1,7 @@
 {
   "date": "2026-07-01",
-  "updatedAt": "2026-07-01T20:59:08.653+09:00",
-  "count": 15,
+  "updatedAt": "2026-07-01T23:47:51.885+09:00",
+  "count": 16,
   "articles": [
     {
       "isSighting": true,
@@ -287,6 +287,25 @@
       "wpPostId": 11164,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-hokkaido-chuo-sapporo-2026-06-24-2/",
       "postedAt": "2026-07-01T20:59:15.047+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "北海道",
+      "city": "札幌市中央区",
+      "shopName": "駿河屋札幌ノルベサ店",
+      "shopAddress": "北海道札幌市中央区南3条西5丁目1-1 ノルベサ3F",
+      "productName": "ちいかわボンボンドロップシール",
+      "sightingTime": "2026-07-01 12:33",
+      "statusText": "入荷・販売中",
+      "confidenceMemo": "店舗公式アカウントによる入荷・販売場所の告知であり、信頼性が非常に高い",
+      "sourceUrl": "https://x.com/suruga_norbesa/status/2072297444789084411",
+      "sourceTweetId": "2072297444789084411",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2072297444789084411.png",
+      "isPosted": true,
+      "wpPostId": 11166,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-hokkaido-chuo-sapporo-2026-07-01/",
+      "postedAt": "2026-07-01T23:47:59.352+09:00"
     }
   ]
 }
