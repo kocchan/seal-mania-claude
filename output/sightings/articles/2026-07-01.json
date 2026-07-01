@@ -1,7 +1,7 @@
 {
   "date": "2026-07-01",
-  "updatedAt": "2026-07-01T19:01:21.552+09:00",
-  "count": 14,
+  "updatedAt": "2026-07-01T20:59:08.653+09:00",
+  "count": 15,
   "articles": [
     {
       "isSighting": true,
@@ -268,6 +268,25 @@
       "wpPostId": 11162,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-fukuoka-kasuya-kasuya-district-2026-07-01/",
       "postedAt": "2026-07-01T19:01:41.440+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "北海道",
+      "city": "札幌市中央区",
+      "shopName": "ラウンドワン札幌すすきの店",
+      "shopAddress": "北海道札幌市中央区南4条西3丁目 第3グリーンビル",
+      "productName": "Weather Planet ぷっくりシール",
+      "sightingTime": "2026-06-24 08:00頃",
+      "statusText": "入荷（ラウンドワン限定プライズ）",
+      "confidenceMemo": "店舗公式アカウントによる入荷情報。名称はぷっくりシールだが、ファンの間で同類商品として扱われている可能性がある。",
+      "sourceUrl": "https://x.com/r1_susukino/status/2072286519013060726",
+      "sourceTweetId": "2072286519013060726",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2072286519013060726.png",
+      "isPosted": true,
+      "wpPostId": 11164,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-hokkaido-chuo-sapporo-2026-06-24-2/",
+      "postedAt": "2026-07-01T20:59:15.047+09:00"
     }
   ]
 }
