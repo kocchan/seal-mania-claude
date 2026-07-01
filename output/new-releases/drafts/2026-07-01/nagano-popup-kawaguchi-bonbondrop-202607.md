@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-07-01T05:58:25.758Z"
+wpPostUrl: "https://www.seal-search.com/news/new-item/nagano-popup-kawaguchi-bonbondrop-202607/"
+wpPostId: 11150
+posted: true
 imageGenerated: true
 type: new-release
 status: draft
