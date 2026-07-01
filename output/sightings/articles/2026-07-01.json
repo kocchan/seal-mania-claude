@@ -1,7 +1,7 @@
 {
   "date": "2026-07-01",
-  "updatedAt": "2026-07-01T16:07:34.078+09:00",
-  "count": 11,
+  "updatedAt": "2026-07-01T19:01:21.552+09:00",
+  "count": 14,
   "articles": [
     {
       "isSighting": true,
@@ -211,6 +211,63 @@
       "wpPostId": 11156,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-tokyo-chuo-2026-07-01/",
       "postedAt": "2026-07-01T16:07:49.143+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "福岡県",
+      "city": "福岡市博多区",
+      "shopName": "博多マルイ（ポップアップストア）",
+      "shopAddress": "福岡県福岡市博多区博多駅中央街9-1",
+      "productName": "ボンボンドロップシール",
+      "sightingTime": "2026-07-01 07:33頃",
+      "statusText": "在庫あり（入場は抽選制限あり）",
+      "confidenceMemo": "具体的な店舗名とイベント内容の記述があり、開催が確認できる情報",
+      "sourceUrl": "https://x.com/shinamaki_01414/status/2072222119963082821",
+      "sourceTweetId": "2072222119963082821",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2072222119963082821.png",
+      "isPosted": true,
+      "wpPostId": 11158,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-fukuoka-fukuoka-hakata-2026-07-01/",
+      "postedAt": "2026-07-01T19:01:28.223+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "広島県",
+      "city": "福山市",
+      "shopName": "福山エーガル８シネマズ",
+      "shopAddress": "広島県福山市神辺町大字新道野1丁目2-1 フジグラン神辺内",
+      "productName": "うるちゅるポップシール サンリオキャラクターズ",
+      "sightingTime": "2026-07-01 18:37頃",
+      "statusText": "入荷・販売開始",
+      "confidenceMemo": "映画館公式アカウントによる公式入荷情報",
+      "sourceUrl": "https://x.com/e_gal8cinema/status/2072253306970480741",
+      "sourceTweetId": "2072253306970480741",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2072253306970480741.png",
+      "isPosted": true,
+      "wpPostId": 11160,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-hiroshima-fukuyama-2026-07-01/",
+      "postedAt": "2026-07-01T19:01:34.525+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "福岡県",
+      "city": "糟屋郡粕屋町",
+      "shopName": "ユザワヤ イオンモール福岡店",
+      "shopAddress": "福岡県糟屋郡粕屋町酒殿字老目192-1 イオンモール福岡内",
+      "productName": "うるちゅる系のシール",
+      "sightingTime": "2026-07-01 07:31頃",
+      "statusText": "在庫多数あり、安売り中",
+      "confidenceMemo": "具体的な店舗名と在庫状況の記載があるため信頼度が高い",
+      "sourceUrl": "https://x.com/mikky0531/status/2072221445539979411",
+      "sourceTweetId": "2072221445539979411",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2072221445539979411.png",
+      "isPosted": true,
+      "wpPostId": 11162,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-fukuoka-kasuya-kasuya-district-2026-07-01/",
+      "postedAt": "2026-07-01T19:01:41.440+09:00"
     }
   ]
 }
