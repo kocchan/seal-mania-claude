@@ -1,7 +1,7 @@
 {
   "date": "2026-07-01",
-  "updatedAt": "2026-07-01T13:07:27.188+09:00",
-  "count": 9,
+  "updatedAt": "2026-07-01T16:07:34.078+09:00",
+  "count": 11,
   "articles": [
     {
       "isSighting": true,
@@ -173,6 +173,44 @@
       "wpPostId": 11148,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-chiba-matsudo-2026-06-30-2/",
       "postedAt": "2026-07-01T13:08:32.173+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "岐阜県",
+      "city": "不破郡垂井町",
+      "shopName": "スマ本屋 三洋堂垂井店",
+      "shopAddress": "岐阜県不破郡垂井町御所野1501",
+      "productName": "ボンボンドロップシール",
+      "sightingTime": "2026-07-01 01:01頃",
+      "statusText": "在庫あり（残り2種類、1人1枚の購入制限あり）",
+      "confidenceMemo": "店舗公式アカウントによる詳細な在庫・販売状況の投稿",
+      "sourceUrl": "https://x.com/sanyodotarui/status/2072194929552769062",
+      "sourceTweetId": "2072194929552769062",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2072194929552769062.png",
+      "isPosted": true,
+      "wpPostId": 11154,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-gifu-tarui-fuwa-district-2026-07-01/",
+      "postedAt": "2026-07-01T16:07:41.933+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "東京都",
+      "city": "中央区",
+      "shopName": "文房具のかめや",
+      "shopAddress": "東京都中央区日本橋浜町2-19-9",
+      "productName": "ボンボンドロップシール（ちょこみんボンボン他全4種）",
+      "sightingTime": "2026-07-01 05:05頃",
+      "statusText": "在庫あり（全4種入荷、レジにて販売、購入制限あり）",
+      "confidenceMemo": "店舗公式アカウントによる入荷案内と販売方法の告知",
+      "sourceUrl": "https://x.com/kameya_hamacho/status/2072184749255516583",
+      "sourceTweetId": "2072184749255516583",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2072184749255516583.png",
+      "isPosted": true,
+      "wpPostId": 11156,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-tokyo-chuo-2026-07-01/",
+      "postedAt": "2026-07-01T16:07:49.143+09:00"
     }
   ]
 }
