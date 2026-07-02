@@ -1,7 +1,7 @@
 {
   "date": "2026-07-02",
-  "updatedAt": "2026-07-02T18:24:10.818+09:00",
-  "count": 23,
+  "updatedAt": "2026-07-02T20:31:16.470+09:00",
+  "count": 26,
   "articles": [
     {
       "isSighting": true,
@@ -439,6 +439,63 @@
       "wpPostId": 11212,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-chiba-kisarazu-2026-07-02-3/",
       "postedAt": "2026-07-02T18:24:47.254+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "愛知県",
+      "city": "小牧市",
+      "shopName": "ブーストギア小牧店",
+      "shopAddress": "愛知県小牧市曙町2",
+      "productName": "ボンボンドロップシール (ちいかわ、ちいかわニコニコ等 全7種)",
+      "sightingTime": "2026-07-03 10:00頃",
+      "statusText": "2026年7月3日より販売開始予定（入荷数少なめ、個数制限あり）",
+      "confidenceMemo": "店舗アカウントによる公式の入荷・販売告知。具体的な個数制限などの情報あり。",
+      "sourceUrl": "https://x.com/toycar_diary/status/2072639334554149294",
+      "sourceTweetId": "2072639334554149294",
+      "isPrediction": true,
+      "imagePath": "output/sightings/images/2072639334554149294.png",
+      "isPosted": true,
+      "wpPostId": 11214,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-aichi-komaki-2026-07-03/",
+      "postedAt": "2026-07-02T20:31:23.800+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "愛知県",
+      "city": "岡崎市",
+      "shopName": "TOKAI ONAIR OFFICIAL STORE 岡崎城公園店",
+      "shopAddress": "愛知県岡崎市康生町561-1 岡崎城公園内",
+      "productName": "東海オンエア ぷっくりシール",
+      "sightingTime": "2026-07-02 10:29頃",
+      "statusText": "新商品（ぷっくりシール等）の詳細情報解禁・販売予定",
+      "confidenceMemo": "公式ストアによる詳細情報解禁の告知。アイテムカテゴリとして合致。",
+      "sourceUrl": "https://x.com/TO_o812/status/2072628755512889442",
+      "sourceTweetId": "2072628755512889442",
+      "isPrediction": true,
+      "imagePath": "output/sightings/images/2072628755512889442.png",
+      "isPosted": true,
+      "wpPostId": 11216,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-aichi-okazaki-2026-07-02/",
+      "postedAt": "2026-07-02T20:31:31.588+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "神奈川県",
+      "city": "横浜市西区",
+      "shopName": "GiGO横浜西口",
+      "shopAddress": "神奈川県横浜市西区南幸2-17-1",
+      "productName": "ＴＷＩＣＥ ＬＯＶＥＬＹＳ うるちゅるシールmini（GiGO限定）",
+      "sightingTime": "2026-07-01 10:27頃",
+      "statusText": "在庫あり（継続展開中）",
+      "confidenceMemo": "店舗公式アカウントによる入荷・在庫維持情報のため信頼性が極めて高い",
+      "sourceUrl": "https://x.com/GiGO_Yokohama/status/2072627318829482276",
+      "sourceTweetId": "2072627318829482276",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2072627318829482276.png",
+      "isPosted": true,
+      "wpPostId": 11218,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-kanagawa-nishi-yokohama-2026-07-01/",
+      "postedAt": "2026-07-02T20:31:39.361+09:00"
     }
   ]
 }
