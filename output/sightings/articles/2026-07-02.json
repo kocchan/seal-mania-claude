@@ -1,7 +1,7 @@
 {
   "date": "2026-07-02",
-  "updatedAt": "2026-07-02T12:48:08.310+09:00",
-  "count": 15,
+  "updatedAt": "2026-07-02T15:36:18.339+09:00",
+  "count": 18,
   "articles": [
     {
       "isSighting": true,
@@ -287,6 +287,63 @@
       "wpPostId": 11196,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-kagoshima-kagoshima-2026-07-01-2/",
       "postedAt": "2026-07-02T12:49:49.442+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "静岡県",
+      "city": "島田市",
+      "shopName": "TSUTAYAグランリバー大井川店",
+      "shopAddress": "静岡県島田市井口147",
+      "productName": "ボンボンドロップシール（ノンタン、コジコジ、トーマス、パウパトロール）",
+      "sightingTime": "2026-07-02 04:55頃",
+      "statusText": "入荷（各種1枚までの販売制限あり）",
+      "confidenceMemo": "店舗公式アカウントによる入荷・在庫情報。写真付きで信頼性が非常に高い。",
+      "sourceUrl": "https://x.com/TSUTAYA81060020/status/2072544656689443225",
+      "sourceTweetId": "2072544656689443225",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2072544656689443225.png",
+      "isPosted": true,
+      "wpPostId": 11198,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-shizuoka-shimada-2026-07-02/",
+      "postedAt": "2026-07-02T15:36:26.292+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "岐阜県",
+      "city": "岐阜市",
+      "shopName": "GiGO Vタウン芥見",
+      "shopAddress": "岐阜県岐阜市芥見大船2丁目98-1 Vタウン芥見内",
+      "productName": "TWICE LOVELYSうるちゅるシールミニ",
+      "sightingTime": "2026-07-02 05:24頃",
+      "statusText": "近日入荷予定",
+      "confidenceMemo": "店舗公式アカウントによる入荷予告情報",
+      "sourceUrl": "https://x.com/GiGO_Akutami/status/2072551910247375250",
+      "sourceTweetId": "2072551910247375250",
+      "isPrediction": true,
+      "imagePath": "output/sightings/images/2072551910247375250.png",
+      "isPosted": true,
+      "wpPostId": 11200,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-gifu-gifu-2026-07-02/",
+      "postedAt": "2026-07-02T15:36:33.758+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "東京都",
+      "city": "中央区",
+      "shopName": "文房具のかめや",
+      "shopAddress": "東京都中央区日本橋浜町2-30-5",
+      "productName": "サンリオキャラクター うるちゅるポップシール（ウサハナ、タキシードサム、けろっぴ等）",
+      "sightingTime": "2026-07-02 04:07頃",
+      "statusText": "在庫あり（5種類入荷、購入制限なし）",
+      "confidenceMemo": "店舗公式アカウントによる入荷報告で詳細な種類と言及あり",
+      "sourceUrl": "https://x.com/kameya_hamacho/status/2072532544793493584",
+      "sourceTweetId": "2072532544793493584",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2072532544793493584.png",
+      "isPosted": true,
+      "wpPostId": 11202,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-tokyo-chuo-2026-07-02/",
+      "postedAt": "2026-07-02T15:36:41.408+09:00"
     }
   ]
 }
