@@ -1,7 +1,7 @@
 {
   "date": "2026-07-02",
-  "updatedAt": "2026-07-02T20:31:16.470+09:00",
-  "count": 26,
+  "updatedAt": "2026-07-03T07:04:02.565+09:00",
+  "count": 27,
   "articles": [
     {
       "isSighting": true,
@@ -496,6 +496,25 @@
       "wpPostId": 11218,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-kanagawa-nishi-yokohama-2026-07-01/",
       "postedAt": "2026-07-02T20:31:39.361+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "東京都",
+      "city": "千代田区",
+      "shopName": "HOBBY SHOPあんこう AKIHABARA店",
+      "shopAddress": "東京都千代田区外神田",
+      "productName": "ボンボンドロップシール",
+      "sightingTime": "2026-07-03 14:28頃",
+      "statusText": "在庫あり（種類により残りわずか、福袋形式）",
+      "confidenceMemo": "店舗公式アカウントによる写真付きの在庫報告。具体的で信頼性が非常に高い。",
+      "sourceUrl": "https://x.com/hobby_anko_akb/status/2072688837579423880",
+      "sourceTweetId": "2072688837579423880",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2072688837579423880.png",
+      "isPosted": true,
+      "wpPostId": 11220,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-tokyo-chiyoda-2026-07-03/",
+      "postedAt": "2026-07-03T07:04:09.308+09:00"
     }
   ]
 }
