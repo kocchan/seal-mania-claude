@@ -1,7 +1,7 @@
 {
   "date": "2026-07-03",
-  "updatedAt": "2026-07-03T23:20:26.123+09:00",
-  "count": 30,
+  "updatedAt": "2026-07-04T07:02:23.817+09:00",
+  "count": 31,
   "articles": [
     {
       "isSighting": true,
@@ -572,6 +572,25 @@
       "wpPostId": 11280,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-tokyo-shibuya-2026-07-04/",
       "postedAt": "2026-07-03T23:20:32.924+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "愛知県",
+      "city": "名古屋市中区",
+      "shopName": "#C-pla 名古屋大須店",
+      "shopAddress": "愛知県名古屋市中区大須3丁目30-40 万松寺ビル",
+      "productName": "サンリオ ボンボンドロップシールキーホルダー",
+      "sightingTime": "2026-07-04 15:37頃",
+      "statusText": "完売",
+      "confidenceMemo": "地域名（大須）と店舗系列名（シープラ）から場所の特定が可能。入荷直後の完売報告であり信頼性が高い。",
+      "sourceUrl": "https://x.com/seinaruho4no_/status/2073068554250051702",
+      "sourceTweetId": "2073068554250051702",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2073068554250051702.png",
+      "isPosted": true,
+      "wpPostId": 11282,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-aichi-naka-nagoya-2026-07-04/",
+      "postedAt": "2026-07-04T07:02:30.711+09:00"
     }
   ]
 }
