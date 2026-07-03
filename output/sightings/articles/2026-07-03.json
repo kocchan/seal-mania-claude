@@ -1,7 +1,7 @@
 {
   "date": "2026-07-03",
-  "updatedAt": "2026-07-03T18:28:50.455+09:00",
-  "count": 29,
+  "updatedAt": "2026-07-03T23:20:26.123+09:00",
+  "count": 30,
   "articles": [
     {
       "isSighting": true,
@@ -553,6 +553,25 @@
       "wpPostId": 11278,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-gifu-kani-2026-06-27/",
       "postedAt": "2026-07-03T18:30:14.821+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "東京都",
+      "city": "渋谷区",
+      "shopName": "ビーポイント原宿店",
+      "shopAddress": "東京都渋谷区神宮前1-20-7",
+      "productName": "ボンボンドロップシール 16種類",
+      "sightingTime": "2026-07-04（入荷予定）",
+      "statusText": "16種類入荷、整理券配布（限定150枚）による販売予定",
+      "confidenceMemo": "店舗公式アカウントによる具体的な入荷・販売告知情報のツイート",
+      "sourceUrl": "https://x.com/RyoBpo/status/2073013965198946525",
+      "sourceTweetId": "2073013965198946525",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2073013965198946525.png",
+      "isPosted": true,
+      "wpPostId": 11280,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-tokyo-shibuya-2026-07-04/",
+      "postedAt": "2026-07-03T23:20:32.924+09:00"
     }
   ]
 }
