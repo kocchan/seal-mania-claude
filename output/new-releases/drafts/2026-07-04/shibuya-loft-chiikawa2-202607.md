@@ -1,6 +1,9 @@
 ---
+postedAt: "2026-07-04T05:01:49.464Z"
+wpPostUrl: "https://www.seal-search.com/news/new-item/shibuya-loft-chiikawa2-202607/"
+wpPostId: 11428
 imageGenerated: true
-posted: false
+posted: true
 type: lottery
 status: draft
 title: "【7/4締切】ちいかわボンドロ第2弾抽選@渋谷ロフトB1"
