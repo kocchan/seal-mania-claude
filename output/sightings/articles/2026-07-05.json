@@ -1,7 +1,7 @@
 {
   "date": "2026-07-05",
-  "updatedAt": "2026-07-05T12:39:45.142+09:00",
-  "count": 18,
+  "updatedAt": "2026-07-05T15:37:02.964+09:00",
+  "count": 20,
   "articles": [
     {
       "isSighting": true,
@@ -344,6 +344,44 @@
       "wpPostId": 11500,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-tokyo-shinjuku-2026-07-04-3/",
       "postedAt": "2026-07-05T12:41:56.573+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "静岡県",
+      "city": "沼津市",
+      "shopName": "くまざわ書店沼津アントレ店",
+      "shopAddress": "静岡県沼津市大手町1-1-1 沼津アントレ内",
+      "productName": "ボンボンドロップシール（リラックマ、ナルミヤ）",
+      "sightingTime": "2026-07-05 00:57頃",
+      "statusText": "完売",
+      "confidenceMemo": "店舗公式アカウントによる完売報告（7月5日入荷分）",
+      "sourceUrl": "https://x.com/kumazawa_numazu/status/2073618619616121147",
+      "sourceTweetId": "2073618619616121147",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2073618619616121147.png",
+      "isPosted": true,
+      "wpPostId": 11522,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-shizuoka-numazu-2026-07-05-2/",
+      "postedAt": "2026-07-05T15:37:09.393+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "兵庫県",
+      "city": "西脇市",
+      "shopName": "西村書店西脇店",
+      "shopAddress": "兵庫県西脇市野村町1796-67",
+      "productName": "ボンボンドロップシール",
+      "sightingTime": "2026-07-05 03:39頃",
+      "statusText": "完売",
+      "confidenceMemo": "店舗公式アカウントによる当日入荷分の完売報告",
+      "sourceUrl": "https://x.com/nishisyo_nishi/status/2073612607509147704",
+      "sourceTweetId": "2073612607509147704",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2073612607509147704.png",
+      "isPosted": true,
+      "wpPostId": 11524,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-hyogo-nishiwaki-2026-07-05-2/",
+      "postedAt": "2026-07-05T15:37:16.062+09:00"
     }
   ]
 }
