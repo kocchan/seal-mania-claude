@@ -1,7 +1,7 @@
 {
   "date": "2026-07-05",
-  "updatedAt": "2026-07-05T18:14:42.620+09:00",
-  "count": 22,
+  "updatedAt": "2026-07-05T20:02:37.203+09:00",
+  "count": 23,
   "articles": [
     {
       "isSighting": true,
@@ -420,6 +420,25 @@
       "wpPostId": 11528,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-tokyo-toshima-2026-07-05/",
       "postedAt": "2026-07-05T18:14:56.698+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "埼玉県",
+      "city": "さいたま市大宮区",
+      "shopName": "コトブキプラス大宮店",
+      "shopAddress": "埼玉県さいたま市大宮区大門町1丁目19-1",
+      "productName": "ボンボンドロップシール、ウォーターシール",
+      "sightingTime": "2026-07-05 07:11頃",
+      "statusText": "入荷済み（サンリオ版も入荷予定あり）",
+      "confidenceMemo": "具体的な店舗名がハッシュタグと共に明記されており、入荷の事実が報告されているため信頼性が高い。",
+      "sourceUrl": "https://x.com/tanu_uchoten_/status/2073701895663727069",
+      "sourceTweetId": "2073701895663727069",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2073701895663727069.png",
+      "isPosted": true,
+      "wpPostId": 11530,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-saitama-omiya-saitama-2026-07-05/",
+      "postedAt": "2026-07-05T20:02:45.185+09:00"
     }
   ]
 }
