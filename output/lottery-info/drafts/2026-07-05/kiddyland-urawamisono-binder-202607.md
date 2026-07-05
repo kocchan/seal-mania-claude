@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-07-05T05:30:10.117Z"
+wpPostUrl: "https://www.seal-search.com/news/reservation/kiddyland-urawamisono-binder-202607/"
+wpPostId: 11506
+posted: true
 imageGenerated: true
 type: lottery
 status: draft

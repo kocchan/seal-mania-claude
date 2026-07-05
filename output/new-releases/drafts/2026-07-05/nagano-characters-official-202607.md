@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-07-05T05:31:05.444Z"
+wpPostUrl: "https://www.seal-search.com/news/new-item/nagano-characters-official-202607-2/"
+wpPostId: 11518
+posted: true
 imageGenerated: true
 type: lottery
 status: draft

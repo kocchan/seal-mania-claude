@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-07-05T05:29:52.268Z"
+wpPostUrl: "https://www.seal-search.com/news/reservation/bungumaru-nagoyadome-202607/"
+wpPostId: 11502
+posted: true
 imageGenerated: true
 type: lottery
 status: draft

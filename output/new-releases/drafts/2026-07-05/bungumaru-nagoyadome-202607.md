@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-07-05T05:30:38.369Z"
+wpPostUrl: "https://www.seal-search.com/news/new-item/bungumaru-nagoyadome-202607-2/"
+wpPostId: 11512
+posted: true
 imageGenerated: true
 type: lottery
 status: draft

@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-07-05T05:31:14.360Z"
+wpPostUrl: "https://www.seal-search.com/news/new-item/partyrico-kameari-202607-2/"
+wpPostId: 11520
+posted: true
 imageGenerated: true
 type: lottery
 status: draft

@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-07-05T05:30:01.539Z"
+wpPostUrl: "https://www.seal-search.com/news/reservation/jr-kyoto-isetan-bonbon-202607/"
+wpPostId: 11504
+posted: true
 imageGenerated: true
 type: lottery
 status: draft
