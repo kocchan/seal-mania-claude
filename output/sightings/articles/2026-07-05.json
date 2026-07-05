@@ -1,7 +1,7 @@
 {
   "date": "2026-07-05",
-  "updatedAt": "2026-07-05T20:02:37.203+09:00",
-  "count": 23,
+  "updatedAt": "2026-07-05T22:50:43.035+09:00",
+  "count": 25,
   "articles": [
     {
       "isSighting": true,
@@ -439,6 +439,44 @@
       "wpPostId": 11530,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-saitama-omiya-saitama-2026-07-05/",
       "postedAt": "2026-07-05T20:02:45.185+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "宮城県",
+      "city": "仙台市青葉区",
+      "shopName": "仙台駅前 EBeanS（イービーンズ）",
+      "shopAddress": "宮城県仙台市青葉区中央4-1-1",
+      "productName": "ボンボンドロップシール",
+      "sightingTime": "2026-07-05 11:04頃",
+      "statusText": "在庫あり（事前抽選の当選者のみ入場可能・非常に混雑）",
+      "confidenceMemo": "商業施設名が具体的に明記されており、販売形式（抽選制）についても言及があるため信頼性が高い。",
+      "sourceUrl": "https://x.com/wuI2qVbkYuIeaQ3/status/2073724708399567047",
+      "sourceTweetId": "2073724708399567047",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2073724708399567047.png",
+      "isPosted": true,
+      "wpPostId": 11532,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-miyagi-aoba-sendai-2026-07-05/",
+      "postedAt": "2026-07-05T22:50:49.213+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "北海道",
+      "city": "砂川市",
+      "shopName": "砂川SA",
+      "shopAddress": "北海道砂川市空知太",
+      "productName": "うるちゅる（オリジナル新作、サンリオ和柄ハローキティ、クロミ）",
+      "sightingTime": "2026-07-05 11:07頃",
+      "statusText": "在庫あり（新作およびサンリオ和柄シールの購入報告あり）",
+      "confidenceMemo": "具体的な施設名（サービスエリア）が明記されており、購入報告のため信頼性が高い",
+      "sourceUrl": "https://x.com/safira_saffy/status/2073725519946993668",
+      "sourceTweetId": "2073725519946993668",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2073725519946993668.png",
+      "isPosted": true,
+      "wpPostId": 11534,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-hokkaido-sunagawa-2026-07-05/",
+      "postedAt": "2026-07-05T22:50:55.940+09:00"
     }
   ]
 }
