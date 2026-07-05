@@ -1,7 +1,7 @@
 {
   "date": "2026-07-05",
-  "updatedAt": "2026-07-05T15:37:02.964+09:00",
-  "count": 20,
+  "updatedAt": "2026-07-05T18:14:42.620+09:00",
+  "count": 22,
   "articles": [
     {
       "isSighting": true,
@@ -382,6 +382,44 @@
       "wpPostId": 11524,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-hyogo-nishiwaki-2026-07-05-2/",
       "postedAt": "2026-07-05T15:37:16.062+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "京都府",
+      "city": "京都市中京区",
+      "shopName": "金箔屋本舗Gold-Shop",
+      "shopAddress": "京都府京都市中京区寺町通錦小路上る中筋町488",
+      "productName": "ボンボンドロップシール",
+      "sightingTime": "2026-07-05 06:45頃",
+      "statusText": "入荷済み（2026/07/06 18:00よりInstagramフォロワー先行販売開始予定）",
+      "confidenceMemo": "店舗公式アカウントによる正確な入荷・販売告知情報",
+      "sourceUrl": "https://x.com/Kinpakuya_shop/status/2073659419079119178",
+      "sourceTweetId": "2073659419079119178",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2073659419079119178.png",
+      "isPosted": true,
+      "wpPostId": 11526,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-kyoto-nakagyo-kyoto-2026-07-05/",
+      "postedAt": "2026-07-05T18:14:49.348+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "東京都",
+      "city": "豊島区",
+      "shopName": "ビックカメラ池袋西口店",
+      "shopAddress": "東京都豊島区西池袋1-16-3",
+      "productName": "ボンボンドロップシール（ボンドロ）、うるちゅるシール（サンリオ、キティ、ウサハナ等）",
+      "sightingTime": "2026-07-05 17:37頃",
+      "statusText": "在庫あり（大量在庫）",
+      "confidenceMemo": "具体的な店舗名と在庫状況の記載があり、写真付きの投稿であるため信頼性が高い。",
+      "sourceUrl": "https://x.com/anankwangyudayo/status/2073687885665230871",
+      "sourceTweetId": "2073687885665230871",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2073687885665230871.png",
+      "isPosted": true,
+      "wpPostId": 11528,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-tokyo-toshima-2026-07-05/",
+      "postedAt": "2026-07-05T18:14:56.698+09:00"
     }
   ]
 }
