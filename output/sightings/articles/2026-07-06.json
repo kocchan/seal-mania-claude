@@ -1,7 +1,7 @@
 {
   "date": "2026-07-06",
-  "updatedAt": "2026-07-06T19:50:49.322+09:00",
-  "count": 12,
+  "updatedAt": "2026-07-06T21:43:31.578+09:00",
+  "count": 14,
   "articles": [
     {
       "isSighting": true,
@@ -230,6 +230,44 @@
       "wpPostId": 11558,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-saitama-hanyu-2026-07-06/",
       "postedAt": "2026-07-06T19:51:04.173+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "愛知県",
+      "city": "豊川市",
+      "shopName": "オーギヤ豊川蔵子店",
+      "shopAddress": "愛知県豊川市蔵子6丁目1-1",
+      "productName": "ちいかわボンボンドロップシール",
+      "sightingTime": "2026-07-06 20:59頃",
+      "statusText": "2026年7月7日より特別景品として入荷予定",
+      "confidenceMemo": "店舗公式アカウントによる入荷予告情報",
+      "sourceUrl": "https://x.com/zoushi000/status/2074101056725029134",
+      "sourceTweetId": "2074101056725029134",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2074101056725029134.png",
+      "isPosted": true,
+      "wpPostId": 11560,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-aichi-toyokawa-2026-07-06/",
+      "postedAt": "2026-07-06T21:43:37.584+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "長崎県",
+      "city": "西彼杵郡長与町",
+      "shopName": "石丸文行堂 長与店",
+      "shopAddress": "長崎県西彼杵郡長与町嬉里郷435",
+      "productName": "ボンボンドロップシール（ぷっくりシール）",
+      "sightingTime": "2026-07-06 10:51頃",
+      "statusText": "在庫あり（続々入荷中）",
+      "confidenceMemo": "店舗公式アカウントによる入荷・在庫情報",
+      "sourceUrl": "https://x.com/140_ishimaru/status/2074083856328823258",
+      "sourceTweetId": "2074083856328823258",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2074083856328823258.png",
+      "isPosted": true,
+      "wpPostId": 11562,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-nagasaki-nagayo-nishisonogi-district-2026-07-06/",
+      "postedAt": "2026-07-06T21:43:44.433+09:00"
     }
   ]
 }
