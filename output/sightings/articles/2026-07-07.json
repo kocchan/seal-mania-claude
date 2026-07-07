@@ -1,7 +1,7 @@
 {
   "date": "2026-07-07",
-  "updatedAt": "2026-07-07T18:54:55.824+09:00",
-  "count": 12,
+  "updatedAt": "2026-07-07T20:43:41.471+09:00",
+  "count": 14,
   "articles": [
     {
       "isSighting": true,
@@ -230,6 +230,44 @@
       "wpPostId": 11594,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-saitama-kumagaya-2026-07-07/",
       "postedAt": "2026-07-07T18:55:02.182+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "北海道",
+      "city": "函館市",
+      "shopName": "スーパーブックス桔梗店",
+      "shopAddress": "北海道函館市桔梗3丁目27-10",
+      "productName": "ボンボンドロップシール",
+      "sightingTime": "2026-07-07 07:01頃",
+      "statusText": "完売（次回入荷未定）",
+      "confidenceMemo": "公式店舗アカウントによる完売告知",
+      "sourceUrl": "https://x.com/sb_kikyou/status/2074448900640113054",
+      "sourceTweetId": "2074448900640113054",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2074448900640113054.png",
+      "isPosted": true,
+      "wpPostId": 11596,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-hokkaido-hakodate-2026-07-07/",
+      "postedAt": "2026-07-07T20:43:49.177+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "東京都",
+      "city": "中央区",
+      "shopName": "ナガノマーケットGINZA",
+      "shopAddress": "東京都中央区銀座4-1 先 西銀座デパートB1F",
+      "productName": "ボンボンドロップシール",
+      "sightingTime": "2026-07-07 10:27頃",
+      "statusText": "在庫あり（普通に買えたとの情報）",
+      "confidenceMemo": "銀座エリアの店舗を巡回した個人の購入報告",
+      "sourceUrl": "https://x.com/_MYFOOT_/status/2074440136675471366",
+      "sourceTweetId": "2074440136675471366",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2074440136675471366.png",
+      "isPosted": true,
+      "wpPostId": 11598,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-tokyo-chuo-2026-07-07/",
+      "postedAt": "2026-07-07T20:43:56.520+09:00"
     }
   ]
 }
