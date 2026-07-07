@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-07-07T05:28:19.194Z"
+wpPostUrl: "https://www.seal-search.com/news/new-item/partyrico-sendai-nagamachi-202607/"
+wpPostId: 11588
+posted: true
 imageGenerated: true
 type: lottery
 status: draft

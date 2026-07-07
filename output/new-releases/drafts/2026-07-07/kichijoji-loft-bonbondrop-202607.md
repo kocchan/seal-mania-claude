@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-07-07T05:27:52.730Z"
+wpPostUrl: "https://www.seal-search.com/news/new-item/kichijoji-loft-bonbondrop-202607/"
+wpPostId: 11582
+posted: true
 imageGenerated: true
 type: lottery
 status: draft

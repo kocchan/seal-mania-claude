@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-07-07T05:28:01.144Z"
+wpPostUrl: "https://www.seal-search.com/news/new-item/kiddyland-piole-himeji-202607/"
+wpPostId: 11584
+posted: true
 imageGenerated: true
 type: lottery
 status: draft

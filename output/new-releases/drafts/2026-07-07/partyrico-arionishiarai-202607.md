@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-07-07T05:28:10.070Z"
+wpPostUrl: "https://www.seal-search.com/news/new-item/partyrico-arionishiarai-202607/"
+wpPostId: 11586
+posted: true
 imageGenerated: true
 type: lottery
 status: draft
