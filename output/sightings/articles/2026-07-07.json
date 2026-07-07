@@ -1,7 +1,7 @@
 {
   "date": "2026-07-07",
-  "updatedAt": "2026-07-07T12:38:01.983+09:00",
-  "count": 9,
+  "updatedAt": "2026-07-07T15:41:27.095+09:00",
+  "count": 11,
   "articles": [
     {
       "isSighting": true,
@@ -173,6 +173,44 @@
       "wpPostId": 11580,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-osaka-kita-osaka-2026-07-06-2/",
       "postedAt": "2026-07-07T12:39:08.160+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "東京都",
+      "city": "豊島区",
+      "shopName": "ヨドバシカメラ マルチメディア池袋",
+      "shopAddress": "東京都豊島区南池袋1-28-1",
+      "productName": "ボンボンドロップシール ちいかわ",
+      "sightingTime": "2026-07-07 15:34頃",
+      "statusText": "在庫あり（入荷館内放送あり）",
+      "confidenceMemo": "館内放送での入荷案内が報告されており、信頼性が高い",
+      "sourceUrl": "https://x.com/ikezi2988/status/2074381589702983788",
+      "sourceTweetId": "2074381589702983788",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2074381589702983788.png",
+      "isPosted": true,
+      "wpPostId": 11590,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-tokyo-toshima-2026-07-07/",
+      "postedAt": "2026-07-07T15:41:33.191+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "大分県",
+      "city": "中津市",
+      "shopName": "ワンダーランド中津米山店",
+      "shopAddress": "大分県中津市大字米山10",
+      "productName": "ボンボンドロップシール",
+      "sightingTime": "2026-07-07 04:00頃",
+      "statusText": "入荷中",
+      "confidenceMemo": "店舗公式アカウントによる入荷告知",
+      "sourceUrl": "https://x.com/wl_nakatsu/status/2074342646823129400",
+      "sourceTweetId": "2074342646823129400",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2074342646823129400.png",
+      "isPosted": true,
+      "wpPostId": 11592,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-oita-nakatsu-2026-07-07/",
+      "postedAt": "2026-07-07T15:41:39.986+09:00"
     }
   ]
 }
