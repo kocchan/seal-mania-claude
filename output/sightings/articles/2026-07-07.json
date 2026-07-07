@@ -1,7 +1,7 @@
 {
   "date": "2026-07-07",
-  "updatedAt": "2026-07-07T15:41:27.095+09:00",
-  "count": 11,
+  "updatedAt": "2026-07-07T18:54:55.824+09:00",
+  "count": 12,
   "articles": [
     {
       "isSighting": true,
@@ -211,6 +211,25 @@
       "wpPostId": 11592,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-oita-nakatsu-2026-07-07/",
       "postedAt": "2026-07-07T15:41:39.986+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "埼玉県",
+      "city": "熊谷市",
+      "shopName": "アニメイト熊谷",
+      "shopAddress": "埼玉県熊谷市筑波2-115 アズ熊谷 5F",
+      "productName": "カラフルピーチ うるちゅるポップシール ミニキャラver.",
+      "sightingTime": "2026-07-07 06:43頃",
+      "statusText": "在庫あり（大好評販売中）",
+      "confidenceMemo": "店舗公式アカウントによる入荷・販売告知",
+      "sourceUrl": "https://x.com/animatekumagaya/status/2074383826567278972",
+      "sourceTweetId": "2074383826567278972",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2074383826567278972.png",
+      "isPosted": true,
+      "wpPostId": 11594,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-saitama-kumagaya-2026-07-07/",
+      "postedAt": "2026-07-07T18:55:02.182+09:00"
     }
   ]
 }
