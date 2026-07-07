@@ -1,7 +1,7 @@
 {
   "date": "2026-07-07",
-  "updatedAt": "2026-07-07T20:43:41.471+09:00",
-  "count": 14,
+  "updatedAt": "2026-07-07T23:48:34.868+09:00",
+  "count": 17,
   "articles": [
     {
       "isSighting": true,
@@ -268,6 +268,63 @@
       "wpPostId": 11598,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-tokyo-chuo-2026-07-07/",
       "postedAt": "2026-07-07T20:43:56.520+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "福岡県",
+      "city": "福岡市博多区",
+      "shopName": "ドン・キホーテ 中洲店",
+      "shopAddress": "福岡県福岡市博多区中洲3-7-24",
+      "productName": "ボンボンドロップシール",
+      "sightingTime": "2026-07-07 13:40頃",
+      "statusText": "在庫あり（売れていない様子）",
+      "confidenceMemo": "「中洲のドンキ」と店舗が特定されており、実際に店舗で見たという具体的な情報に基づいている。",
+      "sourceUrl": "https://x.com/_joker60s/status/2074488733873901646",
+      "sourceTweetId": "2074488733873901646",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2074488733873901646.png",
+      "isPosted": true,
+      "wpPostId": 11600,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-fukuoka-fukuoka-hakata-2026-07-07/",
+      "postedAt": "2026-07-07T23:48:42.331+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "宮崎県",
+      "city": "宮崎市",
+      "shopName": "宮交シティ",
+      "shopAddress": "宮崎県宮崎市大淀4丁目6-28",
+      "productName": "ぷっくりシール、フェイスシール",
+      "sightingTime": "2026-06-24頃",
+      "statusText": "在庫あり（ディスカウント価格で販売）",
+      "confidenceMemo": "施設名（宮交シティ）と詳細な売り場状況（萌犬注意シールの隣）の記述があり信頼性が高い",
+      "sourceUrl": "https://x.com/miyazakizuki/status/2074496895213560043",
+      "sourceTweetId": "2074496895213560043",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2074496895213560043.png",
+      "isPosted": true,
+      "wpPostId": 11602,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-miyazaki-miyazaki-2026-06-24/",
+      "postedAt": "2026-07-07T23:48:50.289+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "東京都",
+      "city": "渋谷区",
+      "shopName": "NOISE AND KISSES",
+      "shopAddress": "東京都渋谷区神宮前4丁目25-1 B1F",
+      "productName": "うるちゅるポップシール エンジェルブルー",
+      "sightingTime": "2026-07-07 11:56頃",
+      "statusText": "在庫あり（入荷情報）",
+      "confidenceMemo": "ショップ公式アカウントによる新作入荷通知",
+      "sourceUrl": "https://x.com/NAKapparel/status/2074462432387609038",
+      "sourceTweetId": "2074462432387609038",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2074462432387609038.png",
+      "isPosted": true,
+      "wpPostId": 11604,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-tokyo-shibuya-2026-07-07/",
+      "postedAt": "2026-07-07T23:48:57.477+09:00"
     }
   ]
 }
