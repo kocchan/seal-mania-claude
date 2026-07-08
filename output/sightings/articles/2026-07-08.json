@@ -1,7 +1,7 @@
 {
   "date": "2026-07-08",
-  "updatedAt": "2026-07-08T11:54:06.290+09:00",
-  "count": 12,
+  "updatedAt": "2026-07-08T14:46:08.997+09:00",
+  "count": 15,
   "articles": [
     {
       "isSighting": true,
@@ -230,6 +230,63 @@
       "wpPostId": 11628,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-saitama-kumagaya-2026-07-07-2/",
       "postedAt": "2026-07-08T11:55:37.317+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "東京都",
+      "city": "台東区",
+      "shopName": "プレミアムバンダイ",
+      "shopAddress": "東京都台東区駒形1-4-8",
+      "productName": "刀剣乱舞 ONLINE ボンボンドロップシール",
+      "sightingTime": "2026-07-06 08:08頃",
+      "statusText": "予約受付中",
+      "confidenceMemo": "公式サイトによる予約受付情報のため信頼性が高い",
+      "sourceUrl": "https://x.com/Smonoyou/status/2074714288124760133",
+      "sourceTweetId": "2074714288124760133",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2074714288124760133.png",
+      "isPosted": true,
+      "wpPostId": 11630,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-tokyo-taito-2026-07-06/",
+      "postedAt": "2026-07-08T14:46:16.710+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "山口県",
+      "city": "山口市",
+      "shopName": "マンガ倉庫山口店",
+      "shopAddress": "山口県山口市吉敷下東1丁目1-1",
+      "productName": "ナルミヤうるちゅるPOPシールキーホルダー",
+      "sightingTime": "2026-07-08 04:13頃",
+      "statusText": "在庫あり（入荷情報）",
+      "confidenceMemo": "店舗公式アカウントによる入荷投稿のため信頼性が高い",
+      "sourceUrl": "https://x.com/mansouyamaamyu/status/2074708362445685120",
+      "sourceTweetId": "2074708362445685120",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2074708362445685120.png",
+      "isPosted": true,
+      "wpPostId": 11632,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-yamaguchi-yamaguchi-2026-07-08/",
+      "postedAt": "2026-07-08T14:46:25.453+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "栃木県",
+      "city": "宇都宮市",
+      "shopName": "ヤマダデンキ 宇都宮インターパーク店",
+      "shopAddress": "栃木県宇都宮市インターパーク6丁目2-9",
+      "productName": "うるちゅるシール カードキャプターさくら",
+      "sightingTime": "2026-07-08 03:00頃",
+      "statusText": "在庫あり（入荷情報）",
+      "confidenceMemo": "店舗公式アカウントによる写真付きの入荷投稿であり、信頼性が非常に高い",
+      "sourceUrl": "https://x.com/yamada_N_kanto/status/2074689949014675954",
+      "sourceTweetId": "2074689949014675954",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2074689949014675954.png",
+      "isPosted": true,
+      "wpPostId": 11634,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-tochigi-utsunomiya-2026-07-08/",
+      "postedAt": "2026-07-08T14:46:32.956+09:00"
     }
   ]
 }
