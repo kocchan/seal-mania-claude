@@ -1,7 +1,7 @@
 {
   "date": "2026-07-08",
-  "updatedAt": "2026-07-08T20:00:35.351+09:00",
-  "count": 25,
+  "updatedAt": "2026-07-08T23:26:06.998+09:00",
+  "count": 26,
   "articles": [
     {
       "isSighting": true,
@@ -477,6 +477,25 @@
       "wpPostId": 11654,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-hokkaido-sapporo-2026-07-07/",
       "postedAt": "2026-07-08T20:01:09.745+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "東京都",
+      "city": "港区",
+      "shopName": "ビックカメラ 赤坂見附駅店",
+      "shopAddress": "東京都港区赤坂3-1-6",
+      "productName": "ボンボンドロップシール",
+      "sightingTime": "2026-07-08 12:07頃",
+      "statusText": "在庫あり（大量）",
+      "confidenceMemo": "具体的な店舗名（赤坂見附のビックカメラ）と売り場（1F）の情報が含まれており、信頼性が高い",
+      "sourceUrl": "https://x.com/rakuten_mkt/status/2074827588611260692",
+      "sourceTweetId": "2074827588611260692",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2074827588611260692.png",
+      "isPosted": true,
+      "wpPostId": 11656,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-tokyo-minato-2026-07-08/",
+      "postedAt": "2026-07-08T23:26:14.223+09:00"
     }
   ]
 }
