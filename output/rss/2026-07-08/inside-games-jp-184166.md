@@ -1,0 +1,20 @@
+---
+source: rss
+url: "https://www.inside-games.jp/article/2026/07/07/184166.html"
+title: "「ボンボンドロップシール」が三越伊勢丹オンラインストアで抽選販売！スヌーピー4種セットを7月15日10時より受付開始 | インサイド"
+siteName: "インサイド"
+publishedAt: "2026-07-07T11:02:55Z"
+fetchedAt: "2026-07-08T01:20:59.857Z"
+fetchMethod: axios
+ogImage: "https://www.inside-games.jp/imgs/ogp_f/1751445.jpg"
+description: "「スヌーピー in 銀座 2026」の一環として、三越伊勢丹オンラインストアで「ボンボンドロップシール churukira スヌーピー」が抽選販売！"
+---
+
+## RSS要約
+
+「 ボンボンドロップシール 」が三越伊勢丹オンラインストアで抽選販売！スヌーピー4種セットを7月15日10時より受付開始. 「スヌーピー in 銀座 2026」の一環として&nbsp;...
+
+## 本文HTML（サニタイズ済み）
+
+<html><head></head><body><figure class="ctms-editor-image"><img src="https://www.inside-games.jp/imgs/zoom/1751445.jpg" class="inline-article-image" width="550" height="550"></figure><p>三越伊勢丹オンラインストアにて、<b>「ボンボンドロップシール churukira スヌーピー」</b>の抽選販売が実施されます。</p><h2><b>◆</b>「ボンボンドロップシール」スヌーピーが抽選販売！</h2><p><a target="_blank" rel="noopener noreferrer" href="https://www.mistore.jp/shopping/feature/shops_f3/snoopy_sp">「スヌーピー in 銀座 2026」</a>の一環として、「ボンボンドロップシール churukira スヌーピー」の4種セットがWEB限定で抽選販売を実施します。</p><figure class="ctms-editor-image"><img src="https://www.inside-games.jp/imgs/zoom/1751441.jpg" class="inline-article-image" width="629" height="663"></figure><figure class="ctms-editor-image"><img src="https://www.inside-games.jp/imgs/zoom/1751442.jpg" class="inline-article-image" width="629" height="663"></figure><figure class="ctms-editor-image"><img src="https://www.inside-games.jp/imgs/zoom/1751443.jpg" class="inline-article-image" width="629" height="663"></figure><figure class="ctms-editor-image"><img src="https://www.inside-games.jp/imgs/zoom/1751444.jpg" class="inline-article-image" width="629" height="663"></figure><p>応募期間は7月15日10時～7月24日23時59分まで。抽選結果メールは7月29日・30日頃に配信。発送は8月10日以降、順次お届け予定です。価格は2,420円（税込）、販売数は2,000セットを用意しています。詳細は<a target="_blank" rel="noopener noreferrer" href="https://www.mistore.jp/shopping/product/900000000000000003618346.html">三越伊勢丹オンラインストア</a>をご確認ください。</p><br><div class="af_box"><!-- start --><div class="af_list"><div class="af_box_left"><a href="https://www.amazon.co.jp/dp/B0CLY4898S?tag=insidegames-22&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank"><img src="https://m.media-amazon.com/images/I/31ipW+AYBxL._SL160_.jpg" class="af_box_image"></a></div><div class="af_box_right"><b><a href="https://www.amazon.co.jp/dp/B0CLY4898S?tag=insidegames-22&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank">小川(Ogawa) スヌーピー ビニール傘 レディース ピーナッツ ワンポイント 59cm 8本骨 安全手開き 72058</a></b><br><b>￥816</b><br><span>(価格・在庫状況は記事公開時点のものです)</span><br><div class="af_box_link_amazon"><a href="https://www.amazon.co.jp/dp/B0CLY4898S?tag=insidegames-22&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank">Amazon</a></div><div class="af_box_link_rakuten"><a href="https://hb.afl.rakuten.co.jp/hgc/0dfd5e9c.cb53a4b8.132b5a79.c657d846/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2582%25B9%25E3%2583%258C%25E3%2583%25BC%25E3%2583%2594%25E3%2583%25BC%2F" target="_blank">楽天市場</a></div></div></div><!-- //end --></div><div class="af_box"><!-- start --><div class="af_list"><div class="af_box_left"><a href="https://www.amazon.co.jp/dp/B0DTP7HYLN?tag=insidegames-22&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank"><img src="https://m.media-amazon.com/images/I/41ihz3fy3QL._SL160_.jpg" class="af_box_image"></a></div><div class="af_box_right"><b><a href="https://www.amazon.co.jp/dp/B0DTP7HYLN?tag=insidegames-22&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank">三金商事 エアコンマスコット スヌーピー オーシャン SN3123</a></b><br><b>￥1,738</b><br><span>(価格・在庫状況は記事公開時点のものです)</span><br><div class="af_box_link_amazon"><a href="https://www.amazon.co.jp/dp/B0DTP7HYLN?tag=insidegames-22&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank">Amazon</a></div><div class="af_box_link_rakuten"><a href="https://hb.afl.rakuten.co.jp/hgc/0dfd5e9c.cb53a4b8.132b5a79.c657d846/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2582%25B9%25E3%2583%258C%25E3%2583%25BC%25E3%2583%2594%25E3%2583%25BC%2F" target="_blank">楽天市場</a></div></div></div><!-- //end --></div>
+</body></html>
