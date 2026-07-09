@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-07-09T05:29:58.282Z"
+wpPostUrl: "https://www.seal-search.com/news/new-item/kiddyland-expocity-bonbondrop-202607/"
+wpPostId: 11676
+posted: true
 imageGenerated: true
 type: lottery
 status: draft

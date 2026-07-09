@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-07-09T05:30:06.855Z"
+wpPostUrl: "https://www.seal-search.com/news/new-item/mistore-snoopy-churukira-202607/"
+wpPostId: 11678
+posted: true
 imageGenerated: true
 type: lottery
 status: draft
