@@ -1,7 +1,7 @@
 {
   "date": "2026-07-10",
-  "updatedAt": "2026-07-10T18:46:52.048+09:00",
-  "count": 25,
+  "updatedAt": "2026-07-10T20:47:35.006+09:00",
+  "count": 26,
   "articles": [
     {
       "isSighting": true,
@@ -477,6 +477,25 @@
       "wpPostId": 11744,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-kyoto-uji-2026-07-10/",
       "postedAt": "2026-07-10T18:47:13.890+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "東京都",
+      "city": "港区",
+      "shopName": "ハイカラ横丁 お台場店",
+      "shopAddress": "東京都港区台場1-6-1 デックス東京ビーチ シーサイドモール 4F 台場一丁目商店街内",
+      "productName": "ボンボンドロップシール",
+      "sightingTime": "2026-07-10 20:12頃",
+      "statusText": "在庫あり（入荷・数量限定）",
+      "confidenceMemo": "店舗公式アカウントによる写真付きの入荷案内。詳細な場所の記載もあり非常に信頼性が高い。",
+      "sourceUrl": "https://x.com/haikarayokocho/status/2075538472446931345",
+      "sourceTweetId": "2075538472446931345",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2075538472446931345.png",
+      "isPosted": true,
+      "wpPostId": 11746,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-tokyo-minato-2026-07-10/",
+      "postedAt": "2026-07-10T20:47:42.201+09:00"
     }
   ]
 }
