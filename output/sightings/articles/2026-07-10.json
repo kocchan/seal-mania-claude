@@ -1,7 +1,7 @@
 {
   "date": "2026-07-10",
-  "updatedAt": "2026-07-10T20:47:35.006+09:00",
-  "count": 26,
+  "updatedAt": "2026-07-11T06:58:25.514+09:00",
+  "count": 27,
   "articles": [
     {
       "isSighting": true,
@@ -496,6 +496,25 @@
       "wpPostId": 11746,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-tokyo-minato-2026-07-10/",
       "postedAt": "2026-07-10T20:47:42.201+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "東京都",
+      "city": "墨田区",
+      "shopName": "すみだ水族館",
+      "shopAddress": "東京都墨田区押上1-1-2 東京スカイツリータウン・ソラマチ5F・6F",
+      "productName": "ボンボンドロップシール（すみだ水族館限定、和柄）",
+      "sightingTime": "2026-07-11 19:30頃",
+      "statusText": "在庫あり（整理券制・限定品あり）",
+      "confidenceMemo": "限定商品の交換募集および整理券制に関する具体的な言及があり、現地の状況と一致する可能性が高い",
+      "sourceUrl": "https://x.com/cinamoroll_/status/2075677626489073971",
+      "sourceTweetId": "2075677626489073971",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2075677626489073971.png",
+      "isPosted": true,
+      "wpPostId": 11748,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-tokyo-sumida-2026-07-11/",
+      "postedAt": "2026-07-11T06:58:32.230+09:00"
     }
   ]
 }
