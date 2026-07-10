@@ -1,7 +1,7 @@
 {
   "date": "2026-07-10",
-  "updatedAt": "2026-07-10T15:39:19.972+09:00",
-  "count": 22,
+  "updatedAt": "2026-07-10T18:46:52.048+09:00",
+  "count": 25,
   "articles": [
     {
       "isSighting": true,
@@ -420,6 +420,63 @@
       "wpPostId": 11738,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-kagawa-takamatsu-2026-07-10/",
       "postedAt": "2026-07-10T15:39:54.112+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "青森県",
+      "city": "弘前市",
+      "shopName": "弘前物産パルシー",
+      "shopAddress": "青森県弘前市表町1-1 JR弘前駅ビル内",
+      "productName": "東北ぷっくりシール",
+      "sightingTime": "2026-07-10 07:58頃",
+      "statusText": "入荷・在庫あり（青森ねぶた等）",
+      "confidenceMemo": "店舗公式アカウントによる入荷情報で信頼性が極めて高い",
+      "sourceUrl": "https://x.com/hirosakipalcy2731/status/2075489821263634607",
+      "sourceTweetId": "2075489821263634607",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2075489821263634607.png",
+      "isPosted": true,
+      "wpPostId": 11740,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-aomori-hirosaki-2026-07-10/",
+      "postedAt": "2026-07-10T18:46:59.396+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "大阪府",
+      "city": "大阪市東淀川区",
+      "shopName": "ジール東中島店",
+      "shopAddress": "大阪府大阪市東淀川区東中島4-11-22",
+      "productName": "海物語うるぴか クリスタルシール（ボンボンドロップシール）",
+      "sightingTime": "2026-07-10 17:59頃",
+      "statusText": "2026年7月11日入荷予定（お1人様1枚まで）",
+      "confidenceMemo": "店舗公式アカウントによる入荷予告情報",
+      "sourceUrl": "https://x.com/ZEAL_nakajima/status/2075505319363727563",
+      "sourceTweetId": "2075505319363727563",
+      "isPrediction": true,
+      "imagePath": "output/sightings/images/2075505319363727563.png",
+      "isPosted": true,
+      "wpPostId": 11742,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-osaka-higashiyodogawa-osaka-2026-07-10/",
+      "postedAt": "2026-07-10T18:47:06.755+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "京都府",
+      "city": "宇治市",
+      "shopName": "お宝創庫 宇治店",
+      "shopAddress": "京都府宇治市小倉町堀池39-1",
+      "productName": "ぷっくりシール（シリーズ不明）",
+      "sightingTime": "2026-07-10 18:38頃",
+      "statusText": "在庫あり（いっぱい置いてあった）",
+      "confidenceMemo": "具体的な店舗名と写真付きの目撃情報",
+      "sourceUrl": "https://x.com/siotakenta2626/status/2075515190192607346",
+      "sourceTweetId": "2075515190192607346",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2075515190192607346.png",
+      "isPosted": true,
+      "wpPostId": 11744,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-kyoto-uji-2026-07-10/",
+      "postedAt": "2026-07-10T18:47:13.890+09:00"
     }
   ]
 }
