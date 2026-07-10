@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-07-10T05:28:33.726Z"
+wpPostUrl: "https://www.seal-search.com/news/new-item/sunshine-aquarium-sherbet-bonbondrop-202607/"
+wpPostId: 11728
+posted: true
 imageGenerated: true
 type: new-release
 status: draft
