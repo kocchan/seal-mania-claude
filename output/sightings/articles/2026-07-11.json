@@ -1,7 +1,7 @@
 {
   "date": "2026-07-11",
-  "updatedAt": "2026-07-11T14:35:26.967+09:00",
-  "count": 23,
+  "updatedAt": "2026-07-11T17:05:15.936+09:00",
+  "count": 26,
   "articles": [
     {
       "isSighting": true,
@@ -439,6 +439,63 @@
       "wpPostId": 11875,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-tokyo-chofu-2026-07-11/",
       "postedAt": "2026-07-11T14:36:16.780+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "東京都",
+      "city": "千代田区",
+      "shopName": "ポケタウン秋葉原",
+      "shopAddress": "東京都千代田区外神田1丁目16-10 1階 17号",
+      "productName": "ボンボンドロップシール ナルミヤキャラクターズ",
+      "sightingTime": "2026-07-11 16:15頃",
+      "statusText": "在庫あり（入荷情報、スタッフへ声掛け推奨）",
+      "confidenceMemo": "公式アカウントによる住所・写真付きの入荷情報",
+      "sourceUrl": "https://x.com/poketown_akiba/status/2075841371236364560",
+      "sourceTweetId": "2075841371236364560",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2075841371236364560.png",
+      "isPosted": true,
+      "wpPostId": 11877,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-tokyo-chiyoda-2026-07-11/",
+      "postedAt": "2026-07-11T17:05:23.393+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "愛知県",
+      "city": "半田市",
+      "shopName": "三洋堂書店 半田店",
+      "shopAddress": "愛知県半田市南本町1-1",
+      "productName": "ボンボンドロップシール",
+      "sightingTime": "2026-07-11 05:48頃",
+      "statusText": "在庫あり（おひとり様1点限り、整理券・販売ルールあり）",
+      "confidenceMemo": "公式店舗アカウントによる販売告知",
+      "sourceUrl": "https://x.com/sanyodohanda/status/2075819486725411296",
+      "sourceTweetId": "2075819486725411296",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2075819486725411296.png",
+      "isPosted": true,
+      "wpPostId": 11879,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-aichi-handa-2026-07-11/",
+      "postedAt": "2026-07-11T17:05:30.720+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "山口県",
+      "city": "山口市",
+      "shopName": "文榮堂 サンパークあじす店",
+      "shopAddress": "山口県山口市阿知須4825-1 サンパークあじす内",
+      "productName": "ボンボンドロップシール（4種類）",
+      "sightingTime": "2026-07-11 05:36頃",
+      "statusText": "在庫あり（1家族2枚まで、取り置き不可）",
+      "confidenceMemo": "公式店舗アカウントによる入荷告知",
+      "sourceUrl": "https://x.com/buneidouajisu/status/2075816406298579270",
+      "sourceTweetId": "2075816406298579270",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2075816406298579270.png",
+      "isPosted": true,
+      "wpPostId": 11881,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-yamaguchi-yamaguchi-2026-07-11/",
+      "postedAt": "2026-07-11T17:05:37.746+09:00"
     }
   ]
 }
