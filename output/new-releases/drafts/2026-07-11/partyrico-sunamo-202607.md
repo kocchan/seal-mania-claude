@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-07-11T04:36:51.431Z"
+wpPostUrl: "https://www.seal-search.com/news/new-item/partyrico-sunamo-202607/"
+wpPostId: 11861
+posted: true
 imageGenerated: true
 type: lottery
 status: draft
