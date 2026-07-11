@@ -1,7 +1,7 @@
 {
   "date": "2026-07-11",
-  "updatedAt": "2026-07-11T19:11:39.158+09:00",
-  "count": 29,
+  "updatedAt": "2026-07-11T22:38:43.825+09:00",
+  "count": 31,
   "articles": [
     {
       "isSighting": true,
@@ -553,6 +553,44 @@
       "wpPostId": 11887,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-fukuoka-fukuoka-higashi-2026-07-08/",
       "postedAt": "2026-07-11T19:12:01.871+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "香港",
+      "city": "香港",
+      "shopName": "サンリオショップ（香港）",
+      "shopAddress": "香港内サンリオショップ（Sanrio Gift Gate）",
+      "productName": "ボンボンドロップシール（ボンボンステッカー）",
+      "sightingTime": "2026-07-11 21:48頃",
+      "statusText": "在庫あり（マイメロ、キティ、ハンギョドン等）",
+      "confidenceMemo": "サンリオショップでの購入報告。現地での製品名（ボンボンステッカー）への言及と写真付きのハッシュタグあり。",
+      "sourceUrl": "https://x.com/Jolyne1992/status/2075925358793417182",
+      "sourceTweetId": "2075925358793417182",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2075925358793417182.png",
+      "isPosted": true,
+      "wpPostId": 11889,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-unknown-hong-kong-2026-07-11/",
+      "postedAt": "2026-07-11T22:38:50.432+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "茨城県",
+      "city": "東茨城郡大洗町",
+      "shopName": "かわいい動物雑貨専門店 Only-Shop",
+      "shopAddress": "茨城県東茨城郡大洗町磯浜町",
+      "productName": "うるちゅるシール（ボンボンドロップシール）",
+      "sightingTime": "2026-07-10 02:08頃",
+      "statusText": "ほぼ完売（けろっぴのみ極少数あり）",
+      "confidenceMemo": "店舗公式アカウントによる正確な在庫状況の発信。サンリオキャラクター系のうるちゅるシールの取り扱いを確認。",
+      "sourceUrl": "https://x.com/animalgoods_os/status/2075892640474914919",
+      "sourceTweetId": "2075892640474914919",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2075892640474914919.png",
+      "isPosted": true,
+      "wpPostId": 11891,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-ibaraki-oarai-higashiibaraki-district-2026-07-10/",
+      "postedAt": "2026-07-11T22:38:57.925+09:00"
     }
   ]
 }
