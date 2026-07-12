@@ -1,7 +1,7 @@
 {
   "date": "2026-07-12",
-  "updatedAt": "2026-07-12T14:51:28.181+09:00",
-  "count": 10,
+  "updatedAt": "2026-07-12T17:26:31.846+09:00",
+  "count": 11,
   "articles": [
     {
       "isSighting": true,
@@ -192,6 +192,25 @@
       "wpPostId": 11911,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-fukuoka-kokura-kita-kitakyushu-2026-07-12/",
       "postedAt": "2026-07-12T14:51:42.960+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "秋田県",
+      "city": "秋田市",
+      "shopName": "イオン秋田中央店",
+      "shopAddress": "秋田県秋田市楢山川口境5-11",
+      "productName": "ボンボンドロップシール",
+      "sightingTime": "2026-07-12 07:03",
+      "statusText": "在庫あり（リラックマ以外のキャラのみ）",
+      "confidenceMemo": "ユーザー名に含まれる「秋田」と、本文の「大手モールの中央店」という通称からイオン秋田中央店と特定",
+      "sourceUrl": "https://x.com/GranSmart3037/status/2076200672543002668",
+      "sourceTweetId": "2076200672543002668",
+      "isPrediction": true,
+      "imagePath": "output/sightings/images/2076200672543002668.png",
+      "isPosted": true,
+      "wpPostId": 11913,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-akita-akita-2026-07-12/",
+      "postedAt": "2026-07-12T17:26:38.416+09:00"
     }
   ]
 }
