@@ -1,7 +1,7 @@
 {
   "date": "2026-07-12",
-  "updatedAt": "2026-07-12T17:26:31.846+09:00",
-  "count": 11,
+  "updatedAt": "2026-07-12T19:23:40.086+09:00",
+  "count": 13,
   "articles": [
     {
       "isSighting": true,
@@ -211,6 +211,44 @@
       "wpPostId": 11913,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-akita-akita-2026-07-12/",
       "postedAt": "2026-07-12T17:26:38.416+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "神奈川県",
+      "city": "平塚市",
+      "shopName": "サンキューマートららぽーと湘南平塚店",
+      "shopAddress": "神奈川県平塚市天沼10-1 ららぽーと湘南平塚 2F",
+      "productName": "クレヨンしんちゃんとケアベアのぷっくりシール",
+      "sightingTime": "2026-07-12 18:55頃",
+      "statusText": "入荷（在庫あり、税込429円）",
+      "confidenceMemo": "公式店舗アカウントによる写真付き入荷情報。商品名は『ぷっくりシール』と表記されているが、ボンボンドロップシールと同系統の人気商品。",
+      "sourceUrl": "https://x.com/390lalasyounan/status/2076244245858627664",
+      "sourceTweetId": "2076244245858627664",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2076244245858627664.png",
+      "isPosted": true,
+      "wpPostId": 11915,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-kanagawa-hiratsuka-2026-07-12/",
+      "postedAt": "2026-07-12T19:23:46.357+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "青森県",
+      "city": "弘前市",
+      "shopName": "TSUTAYA BOOKSTORE HIRORO",
+      "shopAddress": "青森県弘前市駅前町9-20 ヒロロ 2F",
+      "productName": "ポケピースのぷっくりシール、ピクセルアートのシール",
+      "sightingTime": "2026-07-12 08:57頃",
+      "statusText": "在庫あり（キーホルダー付きも販売中）",
+      "confidenceMemo": "公式店舗アカウントによる入荷・販売告知。ボンボンドロップシールと同様のぷっくりシールカテゴリーの商品。",
+      "sourceUrl": "https://x.com/TBSHIRORO/status/2076229555619328166",
+      "sourceTweetId": "2076229555619328166",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2076229555619328166.png",
+      "isPosted": true,
+      "wpPostId": 11917,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-aomori-hirosaki-2026-07-12/",
+      "postedAt": "2026-07-12T19:23:53.266+09:00"
     }
   ]
 }
