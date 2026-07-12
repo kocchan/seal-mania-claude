@@ -1,7 +1,7 @@
 {
   "date": "2026-07-12",
-  "updatedAt": "2026-07-12T19:23:40.086+09:00",
-  "count": 13,
+  "updatedAt": "2026-07-13T06:44:33.375+09:00",
+  "count": 14,
   "articles": [
     {
       "isSighting": true,
@@ -249,6 +249,25 @@
       "wpPostId": 11917,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-aomori-hirosaki-2026-07-12/",
       "postedAt": "2026-07-12T19:23:53.266+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "長崎県",
+      "city": "西彼杵郡時津町",
+      "shopName": "まるみつ時津店",
+      "shopAddress": "長崎県西彼杵郡時津町浦郷260-8",
+      "productName": "ボンボンドロップシール",
+      "sightingTime": "2026-07-13 10:56頃",
+      "statusText": "雑貨コーナーに入荷（在庫あり）",
+      "confidenceMemo": "店舗公式アカウントによる詳細な入荷案内で、信頼性が非常に高い",
+      "sourceUrl": "https://x.com/jaena_nf73/status/2076375435500572970",
+      "sourceTweetId": "2076375435500572970",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2076375435500572970.png",
+      "isPosted": true,
+      "wpPostId": 11919,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-nagasaki-togitsu-nishisonogi-district-2026-07-13/",
+      "postedAt": "2026-07-13T06:44:40.542+09:00"
     }
   ]
 }
