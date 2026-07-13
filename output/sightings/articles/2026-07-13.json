@@ -1,7 +1,7 @@
 {
   "date": "2026-07-13",
-  "updatedAt": "2026-07-13T15:10:22.714+09:00",
-  "count": 21,
+  "updatedAt": "2026-07-13T18:38:55.721+09:00",
+  "count": 24,
   "articles": [
     {
       "isSighting": true,
@@ -401,6 +401,63 @@
       "wpPostId": 11967,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-chiba-chuo-chiba-2026-07-08/",
       "postedAt": "2026-07-13T15:11:14.708+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "兵庫県",
+      "city": "尼崎市",
+      "shopName": "カードボックスあまがさきキューズモール店",
+      "shopAddress": "兵庫県尼崎市潮江1-3-1 あまがさきキューズモール 4F",
+      "productName": "ボンボンドロップシール（ちいかわ、ノンタン、コジコジ、ハローキティ等）",
+      "sightingTime": "2026-07-13 18:19頃",
+      "statusText": "在庫あり（買取入荷、レジ横のガラスショーケース内にて展開中）",
+      "confidenceMemo": "店舗公式アカウントによる写真付きの入荷・陳列情報であり、信頼性が非常に高い",
+      "sourceUrl": "https://x.com/CB_amagasaki/status/2076597194942222560",
+      "sourceTweetId": "2076597194942222560",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2076597194942222560.png",
+      "isPosted": true,
+      "wpPostId": 11969,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-hyogo-amagasaki-2026-07-13/",
+      "postedAt": "2026-07-13T18:39:03.489+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "福岡県",
+      "city": "北九州市",
+      "shopName": "ドリームカプセル THE OUTLETS KITAKYUSHU",
+      "shopAddress": "福岡県北九州市八幡東区東田4-1-1 THE OUTLETS KITAKYUSHU内",
+      "productName": "サンリオキャラクターズ ボンボンドロップミニチュアチャーム",
+      "sightingTime": "2026-07-13 17:52頃",
+      "statusText": "在庫あり（7月13日入荷、お一人様2個までの個数制限あり）",
+      "confidenceMemo": "店舗公式アカウントによる入荷告知情報",
+      "sourceUrl": "https://x.com/drecap_KYUSHU/status/2076590592566661598",
+      "sourceTweetId": "2076590592566661598",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2076590592566661598.png",
+      "isPosted": true,
+      "wpPostId": 11971,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-fukuoka-kitakyushu-2026-07-13/",
+      "postedAt": "2026-07-13T18:39:10.869+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "愛知県",
+      "city": "長久手市",
+      "shopName": "サンキューマート イオンモール長久手店",
+      "shopAddress": "愛知県長久手市勝入塚501番地 イオンモール長久手",
+      "productName": "ぷっくりシール（ベイビーしんちゃん、ケアベア）",
+      "sightingTime": "2026-07-13 17:40頃",
+      "statusText": "再入荷（在庫あり）",
+      "confidenceMemo": "店舗公式アカウントによる写真付き入荷情報",
+      "sourceUrl": "https://x.com/390aeonnagakute/status/2076587630779928706",
+      "sourceTweetId": "2076587630779928706",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2076587630779928706.png",
+      "isPosted": true,
+      "wpPostId": 11973,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-aichi-nagakute-2026-07-13/",
+      "postedAt": "2026-07-13T18:39:18.490+09:00"
     }
   ]
 }
