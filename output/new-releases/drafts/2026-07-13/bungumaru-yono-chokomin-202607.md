@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-07-13T04:54:07.104Z"
+wpPostUrl: "https://www.seal-search.com/news/new-item/bungumaru-yono-chokomin-202607/"
+wpPostId: 11949
+posted: true
 imageGenerated: true
 type: lottery
 status: draft

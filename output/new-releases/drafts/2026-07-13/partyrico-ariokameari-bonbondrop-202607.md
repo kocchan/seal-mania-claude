@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-07-13T04:54:14.431Z"
+wpPostUrl: "https://www.seal-search.com/news/new-item/partyrico-ariokameari-bonbondrop-202607/"
+wpPostId: 11951
+posted: true
 imageGenerated: true
 type: lottery
 status: draft

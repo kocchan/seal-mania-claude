@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-07-13T04:54:22.041Z"
+wpPostUrl: "https://www.seal-search.com/news/new-item/partyrico-laketown-kaze-chokomin-202607/"
+wpPostId: 11953
+posted: true
 imageGenerated: true
 type: lottery
 status: draft
