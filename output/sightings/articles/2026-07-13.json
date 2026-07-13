@@ -1,7 +1,7 @@
 {
   "date": "2026-07-13",
-  "updatedAt": "2026-07-13T18:38:55.721+09:00",
-  "count": 24,
+  "updatedAt": "2026-07-13T20:57:15.495+09:00",
+  "count": 25,
   "articles": [
     {
       "isSighting": true,
@@ -458,6 +458,25 @@
       "wpPostId": 11973,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-aichi-nagakute-2026-07-13/",
       "postedAt": "2026-07-13T18:39:18.490+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "富山県",
+      "city": "富山市",
+      "shopName": "コンプオフ マリエとやま店",
+      "shopAddress": "富山県富山市桜町1-1-61 マリエとやま内",
+      "productName": "ボンボンドロップシール、うるちゅるシール、フレークシール",
+      "sightingTime": "2026-07-13 19:56頃",
+      "statusText": "入荷・在庫あり",
+      "confidenceMemo": "店舗公式アカウントによる写真付きの入荷情報",
+      "sourceUrl": "https://x.com/compoff_marier/status/2076621939335184480",
+      "sourceTweetId": "2076621939335184480",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2076621939335184480.png",
+      "isPosted": true,
+      "wpPostId": 11975,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-toyama-toyama-2026-07-13/",
+      "postedAt": "2026-07-13T20:57:23.319+09:00"
     }
   ]
 }
