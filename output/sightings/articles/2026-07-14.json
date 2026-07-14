@@ -1,7 +1,7 @@
 {
   "date": "2026-07-14",
-  "updatedAt": "2026-07-14T19:42:09.229+09:00",
-  "count": 30,
+  "updatedAt": "2026-07-14T22:56:06.625+09:00",
+  "count": 32,
   "articles": [
     {
       "isSighting": true,
@@ -572,6 +572,44 @@
       "wpPostId": 12035,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-nara-nara-2026-07-14/",
       "postedAt": "2026-07-14T19:42:53.249+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "神奈川県",
+      "city": "藤沢市",
+      "shopName": "テラスモール湘南 ポップアップストア",
+      "shopAddress": "神奈川県藤沢市辻堂神台1丁目3-1",
+      "productName": "ボンボンドロップシール（海の生き物シリーズ：くりおねたん、えい様 他）",
+      "sightingTime": "2026-07-14 22:05頃",
+      "statusText": "ポップアップストアにて取り扱い（デザイン公開中）",
+      "confidenceMemo": "具体的な施設名と、メーカー（クーリア社）の特定キャラクター名が含まれており信頼性が高い",
+      "sourceUrl": "https://x.com/yuum_tsubura/status/2077016805114282241",
+      "sourceTweetId": "2077016805114282241",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2077016805114282241.png",
+      "isPosted": true,
+      "wpPostId": 12037,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-kanagawa-fujisawa-2026-07-14-3/",
+      "postedAt": "2026-07-14T22:56:13.870+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "東京都",
+      "city": "足立区",
+      "shopName": "くまざわ書店 ららテラス北綾瀬店",
+      "shopAddress": "東京都足立区谷中4丁目4-15 ららテラス北綾瀬 2階",
+      "productName": "ボンボンドロップシール（和菓子、ケーキ、クリームソーダ等）",
+      "sightingTime": "2026-07-14 11:25頃",
+      "statusText": "入荷・在庫あり",
+      "confidenceMemo": "店舗公式アカウントによる入荷・ラインナップ情報",
+      "sourceUrl": "https://x.com/kbckitaayase/status/2076991412273664437",
+      "sourceTweetId": "2076991412273664437",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2076991412273664437.png",
+      "isPosted": true,
+      "wpPostId": 12039,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-tokyo-adachi-2026-07-14/",
+      "postedAt": "2026-07-14T22:56:20.800+09:00"
     }
   ]
 }
