@@ -1,7 +1,7 @@
 {
   "date": "2026-07-15",
-  "updatedAt": "2026-07-15T19:45:53.305+09:00",
-  "count": 44,
+  "updatedAt": "2026-07-15T22:53:46.831+09:00",
+  "count": 46,
   "articles": [
     {
       "isSighting": true,
@@ -838,6 +838,44 @@
       "wpPostId": 12127,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-kumamoto-kashima-kamimashiki-district-2026-07-15-2/",
       "postedAt": "2026-07-15T19:46:34.105+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "福岡県",
+      "city": "福岡市博多区",
+      "shopName": "ボンボンドロップシール 期間限定ポップアップ（博多）",
+      "shopAddress": "福岡県福岡市博多区博多駅中央街1-1 JR博多シティ内",
+      "productName": "ボンボンドロップシール（しずくちゃんAB、サンリオ第1弾、動物/パンダ）",
+      "sightingTime": "2026-07-15 12:39頃",
+      "statusText": "しずくちゃんABは完売。サンリオ・動物は在庫ありだが品質（膨張）に個体差あり。",
+      "confidenceMemo": "イベント5日目の詳細な在庫状況と品質に関する言及があり、信頼性が高い。",
+      "sourceUrl": "https://x.com/rin_otoku25/status/2077372375914717571",
+      "sourceTweetId": "2077372375914717571",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2077372375914717571.png",
+      "isPosted": true,
+      "wpPostId": 12129,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-fukuoka-fukuoka-hakata-2026-07-15-2/",
+      "postedAt": "2026-07-15T22:53:54.204+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "京都府",
+      "city": "京田辺市",
+      "shopName": "ジョイフル 京田辺店",
+      "shopAddress": "京都府京田辺市山手中央1-1",
+      "productName": "鬼滅の刃コラボ ぷっくりシール",
+      "sightingTime": "2026-07-15 16:00頃",
+      "statusText": "完売間近（残り10枚未満、ガチャは完売）",
+      "confidenceMemo": "店舗名と地域情報が具体的。ただし商品名が鬼滅の刃コラボであり、時間情報の不整合（11:40のツイートで16時の報告）があるため信頼性に疑義あり。",
+      "sourceUrl": "https://x.com/Cherryi12056400/status/2077357683368505846",
+      "sourceTweetId": "2077357683368505846",
+      "isPrediction": true,
+      "imagePath": "output/sightings/images/2077357683368505846.png",
+      "isPosted": true,
+      "wpPostId": 12131,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-kyoto-kyotanabe-2026-07-15/",
+      "postedAt": "2026-07-15T22:54:01.229+09:00"
     }
   ]
 }
