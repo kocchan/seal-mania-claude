@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-07-16T04:32:43.284Z"
+wpPostUrl: "https://www.seal-search.com/news/new-item/loftnetstore-bonbondrop-202607/"
+wpPostId: 12161
+posted: true
 imageGenerated: true
 type: lottery
 status: draft
