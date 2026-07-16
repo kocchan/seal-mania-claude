@@ -1,7 +1,7 @@
 {
   "date": "2026-07-16",
-  "updatedAt": "2026-07-16T19:55:10.029+09:00",
-  "count": 31,
+  "updatedAt": "2026-07-16T23:04:25.007+09:00",
+  "count": 33,
   "articles": [
     {
       "isSighting": true,
@@ -591,6 +591,44 @@
       "wpPostId": 12195,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-tokyo-shinjuku-2026-07-16/",
       "postedAt": "2026-07-16T19:55:46.574+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "熊本県",
+      "city": "山鹿市",
+      "shopName": "BOOKSあんとく やまが店 (ガシャポンのデパート)",
+      "shopAddress": "熊本県山鹿市方保田3462-1",
+      "productName": "サンリオキャラクターズ ボンボンドロップミニチュアチャーム",
+      "sightingTime": "2026-07-16 12:59頃",
+      "statusText": "再入荷（在庫あり）",
+      "confidenceMemo": "店舗公式アカウントによる詳細な入荷・完売情報の更新",
+      "sourceUrl": "https://x.com/gasha_b_yamaga/status/2077739803765002491",
+      "sourceTweetId": "2077739803765002491",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2077739803765002491.png",
+      "isPosted": true,
+      "wpPostId": 12197,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-kumamoto-yamaga-2026-07-16-2/",
+      "postedAt": "2026-07-16T23:04:32.154+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "熊本県",
+      "city": "熊本市",
+      "shopName": "ガシャポンのデパート ワンダーシティ南熊本店",
+      "shopAddress": "熊本県熊本市中央区九品寺6-9-1",
+      "productName": "サンリオキャラクターズ ボンボンドロップミニチュアチャーム",
+      "sightingTime": "2026-07-16 12:07頃",
+      "statusText": "在庫あり（購入制限あり）",
+      "confidenceMemo": "店舗公式アカウントによる急遽入荷の通知",
+      "sourceUrl": "https://x.com/gasha_mnmkmmt/status/2077722902808739914",
+      "sourceTweetId": "2077722902808739914",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2077722902808739914.png",
+      "isPosted": true,
+      "wpPostId": 12199,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-kumamoto-kumamoto-2026-07-16/",
+      "postedAt": "2026-07-16T23:04:39.469+09:00"
     }
   ]
 }
