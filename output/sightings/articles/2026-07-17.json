@@ -1,7 +1,7 @@
 {
   "date": "2026-07-17",
-  "updatedAt": "2026-07-17T19:44:00.353+09:00",
-  "count": 20,
+  "updatedAt": "2026-07-17T22:48:20.032+09:00",
+  "count": 21,
   "articles": [
     {
       "isSighting": true,
@@ -382,6 +382,25 @@
       "wpPostId": 12243,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-saitama-fujimi-2026-07-17/",
       "postedAt": "2026-07-17T19:44:09.290+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "東京都",
+      "city": "豊島区",
+      "shopName": "池袋ロフト",
+      "shopAddress": "東京都豊島区南池袋1-28-1 西武池袋本店9F～12F",
+      "productName": "ボンボンドロップシール（しずくちゃん）",
+      "sightingTime": "2026-07-17 11:37頃",
+      "statusText": "在庫あり",
+      "confidenceMemo": "具体的な店舗名（池袋のロフト）とキャラクター名（しずくちゃん）の言及があり、写真付きの投稿であるため信頼性が高い。",
+      "sourceUrl": "https://x.com/pretty_meg66/status/2078081678061494452",
+      "sourceTweetId": "2078081678061494452",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2078081678061494452.png",
+      "isPosted": true,
+      "wpPostId": 12245,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-tokyo-toshima-2026-07-17/",
+      "postedAt": "2026-07-17T22:48:25.904+09:00"
     }
   ]
 }
