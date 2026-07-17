@@ -1,7 +1,7 @@
 {
   "date": "2026-07-17",
-  "updatedAt": "2026-07-17T14:36:37.160+09:00",
-  "count": 17,
+  "updatedAt": "2026-07-17T17:21:01.775+09:00",
+  "count": 19,
   "articles": [
     {
       "isSighting": true,
@@ -325,6 +325,44 @@
       "wpPostId": 12237,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-tokyo-chuo-2026-07-17/",
       "postedAt": "2026-07-17T14:37:23.972+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "東京都",
+      "city": "墨田区",
+      "shopName": "すみだ水族館",
+      "shopAddress": "東京都墨田区押上1-1-2 東京スカイツリータウン・ソラマチ5F・6F",
+      "productName": "ボンボンドロップシール",
+      "sightingTime": "2026-07-17 17:03頃",
+      "statusText": "完売（次回入荷未定）",
+      "confidenceMemo": "公式アカウントによる公式な完売報告。特定の商品名が明記されている。",
+      "sourceUrl": "https://x.com/Sumida_Aquarium/status/2078027803241636092",
+      "sourceTweetId": "2078027803241636092",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2078027803241636092.png",
+      "isPosted": true,
+      "wpPostId": 12239,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-tokyo-sumida-2026-07-17/",
+      "postedAt": "2026-07-17T17:21:09.025+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "東京都",
+      "city": "新宿区",
+      "shopName": "サンリオ ルミネエスト新宿店",
+      "shopAddress": "東京都新宿区新宿3-38-1 ルミネエスト新宿 3F",
+      "productName": "ボンボンドロップシール（サンリオキャラクターズ）",
+      "sightingTime": "2026-07-17 06:34頃",
+      "statusText": "在庫あり（在庫豊富、人だかりあり）",
+      "confidenceMemo": "具体的な店舗名（ルミネエスト新宿）の言及あり。商品名は『ぷっくり立体シール』という特徴表現と、同時期発売のチャームの言及から特定。",
+      "sourceUrl": "https://x.com/rena_beauty07/status/2078005431302324519",
+      "sourceTweetId": "2078005431302324519",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2078005431302324519.png",
+      "isPosted": true,
+      "wpPostId": 12241,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-tokyo-shinjuku-2026-07-17/",
+      "postedAt": "2026-07-17T17:21:16.246+09:00"
     }
   ]
 }
