@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-07-17T04:35:58.210Z"
+wpPostUrl: "https://www.seal-search.com/news/new-item/hachemon-bonbondrop-abeno-202607/"
+wpPostId: 12221
+posted: true
 imageGenerated: true
 type: new-release
 status: draft

@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-07-17T04:36:07.715Z"
+wpPostUrl: "https://www.seal-search.com/news/new-item/jal-bonbondrop-202607/"
+wpPostId: 12223
+posted: true
 imageGenerated: true
 type: lottery
 status: draft
