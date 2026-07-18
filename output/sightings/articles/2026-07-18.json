@@ -1,7 +1,7 @@
 {
   "date": "2026-07-18",
-  "updatedAt": "2026-07-18T14:20:42.040+09:00",
-  "count": 24,
+  "updatedAt": "2026-07-18T17:01:52.690+09:00",
+  "count": 26,
   "articles": [
     {
       "isSighting": true,
@@ -458,6 +458,44 @@
       "wpPostId": 12416,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-hokkaido-toyohira-sapporo-2026-07-18/",
       "postedAt": "2026-07-18T14:21:20.887+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "東京都",
+      "city": "墨田区",
+      "shopName": "すみだ水族館",
+      "shopAddress": "東京都墨田区押上1-1-2 東京スカイツリータウン・ソラマチ5F・6F",
+      "productName": "ボンボンドロップシール",
+      "sightingTime": "2026-07-17 08:03頃",
+      "statusText": "完売（次回入荷未定）",
+      "confidenceMemo": "公式アカウントによる完売通知",
+      "sourceUrl": "https://x.com/Sumida_Aquarium/status/2078027803241636092",
+      "sourceTweetId": "2078027803241636092",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2078027803241636092.png",
+      "isPosted": true,
+      "wpPostId": 12424,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-tokyo-sumida-2026-07-17-2/",
+      "postedAt": "2026-07-18T17:01:59.633+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "神奈川県",
+      "city": "相模原市南区",
+      "shopName": "B-STOCK 相模大野店",
+      "shopAddress": "神奈川県相模原市南区相模大野3-8-1 相模大野ステーションスクエア",
+      "productName": "ボンボンドロップシール（ナルミヤ、お文具さん、お茶犬、コジコジ、ノンタン）",
+      "sightingTime": "2026-07-18 06:16頃",
+      "statusText": "在庫あり（お一人様3枚までの購入制限あり）",
+      "confidenceMemo": "店舗公式アカウントによる入荷・販売制限の案内",
+      "sourceUrl": "https://x.com/bstock_ohno/status/2078363339844157556",
+      "sourceTweetId": "2078363339844157556",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2078363339844157556.png",
+      "isPosted": true,
+      "wpPostId": 12426,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-kanagawa-sagamihara-minami-2026-07-18/",
+      "postedAt": "2026-07-18T17:02:06.948+09:00"
     }
   ]
 }
