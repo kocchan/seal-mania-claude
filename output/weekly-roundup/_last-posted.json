@@ -1,138 +1,196 @@
 [
   {
-    "weekDir": "2026-07-06",
+    "weekDir": "2026-07-13",
     "slug": "aichi",
     "wpPostId": 5885,
     "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-weekly-aichi/",
     "action": "updated",
     "prefecture": "愛知県",
     "includedSightingIds": [
-      11538,
-      11556,
-      11560,
-      11564,
-      11568,
-      11578,
-      11626,
-      11644,
-      11666,
-      11680,
-      11708,
-      11712,
-      11730,
-      11736,
-      11776
+      11973,
+      11979,
+      12045,
+      12163,
+      12215
     ]
   },
   {
-    "weekDir": "2026-07-06",
-    "slug": "chiba",
-    "wpPostId": 5887,
-    "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-weekly-chiba/",
-    "action": "updated",
-    "prefecture": "千葉県",
-    "includedSightingIds": [
-      11550,
-      11576,
-      11622,
-      11670,
-      11692,
-      11720,
-      11722
-    ]
-  },
-  {
-    "weekDir": "2026-07-06",
+    "weekDir": "2026-07-13",
     "slug": "fukuoka",
     "wpPostId": 5889,
     "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-weekly-fukuoka/",
     "action": "updated",
     "prefecture": "福岡県",
     "includedSightingIds": [
-      11600,
-      11618,
-      11658,
-      11682,
-      11686
+      11971,
+      12081,
+      12129,
+      12135,
+      12165
     ]
   },
   {
-    "weekDir": "2026-07-06",
+    "weekDir": "2026-07-13",
+    "slug": "hokkaido",
+    "wpPostId": 5895,
+    "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-weekly-hokkaido/",
+    "action": "updated",
+    "prefecture": "北海道",
+    "includedSightingIds": [
+      12003,
+      12041,
+      12085,
+      12107,
+      12115,
+      12157,
+      12269
+    ]
+  },
+  {
+    "weekDir": "2026-07-13",
+    "slug": "hyogo",
+    "wpPostId": 5897,
+    "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-weekly-hyogo/",
+    "action": "updated",
+    "prefecture": "兵庫県",
+    "includedSightingIds": [
+      11969,
+      11989,
+      12021,
+      12031,
+      12033,
+      12063,
+      12065,
+      12167,
+      12229,
+      12235
+    ]
+  },
+  {
+    "weekDir": "2026-07-13",
+    "slug": "kanagawa",
+    "wpPostId": 5899,
+    "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-weekly-kanagawa/",
+    "action": "updated",
+    "prefecture": "神奈川県",
+    "includedSightingIds": [
+      12027,
+      12029,
+      12037,
+      12059,
+      12061,
+      12251,
+      12277
+    ]
+  },
+  {
+    "weekDir": "2026-07-13",
+    "slug": "kumamoto",
+    "wpPostId": 12297,
+    "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-weekly-kumamoto/",
+    "action": "created",
+    "prefecture": "熊本県",
+    "includedSightingIds": [
+      12117,
+      12127,
+      12139,
+      12147,
+      12189,
+      12197,
+      12199,
+      12201
+    ]
+  },
+  {
+    "weekDir": "2026-07-13",
     "slug": "osaka",
     "wpPostId": 5903,
     "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-weekly-osaka/",
     "action": "updated",
     "prefecture": "大阪府",
     "includedSightingIds": [
-      11554,
-      11580,
-      11640,
-      11662,
-      11742
+      11995,
+      11997,
+      12011,
+      12013,
+      12183,
+      12193,
+      12219,
+      12255
     ]
   },
   {
-    "weekDir": "2026-07-06",
+    "weekDir": "2026-07-13",
     "slug": "saitama",
     "wpPostId": 5905,
     "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-weekly-saitama/",
     "action": "updated",
     "prefecture": "埼玉県",
     "includedSightingIds": [
-      11558,
-      11594,
-      11628,
-      11696,
-      11724,
-      11734,
-      11750,
-      11754,
-      11772,
-      11774
+      11999,
+      12001,
+      12005,
+      12015,
+      12023,
+      12043,
+      12091,
+      12097,
+      12111,
+      12123,
+      12143,
+      12243,
+      12273
     ]
   },
   {
-    "weekDir": "2026-07-06",
-    "slug": "shizuoka",
-    "wpPostId": 5907,
-    "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-weekly-shizuoka/",
-    "action": "updated",
-    "prefecture": "静岡県",
-    "includedSightingIds": [
-      11536,
-      11660,
-      11690,
-      11718,
-      11760
-    ]
-  },
-  {
-    "weekDir": "2026-07-06",
+    "weekDir": "2026-07-13",
     "slug": "tokyo",
     "wpPostId": 5909,
     "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-weekly-tokyo/",
     "action": "updated",
     "prefecture": "東京都",
     "includedSightingIds": [
-      11548,
-      11574,
-      11590,
-      11598,
-      11604,
-      11606,
-      11624,
-      11630,
-      11642,
-      11646,
-      11656,
-      11664,
-      11698,
-      11702,
-      11746,
-      11748,
-      11752,
-      11756,
-      11770
+      11923,
+      11957,
+      11963,
+      11977,
+      12007,
+      12017,
+      12039,
+      12051,
+      12075,
+      12079,
+      12169,
+      12177,
+      12185,
+      12187,
+      12195,
+      12203,
+      12233,
+      12237,
+      12239,
+      12241,
+      12245,
+      12249,
+      12253,
+      12271,
+      12283
+    ]
+  },
+  {
+    "weekDir": "2026-07-13",
+    "slug": "toyama",
+    "wpPostId": 12305,
+    "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-weekly-toyama/",
+    "action": "created",
+    "prefecture": "富山県",
+    "includedSightingIds": [
+      11975,
+      11981,
+      11983,
+      11985,
+      11987,
+      12047
     ]
   }
 ]
