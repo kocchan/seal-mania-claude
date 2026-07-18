@@ -1,503 +1,243 @@
 <?php
 /**
- * Template Name: フロントページ用テンプレート
+ * Template Name: フロントページ用テンプレート（キャラ推し活トップ）
+ *
+ * ヘッダー・フッター・グローバルメニューは Cocoon 側を利用。
+ * 本文のみを <div class="ktop"> で包み、デザインは子テーマ style.css（.ktop 名前空間）で管理する。
  */
 get_header();
+
+/**
+ * 記事カードを1枚出力するヘルパー。
+ * ループ内（the_post 済み）で呼ぶこと。
+ */
+if ( ! function_exists( 'ktop_render_card' ) ) {
+	function ktop_render_card( $badge_class, $badge_label ) { ?>
+		<a class="card" href="<?php the_permalink(); ?>">
+			<div class="thumb">
+				<span class="badge <?php echo esc_attr( $badge_class ); ?>"><?php echo esc_html( $badge_label ); ?></span>
+				<?php if ( has_post_thumbnail() ) : the_post_thumbnail( 'medium' ); else : ?>
+					<span class="k-ph"></span>
+				<?php endif; ?>
+			</div>
+			<div class="cbody">
+				<h4><?php echo esc_html( get_the_title() ); ?></h4>
+				<time><?php echo esc_html( get_the_date( 'Y.m.d' ) ); ?></time>
+			</div>
+		</a>
+	<?php }
+}
+
+/**
+ * カテゴリスラッグから最新記事を出す共通ループ。
+ * $slug が空/該当なしのときは最新記事にフォールバック。
+ */
+if ( ! function_exists( 'ktop_query' ) ) {
+	function ktop_query( $slug = '', $count = 3 ) {
+		$args = array( 'posts_per_page' => $count, 'ignore_sticky_posts' => true );
+		if ( $slug ) { $args['category_name'] = $slug; }
+		$q = new WP_Query( $args );
+		if ( ! $q->have_posts() ) { // フォールバック：最新記事
+			$q = new WP_Query( array( 'posts_per_page' => $count, 'ignore_sticky_posts' => true ) );
+		}
+		return $q;
+	}
+}
+// 「シールをすべて見る」等のリンク先（シール専用ページ未作成のため、暫定で都道府県別カテゴリへ）
+$_seal_cat    = get_category_by_slug( 'prefecture' );
+$seal_all_url = $_seal_cat ? get_category_link( $_seal_cat->term_id ) : home_url( '/' );
 ?>
 
 <main id="main" class="main front-page-main" role="main">
-    
-    <div class="main-visual-area">
-        <img src="http://www.seal-search.com/wp-content/uploads/2026/02/Gemini_Generated_Image_sw3lrxsw3lrxsw3l.png" alt="BONBON DROP" class="main-visual-img pc-only">
-        <img src="http://www.seal-search.com/wp-content/uploads/2026/02/Gemini_Generated_Image_gu1sshgu1sshgu1s.png" alt="BONBON DROP" class="main-visual-img sp-only">
-    </div>
+<div class="ktop">
 
-    <div class="content-container">
-        
-        <section class="content-section popular-section-full">
-            <div class="popular-slider-container">
-                <div class="popular-post-area" id="popularSlider">
-                    <?php 
-                    $popular_args = array(
-                        'posts_per_page' => 5,
-                        'meta_key'       => 'views',
-                        'orderby'        => 'meta_value_num',
-                        'order'          => 'DESC',
-                    );
-                    $popular_query = new WP_Query($popular_args);
+	<!-- ================= 注目記事カルーセル ================= -->
+	<div class="krail">
+		<?php
+		$feat = new WP_Query( array( 'posts_per_page' => 6, 'meta_key' => 'views', 'orderby' => 'meta_value_num', 'order' => 'DESC', 'ignore_sticky_posts' => true ) );
+		if ( ! $feat->have_posts() ) { $feat = new WP_Query( array( 'posts_per_page' => 6, 'ignore_sticky_posts' => true ) ); }
+		while ( $feat->have_posts() ) : $feat->the_post(); ?>
+			<a class="fcard" href="<?php the_permalink(); ?>">
+				<div class="fthumb">
+					<span class="catchip b-spot">注目</span>
+					<?php if ( has_post_thumbnail() ) : the_post_thumbnail( 'medium' ); else : ?><span class="k-ph"></span><?php endif; ?>
+				</div>
+				<h4><?php echo esc_html( get_the_title() ); ?></h4>
+			</a>
+		<?php endwhile; wp_reset_postdata(); ?>
+	</div>
 
-                    if (!$popular_query->have_posts()) {
-                        $popular_args = array('posts_per_page' => 5);
-                        $popular_query = new WP_Query($popular_args);
-                    }
+	<!-- ================= ジャンルから探す ================= -->
+	<section class="sec">
+		<div class="shead"><h2>ジャンルから探す</h2></div>
+		<div class="pillars">
+			<a class="pill" href="#seal">
+				<span class="picon pi-pink">🩹</span>
+				<div><h3>シール<span class="st on">運用中</span></h3><p>ボンボンドロップ等のシール情報。看板コンテンツ「シールマニア」へ →</p></div>
+			</a>
+			<a class="pill" href="#mejirushi">
+				<span class="picon pi-violet">🎀</span>
+				<div><h3>めじるしアクセサリー<span class="st soon">NEW・準備中</span></h3><p>傘・バッグ・ボトルの“目印チャーム”。サンリオ等のガチャが大人気。近日オープン</p></div>
+			</a>
+			<a class="pill" href="#">
+				<span class="picon pi-blue">🥚</span>
+				<div><h3>ガチャ（カプセルトイ）<span class="st plan">構想中</span></h3><p>第5次ブームのガチャ活。新作＆設置場所を追跡予定</p></div>
+			</a>
+			<a class="pill" href="#">
+				<span class="picon pi-amber">✉️</span>
+				<div><h3>リクエスト募集<span class="st plan">＋</span></h3><p>扱ってほしいジャンルを教えてください</p></div>
+			</a>
+		</div>
+	</section>
 
-                    if ($popular_query->have_posts()) :
-                        while ($popular_query->have_posts()) : $popular_query->the_post(); ?>
-                            <div class="slider-item">
-                                <a href="<?php the_permalink(); ?>" class="img-only-link">
-                                    <div class="slider-img-wrap">
-                                        <?php if (has_post_thumbnail()) : ?>
-                                            <?php the_post_thumbnail('medium'); ?>
-                                        <?php else : ?>
-                                            <div class="article-placeholder"><span class="no-image-title"><?php the_title(); ?></span></div>
-                                        <?php endif; ?>
-                                    </div>
-                                </a>
-                                
-                                <a href="<?php the_permalink(); ?>" class="title-only-link">
-                                    <div class="safe-post-title">
-                                        <?php echo esc_html(get_the_title()); ?>
-                                    </div>
-                                </a>
-                            </div>
-                        <?php endwhile; wp_reset_postdata();
-                    endif; ?>
-                </div>
-                <div class="slider-dots" id="sliderDots"></div>
-            </div>
-        </section>
+	<div class="main-grid">
+	<div>
 
-        <div style="border: 2px solid #f2f2f2; border-radius: 4px; padding: 15px; margin: 40px 0; background: #fff; display: flex; flex-wrap: wrap; align-items: center; gap: 20px; width: 100%; box-sizing: border-box;">
-            <div style="flex: 0 0 120px; width: 120px; margin: 0 auto; text-align: center;">
-                <a href="https://store.shopping.yahoo.co.jp/flow-syouten/4901770777146.html" target="_blank" rel="nofollow"><img src="https://item-shopping.c.yimg.jp/i/g/flow-syouten_4901770777146" alt="ちいかわ ボンボンドロップシール" style="max-width: 100%; max-height: 120px;"></a>
-            </div>
-            <div style="flex: 1; min-width: 200px;">
-                <div style="margin-bottom: 15px;">
-                    <a href="https://store.shopping.yahoo.co.jp/flow-syouten/4901770777146.html" target="_blank" rel="nofollow" style="font-weight: bold; color: #333; text-decoration: none;">正規品 ちいかわ シール モモンガ ボンボンドロップシール S8542929 サンスター文具</a>
-                    <div style="color: #d32f2f; font-size: 13px; margin-top: 5px;">¥2,980〜</div>
-                </div>
-                <div style="display: flex; gap: 10px;">
-                    <a href="https://www.amazon.co.jp/s?k=%E3%81%A1%E3%81%84%E3%81%8B%E3%82%8F%20%E3%83%9C%E3%83%B3%E3%83%9C%E3%83%B3%E3%83%89%E3%83%AD%E3%83%83%E3%83%97%E3%82%B7%E3%83%BC%E3%83%AB&tag=sealmania-22" target="_blank" rel="nofollow" style="flex: 1; text-align: center; background: #ff9900; color: #fff; padding: 10px 0; font-weight: bold; border-radius: 4px; text-decoration: none; font-size: 12px;">Amazon</a>
-                    <a href="https://hb.afl.rakuten.co.jp/hgc/50f17d50.13213066.50f17d51.fed7b043/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%81%A1%E3%81%84%E3%81%8B%E3%82%8F%20%E3%83%9C%E3%83%B3%E3%83%9C%E3%83%B3%E3%83%89%E3%83%AD%E3%83%83%E3%83%97%E3%82%B7%E3%83%BC%E3%83%AB" target="_blank" rel="nofollow" style="flex: 1; text-align: center; background: #bf0000; color: #fff; padding: 10px 0; font-weight: bold; border-radius: 4px; text-decoration: none; font-size: 12px;">楽天市場</a>
-                    <a href="https://shopping.yahoo.co.jp/search?p=%E3%81%A1%E3%81%84%E3%81%8B%E3%82%8F%20%E3%83%9C%E3%83%B3%E3%83%9C%E3%83%B3%E3%83%89%E3%83%AD%E3%83%83%E3%83%97%E3%82%B7%E3%83%BC%E3%83%AB" target="_blank" rel="nofollow" style="flex: 1; text-align: center; background: #51a7e8; color: #fff; padding: 10px 0; font-weight: bold; border-radius: 4px; text-decoration: none; font-size: 12px;">Yahoo!</a>
-                </div>
-            </div>
-        </div>
-        <section class="content-section location-section">
-            <h2 class="section-title-blue">場所から探す</h2>
-            <?php
-            $regions = [
-                '北海道/東北' => 'hokkaido-tohoku',
-                '関東'       => 'kanto',
-                '中部'       => 'chubu',
-                '近畿'       => 'kinki',
-                '中国・四国'   => 'chugoku-shikoku',
-                '九州・沖縄'   => 'kyushu-okinawa',
-            ];
+		<!-- ================= シール情報 ================= -->
+		<div class="shead big" id="seal">
+			<h2>シール情報</h2><span class="shead-sub">ボンボンドロップシール</span>
+			<a class="more big-more" href="<?php echo esc_url( $seal_all_url ); ?>">シールをすべて見る ›</a>
+		</div>
 
-            foreach ($regions as $region_name => $slug) :
-                $cat = get_category_by_slug($slug);
-                $region_link = $cat ? get_category_link($cat->term_id) : '#';
-                
-                $args = array(
-                    'category_name'  => $slug,
-                    'posts_per_page' => 4 
-                );
-                $query = new WP_Query($args);
+		<!-- 話題の新作 -->
+		<section class="subsec">
+			<div class="row-head"><h3>話題の<b>新作</b></h3><a class="more" href="<?php echo esc_url( get_category_link( get_category_by_slug( 'new-item' ) ? get_category_by_slug( 'new-item' )->term_id : 0 ) ); ?>">もっと見る ›</a></div>
+			<div class="cards">
+				<?php $q = ktop_query( 'new-item', 3 ); while ( $q->have_posts() ) : $q->the_post(); ktop_render_card( 'b-new', '新作' ); endwhile; wp_reset_postdata(); ?>
+			</div>
+		</section>
 
-                if ($query->have_posts()) :
-            ?>
-            <div class="region-block">
-                <h3 class="sub-title-pink"><?php echo esc_html($region_name); ?></h3>
-                <div class="article-grid-4">
-                    <?php while ($query->have_posts()) : $query->the_post(); ?>
-                        <div class="grid-item-wrap">
-                            <a href="<?php the_permalink(); ?>" class="img-only-link">
-                                <?php if (has_post_thumbnail()) : ?>
-                                    <?php the_post_thumbnail('medium'); ?>
-                                <?php else : ?>
-                                    <div class="article-placeholder"><span class="no-image-title"><?php the_title(); ?></span></div>
-                                <?php endif; ?>
-                            </a>
-                            <a href="<?php the_permalink(); ?>" class="title-only-link">
-                                <div class="safe-post-title">
-                                    <?php echo esc_html(get_the_title()); ?>
-                                </div>
-                            </a>
-                        </div>
-                    <?php endwhile; wp_reset_postdata(); ?>
-                </div>
-                <?php if ($cat) : ?>
-                    <div class="more-link-wrap"><a href="<?php echo esc_url($region_link); ?>" class="more-link">もっと見る＞</a></div>
-                <?php endif; ?>
-            </div>
-            <?php 
-                endif; 
-            endforeach; 
-            ?>
-        </section>
+		<!-- 広告① -->
+		<aside class="adcard">
+			<span class="ad-label">PR</span>
+			<div class="ad-thumb"><span class="k-ph"></span></div>
+			<div class="ad-body">
+				<p class="ad-name">正規品 ちいかわ シール モモンガ ボンボンドロップシール S8542929 サンスター文具</p>
+				<div class="ad-price">¥2,980〜</div>
+				<div class="ad-btns">
+					<a class="ad-btn amazon" href="#" rel="nofollow" target="_blank">Amazon</a>
+					<a class="ad-btn rakuten" href="#" rel="nofollow" target="_blank">楽天市場</a>
+					<a class="ad-btn yahoo" href="#" rel="nofollow" target="_blank">Yahoo!</a>
+				</div>
+			</div>
+		</aside>
 
-        <section class="content-section store-section">
-            <h2 class="section-title-blue">店舗から探す</h2>
-            <?php
-            $stores = [
-                'ドンキ' => 'donki',
-                'LOFT' => 'loft',
-                'ハンズ' => 'hands',
-                'コンビニ' => 'convini',
-                'ヴィレッジヴァンガード' => 'village-vanguard',
-                'TSUTAYA' => 'tsutaya',
-                'その他' => 'other-store',
-            ];
+		<!-- 抽選・予約まとめ -->
+		<section class="subsec">
+			<div class="row-head"><h3>抽選・予約<b>まとめ</b></h3><a class="more" href="<?php echo esc_url( get_category_link( get_category_by_slug( 'reservation' ) ? get_category_by_slug( 'reservation' )->term_id : 0 ) ); ?>">もっと見る ›</a></div>
+			<div class="cards">
+				<?php $q = ktop_query( 'reservation', 3 ); while ( $q->have_posts() ) : $q->the_post(); ktop_render_card( 'b-lot', '抽選' ); endwhile; wp_reset_postdata(); ?>
+			</div>
+		</section>
 
-            foreach ($stores as $store_name => $slug) :
-                $cat = get_category_by_slug($slug);
-                $store_link = $cat ? get_category_link($cat->term_id) : '#';
-                
-                $args = array(
-                    'category_name'  => $slug,
-                    'posts_per_page' => 4 
-                );
-                $query = new WP_Query($args);
+		<!-- エリアの目撃情報（最新） -->
+		<section class="subsec">
+			<div class="row-head"><h3>エリアの<b>目撃情報</b></h3><a class="more" href="<?php echo esc_url( get_category_link( get_category_by_slug( 'prefecture' ) ? get_category_by_slug( 'prefecture' )->term_id : 0 ) ); ?>">もっと見る ›</a></div>
+			<div class="cards">
+				<?php $q = ktop_query( '', 3 ); while ( $q->have_posts() ) : $q->the_post(); ktop_render_card( 'b-spot', '目撃' ); endwhile; wp_reset_postdata(); ?>
+			</div>
+			<a class="btn-more" href="<?php echo esc_url( $seal_all_url ); ?>">シール情報をもっと見る</a>
+		</section>
 
-                if ($query->have_posts()) :
-            ?>
-            <div class="region-block">
-                <h3 class="sub-title-pink"><?php echo esc_html($store_name); ?></h3>
-                <div class="article-grid-4">
-                    <?php while ($query->have_posts()) : $query->the_post(); ?>
-                        <div class="grid-item-wrap">
-                            <a href="<?php the_permalink(); ?>" class="img-only-link">
-                                <?php if (has_post_thumbnail()) : ?>
-                                    <?php the_post_thumbnail('medium'); ?>
-                                <?php else : ?>
-                                    <div class="article-placeholder"><span class="no-image-title"><?php the_title(); ?></span></div>
-                                <?php endif; ?>
-                            </a>
-                            <a href="<?php the_permalink(); ?>" class="title-only-link">
-                                <div class="safe-post-title">
-                                    <?php echo esc_html(get_the_title()); ?>
-                                </div>
-                            </a>
-                        </div>
-                    <?php endwhile; wp_reset_postdata(); ?>
-                </div>
-                <?php if ($cat) : ?>
-                    <div class="more-link-wrap"><a href="<?php echo esc_url($store_link); ?>" class="more-link">もっと見る＞</a></div>
-                <?php endif; ?>
-            </div>
-            <?php 
-                endif; 
-            endforeach; 
-            ?>
-        </section>
+		<!-- 広告② -->
+		<aside class="adcard">
+			<span class="ad-label">PR</span>
+			<div class="ad-thumb"><span class="k-ph"></span></div>
+			<div class="ad-body">
+				<p class="ad-name">サンリオキャラクターズ ボンボンドロップ ミニチュアチャーム 全種セット</p>
+				<div class="ad-price">¥3,480〜</div>
+				<div class="ad-btns">
+					<a class="ad-btn amazon" href="#" rel="nofollow" target="_blank">Amazon</a>
+					<a class="ad-btn rakuten" href="#" rel="nofollow" target="_blank">楽天市場</a>
+					<a class="ad-btn yahoo" href="#" rel="nofollow" target="_blank">Yahoo!</a>
+				</div>
+			</div>
+		</aside>
 
-        <section class="content-section character-section">
-            <h2 class="section-title-blue">キャラクターから探す</h2>
-            <?php
-            $characters = [
-                'ディズニー' => 'disney',
-                'サンリオ' => 'sanrio',
-                'たまごっち' => 'tamagotchi',
-                'しずくちゃん' => 'shizukuchan',
-                'ちいかわ' => 'chiikawa',
-                'その他' => 'other-character',
-            ];
+		<!-- ================= めじるしアクセサリー（準備中） ================= -->
+		<div class="shead big" id="mejirushi">
+			<h2>めじるしアクセサリー</h2><span class="shead-sub">目印チャーム／めじるしチャーム</span><span class="st soon">NEW・準備中</span>
+		</div>
+		<p class="block-note">いま話題の<b>めじるしアクセサリー（目印チャーム）</b>情報を準備中です。サンリオ・たまごっち等のガチャ新作や再販を、シールと同じ構成で「新作・抽選・目撃」としてお届け予定。近日オープン！</p>
 
-            foreach ($characters as $char_name => $slug) :
-                $cat = get_category_by_slug($slug);
-                $char_link = $cat ? get_category_link($cat->term_id) : '#';
-                
-                $args = array(
-                    'category_name'  => $slug,
-                    'posts_per_page' => 4 
-                );
-                $query = new WP_Query($args);
+		<section class="subsec">
+			<div class="row-head"><h3>話題の<b>新作</b></h3><span class="more" style="color:var(--k-faint)">準備中</span></div>
+			<div class="cards">
+				<span class="card coming"><div class="thumb"><span class="badge b-prep">準備中</span><span class="k-ph"></span></div><div class="cbody"><h4>近日公開 ─ めじるしアクセサリーの新作情報</h4><time>Coming soon</time></div></span>
+				<span class="card coming"><div class="thumb"><span class="badge b-prep">準備中</span><span class="k-ph"></span></div><div class="cbody"><h4>近日公開 ─ めじるしアクセサリーの新作情報</h4><time>Coming soon</time></div></span>
+				<span class="card coming"><div class="thumb"><span class="badge b-prep">準備中</span><span class="k-ph"></span></div><div class="cbody"><h4>近日公開 ─ めじるしアクセサリーの新作情報</h4><time>Coming soon</time></div></span>
+			</div>
+		</section>
 
-                if ($query->have_posts()) :
-            ?>
-            <div class="region-block">
-                <h3 class="sub-title-pink"><?php echo esc_html($char_name); ?></h3>
-                <div class="article-grid-4">
-                    <?php while ($query->have_posts()) : $query->the_post(); ?>
-                        <div class="grid-item-wrap">
-                            <a href="<?php the_permalink(); ?>" class="img-only-link">
-                                <?php if (has_post_thumbnail()) : ?>
-                                    <?php the_post_thumbnail('medium'); ?>
-                                <?php else : ?>
-                                    <div class="article-placeholder"><span class="no-image-title"><?php the_title(); ?></span></div>
-                                <?php endif; ?>
-                            </a>
-                            <a href="<?php the_permalink(); ?>" class="title-only-link">
-                                <div class="safe-post-title">
-                                    <?php echo esc_html(get_the_title()); ?>
-                                </div>
-                            </a>
-                        </div>
-                    <?php endwhile; wp_reset_postdata(); ?>
-                </div>
-                <?php if ($cat) : ?>
-                    <div class="more-link-wrap"><a href="<?php echo esc_url($char_link); ?>" class="more-link">もっと見る＞</a></div>
-                <?php endif; ?>
-            </div>
-            <?php 
-                endif; 
-            endforeach; 
-            ?>
-        </section>
+	</div>
 
-        <section class="content-section news-section">
-            <h2 class="section-title-blue">入荷/抽選情報</h2>
-            <?php
-            $news_categories = [
-                '今月の新作' => 'new-item',
-                '抽選・予約情報' => 'reservation',
-                'オンライン通販' => 'online',
-            ];
+	<!-- ================= サイドバー ================= -->
+	<aside class="side">
+		<div class="widget">
+			<div class="wtitle">サイト内検索</div>
+			<form class="w-search" method="get" action="<?php echo esc_url( home_url( '/' ) ); ?>">
+				<input type="text" name="s" placeholder="例：ちいかわ、抽選、大阪" value="<?php echo esc_attr( get_search_query() ); ?>">
+				<button type="submit" aria-label="検索">🔍</button>
+			</form>
+		</div>
 
-            foreach ($news_categories as $news_name => $slug) :
-                $cat = get_category_by_slug($slug);
-                $news_link = $cat ? get_category_link($cat->term_id) : '#';
-                
-                $args = array(
-                    'category_name'  => $slug,
-                    'posts_per_page' => 4 
-                );
-                $query = new WP_Query($args);
+		<div class="widget">
+			<div class="wtitle">人気ランキング</div>
+			<ol class="rank">
+				<?php
+				$rank = new WP_Query( array(
+					'posts_per_page' => 5,
+					'meta_key'       => 'views',
+					'orderby'        => 'meta_value_num',
+					'order'          => 'DESC',
+					'ignore_sticky_posts' => true,
+				) );
+				if ( ! $rank->have_posts() ) { $rank = new WP_Query( array( 'posts_per_page' => 5, 'ignore_sticky_posts' => true ) ); }
+				$rn = 0;
+				while ( $rank->have_posts() ) : $rank->the_post(); $rn++; ?>
+					<li>
+						<span class="rn"><?php echo (int) $rn; ?></span>
+						<span class="rthumb"><?php if ( has_post_thumbnail() ) : the_post_thumbnail( 'thumbnail' ); else : ?><span class="k-ph"></span><?php endif; ?></span>
+						<p><a href="<?php the_permalink(); ?>"><?php echo esc_html( get_the_title() ); ?></a></p>
+					</li>
+				<?php endwhile; wp_reset_postdata(); ?>
+			</ol>
+		</div>
 
-                if ($query->have_posts()) :
-            ?>
-            <div class="region-block">
-                <h3 class="sub-title-pink"><?php echo esc_html($news_name); ?></h3>
-                <div class="article-grid-4">
-                    <?php while ($query->have_posts()) : $query->the_post(); ?>
-                        <div class="grid-item-wrap">
-                            <a href="<?php the_permalink(); ?>" class="img-only-link">
-                                <?php if (has_post_thumbnail()) : ?>
-                                    <?php the_post_thumbnail('medium'); ?>
-                                <?php else : ?>
-                                    <div class="article-placeholder"><span class="no-image-title"><?php the_title(); ?></span></div>
-                                <?php endif; ?>
-                            </a>
-                            <a href="<?php the_permalink(); ?>" class="title-only-link">
-                                <div class="safe-post-title">
-                                    <?php echo esc_html(get_the_title()); ?>
-                                </div>
-                            </a>
-                        </div>
-                    <?php endwhile; wp_reset_postdata(); ?>
-                </div>
-                <?php if ($cat) : ?>
-                    <div class="more-link-wrap"><a href="<?php echo esc_url($news_link); ?>" class="more-link">もっと見る＞</a></div>
-                <?php endif; ?>
-            </div>
-            <?php 
-                endif; 
-            endforeach; 
-            ?>
-        </section>
+		<div class="widget ad-widget">
+			<span class="ad-label">PR</span>
+			<div class="ad-thumb"><span class="k-ph"></span></div>
+			<p class="ad-name">サンリオ めじるしアクセサリー ガチャ 全20種コンプセット</p>
+			<div class="ad-price">¥3,000〜</div>
+			<div class="ad-btns">
+				<a class="ad-btn amazon" href="#" rel="nofollow" target="_blank">Amazon</a>
+				<a class="ad-btn rakuten" href="#" rel="nofollow" target="_blank">楽天</a>
+				<a class="ad-btn yahoo" href="#" rel="nofollow" target="_blank">Yahoo!</a>
+			</div>
+		</div>
 
-        <section class="content-section guide-section">
-            <h2 class="section-title-blue">豆知識</h2>
-            <div class="store-grid-wrapper">
-                <?php 
-                $guide_query = new WP_Query(array('category_name' => 'guide', 'posts_per_page' => 4));
-                if ($guide_query->have_posts()) :
-                    while ($guide_query->have_posts()) : $guide_query->the_post(); ?>
-                        <div class="grid-item-wrap">
-                            <a href="<?php the_permalink(); ?>" class="img-only-link">
-                                <?php if (has_post_thumbnail()) : ?>
-                                    <?php the_post_thumbnail('medium'); ?>
-                                <?php else : ?>
-                                    <div class="article-placeholder"><span class="no-image-title"><?php the_title(); ?></span></div>
-                                <?php endif; ?>
-                            </a>
-                            <a href="<?php the_permalink(); ?>" class="title-only-link">
-                                <div class="safe-post-title">
-                                    <?php echo esc_html(get_the_title()); ?>
-                                </div>
-                            </a>
-                        </div>
-                    <?php endwhile; wp_reset_postdata();
-                endif; ?>
-            </div>
-        </section>
+		<div class="widget">
+			<div class="wtitle">カテゴリー</div>
+			<ul class="catlist">
+				<li><a href="#seal">シール</a></li>
+				<li><a href="#mejirushi">めじるしアクセサリー<span class="n">準備中</span></a></li>
+				<li><a href="<?php echo esc_url( get_category_link( get_category_by_slug( 'reservation' ) ? get_category_by_slug( 'reservation' )->term_id : 0 ) ); ?>">抽選・予約情報</a></li>
+				<li><a href="<?php echo esc_url( get_category_link( get_category_by_slug( 'new-item' ) ? get_category_by_slug( 'new-item' )->term_id : 0 ) ); ?>">今月の新作</a></li>
+				<li><a href="<?php echo esc_url( get_category_link( get_category_by_slug( 'prefecture' ) ? get_category_by_slug( 'prefecture' )->term_id : 0 ) ); ?>">エリアから探す</a></li>
+			</ul>
+		</div>
 
-    </div>
+		<div class="widget about">
+			<div class="wtitle">このサイトについて</div>
+			<div class="av">🩷</div>
+			<div class="aname">キャラ推し活 編集部</div>
+			<p>ぷにぷに♡かわいいグッズの「推し活」トレンド情報サイト。新作・抽選・再販・目撃を、JC〜若い女子に毎日お届け。</p>
+		</div>
+	</aside>
 
+	</div><!-- /main-grid -->
+
+</div><!-- /ktop -->
 </main>
-
-<style>
-/* PCで4列、スマホで2列にして記事を大きく見せる（親テーマの5列設定を上書き） */
-.article-grid-4,
-.store-grid-wrapper {
-    display: grid !important;
-    grid-template-columns: repeat(4, 1fr) !important; /* 横に4つ並べる */
-    gap: 15px !important;
-}
-
-@media screen and (max-width: 768px) {
-    .article-grid-4,
-    .store-grid-wrapper {
-        grid-template-columns: repeat(2, 1fr) !important; /* スマホでは2列×2段で大きく見せる */
-        gap: 10px !important;
-    }
-}
-
-/* キービジュアルとスライダーの間の余白を極限まで狭くする */
-.main-visual-area {
-    margin-bottom: 20px !important; 
-}
-
-.content-container {
-    padding-top: 20px !important; 
-}
-
-/* 分離したリンクとタイトルの確実なスタイル（テーマCSSのリセット含む） */
-.img-only-link {
-    display: block !important;
-    text-decoration: none !important;
-    aspect-ratio: 16 / 9 !important; 
-    overflow: hidden !important;
-    border-radius: 8px !important;
-    background-color: #f5f5f5 !important;
-}
-
-.img-only-link img {
-    width: 100% !important;
-    height: 100% !important;
-    object-fit: cover !important;
-}
-
-.title-only-link {
-    display: block !important;
-    text-decoration: none !important;
-    margin-top: 8px !important;
-    aspect-ratio: auto !important; 
-    background-color: transparent !important; 
-    padding: 0 !important;
-    height: auto !important;
-}
-
-.safe-post-title {
-    font-size: 13px !important;
-    color: #333 !important;
-    line-height: 1.5 !important;
-    font-weight: bold !important;
-    text-align: left !important;
-    display: -webkit-box !important;
-    -webkit-box-orient: vertical !important;
-    -webkit-line-clamp: 2 !important;
-    overflow: hidden !important;
-    text-overflow: ellipsis !important;
-    height: 3em !important; 
-    visibility: visible !important;
-    opacity: 1 !important;
-    text-indent: 0 !important;
-    white-space: normal !important;
-    word-break: break-all !important;
-    background: transparent !important;
-}
-
-.grid-item-wrap {
-    display: flex;
-    flex-direction: column;
-}
-
-/* スライダー全体のコンテナ上余白もゼロに */
-.popular-section-full {
-    width: 100vw;
-    position: relative;
-    left: 50%;
-    transform: translateX(-50%);
-    margin: 0 0 40px !important; 
-    overflow: hidden;
-}
-
-/* スライダー内部：絶対に折り返さない(2段にならない)設定 */
-.popular-post-area {
-    display: flex !important;
-    flex-wrap: nowrap !important;
-    overflow-x: auto;
-    scroll-snap-type: x mandatory;
-    scroll-behavior: smooth;
-    -ms-overflow-style: none;
-    scrollbar-width: none;
-    padding: 0 20px; 
-}
-
-.popular-post-area::-webkit-scrollbar {
-    display: none;
-}
-
-/* 1枚あたりの設定 */
-.slider-item {
-    flex: 0 0 75%; /* スマホ：1枚が大きく見える */
-    margin-right: 15px;
-    scroll-snap-align: center;
-    display: flex;
-    flex-direction: column;
-}
-
-.slider-img-wrap img {
-    width: 100%;
-    height: auto;
-    border-radius: 12px;
-    display: block;
-    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
-}
-
-/* PC表示の調整 */
-@media (min-width: 768px) {
-    .popular-post-area {
-        padding: 0 40px;
-    }
-    .slider-item {
-        flex: 0 0 calc(20% - 15px); /* トップのスライダーは5枚並ぶサイズを維持 */
-        margin-right: 15px;
-    }
-}
-
-/* ドットインジケーター */
-.slider-dots {
-    text-align: center;
-    margin-top: 15px;
-    display: flex;
-    justify-content: center;
-    gap: 8px;
-}
-
-.dot {
-    width: 8px;
-    height: 8px;
-    background: #e0e0e0;
-    border-radius: 50%;
-    transition: all 0.3s;
-}
-
-.dot.active {
-    background: #ff8fb1;
-    transform: scale(1.2);
-}
-</style>
-
-<script>
-document.addEventListener('DOMContentLoaded', function() {
-    const slider = document.getElementById('popularSlider');
-    const dotsContainer = document.getElementById('sliderDots');
-    const items = slider.querySelectorAll('.slider-item');
-    
-    if (items.length === 0) return;
-
-    // ドットの生成
-    items.forEach((_, i) => {
-        const dot = document.createElement('div');
-        dot.classList.add('dot');
-        if (i === 0) dot.classList.add('active');
-        dotsContainer.appendChild(dot);
-    });
-
-    const dots = dotsContainer.querySelectorAll('.dot');
-
-    // 手動スクロール時のドット同期のみ実行（自動スクロールを削除）
-    slider.addEventListener('scroll', () => {
-        const index = Math.round((slider.scrollLeft) / (items[0].offsetWidth + 15));
-        if(index < dots.length) {
-            dots.forEach(d => d.classList.remove('active'));
-            dots[index].classList.add('active');
-        }
-    });
-});
-</script>
 
 <?php get_footer(); ?>
