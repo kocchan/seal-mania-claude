@@ -1,7 +1,7 @@
 {
   "date": "2026-07-18",
-  "updatedAt": "2026-07-18T17:01:52.690+09:00",
-  "count": 26,
+  "updatedAt": "2026-07-18T19:15:51.680+09:00",
+  "count": 27,
   "articles": [
     {
       "isSighting": true,
@@ -496,6 +496,25 @@
       "wpPostId": 12426,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-kanagawa-sagamihara-minami-2026-07-18/",
       "postedAt": "2026-07-18T17:02:06.948+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "大阪府",
+      "city": "大阪市中央区",
+      "shopName": "なんばマルイ",
+      "shopAddress": "大阪府大阪市中央区難波3-8-9",
+      "productName": "ボンボンドロップシール",
+      "sightingTime": "2026-07-18 18:35頃",
+      "statusText": "在庫あり（正規販売・入場抽選制）",
+      "confidenceMemo": "具体的な店舗名と購入報告、戦利品の写真があり信頼性が非常に高い",
+      "sourceUrl": "https://x.com/PomBashiIYHer/status/2078413272491987041",
+      "sourceTweetId": "2078413272491987041",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2078413272491987041.png",
+      "isPosted": true,
+      "wpPostId": 12429,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-osaka-chuo-osaka-2026-07-18/",
+      "postedAt": "2026-07-18T19:15:58.629+09:00"
     }
   ]
 }
