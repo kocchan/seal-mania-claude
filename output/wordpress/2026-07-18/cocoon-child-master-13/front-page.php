@@ -43,9 +43,8 @@ if ( ! function_exists( 'ktop_query' ) ) {
 		return $q;
 	}
 }
-// 「シールをすべて見る」等のリンク先（シール専用ページ未作成のため、暫定で都道府県別カテゴリへ）
-$_seal_cat    = get_category_by_slug( 'prefecture' );
-$seal_all_url = $_seal_cat ? get_category_link( $_seal_cat->term_id ) : home_url( '/' );
+// 「シール」ハブページ（page-seal.php を割り当てた固定ページ・slug: seal）へのリンク先
+$seal_all_url = home_url( '/seal/' );
 ?>
 
 <main id="main" class="main front-page-main" role="main">
@@ -71,7 +70,7 @@ $seal_all_url = $_seal_cat ? get_category_link( $_seal_cat->term_id ) : home_url
 	<section class="sec">
 		<div class="shead"><h2>ジャンルから探す</h2></div>
 		<div class="pillars">
-			<a class="pill" href="#seal">
+			<a class="pill" href="<?php echo esc_url( $seal_all_url ); ?>">
 				<span class="picon pi-pink">🩹</span>
 				<div><h3>シール<span class="st on">運用中</span></h3><p>ボンボンドロップ等のシール情報。看板コンテンツ「シールマニア」へ →</p></div>
 			</a>

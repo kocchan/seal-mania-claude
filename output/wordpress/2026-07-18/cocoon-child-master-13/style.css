@@ -134,10 +134,35 @@ Version:    1.1.4
 .ktop .about .aname { text-align:center; font-weight:800; font-size:.9rem; }
 .ktop .about p { font-size:.78rem; color:var(--k-soft); margin:.5rem 0 0; }
 
+/* シール情報ページ（page-seal.php）用 */
+.ktop .crumb { font-size:.76rem; color:var(--k-faint); padding:14px 0 0; }
+.ktop .crumb a:hover { color:var(--k-accent); }
+.ktop .crumb span { margin:0 7px; }
+.ktop .pagehero { padding:12px 0 20px; border-bottom:1px solid var(--k-line); margin-bottom:26px; }
+.ktop .pagehero .eye { font-size:.72rem; font-weight:800; letter-spacing:.14em; color:var(--k-accent); }
+.ktop .pagehero h1 { font-size:1.8rem; margin:6px 0 0; display:flex; align-items:baseline; gap:12px; flex-wrap:wrap; font-weight:700; }
+.ktop .pagehero h1 small { font-size:.86rem; color:var(--k-faint); font-weight:700; }
+.ktop .findtiles { display:grid; grid-template-columns:repeat(3,1fr); gap:12px; margin-bottom:36px; }
+.ktop .ftile { display:flex; flex-direction:column; gap:3px; background:var(--k-surface); border:1px solid var(--k-line); border-radius:var(--k-radius); padding:16px; box-shadow:var(--k-shadow); transition:box-shadow .16s, transform .16s; }
+.ktop .ftile:hover { box-shadow:0 4px 12px rgba(0,0,0,.1); transform:translateY(-2px); }
+.ktop .ftile .ic { font-size:1.4rem; }
+.ktop .ftile h3 { font-size:.98rem; margin-top:2px; }
+.ktop .ftile p { margin:0; font-size:.75rem; color:var(--k-faint); }
+.ktop .series { display:grid; grid-template-columns:repeat(3,1fr); gap:10px; }
+.ktop .sitem { display:flex; align-items:center; gap:11px; background:var(--k-surface); border:1px solid var(--k-line); border-radius:var(--k-radius); padding:12px 14px; box-shadow:var(--k-shadow); transition:box-shadow .16s; }
+.ktop .sitem:hover { box-shadow:0 4px 12px rgba(0,0,0,.1); }
+.ktop .sitem .sb { flex:0 0 40px; width:40px; height:40px; border-radius:8px; }
+.ktop .sitem b { font-size:.85rem; display:block; line-height:1.3; }
+.ktop .sitem .c { font-size:.7rem; color:var(--k-faint); }
+.ktop .charchips { display:flex; flex-wrap:wrap; gap:8px; }
+.ktop .charchip { font-size:.82rem; font-weight:700; padding:.5em 1em; border-radius:999px; background:var(--k-surface); border:1px solid var(--k-line); color:var(--k-soft); }
+.ktop .charchip:hover { color:var(--k-accent); border-color:var(--k-accent); }
+
 @media (max-width:900px){
   .ktop .main-grid { grid-template-columns:1fr; }
   .ktop .pillars { grid-template-columns:1fr; }
 }
+@media (max-width:560px){ .ktop .findtiles, .ktop .series { grid-template-columns:repeat(2,1fr); } }
 @media (max-width:560px){ .ktop .cards { grid-template-columns:repeat(2,1fr); gap:10px; } }
 
 /************************************
