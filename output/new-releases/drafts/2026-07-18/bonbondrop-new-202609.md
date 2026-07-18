@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-07-18T04:20:25.737Z"
+wpPostUrl: "https://www.seal-search.com/news/new-item/bonbondrop-new-202609/"
+wpPostId: 12404
+posted: true
 imageGenerated: true
 type: new-release
 status: draft

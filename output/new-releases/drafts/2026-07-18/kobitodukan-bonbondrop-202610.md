@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-07-18T04:20:34.340Z"
+wpPostUrl: "https://www.seal-search.com/news/new-item/kobitodukan-bonbondrop-202610/"
+wpPostId: 12406
+posted: true
 imageGenerated: true
 type: new-release
 status: draft
