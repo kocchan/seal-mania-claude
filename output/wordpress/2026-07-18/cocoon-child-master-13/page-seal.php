@@ -42,6 +42,12 @@ if ( ! function_exists( 'ktop_tag_url' ) ) {
 }
 ?>
 
+<style>
+/* このページは .ktop 内に独自サイドバーを持つため、Cocoon標準のサイドバーを非表示にし本文を全幅にする（category.php と同じ対応） */
+#sidebar { display: none !important; }
+.page main#main { width: 100% !important; float: none !important; margin: 0 auto !important; }
+</style>
+
 <main id="main" class="main seal-page-main" role="main">
 <div class="ktop">
 
