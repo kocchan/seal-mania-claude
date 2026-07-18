@@ -75,11 +75,7 @@ if ( ! function_exists( 'ktop_tag_url' ) ) {
 		<div class="ad-body">
 			<p class="ad-name">正規品 ちいかわ シール モモンガ ボンボンドロップシール S8542929 サンスター文具</p>
 			<div class="ad-price">¥2,980〜</div>
-			<div class="ad-btns">
-				<a class="ad-btn amazon" href="#" rel="nofollow" target="_blank">Amazon</a>
-				<a class="ad-btn rakuten" href="#" rel="nofollow" target="_blank">楽天市場</a>
-				<a class="ad-btn yahoo" href="#" rel="nofollow" target="_blank">Yahoo!</a>
-			</div>
+			<?php ktop_afi_buttons( 'ちいかわ ボンボンドロップシール' ); ?>
 		</div>
 	</aside>
 
@@ -101,11 +97,7 @@ if ( ! function_exists( 'ktop_tag_url' ) ) {
 			<div class="ad-body">
 				<p class="ad-name">サンリオキャラクターズ ボンボンドロップ ミニチュアチャーム 全種セット</p>
 				<div class="ad-price">¥3,480〜</div>
-				<div class="ad-btns">
-					<a class="ad-btn amazon" href="#" rel="nofollow" target="_blank">Amazon</a>
-					<a class="ad-btn rakuten" href="#" rel="nofollow" target="_blank">楽天市場</a>
-					<a class="ad-btn yahoo" href="#" rel="nofollow" target="_blank">Yahoo!</a>
-				</div>
+				<?php ktop_afi_buttons( 'サンリオ ボンボンドロップ ミニチュアチャーム' ); ?>
 			</div>
 		</aside>
 
@@ -171,11 +163,7 @@ if ( ! function_exists( 'ktop_tag_url' ) ) {
 			<div class="ad-body">
 				<p class="ad-name">しずくちゃん うるちゅるシール mini／ぷっくりシール まとめ買い</p>
 				<div class="ad-price">¥1,980〜</div>
-				<div class="ad-btns">
-					<a class="ad-btn amazon" href="#" rel="nofollow" target="_blank">Amazon</a>
-					<a class="ad-btn rakuten" href="#" rel="nofollow" target="_blank">楽天市場</a>
-					<a class="ad-btn yahoo" href="#" rel="nofollow" target="_blank">Yahoo!</a>
-				</div>
+				<?php ktop_afi_buttons( 'しずくちゃん うるちゅるシール' ); ?>
 			</div>
 		</aside>
 
@@ -221,11 +209,7 @@ if ( ! function_exists( 'ktop_tag_url' ) ) {
 			<div class="ad-thumb"><span class="k-ph"></span></div>
 			<p class="ad-name">ボンボンドロップシール 人気キャラ まとめ買いセット</p>
 			<div class="ad-price">¥2,480〜</div>
-			<div class="ad-btns">
-				<a class="ad-btn amazon" href="#" rel="nofollow" target="_blank">Amazon</a>
-				<a class="ad-btn rakuten" href="#" rel="nofollow" target="_blank">楽天</a>
-				<a class="ad-btn yahoo" href="#" rel="nofollow" target="_blank">Yahoo!</a>
-			</div>
+			<?php ktop_afi_buttons( 'ボンボンドロップシール', true ); ?>
 		</div>
 
 		<div class="widget">

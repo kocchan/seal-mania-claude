@@ -178,3 +178,39 @@ function auto_create_all_categories() {
 //   走査する処理は不要（無駄な負荷）。カテゴリを作り直したい時だけ、下の行の
 //   先頭の // を外して1回アクセス → すぐまた // を戻すこと。
 // add_action( 'init', 'auto_create_all_categories' );
+
+
+/************************************
+** アフィリエイト検索リンク（キーワードから生成）
+**  ID は既存サイトの実アフィリエイトIDを流用：
+**   - Amazon アソシエイト: sealmania-22
+**   - 楽天アフィリエイト(afl): 50f17d50.13213066.50f17d51.fed7b043
+**   ※ Yahoo! は現状プレーンなショッピング検索。ValueCommerce 経由で
+**     報酬化する場合は ktop_afi_yahoo() を各自のリンクに差し替える。
+************************************/
+if ( ! function_exists( 'ktop_afi_amazon' ) ) {
+	function ktop_afi_amazon( $kw ) {
+		return 'https://www.amazon.co.jp/s?k=' . rawurlencode( $kw ) . '&tag=sealmania-22';
+	}
+}
+if ( ! function_exists( 'ktop_afi_rakuten' ) ) {
+	function ktop_afi_rakuten( $kw ) {
+		return 'https://hb.afl.rakuten.co.jp/hgc/50f17d50.13213066.50f17d51.fed7b043/?pc='
+			. rawurlencode( 'https://search.rakuten.co.jp/search/mall/' . $kw );
+	}
+}
+if ( ! function_exists( 'ktop_afi_yahoo' ) ) {
+	function ktop_afi_yahoo( $kw ) {
+		return 'https://shopping.yahoo.co.jp/search?p=' . rawurlencode( $kw );
+	}
+}
+// 3ボタン（Amazon/楽天/Yahoo）をまとめて出力。$short=true で「楽天」表記（サイドバー用）
+if ( ! function_exists( 'ktop_afi_buttons' ) ) {
+	function ktop_afi_buttons( $kw, $short = false ) { ?>
+		<div class="ad-btns">
+			<a class="ad-btn amazon" href="<?php echo esc_url( ktop_afi_amazon( $kw ) ); ?>" rel="nofollow sponsored noopener" target="_blank">Amazon</a>
+			<a class="ad-btn rakuten" href="<?php echo esc_url( ktop_afi_rakuten( $kw ) ); ?>" rel="nofollow sponsored noopener" target="_blank"><?php echo $short ? '楽天' : '楽天市場'; ?></a>
+			<a class="ad-btn yahoo" href="<?php echo esc_url( ktop_afi_yahoo( $kw ) ); ?>" rel="nofollow sponsored noopener" target="_blank">Yahoo!</a>
+		</div>
+	<?php }
+}

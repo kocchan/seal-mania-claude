@@ -113,11 +113,7 @@ $seal_all_url = home_url( '/seal/' );
 			<div class="ad-body">
 				<p class="ad-name">正規品 ちいかわ シール モモンガ ボンボンドロップシール S8542929 サンスター文具</p>
 				<div class="ad-price">¥2,980〜</div>
-				<div class="ad-btns">
-					<a class="ad-btn amazon" href="#" rel="nofollow" target="_blank">Amazon</a>
-					<a class="ad-btn rakuten" href="#" rel="nofollow" target="_blank">楽天市場</a>
-					<a class="ad-btn yahoo" href="#" rel="nofollow" target="_blank">Yahoo!</a>
-				</div>
+				<?php ktop_afi_buttons( 'ちいかわ ボンボンドロップシール' ); ?>
 			</div>
 		</aside>
 
@@ -145,11 +141,7 @@ $seal_all_url = home_url( '/seal/' );
 			<div class="ad-body">
 				<p class="ad-name">サンリオキャラクターズ ボンボンドロップ ミニチュアチャーム 全種セット</p>
 				<div class="ad-price">¥3,480〜</div>
-				<div class="ad-btns">
-					<a class="ad-btn amazon" href="#" rel="nofollow" target="_blank">Amazon</a>
-					<a class="ad-btn rakuten" href="#" rel="nofollow" target="_blank">楽天市場</a>
-					<a class="ad-btn yahoo" href="#" rel="nofollow" target="_blank">Yahoo!</a>
-				</div>
+				<?php ktop_afi_buttons( 'サンリオ ボンボンドロップ ミニチュアチャーム' ); ?>
 			</div>
 		</aside>
 
@@ -208,11 +200,7 @@ $seal_all_url = home_url( '/seal/' );
 			<div class="ad-thumb"><span class="k-ph"></span></div>
 			<p class="ad-name">サンリオ めじるしアクセサリー ガチャ 全20種コンプセット</p>
 			<div class="ad-price">¥3,000〜</div>
-			<div class="ad-btns">
-				<a class="ad-btn amazon" href="#" rel="nofollow" target="_blank">Amazon</a>
-				<a class="ad-btn rakuten" href="#" rel="nofollow" target="_blank">楽天</a>
-				<a class="ad-btn yahoo" href="#" rel="nofollow" target="_blank">Yahoo!</a>
-			</div>
+			<?php ktop_afi_buttons( 'めじるしアクセサリー サンリオ', true ); ?>
 		</div>
 
 		<div class="widget">
