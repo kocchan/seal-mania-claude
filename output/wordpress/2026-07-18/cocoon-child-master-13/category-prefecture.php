@@ -75,21 +75,18 @@ foreach ( $weekly_posts as $wp_post_item ) {
 
 	<p class="pref-legend">目撃情報は毎週土曜に県ごとの「週間まとめ」へ更新中。📍付きの県は今週のまとめが読めるよ（タップで直行）。</p>
 
-	<!-- ============ 地方ブロック → 県チップ ============ -->
+	<!-- ============ 地方ブロック → 県ボタン（地方ごとに色分け・中央寄せ） ============ -->
 	<?php foreach ( $regions as $region ) :
 		$prefs = isset( $pref_cats[ $region->term_id ] ) ? $pref_cats[ $region->term_id ] : array();
 		if ( ! $prefs ) { continue; } ?>
-		<div class="prefblock">
+		<div class="prefblock" data-region="<?php echo esc_attr( $region->slug ); ?>">
 			<h3><?php echo esc_html( $region->name ); ?></h3>
 			<div class="prefchips">
 				<?php foreach ( $prefs as $pc ) :
 					$has_weekly = isset( $weekly_map[ $pc->slug ] );
 					$url        = $has_weekly ? get_permalink( $weekly_map[ $pc->slug ] ) : get_category_link( $pc->term_id );
 					?>
-					<a class="prefchip<?php echo $has_weekly ? ' has-weekly' : ''; ?>" href="<?php echo esc_url( $url ); ?>">
-						<?php echo esc_html( $pc->name ); ?>
-						<?php if ( $pc->count ) : ?><span class="n"><?php echo (int) $pc->count; ?></span><?php endif; ?>
-					</a>
+					<a class="prefchip<?php echo $has_weekly ? ' has-weekly' : ''; ?>" href="<?php echo esc_url( $url ); ?>"><?php echo esc_html( $pc->name ); ?></a>
 				<?php endforeach; ?>
 			</div>
 		</div>
