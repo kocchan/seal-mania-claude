@@ -1,7 +1,7 @@
 {
   "date": "2026-07-19",
-  "updatedAt": "2026-07-19T14:45:38.568+09:00",
-  "count": 19,
+  "updatedAt": "2026-07-19T17:28:26.365+09:00",
+  "count": 22,
   "articles": [
     {
       "isSighting": true,
@@ -363,6 +363,48 @@
       "wpPostId": 12469,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-saitama-fukaya-2026-07-19/",
       "postedAt": "2026-07-19T14:45:45.647+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "埼玉県",
+      "city": "深谷市",
+      "shopName": "新星堂 アリオ深谷店",
+      "shopAddress": "埼玉県深谷市上柴町西4-2-14 アリオ深谷1F",
+      "productName": "ボンボンドロップシール/ちいかわ",
+      "sightingTime": "2026-07-19 17:06頃",
+      "statusText": "入荷情報（今後の入荷は未定）",
+      "confidenceMemo": "店舗公式アカウントによる入荷案内。詳細な注意書きあり。",
+      "sourceUrl": "https://x.com/ssd_fukaya/status/2078753309591318670",
+      "sourceTweetId": "2078753309591318670",
+      "isPrediction": false
+    },
+    {
+      "isSighting": true,
+      "prefecture": "富山県",
+      "city": "富山市",
+      "shopName": "株式会社瀬戸 大泉店",
+      "shopAddress": "富山県富山市大泉中町12-7",
+      "productName": "ボンボンドロップシール",
+      "sightingTime": "2026-07-19 07:08頃",
+      "statusText": "在庫あり（一家族様1枚まで）",
+      "confidenceMemo": "店舗公式アカウントによる入荷報告。購入制限あり。",
+      "sourceUrl": "https://x.com/setooizumi/status/2078738785970585611",
+      "sourceTweetId": "2078738785970585611",
+      "isPrediction": false
+    },
+    {
+      "isSighting": true,
+      "prefecture": "富山県",
+      "city": "富山市",
+      "shopName": "株式会社瀬戸 大泉店",
+      "shopAddress": "富山県富山市大泉中町12-7",
+      "productName": "ボンボンドロップシール",
+      "sightingTime": "2026-07-19 16:40頃",
+      "statusText": "本日入荷分完売",
+      "confidenceMemo": "店舗公式アカウントによる完売報告。",
+      "sourceUrl": "https://x.com/setooizumi/status/2078746658620493863",
+      "sourceTweetId": "2078746658620493863",
+      "isPrediction": false
     }
   ]
 }
