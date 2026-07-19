@@ -31,8 +31,8 @@ const CONFIG = {
   // 既存の他プロジェクト（326/328）で導入済みのSDXLアニメモデルを利用
   checkpoint: process.env.COMFYUI_CHECKPOINT || 'animagine-xl-4.0-opt.safetensors',
   // SDXLネイティブの16:9（約1MP）→ 後段Pillowで1200x675へ整形
-  width: 1344,
-  height: 768,
+  width: 1152,
+  height: 648,
   steps: 25,
   cfg: 6,
   samplerName: 'euler_ancestral',
@@ -126,7 +126,7 @@ async function generateViaComfy(positive, negative) {
   const promptId = data.prompt_id;
 
   // ポーリングで完了待ち（SDXL/M2で2〜8分程度）
-  for (let i = 0; i < 240; i++) {
+  for (let i = 0; i < 600; i++) {
     await new Promise(r => setTimeout(r, 3000));
     const { data: hist } = await axios.get(`${CONFIG.comfyUrl}/history/${promptId}`);
     const entry = hist[promptId];

@@ -16,6 +16,7 @@
     "newreleases:post": "node scripts/newreleases/post-wordpress.js",
     "newproduct:post": "node scripts/newproduct/post-wordpress.js",
     "mejirushi:images": "node scripts/mejirushi/generate-images.js",
+    "mejirushi:retrofit": "node scripts/mejirushi/retrofit-thumbnails.js",
     "mejirushi:post": "node scripts/mejirushi/post-wordpress.js",
     "rss:scrape": "node scripts/rss/scrape.js",
     "weekly-roundup:generate": "node scripts/weekly-roundup/weekly-roundup-generate.js",

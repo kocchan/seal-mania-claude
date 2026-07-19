@@ -110,11 +110,10 @@ jobs:
           AMAZON_ASSOCIATE_ID: ${{ secrets.AMAZON_ASSOCIATE_ID }}
           RAKUTEN_AFFILIATE_ID: ${{ secrets.RAKUTEN_AFFILIATE_ID }}
 
-      - name: 🖼️ アイキャッチ生成（めじるし新作・Gemini）
-        run: npm run mejirushi:images
-        env:
-          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-
+      # めじるしのアイキャッチはGemini生成を廃止（2026-07-20・API費用削減）。
+      # 投稿時は og:image を仮アイキャッチにし、ローカルMacの
+      # `npm run mejirushi:retrofit`（launchd定期実行）が ComfyUI で
+      # 本サムネを生成して後付けする方式。
       - name: 🚀 WordPress 投稿（めじるし新作）
         run: npm run mejirushi:post
         env:
