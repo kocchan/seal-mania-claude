@@ -317,7 +317,8 @@ class WordPressService {
   }
 
   // frontmatter.featuredImage（RSSのog:image URL）をダウンロードしてWPへアップロード。
-  // ローカル生成画像が無いときのアイキャッチのフォールバックとして使う。
+  // 戻り値: { id, url }（url はWP上のメディアURL）。失敗時は null。
+  // アイキャッチのフォールバック＆本文への商品写真挿入の両方で使う。
   async uploadImageFromUrl(imageUrl, slug) {
     if (!imageUrl || !/^https?:\/\//.test(imageUrl)) return null;
 
@@ -342,13 +343,13 @@ class WordPressService {
         headers: {
           'Authorization': `Basic ${this.auth}`,
           'Content-Type': contentType,
-          'Content-Disposition': `attachment; filename="${slug}.${ext}"`
+          'Content-Disposition': `attachment; filename="${slug}-og.${ext}"`
         }
       });
-      console.log(`  ✅ og:imageをアイキャッチとしてアップロード (media ID: ${response.data.id})`);
-      return response.data.id;
+      console.log(`  ✅ og:imageをアップロード (media ID: ${response.data.id})`);
+      return { id: response.data.id, url: response.data.source_url || '' };
     } catch (error) {
-      console.error(`  ⚠️ og:image取得/アップロード失敗（アイキャッチなしで続行）: ${error.message}`);
+      console.error(`  ⚠️ og:image取得/アップロード失敗（画像なしで続行）: ${error.message}`);
       return null;
     }
   }
@@ -382,11 +383,34 @@ class WordPressService {
   }
 
   async postArticle(frontmatter, htmlContent, imagePath) {
-    // 画像アップロード（優先順位: ローカル生成PNG → RSSのog:image → なし）
+    // 画像アップロード（アイキャッチ優先順位: ローカル生成PNG → RSSのog:image → なし）
     const slug = frontmatter.slug || 'mejirushi-article';
     let mediaId = await this.uploadImage(imagePath, slug);
-    if (!mediaId && frontmatter.featuredImage) {
-      mediaId = await this.uploadImageFromUrl(frontmatter.featuredImage, slug);
+
+    // og:image（元記事の商品写真）: アイキャッチのフォールバック＋本文挿入用
+    let ogMedia = null;
+    let ogUsedAsFeatured = false;
+    if (frontmatter.featuredImage) {
+      ogMedia = await this.uploadImageFromUrl(frontmatter.featuredImage, slug);
+    }
+    if (!mediaId && ogMedia) {
+      mediaId = ogMedia.id;
+      ogUsedAsFeatured = true;
+    }
+
+    // 本文に挿入する商品写真（アイキャッチと同一画像が2連続で並ぶのを避けるため、
+    // og:imageがアイキャッチに回った場合は本文挿入しない）
+    let productFigure = '';
+    if (ogMedia && ogMedia.url && !ogUsedAsFeatured) {
+      const sourceUrl = frontmatter.sourceRssUrl || '';
+      const caption = sourceUrl
+        ? `画像出典: <a href="${sourceUrl}" target="_blank" rel="noopener nofollow">元記事</a>`
+        : '画像出典: 公式発表より';
+      productFigure = `
+<figure style="margin: 20px 0; text-align: center;">
+  <img src="${ogMedia.url}" alt="${(frontmatter.title || '').replace(/"/g, '&quot;')}" style="max-width: 100%; height: auto; border-radius: 8px;">
+  <figcaption style="font-size: 12px; color: #888; margin-top: 6px;">${caption}</figcaption>
+</figure>`;
     }
 
     // アフィリエイト検索キーワード：
@@ -420,10 +444,10 @@ class WordPressService {
     // コンテンツにアフィリエイトを挿入
     let finalContent = htmlContent;
 
-    // 冒頭にアフィリエイト挿入（最初の見出しの後）
+    // 冒頭に商品写真＋アフィリエイト挿入（最初の見出し=商品概要の直後）
     finalContent = finalContent.replace(
       /(<\/h2>)/,
-      `$1\n\n<h3>🛒 今すぐ探す</h3>\n${affiliateTop}\n`
+      `$1\n${productFigure}\n\n<h3>🛒 今すぐ探す</h3>\n${affiliateTop}\n`
     );
 
     // 中盤にアフィリエイト挿入（設置場所/どこで買えるセクションの前）
