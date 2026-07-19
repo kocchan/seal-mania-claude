@@ -162,6 +162,20 @@ Version:    1.1.4
 .ktop .charchip { font-size:.82rem; font-weight:700; padding:.5em 1em; border-radius:999px; background:var(--k-surface); border:1px solid var(--k-line); color:var(--k-soft); }
 .ktop .charchip:hover { color:var(--k-accent); border-color:var(--k-accent); }
 
+/* 推しキャラ導線（トップ・シールページ → /character/） */
+.ktop .charstrip { display:flex; flex-wrap:wrap; align-items:center; gap:10px; margin:0 0 26px; }
+.ktop .charchip-ic { display:inline-flex; align-items:center; gap:8px; padding:5px 15px 5px 5px; border-radius:999px; border:1px solid var(--k-line); background:var(--k-surface); font-size:.85rem; font-weight:700; box-shadow:var(--k-shadow); transition:border-color .15s, color .15s; }
+.ktop .charchip-ic img { width:34px; height:34px; border-radius:50%; object-fit:cover; display:block; }
+.ktop .charchip-ic:hover { border-color:var(--k-accent); color:var(--k-accent); }
+.ktop .charchip-ic.all { background:var(--k-accent); border-color:var(--k-accent); color:#fff !important; padding:11px 18px; }
+.ktop .charchip-ic.all:hover { opacity:.88; }
+/* シールページの探し方タイルに足す全幅キャラタイル */
+.ktop .ftile.ftile-char { grid-column:1 / -1; flex-direction:row; align-items:center; gap:14px; background:linear-gradient(90deg,#FFF4F8,#FFFFFF); border-color:#F8CFDE; }
+.ktop .ftile-char .favs { display:flex; flex:none; }
+.ktop .ftile-char .favs img { width:38px; height:38px; border-radius:50%; object-fit:cover; border:2px solid #fff; margin-left:-9px; box-shadow:0 1px 3px rgba(0,0,0,.15); }
+.ktop .ftile-char .favs img:first-child { margin-left:0; }
+.ktop .ftile-char .arr { margin-left:auto; color:var(--k-accent); font-weight:800; font-size:1.2rem; }
+
 @media (max-width:900px){
   .ktop .main-grid { grid-template-columns:1fr; }
   .ktop .pillars { grid-template-columns:1fr; }

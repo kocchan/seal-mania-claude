@@ -66,6 +66,18 @@ if ( ! function_exists( 'ktop_tag_url' ) ) {
 		<a class="ftile" href="<?php echo esc_url( ktop_cat_url( 'donki' ) ); ?>"><span class="ic">🏬</span><h3>お店から</h3><p>ドンキ・ロフト・ハンズ 他</p></a>
 		<a class="ftile" href="#brand"><span class="ic">🧩</span><h3>ブランドから</h3><p>ボンドロ・うるちゅる・おしり</p></a>
 		<a class="ftile" href="<?php echo esc_url( ktop_cat_url( 'guide' ) ); ?>"><span class="ic">🔰</span><h3>買い方ガイド</h3><p>相場・通販・シール帳のコツ</p></a>
+		<?php $ktop_char_img_base = get_stylesheet_directory_uri() . '/images/char/'; ?>
+		<a class="ftile ftile-char" href="<?php echo esc_url( ktop_cat_url( 'character' ) ); ?>">
+			<span class="favs">
+				<img src="<?php echo esc_url( $ktop_char_img_base . 'chiikawa.png' ); ?>" alt="" loading="lazy">
+				<img src="<?php echo esc_url( $ktop_char_img_base . 'sanrio.png' ); ?>" alt="" loading="lazy">
+				<img src="<?php echo esc_url( $ktop_char_img_base . 'shizukuchan.png' ); ?>" alt="" loading="lazy">
+				<img src="<?php echo esc_url( $ktop_char_img_base . 'tamagotchi.png' ); ?>" alt="" loading="lazy">
+				<img src="<?php echo esc_url( $ktop_char_img_base . 'disney.png' ); ?>" alt="" loading="lazy">
+			</span>
+			<div><h3>推しキャラから探す</h3><p>ちいかわ・サンリオ・しずくちゃん…キャラ別まとめページ</p></div>
+			<span class="arr">›</span>
+		</a>
 	</div>
 
 	<!-- 広告① -->
@@ -133,17 +145,18 @@ if ( ! function_exists( 'ktop_tag_url' ) ) {
 
 		<!-- キャラから探す -->
 		<section class="sec">
-			<div class="row-head"><h3>キャラクター<b>から探す</b></h3></div>
+			<div class="row-head"><h3>キャラクター<b>から探す</b></h3><a class="more" href="<?php echo esc_url( ktop_cat_url( 'character' ) ); ?>">キャラ別ページへ ›</a></div>
+			<div class="charstrip" style="margin-bottom:12px;">
+				<a class="charchip-ic" href="<?php echo esc_url( ktop_cat_url( 'chiikawa' ) ); ?>"><img src="<?php echo esc_url( $ktop_char_img_base . 'chiikawa.png' ); ?>" alt="" loading="lazy">ちいかわ</a>
+				<a class="charchip-ic" href="<?php echo esc_url( ktop_cat_url( 'sanrio' ) ); ?>"><img src="<?php echo esc_url( $ktop_char_img_base . 'sanrio.png' ); ?>" alt="" loading="lazy">サンリオ</a>
+				<a class="charchip-ic" href="<?php echo esc_url( ktop_cat_url( 'shizukuchan' ) ); ?>"><img src="<?php echo esc_url( $ktop_char_img_base . 'shizukuchan.png' ); ?>" alt="" loading="lazy">しずくちゃん</a>
+				<a class="charchip-ic" href="<?php echo esc_url( ktop_cat_url( 'tamagotchi' ) ); ?>"><img src="<?php echo esc_url( $ktop_char_img_base . 'tamagotchi.png' ); ?>" alt="" loading="lazy">たまごっち</a>
+				<a class="charchip-ic" href="<?php echo esc_url( ktop_cat_url( 'disney' ) ); ?>"><img src="<?php echo esc_url( $ktop_char_img_base . 'disney.png' ); ?>" alt="" loading="lazy">ディズニー</a>
+			</div>
 			<div class="charchips">
-				<a class="charchip" href="<?php echo esc_url( ktop_cat_url( 'sanrio' ) ); ?>">サンリオ</a>
-				<a class="charchip" href="<?php echo esc_url( ktop_cat_url( 'chiikawa' ) ); ?>">ちいかわ</a>
-				<a class="charchip" href="<?php echo esc_url( ktop_cat_url( 'shizukuchan' ) ); ?>">しずくちゃん</a>
 				<a class="charchip" href="<?php echo esc_url( ktop_tag_url( '名探偵コナン うるちゅるPOP SEAL' ) ); ?>">名探偵コナン</a>
 				<a class="charchip" href="<?php echo esc_url( ktop_tag_url( 'カラフルピーチ うるちゅるPOP SEAL' ) ); ?>">カラフルピーチ</a>
-				<a class="charchip" href="<?php echo esc_url( ktop_cat_url( 'tamagotchi' ) ); ?>">たまごっち</a>
-				<a class="charchip" href="<?php echo esc_url( ktop_cat_url( 'disney' ) ); ?>">ディズニー</a>
-				<a class="charchip" href="#">すみっコぐらし</a>
-				<a class="charchip" href="#">K-POP・アーティスト</a>
+				<a class="charchip" href="<?php echo esc_url( ktop_cat_url( 'character' ) ); ?>">すみっコ・mofusand・ナガノキャラ ほか →</a>
 			</div>
 		</section>
 

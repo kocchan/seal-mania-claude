@@ -98,6 +98,22 @@ $seal_all_url = home_url( '/seal/' );
 			<a class="more big-more" href="<?php echo esc_url( $seal_all_url ); ?>">シールをすべて見る ›</a>
 		</div>
 
+		<!-- 推しキャラから探す（→ /character/ キャラ別ハブ） -->
+		<div class="charstrip">
+			<?php
+			$ktop_char_img_base = get_stylesheet_directory_uri() . '/images/char/';
+			$ktop_char_links    = array( 'chiikawa' => 'ちいかわ', 'sanrio' => 'サンリオ', 'shizukuchan' => 'しずくちゃん', 'tamagotchi' => 'たまごっち', 'disney' => 'ディズニー' );
+			foreach ( $ktop_char_links as $ktop_cslug => $ktop_cname ) :
+				$ktop_ccat = get_category_by_slug( $ktop_cslug );
+				if ( ! $ktop_ccat ) { continue; } ?>
+				<a class="charchip-ic" href="<?php echo esc_url( get_category_link( $ktop_ccat->term_id ) ); ?>"><img src="<?php echo esc_url( $ktop_char_img_base . $ktop_cslug . '.png' ); ?>" alt="" loading="lazy"><?php echo esc_html( $ktop_cname ); ?></a>
+			<?php endforeach;
+			$ktop_char_hub = get_category_by_slug( 'character' );
+			if ( $ktop_char_hub ) : ?>
+				<a class="charchip-ic all" href="<?php echo esc_url( get_category_link( $ktop_char_hub->term_id ) ); ?>">推しキャラ別ページへ ›</a>
+			<?php endif; ?>
+		</div>
+
 		<!-- 話題の新作 -->
 		<section class="subsec">
 			<div class="row-head"><h3>話題の<b>新作</b></h3><a class="more" href="<?php echo esc_url( get_category_link( get_category_by_slug( 'new-item' ) ? get_category_by_slug( 'new-item' )->term_id : 0 ) ); ?>">もっと見る ›</a></div>
