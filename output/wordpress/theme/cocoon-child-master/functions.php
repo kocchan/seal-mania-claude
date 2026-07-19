@@ -181,6 +181,40 @@ function auto_create_all_categories() {
 
 
 /************************************
+** めじるしアクセサリー用カテゴリの一括作成（自己完結型・1回だけ実行）
+**  2026-07-19 追加：第2の柱「めじるしアクセサリー」の記事パイプライン用。
+**  実行済みフラグ(option)を見て未作成のときだけ動くので、
+**  この functions.php をアップロードするだけでよい（コメント切替不要）。
+************************************/
+function ktop_create_mejirushi_categories() {
+	if ( get_option( 'ktop_mejirushi_cats_created' ) ) { return; }
+
+	// 親：めじるしアクセサリー
+	$parent_id = 0;
+	$exists    = term_exists( 'めじるしアクセサリー', 'category' );
+	if ( $exists ) {
+		$parent_id = is_array( $exists ) ? (int) $exists['term_id'] : (int) $exists;
+	} else {
+		$created = wp_insert_term( 'めじるしアクセサリー', 'category', array(
+			'slug'        => 'mejirushi',
+			'description' => '傘・バッグ・ボトルの目印チャーム「めじるしアクセサリー」の情報',
+		) );
+		if ( ! is_wp_error( $created ) ) { $parent_id = (int) $created['term_id']; }
+	}
+
+	// 子：新作・ガチャ情報
+	if ( $parent_id && ! term_exists( '新作・ガチャ情報', 'category', $parent_id ) ) {
+		wp_insert_term( '新作・ガチャ情報', 'category', array(
+			'slug'   => 'mejirushi-new',
+			'parent' => $parent_id,
+		) );
+	}
+
+	if ( $parent_id ) { update_option( 'ktop_mejirushi_cats_created', 1 ); }
+}
+add_action( 'init', 'ktop_create_mejirushi_categories' );
+
+/************************************
 ** アフィリエイト検索リンク（キーワードから生成）
 **  ID は既存サイトの実アフィリエイトIDを流用：
 **   - Amazon アソシエイト: sealmania-22

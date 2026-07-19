@@ -2,7 +2,11 @@
   "rss": {
     "feedUrlsEnv": "RSS_FEED_URLS",
     "maxItemsPerFeed": 30,
-    "filterKeywords": ["シール"]
+    "filterKeywords": [
+      "シール",
+      "めじるし",
+      "目印チャーム"
+    ]
   },
   "output": {
     "rssDir": "output/rss"

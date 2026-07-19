@@ -1,0 +1,26 @@
+{
+  "theme": {
+    "name": "めじるしアクセサリー 新作",
+    "keywords": ["めじるしアクセサリー", "めじるしチャーム", "目印チャーム", "新作", "ガチャ"]
+  },
+  "output": {
+    "draftsDir": "output/mejirushi/drafts",
+    "imagesDir": "output/mejirushi/images"
+  },
+  "wordpress": {
+    "categorySlugs": {
+      "親": "mejirushi",
+      "新作情報": "mejirushi-new"
+    },
+    "defaultTags": [
+      "めじるしアクセサリー",
+      "新作"
+    ],
+    "characterTags": ["サンリオ", "ちいかわ", "すみっコぐらし", "ディズニー", "クレヨンしんちゃん", "mofusand"],
+    "_note": "カテゴリはIDでなくslugで指定し、投稿スクリプトが実行時にREST APIでIDへ解決する（functions.phpのktop_create_mejirushi_categories()が初回作成）"
+  },
+  "affiliate": {
+    "productFilterRegex": "チャーム|めじるし|目印|アクセサリー|マスコット|キーホルダー|ストラップ|ガチャ|ガシャポン",
+    "fallbackKeyword": "めじるしアクセサリー"
+  }
+}
