@@ -12,6 +12,8 @@
 # Secrets
 *.secret
 credentials.json
+*credentials*.csv
+oshikatu-credentials.csv
 
 # Temp
 *.tmp
