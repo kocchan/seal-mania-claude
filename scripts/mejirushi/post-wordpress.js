@@ -316,6 +316,43 @@ class WordPressService {
     }
   }
 
+  // frontmatter.featuredImage（RSSのog:image URL）をダウンロードしてWPへアップロード。
+  // ローカル生成画像が無いときのアイキャッチのフォールバックとして使う。
+  async uploadImageFromUrl(imageUrl, slug) {
+    if (!imageUrl || !/^https?:\/\//.test(imageUrl)) return null;
+
+    try {
+      console.log(`  🖼️ og:image ダウンロード中: ${imageUrl}`);
+      const res = await axios.get(imageUrl, {
+        responseType: 'arraybuffer',
+        timeout: 20000,
+        maxContentLength: 10 * 1024 * 1024, // 10MB上限
+        headers: { 'User-Agent': 'Mozilla/5.0 (compatible; seal-search-bot)' }
+      });
+
+      const contentType = (res.headers['content-type'] || '').split(';')[0].trim();
+      const extMap = { 'image/jpeg': 'jpg', 'image/png': 'png', 'image/webp': 'webp', 'image/gif': 'gif' };
+      const ext = extMap[contentType];
+      if (!ext) {
+        console.log(`  ⚠️ 画像でないためスキップ: ${contentType || '(content-type不明)'}`);
+        return null;
+      }
+
+      const response = await axios.post(`${this.apiUrl}/media`, res.data, {
+        headers: {
+          'Authorization': `Basic ${this.auth}`,
+          'Content-Type': contentType,
+          'Content-Disposition': `attachment; filename="${slug}.${ext}"`
+        }
+      });
+      console.log(`  ✅ og:imageをアイキャッチとしてアップロード (media ID: ${response.data.id})`);
+      return response.data.id;
+    } catch (error) {
+      console.error(`  ⚠️ og:image取得/アップロード失敗（アイキャッチなしで続行）: ${error.message}`);
+      return null;
+    }
+  }
+
   async getOrCreateTag(tagName) {
     if (!tagName) return null;
     try {
@@ -345,9 +382,12 @@ class WordPressService {
   }
 
   async postArticle(frontmatter, htmlContent, imagePath) {
-    // 画像アップロード
+    // 画像アップロード（優先順位: ローカル生成PNG → RSSのog:image → なし）
     const slug = frontmatter.slug || 'mejirushi-article';
-    const mediaId = await this.uploadImage(imagePath, slug);
+    let mediaId = await this.uploadImage(imagePath, slug);
+    if (!mediaId && frontmatter.featuredImage) {
+      mediaId = await this.uploadImageFromUrl(frontmatter.featuredImage, slug);
+    }
 
     // アフィリエイト検索キーワード：
     // キャラ・商品タグを必ず「めじるしアクセサリー」と組み合わせて検索する
