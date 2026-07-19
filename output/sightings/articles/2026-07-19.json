@@ -1,7 +1,7 @@
 {
   "date": "2026-07-19",
-  "updatedAt": "2026-07-19T19:23:33.819+09:00",
-  "count": 24,
+  "updatedAt": "2026-07-19T22:27:33.673+09:00",
+  "count": 26,
   "articles": [
     {
       "isSighting": true,
@@ -432,6 +432,34 @@
       "confidenceMemo": "ショップの公式アカウント（@ario_bepop）による具体的な入荷・販売報告",
       "sourceUrl": "https://x.com/ario_bepop/status/2078766155343573025",
       "sourceTweetId": "2078766155343573025",
+      "isPrediction": false
+    },
+    {
+      "isSighting": true,
+      "prefecture": "静岡県",
+      "city": "沼津市",
+      "shopName": "あわしまマリンパーク",
+      "shopAddress": "静岡県沼津市内浦重寺186",
+      "productName": "ボンボンドロップシール",
+      "sightingTime": "2026-07-19 22:26頃",
+      "statusText": "在庫あり（購入報告）",
+      "confidenceMemo": "具体的な施設名が含まれており、写真付きのため信頼性が高い。",
+      "sourceUrl": "https://x.com/zephyr_one325/status/2078833765456236794",
+      "sourceTweetId": "2078833765456236794",
+      "isPrediction": false
+    },
+    {
+      "isSighting": true,
+      "prefecture": "北海道",
+      "city": "札幌市中央区",
+      "shopName": "サッポロファクトリー",
+      "shopAddress": "北海道札幌市中央区北2条東4丁目",
+      "productName": "ボンボンドロップシール（ちいかわ、リラックマ）",
+      "sightingTime": "2026-07-19 11:11頃",
+      "statusText": "在庫あり（ちいかわ、リラックマの在庫確認。すみっコぐらしも発売中）",
+      "confidenceMemo": "「ファクトリー」は地域的にサッポロファクトリーを指し、具体的な購入報告と写真がある。",
+      "sourceUrl": "https://x.com/avantrascal/status/2078800012755271859",
+      "sourceTweetId": "2078800012755271859",
       "isPrediction": false
     }
   ]
