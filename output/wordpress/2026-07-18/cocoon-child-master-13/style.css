@@ -170,6 +170,38 @@ Version:    1.1.4
 @media (max-width:560px){ .ktop .cards { grid-template-columns:repeat(2,1fr); gap:10px; } }
 
 /************************************
+** カテゴリ専用ページ（category-reservation.php / category-prefecture.php）
+************************************/
+/* --- 締切チップ（抽選・予約） --- */
+.ktop .dl-chip { display:inline-block; font-size:.68rem; font-weight:800; color:#fff; background:var(--k-amber); border-radius:4px; padding:2px 8px; margin-bottom:6px; }
+.ktop .dl-chip.urgent { background:#d32f2f; }
+.ktop .dl-chip.today { background:#d32f2f; animation:ktop-blink 1.2s ease-in-out infinite; }
+@keyframes ktop-blink { 50% { opacity:.55; } }
+.ktop .card .cbody .dl-chip { margin:0 0 4px; }
+/* 受付中セクションの注記 */
+.ktop .live-note { font-size:.78rem; color:var(--k-soft); margin:-8px 0 14px; }
+
+/* --- 都道府県ハブ --- */
+.ktop .prefblock { margin-bottom:26px; }
+.ktop .prefblock h3 { font-size:1rem; font-weight:700; margin:0 0 10px; padding-left:10px; border-left:4px solid var(--k-accent); }
+.ktop .prefchips { display:flex; flex-wrap:wrap; gap:8px; }
+.ktop .prefchip { display:inline-flex; align-items:center; gap:5px; font-size:.82rem; font-weight:600; color:var(--k-ink); background:var(--k-surface); border:1px solid var(--k-line); border-radius:999px; padding:6px 13px; transition:border-color .15s, box-shadow .15s; }
+.ktop .prefchip:hover { border-color:var(--k-accent); box-shadow:var(--k-shadow); }
+.ktop .prefchip .n { font-size:.68rem; color:var(--k-faint); font-weight:700; }
+.ktop .prefchip.has-weekly { border-color:var(--k-accent); background:#FFF4F8; }
+.ktop .prefchip.has-weekly::before { content:"📍"; font-size:.8rem; }
+.ktop .pref-legend { font-size:.76rem; color:var(--k-soft); margin:0 0 16px; }
+
+/* --- ページ送り（.ktop 内の the_posts_pagination 用） --- */
+.ktop .pagi { margin-top:34px; }
+.ktop .pagi .screen-reader-text { display:none; }
+.ktop .pagi .nav-links { display:flex; justify-content:center; align-items:center; gap:8px; flex-wrap:wrap; }
+.ktop .pagi .page-numbers { display:inline-flex; justify-content:center; align-items:center; min-width:38px; height:38px; padding:0 12px; border:1px solid var(--k-line); border-radius:6px; background:var(--k-surface); color:var(--k-ink); font-weight:700; font-size:.85rem; }
+.ktop .pagi .page-numbers.current { background:var(--k-accent); border-color:var(--k-accent); color:#fff; }
+.ktop .pagi a.page-numbers:hover { background:var(--k-alt); }
+.ktop .pagi .page-numbers::before, .ktop .pagi .page-numbers::after { content:none; }
+
+/************************************
 ** レスポンシブデザイン用のメディアクエリ
 ************************************/
 /*1023px以下*/
