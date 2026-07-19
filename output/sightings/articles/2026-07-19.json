@@ -1,7 +1,7 @@
 {
   "date": "2026-07-19",
-  "updatedAt": "2026-07-19T17:28:26.365+09:00",
-  "count": 22,
+  "updatedAt": "2026-07-19T19:23:33.819+09:00",
+  "count": 24,
   "articles": [
     {
       "isSighting": true,
@@ -404,6 +404,34 @@
       "confidenceMemo": "店舗公式アカウントによる完売報告。",
       "sourceUrl": "https://x.com/setooizumi/status/2078746658620493863",
       "sourceTweetId": "2078746658620493863",
+      "isPrediction": false
+    },
+    {
+      "isSighting": true,
+      "prefecture": "大阪府",
+      "city": "大阪市中央区",
+      "shopName": "ボンボンドロップシール POP UP STORE（なんば）",
+      "shopAddress": "大阪府大阪市中央区難波",
+      "productName": "ボンボンドロップシール",
+      "sightingTime": "2026-07-19 18:56頃",
+      "statusText": "在庫あり（入手報告あり）",
+      "confidenceMemo": "具体的な地域名（なんば）と入手報告が含まれており信頼性が高い",
+      "sourceUrl": "https://x.com/OkadaRoku/status/2078781227218423858",
+      "sourceTweetId": "2078781227218423858",
+      "isPrediction": false
+    },
+    {
+      "isSighting": true,
+      "prefecture": "埼玉県",
+      "city": "上尾市",
+      "shopName": "bepop アリオ上尾店",
+      "shopAddress": "埼玉県上尾市大字壱丁目367番地 アリオ上尾内",
+      "productName": "ボンボンドロップシール",
+      "sightingTime": "2026-07-19 08:57頃",
+      "statusText": "入荷・販売（事後報告）",
+      "confidenceMemo": "ショップの公式アカウント（@ario_bepop）による具体的な入荷・販売報告",
+      "sourceUrl": "https://x.com/ario_bepop/status/2078766155343573025",
+      "sourceTweetId": "2078766155343573025",
       "isPrediction": false
     }
   ]
