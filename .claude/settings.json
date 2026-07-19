@@ -1,15 +1,5 @@
 {
-  "hooks": {
-    "PostToolUse": [
-      {
-        "matcher": "Write|Edit",
-        "hooks": [
-          {
-            "type": "prompt",
-            "prompt": "ファイルを変更しました。この変更によりREADME.mdの更新が必要か確認してください。新機能の追加、既存機能の変更、フォルダ構成の変更があった場合は、ユーザーにREADME更新を提案してください。"
-          }
-        ]
-      }
-    ]
+  "permissions": {
+    "defaultMode": "bypassPermissions"
   }
 }
