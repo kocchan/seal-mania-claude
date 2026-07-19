@@ -19,7 +19,7 @@ output/mejirushi/drafts/{date}/
 
 ※ Phase 0（RSS 収集）は `.github/workflows/rss-scrape.yml` が毎日 9:00 JST に自動実行している（フィルタキーワードにめじるし系を含む）。
 
-※ WordPress 投稿は `.github/workflows/post-wordpress.yml`（毎日 10:30 JST）の `npm run mejirushi:post` が自動実行。カテゴリ（めじるしアクセサリー/新作・ガチャ情報）はテーマの functions.php が初回アクセス時に自動作成する。
+※ WordPress 投稿は `.github/workflows/post-wordpress.yml`（毎日 10:30 JST）が自動実行：`npm run mejirushi:images`（Geminiアイキャッチ生成）→ `npm run mejirushi:post`（投稿）。アイキャッチはローカル生成PNG → RSSのog:image → なし の順でフォールバック。カテゴリ（めじるしアクセサリー/新作・ガチャ情報）はテーマの functions.php が初回アクセス時に自動作成する。
 
 ※ 抽選パイプラインはめじるしでは運用しない（2026-07-19 決定：新作情報のみ）。
 

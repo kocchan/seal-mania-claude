@@ -110,6 +110,11 @@ jobs:
           AMAZON_ASSOCIATE_ID: ${{ secrets.AMAZON_ASSOCIATE_ID }}
           RAKUTEN_AFFILIATE_ID: ${{ secrets.RAKUTEN_AFFILIATE_ID }}
 
+      - name: 🖼️ アイキャッチ生成（めじるし新作・Gemini）
+        run: npm run mejirushi:images
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+
       - name: 🚀 WordPress 投稿（めじるし新作）
         run: npm run mejirushi:post
         env:
@@ -126,6 +131,7 @@ jobs:
           git config --local user.name "github-actions[bot]"
           git add output/lottery-info/drafts output/newproduct/drafts output/new-releases/drafts
           [ -d output/mejirushi/drafts ] && git add output/mejirushi/drafts || true
+          [ -d output/mejirushi/images ] && git add output/mejirushi/images || true
           if git diff --staged --quiet; then
             echo "変更なし - コミットをスキップ"
           else
