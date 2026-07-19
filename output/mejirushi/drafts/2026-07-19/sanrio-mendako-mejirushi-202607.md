@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-07-19T13:14:25.873Z"
+wpPostUrl: "https://www.seal-search.com/mejirushi/sanrio-mendako-mejirushi-202607/"
+wpPostId: 12470
+posted: true
 type: mejirushi
 status: draft
 title: "【7月再販】サンリオ×メンダコ めじるしアクセサリー全6種"
