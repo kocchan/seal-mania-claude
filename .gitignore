@@ -30,3 +30,6 @@ output/blog/raw/
 output/wordpress/*
 !output/wordpress/theme
 .env
+
+# ComfyUI 中間生成物
+*.raw.png
