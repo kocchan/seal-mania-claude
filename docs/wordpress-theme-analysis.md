@@ -5,7 +5,7 @@ seal-search.com のフロント側デザインがどこにどう書かれてい�
 - 調査日: 2026-07-18
 - 対象サーバー: ConoHa WING（`public_html/seal-search.com/`）
 - テーマ: **Cocoon**（親 `cocoon-master` ＋ 子テーマ `cocoon-child-master`）
-- 解析元ファイル: `output/wordpress/2026-07-18/cocoon-child-master-13/`（子テーマを丸ごとダウンロードしたもの・gitignore済み）
+- 解析元ファイル: `output/wordpress/theme/cocoon-child-master/`（子テーマを丸ごとダウンロードしたもの。2026-07-19にリファクタで現パスへ移動・git追跡中）
 
 > ⚠️ このリポジトリ（seal-mania-claude）にはサイトのデザインは含まれない。デザインは全て
 > WordPressサーバー側（子テーマ or 管理画面のDB）にある。編集は WP File Manager プラグイン、

@@ -25,8 +25,8 @@ node_modules/
 # Output (scraped data)
 output/blog/raw/
 # output/wordpress/ 配下は基本無視（大容量ダンプ等）。ただし子テーマだけは追跡する
+# theme/  … 編集対象の子テーマ（本番 cocoon-child-master に対応・git追跡）
+# exports/… ライブサイトから採取したAPIダンプ・デザイン資料（無視）
 output/wordpress/*
-!output/wordpress/2026-07-18
-output/wordpress/2026-07-18/*
-!output/wordpress/2026-07-18/cocoon-child-master-13
+!output/wordpress/theme
 .env
