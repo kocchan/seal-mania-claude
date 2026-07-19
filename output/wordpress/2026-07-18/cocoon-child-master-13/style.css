@@ -198,6 +198,31 @@ Version:    1.1.4
 .ktop .pref-legend { font-size:.76rem; color:var(--k-soft); margin:0 0 24px; text-align:center; }
 @media (max-width:560px){ .ktop .prefchip { width:calc(50% - 8px); padding:13px 4px; font-size:.88rem; } }
 
+/* --- キャラ別ハブ（category-character.php） --- */
+.ktop .chargrid { display:grid; grid-template-columns:repeat(3,1fr); gap:16px; max-width:900px; margin:0 auto 44px; }
+.ktop .chartile { position:relative; display:flex; flex-direction:column; align-items:center; gap:7px; padding:24px 12px 18px; border-radius:14px; border:1px solid var(--k-line); border-top:4px solid var(--ct); background:var(--k-surface); box-shadow:var(--k-shadow); text-align:center; transition:box-shadow .16s, transform .16s; }
+.ktop .chartile:hover { box-shadow:0 6px 16px rgba(0,0,0,.12); transform:translateY(-2px); }
+.ktop .chartile .av { width:66px; height:66px; border-radius:50%; display:grid; place-items:center; font-size:2rem; background:var(--ct-bg); overflow:hidden; }
+.ktop .chartile .av img { width:100%; height:100%; object-fit:cover; border-radius:50%; display:block; }
+.ktop .chartile h3 { font-size:1.02rem; }
+.ktop .chartile .cnt { font-size:.72rem; color:var(--k-faint); font-weight:700; }
+.ktop .chartile p { margin:0; font-size:.72rem; color:var(--k-soft); line-height:1.55; }
+.ktop .ct-chiikawa { --ct:#F48FB1; --ct-bg:#FFE3EC; }
+.ktop .ct-sanrio   { --ct:#FF6B9D; --ct-bg:#FFD9E7; }
+.ktop .ct-shizuku  { --ct:#5BC6DE; --ct-bg:#DFF4F9; }
+.ktop .ct-tamagotchi { --ct:#9B7BD4; --ct-bg:#EDE4FA; }
+.ktop .ct-disney   { --ct:#6FA8DC; --ct-bg:#E1EEF9; }
+.ktop .ct-other    { --ct:#B8B8C2; --ct-bg:#F1F1F4; }
+/* セクション見出しのアバターチップ */
+.ktop .row-head .chip-av { display:inline-grid; place-items:center; width:28px; height:28px; border-radius:50%; font-size:.95rem; margin-right:8px; vertical-align:-7px; overflow:hidden; }
+.ktop .row-head .chip-av img { width:100%; height:100%; object-fit:cover; border-radius:50%; display:block; }
+/* 下部の「ほかのキャラ」ボタン */
+.ktop .charbtns { display:flex; flex-wrap:wrap; gap:10px; }
+.ktop .charbtn { display:inline-flex; align-items:center; gap:4px; padding:12px 22px; border-radius:10px; color:#fff !important; font-size:.92rem; font-weight:700; background:var(--ct,#B8B8C2); transition:opacity .15s; }
+.ktop .charbtn:hover { opacity:.85; }
+.ktop .charbtn .n { font-size:.78rem; opacity:.85; }
+@media (max-width:640px){ .ktop .chargrid { grid-template-columns:repeat(2,1fr); gap:10px; } }
+
 /* --- ページ送り（.ktop 内の the_posts_pagination 用） --- */
 .ktop .pagi { margin-top:34px; }
 .ktop .pagi .screen-reader-text { display:none; }
