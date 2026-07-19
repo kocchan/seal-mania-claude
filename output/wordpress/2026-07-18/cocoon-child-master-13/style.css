@@ -98,7 +98,8 @@ Version:    1.1.4
 /* 広告（アフィリPR） */
 .ktop .adcard { position:relative; display:flex; gap:14px; align-items:center; background:var(--k-surface); border:1px solid var(--k-line); border-radius:var(--k-radius); padding:14px 16px; margin:0 0 40px; box-shadow:var(--k-shadow); }
 .ktop .ad-label { position:absolute; top:7px; right:9px; font-size:.54rem; font-weight:700; color:var(--k-faint); background:var(--k-alt); border:1px solid var(--k-line); border-radius:3px; padding:0 5px; }
-.ktop .ad-thumb { flex:0 0 92px; width:92px; height:108px; border:3px solid var(--k-green); border-radius:8px; overflow:hidden; position:relative; }
+.ktop .ad-thumb { flex:0 0 92px; width:92px; height:108px; border:3px solid var(--k-green); border-radius:8px; overflow:hidden; position:relative; background:#fff; }
+.ktop .ad-thumb img { position:absolute; inset:0; width:100%; height:100%; object-fit:contain; background:#fff; }
 .ktop .ad-body { flex:1; min-width:0; }
 .ktop .ad-name { margin:0; font-size:.85rem; font-weight:700; line-height:1.5; display:-webkit-box; -webkit-line-clamp:2; line-clamp:2; -webkit-box-orient:vertical; overflow:hidden; }
 .ktop .ad-price { color:#d32f2f; font-size:.82rem; font-weight:800; margin:6px 0 10px; }

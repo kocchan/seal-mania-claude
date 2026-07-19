@@ -109,7 +109,7 @@ $seal_all_url = home_url( '/seal/' );
 		<!-- 広告① -->
 		<aside class="adcard">
 			<span class="ad-label">PR</span>
-			<div class="ad-thumb"><span class="k-ph"></span></div>
+			<div class="ad-thumb"><span class="k-ph"></span><img src="https://item-shopping.c.yimg.jp/i/g/hobi-suto_set134-" alt="ちいかわ ボンボンドロップシール" loading="lazy" onerror="this.remove()"></div>
 			<div class="ad-body">
 				<p class="ad-name">正規品 ちいかわ シール モモンガ ボンボンドロップシール S8542929 サンスター文具</p>
 				<div class="ad-price">¥2,980〜</div>
@@ -137,7 +137,7 @@ $seal_all_url = home_url( '/seal/' );
 		<!-- 広告② -->
 		<aside class="adcard">
 			<span class="ad-label">PR</span>
-			<div class="ad-thumb"><span class="k-ph"></span></div>
+			<div class="ad-thumb"><span class="k-ph"></span><img src="https://item-shopping.c.yimg.jp/i/g/primeworldjp_sanrio209" alt="サンリオ ボンボンドロップ ミニチュアチャーム" loading="lazy" onerror="this.remove()"></div>
 			<div class="ad-body">
 				<p class="ad-name">サンリオキャラクターズ ボンボンドロップ ミニチュアチャーム 全種セット</p>
 				<div class="ad-price">¥3,480〜</div>
@@ -197,7 +197,7 @@ $seal_all_url = home_url( '/seal/' );
 
 		<div class="widget ad-widget">
 			<span class="ad-label">PR</span>
-			<div class="ad-thumb"><span class="k-ph"></span></div>
+			<div class="ad-thumb"><span class="k-ph"></span><img src="https://item-shopping.c.yimg.jp/i/g/cast-shop_pe02139672" alt="サンリオ めじるしアクセサリー" loading="lazy" onerror="this.remove()"></div>
 			<p class="ad-name">サンリオ めじるしアクセサリー ガチャ 全20種コンプセット</p>
 			<div class="ad-price">¥3,000〜</div>
 			<?php ktop_afi_buttons( 'めじるしアクセサリー サンリオ', true ); ?>

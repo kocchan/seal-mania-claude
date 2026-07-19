@@ -71,7 +71,7 @@ if ( ! function_exists( 'ktop_tag_url' ) ) {
 	<!-- 広告① -->
 	<aside class="adcard">
 		<span class="ad-label">PR</span>
-		<div class="ad-thumb"><span class="k-ph"></span></div>
+		<div class="ad-thumb"><span class="k-ph"></span><img src="https://item-shopping.c.yimg.jp/i/g/hobi-suto_set134-" alt="ちいかわ ボンボンドロップシール" loading="lazy" onerror="this.remove()"></div>
 		<div class="ad-body">
 			<p class="ad-name">正規品 ちいかわ シール モモンガ ボンボンドロップシール S8542929 サンスター文具</p>
 			<div class="ad-price">¥2,980〜</div>
@@ -93,7 +93,7 @@ if ( ! function_exists( 'ktop_tag_url' ) ) {
 		<!-- 広告② -->
 		<aside class="adcard">
 			<span class="ad-label">PR</span>
-			<div class="ad-thumb"><span class="k-ph"></span></div>
+			<div class="ad-thumb"><span class="k-ph"></span><img src="https://item-shopping.c.yimg.jp/i/g/primeworldjp_sanrio209" alt="サンリオ ボンボンドロップ ミニチュアチャーム" loading="lazy" onerror="this.remove()"></div>
 			<div class="ad-body">
 				<p class="ad-name">サンリオキャラクターズ ボンボンドロップ ミニチュアチャーム 全種セット</p>
 				<div class="ad-price">¥3,480〜</div>
@@ -159,7 +159,7 @@ if ( ! function_exists( 'ktop_tag_url' ) ) {
 		<!-- 広告③ -->
 		<aside class="adcard">
 			<span class="ad-label">PR</span>
-			<div class="ad-thumb"><span class="k-ph"></span></div>
+			<div class="ad-thumb"><span class="k-ph"></span><img src="https://item-shopping.c.yimg.jp/i/g/bii-dama_52994972" alt="しずくちゃん うるちゅるシール" loading="lazy" onerror="this.remove()"></div>
 			<div class="ad-body">
 				<p class="ad-name">しずくちゃん うるちゅるシール mini／ぷっくりシール まとめ買い</p>
 				<div class="ad-price">¥1,980〜</div>
@@ -206,7 +206,7 @@ if ( ! function_exists( 'ktop_tag_url' ) ) {
 
 		<div class="widget ad-widget">
 			<span class="ad-label">PR</span>
-			<div class="ad-thumb"><span class="k-ph"></span></div>
+			<div class="ad-thumb"><span class="k-ph"></span><img src="https://item-shopping.c.yimg.jp/i/g/hobi-suto_set134-" alt="ボンボンドロップシール 人気キャラ" loading="lazy" onerror="this.remove()"></div>
 			<p class="ad-name">ボンボンドロップシール 人気キャラ まとめ買いセット</p>
 			<div class="ad-price">¥2,480〜</div>
 			<?php ktop_afi_buttons( 'ボンボンドロップシール', true ); ?>
