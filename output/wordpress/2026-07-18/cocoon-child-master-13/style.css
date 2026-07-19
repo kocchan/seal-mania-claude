@@ -187,7 +187,7 @@ Version:    1.1.4
 .ktop .prefchips { display:flex; flex-wrap:wrap; justify-content:center; gap:14px 16px; }
 .ktop .prefchip { display:flex; align-items:center; justify-content:center; gap:4px; width:150px; padding:15px 4px; border-radius:10px; color:#fff !important; font-size:.95rem; font-weight:700; transition:opacity .15s, transform .15s; }
 .ktop .prefchip:hover { opacity:.85; transform:translateY(-1px); }
-.ktop .prefchip.has-weekly::before { content:"📍"; font-size:.82rem; }
+.ktop .prefchip .n { font-size:.78rem; opacity:.85; }
 /* 地方ごとの色（地方カテゴリのslugに対応） */
 .ktop .prefblock[data-region="hokkaido-tohoku"] .prefchip { background:#6A6FC4; }
 .ktop .prefblock[data-region="kanto"]           .prefchip { background:#54AFA8; }

@@ -73,7 +73,7 @@ foreach ( $weekly_posts as $wp_post_item ) {
 		<h1>都道府県別の目撃情報 <small>ボンボンドロップシールの目撃・在庫まとめ</small></h1>
 	</div>
 
-	<p class="pref-legend">目撃情報は毎週土曜に県ごとの「週間まとめ」へ更新中。📍付きの県は今週のまとめが読めるよ（タップで直行）。</p>
+	<p class="pref-legend">目撃情報は毎週土曜に県ごとの「週間まとめ」へ更新中。（　）内はこれまでの投稿数だよ。</p>
 
 	<!-- ============ 地方ブロック → 県ボタン（地方ごとに色分け・中央寄せ） ============ -->
 	<?php foreach ( $regions as $region ) :
@@ -83,10 +83,11 @@ foreach ( $weekly_posts as $wp_post_item ) {
 			<h3><?php echo esc_html( $region->name ); ?></h3>
 			<div class="prefchips">
 				<?php foreach ( $prefs as $pc ) :
+					// 週間まとめがある県はまとめ記事へ、無い県はカテゴリ一覧へ
 					$has_weekly = isset( $weekly_map[ $pc->slug ] );
 					$url        = $has_weekly ? get_permalink( $weekly_map[ $pc->slug ] ) : get_category_link( $pc->term_id );
 					?>
-					<a class="prefchip<?php echo $has_weekly ? ' has-weekly' : ''; ?>" href="<?php echo esc_url( $url ); ?>"><?php echo esc_html( $pc->name ); ?></a>
+					<a class="prefchip" href="<?php echo esc_url( $url ); ?>"><?php echo esc_html( $pc->name ); ?><?php if ( $pc->count ) : ?><span class="n">（<?php echo (int) $pc->count; ?>）</span><?php endif; ?></a>
 				<?php endforeach; ?>
 			</div>
 		</div>
