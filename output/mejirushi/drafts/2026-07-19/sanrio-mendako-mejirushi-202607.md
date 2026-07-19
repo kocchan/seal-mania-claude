@@ -19,7 +19,7 @@ source: rss
 sourceRssUrl: "https://news.mynavi.jp/article/20260709-4669939/"
 sourceFile: "output/rss/2026-07-19/news-mynavi-jp-20260709-4669939.md"
 createdAt: "2026-07-19T22:09:00+09:00"
-updatedAt: "2026-07-19T22:09:00+09:00"
+updatedAt: "2026-07-19T22:13:56+09:00"
 ---
 
 # 【7月再販】サンリオ×メンダコ めじるしアクセサリー全6種
