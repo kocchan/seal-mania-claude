@@ -1,10 +1,20 @@
-name: 目撃情報自動投稿パイプライン
+name: 目撃情報データ収集パイプライン（週間まとめ用）
+
+# ⚠️ 2026-07-19 方針変更：
+#   個別の目撃記事をWordPressに都度投稿する運用は停止（閲覧が少なく
+#   コンテンツの質を下げていたため）。目撃情報は毎週土曜の
+#   「週間目撃まとめ」(weekly-roundup.yml) のみで記事化する。
+#   このワークフローは週間まとめの材料となるデータ収集
+#   （ツイート収集 → 構造化JSON生成）だけを行う。
+#   ※ weekly-roundup.yml が output/sightings/articles/*.json を
+#     読むため、収集自体を止めてはいけない。
 
 on:
   # 手動実行
   workflow_dispatch:
 
   # 定期実行（1日6回、3時間おき: 6:00, 9:00, 12:00, 15:00, 18:00, 21:00 JST）
+  # 投稿はしないが、ツイートが検索結果から流れる前に拾うため頻度は維持
   schedule:
     - cron: '0 21 * * *'  # 06:00 JST
     - cron: '0 0 * * *'   # 09:00 JST
@@ -57,41 +67,20 @@ jobs:
           ls -la output/sightings/raw/ || echo "rawフォルダなし"
 
       # ========================================
-      # Step 2: Gemini AIで記事生成
+      # Step 2: Gemini AIで構造化データ生成（週間まとめの材料）
       # ========================================
-      - name: 📝 Step 2 - 記事生成 (Gemini AI)
+      - name: 📝 Step 2 - 構造化データ生成 (Gemini AI)
         run: npm run generate:articles
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
 
-      - name: 記事生成結果を確認
+      - name: 生成結果を確認
         run: |
-          echo "=== 生成された記事 ==="
+          echo "=== 生成された構造化データ ==="
           ls -la output/sightings/articles/ || echo "articlesフォルダなし"
 
-      # ========================================
-      # Step 3: 画像生成
-      # ========================================
-      - name: 🖼️ Step 3 - 画像生成
-        run: npm run generate:images
-
-      - name: 画像生成結果を確認
-        run: |
-          echo "=== 生成された画像 ==="
-          ls -la output/sightings/images/ || echo "imagesフォルダなし"
-
-      # ========================================
-      # Step 4: WordPressに投稿
-      # ========================================
-      - name: 🚀 Step 4 - WordPress投稿
-        run: npm run post:wordpress
-        env:
-          WP_API_URL: ${{ secrets.WP_API_URL }}
-          WP_USER: ${{ secrets.WP_USER }}
-          WP_APP_PASSWORD: ${{ secrets.WP_APP_PASSWORD }}
-          YAHOO_CLIENT_ID: ${{ secrets.YAHOO_CLIENT_ID }}
-          AMAZON_ASSOCIATE_ID: ${{ secrets.AMAZON_ASSOCIATE_ID }}
-          RAKUTEN_AFFILIATE_ID: ${{ secrets.RAKUTEN_AFFILIATE_ID }}
+      # （旧 Step 3: 画像生成／旧 Step 4: WordPress個別投稿は 2026-07-19 廃止。
+      #   記事化は weekly-roundup.yml の週間まとめのみ）
 
       # ========================================
       # 結果をコミット（処理済みフラグを保存）
