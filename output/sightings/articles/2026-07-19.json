@@ -1,7 +1,7 @@
 {
   "date": "2026-07-19",
-  "updatedAt": "2026-07-19T11:55:30.231+09:00",
-  "count": 18,
+  "updatedAt": "2026-07-19T14:45:38.568+09:00",
+  "count": 19,
   "articles": [
     {
       "isSighting": true,
@@ -344,6 +344,25 @@
       "wpPostId": 12467,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-tokyo-shibuya-2026-07-18-2/",
       "postedAt": "2026-07-19T11:57:42.566+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "埼玉県",
+      "city": "深谷市",
+      "shopName": "新星堂 アリオ深谷店",
+      "shopAddress": "埼玉県深谷市上柴町西4-2-14 アリオ深谷 3F",
+      "productName": "ボンボンドロップシール（エンジェルブルー・メゾピアノ）",
+      "sightingTime": "2026-07-19 04:16頃",
+      "statusText": "在庫あり（2種類再入荷）",
+      "confidenceMemo": "店舗公式アカウントによる入荷案内のため、情報の信頼性が非常に高い。ただし今後の入荷は未定との記載あり。",
+      "sourceUrl": "https://x.com/ssd_fukaya/status/2078695516259676615",
+      "sourceTweetId": "2078695516259676615",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2078695516259676615.png",
+      "isPosted": true,
+      "wpPostId": 12469,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-saitama-fukaya-2026-07-19/",
+      "postedAt": "2026-07-19T14:45:45.647+09:00"
     }
   ]
 }
