@@ -50,21 +50,6 @@ $seal_all_url = home_url( '/seal/' );
 <main id="main" class="main front-page-main" role="main">
 <div class="ktop">
 
-	<?php /* 見出しの見切れ対策：Cocoon側のh4上書きに勝つよう最優先で2行省略を固定 */ ?>
-	<style>
-	.front-page-main .ktop .fcard h4,
-	.front-page-main .ktop .card h4 {
-		display:-webkit-box !important;
-		-webkit-box-orient:vertical !important;
-		-webkit-line-clamp:2 !important;
-		line-clamp:2 !important;
-		overflow:hidden !important;
-		white-space:normal !important;
-		max-height:calc(1.5em * 2 + 22px) !important;
-	}
-	.front-page-main .ktop .fcard h4 { min-height:calc(1.5em * 2); }
-	</style>
-
 	<!-- ================= 注目記事カルーセル ================= -->
 	<div class="krail">
 		<?php
