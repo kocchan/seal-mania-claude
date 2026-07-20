@@ -45,6 +45,16 @@ const CHAR_LABELS = {
   castle: 'ディズニー', sumikko: 'すみっコぐらし', mofucat: 'mofusand', nagano: 'ナガノキャラ'
 };
 
+// salesDateを解釈して { month, day } を返す（generate-images-stock.jsと同一）
+function parseSalesDate(salesDate) {
+  if (!salesDate) return null;
+  let m = salesDate.match(/^\d{4}-(\d{2})(?:-(\d{2}))?/);
+  if (m) return { month: parseInt(m[1]), day: m[2] ? parseInt(m[2]) : null };
+  m = salesDate.match(/(\d{1,2})月(?:(\d{1,2})日)?/);
+  if (m) return { month: parseInt(m[1]), day: m[2] ? parseInt(m[2]) : null };
+  return null;
+}
+
 function pickDeterministic(slug, pool) {
   const h = crypto.createHash('md5').update(slug).digest();
   return pool[h[0] % pool.length];
@@ -112,12 +122,16 @@ async function main() {
       const meta = findDraftMeta(post.slug);
       let badge = '新作';
       let date = '';
-      if (meta?.salesDate) {
-        const m = meta.salesDate.match(/^\d{4}-(\d{2})-(\d{2})/);
-        if (m) { badge = `${parseInt(m[1])}月新作`; date = `${parseInt(m[1])}/${parseInt(m[2])}発売`; }
+      const sd = parseSalesDate(meta?.salesDate);
+      if (sd) {
+        badge = `${sd.month}月新作`;
+        if (sd.day) date = `${sd.month}/${sd.day}発売`;
       } else {
         const m = title.match(/(\d{1,2})月/);
         if (m) badge = `${m[1]}月新作`;
+      }
+      if (!date) {
+        // タイトルの "7/15発売" 等から日付を補完（salesDateが年月のみでも拾えるように）
         const md = title.match(/(\d{1,2})\/(\d{1,2})(発売|再販)/);
         if (md) date = `${md[1]}/${md[2]}${md[3]}`;
       }

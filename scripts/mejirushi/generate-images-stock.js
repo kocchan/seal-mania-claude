@@ -80,6 +80,17 @@ const CHAR_LABELS = {
   nagano: 'ナガノキャラ'
 };
 
+// salesDateを解釈して { month, day } を返す。month必須・dayは無い場合null。
+// 対応形式: "2026-07-15" / "2026-07" / "2026年7月15日" / "2026年7月"
+function parseSalesDate(salesDate) {
+  if (!salesDate) return null;
+  let m = salesDate.match(/^\d{4}-(\d{2})(?:-(\d{2}))?/);
+  if (m) return { month: parseInt(m[1]), day: m[2] ? parseInt(m[2]) : null };
+  m = salesDate.match(/(\d{1,2})月(?:(\d{1,2})日)?/);
+  if (m) return { month: parseInt(m[1]), day: m[2] ? parseInt(m[2]) : null };
+  return null;
+}
+
 // slugから決定的に1枚選ぶ（同じslugなら常に同じ絵＝冪等）
 function pickDeterministic(slug, pool) {
   const h = crypto.createHash('md5').update(slug).digest();
@@ -141,10 +152,10 @@ function main() {
       const outputPath = path.join(outputDir, `${slug}.png`);
 
       // 文字要素を frontmatter から決定
-      const m = (frontmatter.salesDate || '').match(/^\d{4}-(\d{2})-(\d{2})/);
-      const badge = m ? `${parseInt(m[1])}月新作` : '新作';
-      // 発売日タグ（例: 7/15発売）。日付が無ければ表示しない
-      const date = m ? `${parseInt(m[1])}/${parseInt(m[2])}発売` : '';
+      const sd = parseSalesDate(frontmatter.salesDate);
+      const badge = sd ? `${sd.month}月新作` : '新作';
+      // 発売日タグ（例: 7/15発売）。日付（日にち）まで分かる場合のみ表示
+      const date = sd && sd.day ? `${sd.month}/${sd.day}発売` : '';
       // priceRange 例: "300円" / "300〜400円" → 短い表記だけ値札にする
       const price = (frontmatter.priceRange || '').length <= 8 ? (frontmatter.priceRange || '') : '';
 
