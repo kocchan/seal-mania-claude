@@ -1,7 +1,7 @@
 {
   "date": "2026-07-20",
-  "updatedAt": "2026-07-20T15:12:12.646+09:00",
-  "count": 15,
+  "updatedAt": "2026-07-20T18:26:41.576+09:00",
+  "count": 18,
   "articles": [
     {
       "isSighting": true,
@@ -212,6 +212,48 @@
       "sourceUrl": "https://x.com/futaba_itsufuku/status/2079077404182798538",
       "sourceTweetId": "2079077404182798538",
       "isPrediction": true
+    },
+    {
+      "isSighting": true,
+      "prefecture": "静岡県",
+      "city": "浜松市",
+      "shopName": "ドリームカプセル＠イオンモール浜松市野",
+      "shopAddress": "静岡県浜松市中央区天王町1981-3 イオンモール浜松市野",
+      "productName": "サンリオキャラクターズ ボンボンドロップ ミニチュアチャーム",
+      "sightingTime": "2026-07-20 18:09頃",
+      "statusText": "完売（販売終了）",
+      "confidenceMemo": "店舗公式アカウントによる完売および販売終了の告知。同日午前の入荷分が完売した状況。",
+      "sourceUrl": "https://x.com/drecap_ichino/status/2079131599439073552",
+      "sourceTweetId": "2079131599439073552",
+      "isPrediction": false
+    },
+    {
+      "isSighting": true,
+      "prefecture": "千葉県",
+      "city": "旭市",
+      "shopName": "タイトーステーション 旭サンモール店",
+      "shopAddress": "千葉県旭市イ2676-1 旭サンモールショッピングセンター3F",
+      "productName": "ナルミヤキャラクターズ うるちゅるPOPシール miniキーホルダー",
+      "sightingTime": "2026-07-20 07:42頃",
+      "statusText": "入荷（在庫あり）",
+      "confidenceMemo": "店舗公式アカウントによる写真付きの入荷告知",
+      "sourceUrl": "https://x.com/Taito_Asahi/status/2079109794234093642",
+      "sourceTweetId": "2079109794234093642",
+      "isPrediction": false
+    },
+    {
+      "isSighting": true,
+      "prefecture": "福岡県",
+      "city": "北九州市小倉北区",
+      "shopName": "クエスト小倉本店",
+      "shopAddress": "福岡県北九州市小倉北区馬借1-3-22",
+      "productName": "うるちゅるPOPSEAL（ハローキティ他）、ぷっくっとシール、クリアハードシール、COTTONPUFFY、ぷっくりったいシール",
+      "sightingTime": "2026-07-20 06:44頃",
+      "statusText": "入荷（地階文具売場にて在庫あり）",
+      "confidenceMemo": "店舗公式アカウントによる詳細な入荷告知",
+      "sourceUrl": "https://x.com/q_kokura_seki/status/2079095117156413462",
+      "sourceTweetId": "2079095117156413462",
+      "isPrediction": false
     }
   ]
 }
