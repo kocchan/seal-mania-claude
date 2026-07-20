@@ -15,14 +15,15 @@
     "newreleases:images": "node scripts/newreleases/generate-images.js",
     "newreleases:post": "node scripts/newreleases/post-wordpress.js",
     "newproduct:post": "node scripts/newproduct/post-wordpress.js",
-    "mejirushi:images": "node scripts/mejirushi/generate-images.js",
-    "mejirushi:retrofit": "node scripts/mejirushi/retrofit-thumbnails.js",
+    "mejirushi:images": "node scripts/mejirushi/generate-images-stock.js",
     "mejirushi:post": "node scripts/mejirushi/post-wordpress.js",
     "rss:scrape": "node scripts/rss/scrape.js",
     "weekly-roundup:generate": "node scripts/weekly-roundup/weekly-roundup-generate.js",
     "weekly-roundup:images": "node scripts/weekly-roundup/weekly-roundup-images.js",
     "weekly-roundup:post": "node scripts/weekly-roundup/weekly-roundup-post.js",
-    "weekly-roundup:link": "node scripts/weekly-roundup/weekly-roundup-link.js"
+    "weekly-roundup:link": "node scripts/weekly-roundup/weekly-roundup-link.js",
+    "mejirushi:images:gemini": "node scripts/mejirushi/generate-images.js",
+    "mejirushi:base-assets": "node scripts/mejirushi/generate-base-assets.js"
   },
   "dependencies": {
     "@google/generative-ai": "^0.24.1",

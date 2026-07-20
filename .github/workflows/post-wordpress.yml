@@ -110,10 +110,15 @@ jobs:
           AMAZON_ASSOCIATE_ID: ${{ secrets.AMAZON_ASSOCIATE_ID }}
           RAKUTEN_AFFILIATE_ID: ${{ secrets.RAKUTEN_AFFILIATE_ID }}
 
-      # めじるしのアイキャッチはGemini生成を廃止（2026-07-20・API費用削減）。
-      # 投稿時は og:image を仮アイキャッチにし、ローカルMacの
-      # `npm run mejirushi:retrofit`（launchd定期実行）が ComfyUI で
-      # 本サムネを生成して後付けする方式。
+      # めじるしのアイキャッチは「ストック素材＋文字合成」方式（2026-07-20）。
+      # Geminiで事前生成した assets/mejirushi-thumbs/base-*.png から記事ごとに
+      # 1枚選び、タイトル/◯月新作/価格の文字だけPillowで合成する。
+      # → 生成API費用0円・CI内で完結（ComfyUI/ローカルMac不要）
+      - name: 🖼️ アイキャッチ合成（めじるし新作・ストック素材）
+        run: |
+          pip3 install --quiet Pillow
+          npm run mejirushi:images
+
       - name: 🚀 WordPress 投稿（めじるし新作）
         run: npm run mejirushi:post
         env:

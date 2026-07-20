@@ -17,8 +17,11 @@ from PIL import Image, ImageDraw, ImageFont
 
 W, H = 1200, 675
 
-# macOS標準の丸ゴシック。無ければヒラギノ角ゴ→ゴシック系にフォールバック
+# 同梱フォント（CI/ローカル共通で同じ見た目にする）→ 無ければmacOS標準へフォールバック
+import os
+_HERE = os.path.dirname(os.path.abspath(__file__))
 FONT_CANDIDATES = [
+    os.path.join(_HERE, '..', '..', 'assets', 'fonts', 'ZenMaruGothic-Bold.ttf'),
     '/System/Library/Fonts/ヒラギノ丸ゴ ProN W4.ttc',
     '/System/Library/Fonts/Hiragino Sans GB.ttc',
     '/System/Library/Fonts/ヒラギノ角ゴシック W7.ttc',
@@ -73,10 +76,23 @@ def main():
 
     draw = ImageDraw.Draw(im)
 
-    # --- タイトル（上部中央・白ふち＋ピンク文字） ---
-    title_font = load_font(88)
+    # --- タイトル（上部・白ふち＋ピンク文字） ---
+    # バッジ（右上）と重ならないよう、フォントの自動縮小＋中心の左シフトを行う
+    badge_zone = 290 if args.badge else 40   # 右端の確保幅
+    left_margin = 40
+    size = 88
+    title_font = load_font(size)
+    while size > 48 and draw.textlength(args.title, font=title_font) > W - left_margin - badge_zone:
+        size -= 4
+        title_font = load_font(size)
+    tw = draw.textlength(args.title, font=title_font)
+    cx = W // 2
+    # 中央配置で右端がバッジ域に食い込むなら、食い込まない位置まで左へ
+    max_cx = W - badge_zone - tw / 2
+    cx = int(min(cx, max_cx))
+    cx = max(cx, int(left_margin + tw / 2))
     draw_text_outline(
-        draw, (W // 2, 30), args.title, title_font,
+        draw, (cx, 30), args.title, title_font,
         fill=(232, 80, 136), outline=(255, 255, 255), width=8, anchor='ma')
 
     # --- 新作バッジ（右上・黄色スターバースト） ---
