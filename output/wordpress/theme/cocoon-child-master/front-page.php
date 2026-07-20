@@ -74,9 +74,10 @@ $seal_all_url = home_url( '/seal/' );
 				<span class="picon pi-pink">🩹</span>
 				<div><h3>シール<span class="st on">運用中</span></h3><p>ボンボンドロップ等のシール情報。看板コンテンツ「シールマニア」へ →</p></div>
 			</a>
-			<a class="pill" href="#mejirushi">
+			<?php $ktop_mejirushi_cat = get_category_by_slug( 'mejirushi' ); ?>
+			<a class="pill" href="<?php echo esc_url( $ktop_mejirushi_cat ? get_category_link( $ktop_mejirushi_cat->term_id ) : '#mejirushi' ); ?>">
 				<span class="picon pi-violet">🎀</span>
-				<div><h3>めじるしアクセサリー<span class="st soon">NEW・準備中</span></h3><p>傘・バッグ・ボトルの“目印チャーム”。サンリオ等のガチャが大人気。近日オープン</p></div>
+				<div><h3>めじるしアクセサリー<span class="st on">NEW</span></h3><p>傘・バッグ・ボトルの“目印チャーム”。サンリオ等のガチャ新作を毎日チェック →</p></div>
 			</a>
 			<a class="pill" href="#">
 				<span class="picon pi-blue">🥚</span>
@@ -164,18 +165,27 @@ $seal_all_url = home_url( '/seal/' );
 			</div>
 		</aside>
 
-		<!-- ================= めじるしアクセサリー（準備中） ================= -->
+		<!-- ================= めじるしアクセサリー ================= -->
+		<?php
+		// 実記事を取得（新作・ガチャ情報→無ければ親カテゴリ）。残り枠は準備中カードで埋める
+		$mejirushi_cat = get_category_by_slug( 'mejirushi' );
+		$mq = new WP_Query( array( 'category_name' => 'mejirushi-new', 'posts_per_page' => 3, 'ignore_sticky_posts' => true ) );
+		if ( ! $mq->have_posts() ) { $mq = new WP_Query( array( 'category_name' => 'mejirushi', 'posts_per_page' => 3, 'ignore_sticky_posts' => true ) ); }
+		$mejirushi_count = (int) $mq->post_count;
+		?>
 		<div class="shead big" id="mejirushi">
-			<h2>めじるしアクセサリー</h2><span class="shead-sub">目印チャーム／めじるしチャーム</span><span class="st soon">NEW・準備中</span>
+			<h2>めじるしアクセサリー</h2><span class="shead-sub">目印チャーム／めじるしチャーム</span><span class="st soon">NEW</span>
+			<?php if ( $mejirushi_cat ) : ?><a class="more big-more" href="<?php echo esc_url( get_category_link( $mejirushi_cat->term_id ) ); ?>">めじるしをすべて見る ›</a><?php endif; ?>
 		</div>
-		<p class="block-note">いま話題の<b>めじるしアクセサリー（目印チャーム）</b>情報を準備中です。サンリオ・たまごっち等のガチャ新作や再販を、シールと同じ構成で「新作・抽選・目撃」としてお届け予定。近日オープン！</p>
+		<p class="block-note">いま話題の<b>めじるしアクセサリー（目印チャーム）</b>のコーナーができました！サンリオ等のガチャ新作・再販情報を毎日チェックしてお届けします。</p>
 
 		<section class="subsec">
-			<div class="row-head"><h3>話題の<b>新作</b></h3><span class="more" style="color:var(--k-faint)">準備中</span></div>
+			<div class="row-head"><h3>話題の<b>新作</b></h3><?php $mejirushi_new_cat = get_category_by_slug( 'mejirushi-new' ); if ( $mejirushi_new_cat ) : ?><a class="more" href="<?php echo esc_url( get_category_link( $mejirushi_new_cat->term_id ) ); ?>">もっと見る ›</a><?php endif; ?></div>
 			<div class="cards">
-				<span class="card coming"><div class="thumb"><span class="badge b-prep">準備中</span><span class="k-ph"></span></div><div class="cbody"><h4>近日公開 ─ めじるしアクセサリーの新作情報</h4><time>Coming soon</time></div></span>
-				<span class="card coming"><div class="thumb"><span class="badge b-prep">準備中</span><span class="k-ph"></span></div><div class="cbody"><h4>近日公開 ─ めじるしアクセサリーの新作情報</h4><time>Coming soon</time></div></span>
-				<span class="card coming"><div class="thumb"><span class="badge b-prep">準備中</span><span class="k-ph"></span></div><div class="cbody"><h4>近日公開 ─ めじるしアクセサリーの新作情報</h4><time>Coming soon</time></div></span>
+				<?php while ( $mq->have_posts() ) : $mq->the_post(); ktop_render_card( 'b-new', '新作' ); endwhile; wp_reset_postdata(); ?>
+				<?php for ( $i = $mejirushi_count; $i < 3; $i++ ) : // 3枠に満たない分は準備中カード ?>
+				<span class="card coming"><div class="thumb"><span class="badge b-prep">準備中</span><span class="k-ph"></span></div><div class="cbody"><h4>続々追加予定 ─ めじるしアクセサリーの新作情報</h4><time>Coming soon</time></div></span>
+				<?php endfor; ?>
 			</div>
 		</section>
 
@@ -226,7 +236,7 @@ $seal_all_url = home_url( '/seal/' );
 			<div class="wtitle">カテゴリー</div>
 			<ul class="catlist">
 				<li><a href="#seal">シール</a></li>
-				<li><a href="#mejirushi">めじるしアクセサリー<span class="n">準備中</span></a></li>
+				<li><a href="<?php echo esc_url( get_category_link( get_category_by_slug( 'mejirushi' ) ? get_category_by_slug( 'mejirushi' )->term_id : 0 ) ); ?>">めじるしアクセサリー<span class="n">NEW</span></a></li>
 				<li><a href="<?php echo esc_url( get_category_link( get_category_by_slug( 'reservation' ) ? get_category_by_slug( 'reservation' )->term_id : 0 ) ); ?>">抽選・予約情報</a></li>
 				<li><a href="<?php echo esc_url( get_category_link( get_category_by_slug( 'new-item' ) ? get_category_by_slug( 'new-item' )->term_id : 0 ) ); ?>">今月の新作</a></li>
 				<li><a href="<?php echo esc_url( get_category_link( get_category_by_slug( 'prefecture' ) ? get_category_by_slug( 'prefecture' )->term_id : 0 ) ); ?>">エリアから探す</a></li>
