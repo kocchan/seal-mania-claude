@@ -18,7 +18,7 @@ source: rss
 sourceRssUrl: "https://article.auone.jp/detail/1/5/9/27_9_r_20260719_1784455121441833"
 sourceFile: "output/rss/2026-07-20/article-auone-jp-27-9-r-20260719-1784455121441833.md"
 createdAt: "2026-07-20T15:50:00+09:00"
-updatedAt: "2026-07-20T15:50:00+09:00"
+updatedAt: "2026-07-20T15:59:52+09:00"
 ---
 
 # 【7月発売】ハリー・ポッター めじるしアクセサリー全8種
