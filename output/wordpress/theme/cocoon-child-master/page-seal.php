@@ -164,7 +164,10 @@ if ( ! function_exists( 'ktop_tag_url' ) ) {
 		<section class="sec">
 			<div class="row-head"><h3>エリアの<b>目撃・在庫情報</b></h3><a class="more" href="<?php echo esc_url( ktop_cat_url( 'prefecture' ) ); ?>">もっと見る ›</a></div>
 			<div class="cards">
-				<?php $q = ktop_query( '', 3 ); while ( $q->have_posts() ) : $q->the_post(); ktop_render_card( 'b-spot', '目撃' ); endwhile; wp_reset_postdata(); ?>
+				<?php
+			// 都道府県別カテゴリに限定＋更新日順（週間まとめは毎週上書き更新のため、更新日順で最新の週が先頭に来る）
+			$q = new WP_Query( array( 'category_name' => 'prefecture', 'posts_per_page' => 3, 'orderby' => 'modified', 'ignore_sticky_posts' => true ) );
+			while ( $q->have_posts() ) : $q->the_post(); ktop_render_card( 'b-spot', '目撃' ); endwhile; wp_reset_postdata(); ?>
 			</div>
 			<a class="btn-more" href="<?php echo esc_url( ktop_cat_url( 'prefecture' ) ); ?>">エリアの目撃情報をもっと見る</a>
 		</section>
