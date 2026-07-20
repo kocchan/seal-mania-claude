@@ -16,9 +16,14 @@
            → WPメディアへアップし featured_media を差し替え
 ```
 
-- ComfyUI サーバーは別プロジェクト（326_disneyYoutube / 328_dmmアフィリエイト漫画）の
-  ものをポート8188で共用。モデルは `animagine-xl-4.0-opt.safetensors`
-- ComfyUI が起動していない時は静かにスキップ（次回実行で処理）
+- ComfyUI は**プロジェクト内 `ComfyUI/`**（git対象外・arm64 venv・MPS対応）。
+  モデル `animagine-xl-4.0-opt.safetensors` は328プロジェクトの実体への
+  シンボリックリンク（7GB節約）
+- retrofit が**サーバーを自動管理**する:
+  ① 既存サーバー(8188等)が生きていれば相乗り
+  ② いなければプロジェクト内ComfyUIをポート8189で自動起動
+  ③ 自前起動した場合は完了後に停止してメモリを返す
+- どちらも無ければ静かにスキップ（次回実行で処理）
 - 判定: featured_media が 0、またはメディアファイル名が `-og.` を含む（og:image仮）
 
 ## セットアップ（launchd・1回だけ）

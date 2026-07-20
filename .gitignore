@@ -33,3 +33,6 @@ output/wordpress/*
 
 # ComfyUI 中間生成物
 *.raw.png
+
+# ローカルComfyUI（サムネ生成ランタイム・数GB級のためgit対象外）
+ComfyUI/

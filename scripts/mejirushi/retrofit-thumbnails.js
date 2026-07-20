@@ -25,11 +25,15 @@ import 'dotenv/config';
 import fs from 'fs';
 import os from 'os';
 import path from 'path';
-import { execFileSync } from 'child_process';
+import { execFileSync, spawn } from 'child_process';
 import axios from 'axios';
 
 const COMFY = {
+  // 優先1: 既存サーバー（別プロジェクト326/328が起動していれば相乗り）
   url: process.env.COMFYUI_URL || 'http://127.0.0.1:8188',
+  // 優先2: プロジェクト内ComfyUI（ComfyUI/）を自動起動するときのポート
+  ownPort: parseInt(process.env.COMFYUI_OWN_PORT || '8189', 10),
+  ownDir: process.env.COMFYUI_OWN_DIR || path.resolve('ComfyUI'),
   checkpoint: process.env.COMFYUI_CHECKPOINT || 'animagine-xl-4.0-opt.safetensors',
   width: 1152, height: 648, steps: 25, cfg: 6,
   samplerName: 'euler_ancestral', scheduler: 'normal'
@@ -110,17 +114,59 @@ async function generateViaComfy(positive, negative) {
   throw new Error('ComfyUI生成タイムアウト');
 }
 
+// ============ ComfyUIサーバーの確保（既存に相乗り or 自前を自動起動） ============
+async function isAlive(url) {
+  try { await axios.get(`${url}/system_stats`, { timeout: 4000 }); return true; }
+  catch { return false; }
+}
+
+/**
+ * 使えるComfyUIを返す。無ければ ~/ComfyUI を自動起動する。
+ * 戻り値: { url, child }  child は自前起動した場合のみ（終了時にkillしてRAMを返す）
+ */
+async function ensureComfy() {
+  // ① 既存サーバー（別プロジェクトが起動中ならそれを使う）
+  if (await isAlive(COMFY.url)) return { url: COMFY.url, child: null };
+  const ownUrl = `http://127.0.0.1:${COMFY.ownPort}`;
+  if (await isAlive(ownUrl)) return { url: ownUrl, child: null };
+
+  // ② 自前サーバーを起動
+  const mainPy = path.join(COMFY.ownDir, 'main.py');
+  const python = path.join(COMFY.ownDir, 'venv', 'bin', 'python');
+  if (!fs.existsSync(mainPy) || !fs.existsSync(python)) {
+    console.log(`⏸ ComfyUIが見つからずスキップ: ${COMFY.ownDir}`);
+    return null;
+  }
+  console.log(`🚀 ComfyUIを自動起動中: ${COMFY.ownDir} (port ${COMFY.ownPort})`);
+  const child = spawn(python, ['main.py', '--listen', '127.0.0.1', '--port', String(COMFY.ownPort)], {
+    cwd: COMFY.ownDir,
+    stdio: ['ignore',
+      fs.openSync('/tmp/comfyui-321.log', 'a'),
+      fs.openSync('/tmp/comfyui-321.log', 'a')]
+  });
+  // 起動待ち（最大3分）
+  for (let i = 0; i < 60; i++) {
+    await new Promise(r => setTimeout(r, 3000));
+    if (await isAlive(ownUrl)) {
+      console.log('  ✅ ComfyUI起動完了');
+      return { url: ownUrl, child };
+    }
+    if (child.exitCode !== null) break; // クラッシュ
+  }
+  console.log('⏸ ComfyUIの起動に失敗（/tmp/comfyui-321.log参照）。スキップ');
+  try { child.kill(); } catch { /* noop */ }
+  return null;
+}
+
 // ============ メイン ============
 async function main() {
   console.log('[Retrofit] めじるし記事のサムネ後付け開始（ComfyUI・無料）');
 
-  // ComfyUI疎通
-  try {
-    await axios.get(`${COMFY.url}/system_stats`, { timeout: 5000 });
-  } catch {
-    console.log(`⏸ ComfyUI未起動のためスキップ（次回実行時に処理）: ${COMFY.url}`);
-    return; // launchdからの定期実行を想定し、エラーではなく静かに終了
-  }
+  // ComfyUI確保（既存に相乗り or 自動起動）
+  const comfy = await ensureComfy();
+  if (!comfy) return; // launchd定期実行を想定し静かに終了（次回リトライ）
+  COMFY.url = comfy.url;
+  console.log(`[Retrofit] ComfyUI: ${COMFY.url}${comfy.child ? '（自動起動・終了時に停止）' : '（既存サーバー相乗り）'}`);
 
   // めじるしカテゴリID解決
   const { data: cats } = await axios.get(`${WP_API_URL}/categories`, { params: { slug: 'mejirushi' } });
@@ -197,6 +243,12 @@ async function main() {
     } catch (e) {
       console.error(`  ⚠️ 失敗（次回実行時に再試行）: ${e.message}`);
     }
+  }
+
+  // 自前起動したComfyUIは停止してメモリを返す（既存サーバー相乗り時は触らない）
+  if (comfy.child) {
+    console.log('[Retrofit] 自動起動したComfyUIを停止');
+    try { comfy.child.kill(); } catch { /* noop */ }
   }
 
   console.log('\n[Retrofit] 完了');
