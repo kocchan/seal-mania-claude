@@ -68,20 +68,38 @@ const CHAR_ASSET_MAP = {
   'ナガノキャラ': 'nagano'
 };
 
+// prefix → サムネに表示するキャラ名（表記ゆれを吸収した正式表記）
+const CHAR_LABELS = {
+  sanrio: 'サンリオ',
+  chiikawa: 'ちいかわ',
+  shizuku: 'しずくちゃん',
+  tamagotchi: 'たまごっち',
+  castle: 'ディズニー',
+  sumikko: 'すみっコぐらし',
+  mofucat: 'mofusand',
+  nagano: 'ナガノキャラ'
+};
+
 // slugから決定的に1枚選ぶ（同じslugなら常に同じ絵＝冪等）
 function pickDeterministic(slug, pool) {
   const h = crypto.createHash('md5').update(slug).digest();
   return pool[h[0] % pool.length];
 }
 
-// タイトル/タグからキャラを判定し、専用素材があればそこから選ぶ。無ければ汎用baseから選ぶ
-function pickBase(slug, title, tags, bases, allFiles) {
+// タイトル/タグからキャラのprefixを判定（見つからなければnull）
+function detectCharacterPrefix(title, tags) {
   const haystack = [title || '', ...(tags || [])].join(' ');
   for (const [keyword, prefix] of Object.entries(CHAR_ASSET_MAP)) {
-    if (haystack.includes(keyword)) {
-      const charPool = allFiles.filter(f => f.startsWith(`char-${prefix}-`));
-      if (charPool.length) return pickDeterministic(slug, charPool);
-    }
+    if (haystack.includes(keyword)) return prefix;
+  }
+  return null;
+}
+
+// キャラが判定できれば専用素材群から、できなければ汎用baseから選ぶ
+function pickBase(slug, prefix, bases, allFiles) {
+  if (prefix) {
+    const charPool = allFiles.filter(f => f.startsWith(`char-${prefix}-`));
+    if (charPool.length) return pickDeterministic(slug, charPool);
   }
   return pickDeterministic(slug, bases);
 }
@@ -123,15 +141,19 @@ function main() {
       const outputPath = path.join(outputDir, `${slug}.png`);
 
       // 文字要素を frontmatter から決定
-      const m = (frontmatter.salesDate || '').match(/^\d{4}-(\d{2})/);
+      const m = (frontmatter.salesDate || '').match(/^\d{4}-(\d{2})-(\d{2})/);
       const badge = m ? `${parseInt(m[1])}月新作` : '新作';
+      // 発売日タグ（例: 7/15発売）。日付が無ければ表示しない
+      const date = m ? `${parseInt(m[1])}/${parseInt(m[2])}発売` : '';
       // priceRange 例: "300円" / "300〜400円" → 短い表記だけ値札にする
       const price = (frontmatter.priceRange || '').length <= 8 ? (frontmatter.priceRange || '') : '';
 
       const title = frontmatter.title || '';
       const tags = Array.isArray(frontmatter.tags) ? frontmatter.tags : [];
-      const base = pickBase(slug, title, tags, bases, allFiles);
-      console.log(`  🖼️ 素材: ${base} / バッジ: ${badge}${price ? ' / 値札: ' + price : ''}`);
+      const charPrefix = detectCharacterPrefix(title, tags);
+      const characterLabel = charPrefix ? CHAR_LABELS[charPrefix] : '';
+      const base = pickBase(slug, charPrefix, bases, allFiles);
+      console.log(`  🖼️ 素材: ${base} / バッジ: ${badge}${date ? ' / 発売日: ' + date : ''}${price ? ' / 値札: ' + price : ''}${characterLabel ? ' / キャラ: ' + characterLabel : ''}`);
 
       try {
         execFileSync('python3', [
@@ -139,7 +161,9 @@ function main() {
           path.join(CONFIG.assetsDir, base), outputPath,
           '--title', 'めじるしアクセサリー',
           '--badge', badge,
-          '--price', price
+          '--price', price,
+          '--character', characterLabel,
+          '--date', date
         ], { stdio: 'inherit' });
 
         // フラグ更新

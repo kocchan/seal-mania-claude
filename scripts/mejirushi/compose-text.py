@@ -4,11 +4,13 @@ ComfyUI生成イラストに日本語テキストを合成してブログサム�
 （SD系モデルは日本語が描けないため、文字はPillowでフォント描画する）
 
 使い方:
-  python3 compose-text.py input.png output.png --title めじるしアクセサリー --badge 7月新作 --price 300円
+  python3 compose-text.py input.png output.png --title めじるしアクセサリー --badge 7月新作 --price 300円 --character サンリオ --date 7/15発売
 
 出力: 1200x675 (16:9) PNG
   - 上部: 白ふち付きタイトル（丸ゴシック）
+  - タイトル下: キャラ名ピル（白背景・ピンク枠、指定時のみ。どのキャラの記事か一目で分かるように）
   - 右上: ピンクのスターバースト風「◯月新作」バッジ
+  - バッジ下: 発売日タグ（白背景・青枠、指定時のみ）
   - 左下: 値札風の価格タグ（指定時のみ）
 """
 import argparse
@@ -64,6 +66,8 @@ def main():
     ap.add_argument('--title', default='めじるしアクセサリー')
     ap.add_argument('--badge', default='新作')
     ap.add_argument('--price', default='')
+    ap.add_argument('--character', default='')
+    ap.add_argument('--date', default='')
     args = ap.parse_args()
 
     # ベース画像を16:9にリサイズ（cover）
@@ -94,6 +98,21 @@ def main():
     draw_text_outline(
         draw, (cx, 30), args.title, title_font,
         fill=(232, 80, 136), outline=(255, 255, 255), width=8, anchor='ma')
+    title_bottom = 30 + size * 1.15  # フォントの実際の行高に近似（丸ゴシックの余白込み）
+
+    # --- キャラ名ピル（タイトル下・左寄せ・白背景＋ピンク枠） ---
+    # どのキャラの記事かサムネだけで分かるように（2026-07-20 追加）
+    if args.character:
+        char_font = load_font(38)
+        cw = draw.textlength(args.character, font=char_font)
+        pad_x, pill_h = 22, 48
+        x0 = left_margin
+        y0 = int(title_bottom) + 10
+        x1 = x0 + cw + pad_x * 2
+        draw.rounded_rectangle([x0, y0, x1, y0 + pill_h], radius=pill_h / 2,
+                               fill=(255, 255, 255), outline=(232, 80, 136), width=3)
+        draw.text((x0 + pad_x, y0 + pill_h / 2), args.character, font=char_font,
+                  fill=(232, 80, 136), anchor='lm')
 
     # --- 新作バッジ（右上・黄色スターバースト） ---
     if args.badge:
@@ -104,6 +123,20 @@ def main():
         lines = args.badge if len(args.badge) <= 3 else args.badge.replace('月', '月\n')
         draw.multiline_text((bx, by), lines, font=badge_font,
                             fill=(210, 60, 90), anchor='mm', align='center', spacing=4)
+
+    # --- 発売日タグ（バッジ下・白背景＋青枠） ---
+    if args.date:
+        date_font = load_font(32)
+        dw = draw.textlength(args.date, font=date_font)
+        pad_x, tag_h = 18, 42
+        cx2 = W - 150
+        x0 = int(cx2 - dw / 2 - pad_x)
+        y0 = 290
+        x1 = int(cx2 + dw / 2 + pad_x)
+        draw.rounded_rectangle([x0, y0, x1, y0 + tag_h], radius=10,
+                               fill=(255, 255, 255), outline=(90, 150, 210), width=3)
+        draw.text((cx2, y0 + tag_h / 2), args.date, font=date_font,
+                  fill=(60, 100, 160), anchor='mm')
 
     # --- 価格タグ（左下・白い値札） ---
     if args.price:

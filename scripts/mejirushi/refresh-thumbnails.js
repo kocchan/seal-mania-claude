@@ -39,18 +39,29 @@ const CHAR_ASSET_MAP = {
   'すみっコ': 'sumikko', 'mofusand': 'mofucat', 'モフサンド': 'mofucat', 'ナガノキャラ': 'nagano'
 };
 
+// prefix → サムネに表示するキャラ名（generate-images-stock.jsと同一）
+const CHAR_LABELS = {
+  sanrio: 'サンリオ', chiikawa: 'ちいかわ', shizuku: 'しずくちゃん', tamagotchi: 'たまごっち',
+  castle: 'ディズニー', sumikko: 'すみっコぐらし', mofucat: 'mofusand', nagano: 'ナガノキャラ'
+};
+
 function pickDeterministic(slug, pool) {
   const h = crypto.createHash('md5').update(slug).digest();
   return pool[h[0] % pool.length];
 }
 
-function pickBase(slug, title, tags, bases, allFiles) {
+function detectCharacterPrefix(title, tags) {
   const haystack = [title || '', ...(tags || [])].join(' ');
   for (const [keyword, prefix] of Object.entries(CHAR_ASSET_MAP)) {
-    if (haystack.includes(keyword)) {
-      const charPool = allFiles.filter(f => f.startsWith(`char-${prefix}-`));
-      if (charPool.length) return pickDeterministic(slug, charPool);
-    }
+    if (haystack.includes(keyword)) return prefix;
+  }
+  return null;
+}
+
+function pickBase(slug, prefix, bases, allFiles) {
+  if (prefix) {
+    const charPool = allFiles.filter(f => f.startsWith(`char-${prefix}-`));
+    if (charPool.length) return pickDeterministic(slug, charPool);
   }
   return pickDeterministic(slug, bases);
 }
@@ -100,19 +111,25 @@ async function main() {
       // 文字情報: drafts優先 → タイトルから推定
       const meta = findDraftMeta(post.slug);
       let badge = '新作';
-      let price = '';
+      let date = '';
       if (meta?.salesDate) {
-        const m = meta.salesDate.match(/^\d{4}-(\d{2})/);
-        if (m) badge = `${parseInt(m[1])}月新作`;
+        const m = meta.salesDate.match(/^\d{4}-(\d{2})-(\d{2})/);
+        if (m) { badge = `${parseInt(m[1])}月新作`; date = `${parseInt(m[1])}/${parseInt(m[2])}発売`; }
       } else {
         const m = title.match(/(\d{1,2})月/);
         if (m) badge = `${m[1]}月新作`;
+        const md = title.match(/(\d{1,2})\/(\d{1,2})(発売|再販)/);
+        if (md) date = `${md[1]}/${md[2]}${md[3]}`;
       }
+      let price = '';
       const priceSrc = (meta?.priceRange || '') || (title.match(/(\d{2,4}円)/)?.[1] || '');
       if (priceSrc && priceSrc.length <= 8) price = priceSrc;
 
-      const base = pickBase(post.slug, title, meta?.tags || [], bases, allFiles);
-      console.log(`  🖼️ 素材: ${base} / バッジ: ${badge}${price ? ' / 値札: ' + price : ''}`);
+      const tags = meta?.tags || [];
+      const charPrefix = detectCharacterPrefix(title, tags);
+      const characterLabel = charPrefix ? CHAR_LABELS[charPrefix] : '';
+      const base = pickBase(post.slug, charPrefix, bases, allFiles);
+      console.log(`  🖼️ 素材: ${base} / バッジ: ${badge}${date ? ' / 発売日: ' + date : ''}${price ? ' / 値札: ' + price : ''}${characterLabel ? ' / キャラ: ' + characterLabel : ''}`);
 
       // 合成
       const tmpDir = fs.mkdtempSync(path.join(os.tmpdir(), 'mejirushi-refresh-'));
@@ -122,7 +139,9 @@ async function main() {
         path.join(ASSETS_DIR, base), outPath,
         '--title', 'めじるしアクセサリー',
         '--badge', badge,
-        '--price', price
+        '--price', price,
+        '--character', characterLabel,
+        '--date', date
       ], { stdio: 'inherit' });
 
       // アップロード → featured差し替え
