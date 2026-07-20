@@ -1,4 +1,9 @@
 ---
+postedAt: "2026-07-20T07:13:16.306Z"
+wpPostUrl: "https://www.seal-search.com/mejirushi/zookeeper-mejirushi-202607/"
+wpPostId: 12511
+posted: true
+imageGenerated: true
 type: mejirushi
 status: draft
 title: "【7月第3週発売】ズーキーパーめじるしアクセサリー"

@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-07-20T07:11:43.345Z"
+wpPostUrl: "https://www.seal-search.com/character/myakumyaku-sealchobook-20260702/"
+wpPostId: 12489
+posted: true
 type: newproduct
 status: draft
 title: "重版予約中！ミャクミャク シール帳BOOK豪華4点セット"

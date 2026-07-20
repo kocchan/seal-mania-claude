@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-07-20T07:11:26.804Z"
+wpPostUrl: "https://www.seal-search.com/character/bluelock-nifolmasyon-20260720/"
+wpPostId: 12486
+posted: true
 type: newproduct
 status: draft
 title: "【7/20発売】ブルーロック シールウエハース登場"

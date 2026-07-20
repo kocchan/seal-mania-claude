@@ -1,4 +1,9 @@
 ---
+postedAt: "2026-07-20T07:12:54.703Z"
+wpPostUrl: "https://www.seal-search.com/mejirushi/puppet-sunsun-mejirushi-202607/"
+wpPostId: 12505
+posted: true
+imageGenerated: true
 type: mejirushi
 status: draft
 title: "【7月第4週再販】パペットスンスンめじるしアクセサリー"

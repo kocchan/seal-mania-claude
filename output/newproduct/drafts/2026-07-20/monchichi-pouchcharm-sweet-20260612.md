@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-07-20T07:11:37.919Z"
+wpPostUrl: "https://www.seal-search.com/character/monchichi-pouchcharm-sweet-20260612/"
+wpPostId: 12488
+posted: true
 type: newproduct
 status: draft
 title: "モンチッチ ポーチチャーム&シールセット 宝島社付録"

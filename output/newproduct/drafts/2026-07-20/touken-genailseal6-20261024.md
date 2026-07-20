@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-07-20T07:11:48.900Z"
+wpPostUrl: "https://www.seal-search.com/character/touken-genailseal6-20261024/"
+wpPostId: 12490
+posted: true
 type: newproduct
 status: draft
 title: "【10/24発売】刀剣乱舞 ジェルネイルシール其ノ六"

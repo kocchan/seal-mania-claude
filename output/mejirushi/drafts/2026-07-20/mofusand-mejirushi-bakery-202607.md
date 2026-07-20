@@ -1,4 +1,9 @@
 ---
+postedAt: "2026-07-20T07:12:22.737Z"
+wpPostUrl: "https://www.seal-search.com/mejirushi/mofusand-mejirushi-bakery-202607/"
+wpPostId: 12496
+posted: true
+imageGenerated: true
 type: mejirushi
 status: draft
 title: "【7月発売】mofusandめじるしアクセサリーベーカリーにゃん"

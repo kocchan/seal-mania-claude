@@ -1,4 +1,9 @@
 ---
+postedAt: "2026-07-20T07:13:05.423Z"
+wpPostUrl: "https://www.seal-search.com/mejirushi/sanrio-cap-charm-pastel-mejirushi-202607/"
+wpPostId: 12508
+posted: true
+imageGenerated: true
 type: mejirushi
 status: draft
 title: "【7月再販】サンリオ マスコットキャップチャーム全6種"

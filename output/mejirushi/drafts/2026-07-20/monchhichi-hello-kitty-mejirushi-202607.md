@@ -1,4 +1,9 @@
 ---
+postedAt: "2026-07-20T07:12:34.084Z"
+wpPostUrl: "https://www.seal-search.com/mejirushi/monchhichi-hello-kitty-mejirushi-202607/"
+wpPostId: 12499
+posted: true
+imageGenerated: true
 type: mejirushi
 status: draft
 title: "【7月再販】モンチッチ×ハローキティめじるしアクセサリー全5種"

@@ -1,4 +1,9 @@
 ---
+postedAt: "2026-07-20T07:12:10.257Z"
+wpPostUrl: "https://www.seal-search.com/mejirushi/harry-potter-mejirushi-202607/"
+wpPostId: 12493
+posted: true
+imageGenerated: true
 type: mejirushi
 status: draft
 title: "【7月発売】ハリー・ポッター めじるしアクセサリー全8種"

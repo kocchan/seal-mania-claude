@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-07-20T07:11:19.902Z"
+wpPostUrl: "https://www.seal-search.com/news/reservation/isetan-snoopy-churukira-20260724/"
+wpPostId: 12485
+posted: true
 imageGenerated: true
 type: lottery
 status: draft

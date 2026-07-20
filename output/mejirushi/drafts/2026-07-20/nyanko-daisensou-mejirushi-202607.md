@@ -1,4 +1,9 @@
 ---
+postedAt: "2026-07-20T07:12:43.819Z"
+wpPostUrl: "https://www.seal-search.com/mejirushi/nyanko-daisensou-mejirushi-202607/"
+wpPostId: 12502
+posted: true
+imageGenerated: true
 type: mejirushi
 status: draft
 title: "【7月第4週発売】にゃんこ大戦争めじるしアクセサリー"
