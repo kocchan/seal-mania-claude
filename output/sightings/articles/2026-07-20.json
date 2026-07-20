@@ -1,7 +1,7 @@
 {
   "date": "2026-07-20",
-  "updatedAt": "2026-07-20T18:26:41.576+09:00",
-  "count": 18,
+  "updatedAt": "2026-07-20T20:40:56.733+09:00",
+  "count": 19,
   "articles": [
     {
       "isSighting": true,
@@ -253,6 +253,20 @@
       "confidenceMemo": "店舗公式アカウントによる詳細な入荷告知",
       "sourceUrl": "https://x.com/q_kokura_seki/status/2079095117156413462",
       "sourceTweetId": "2079095117156413462",
+      "isPrediction": false
+    },
+    {
+      "isSighting": true,
+      "prefecture": "宮城県",
+      "city": "仙台市青葉区",
+      "shopName": "サンキューマート仙台イービーンズ店",
+      "shopAddress": "宮城県仙台市青葉区中央4-1-1 仙台駅前EBeanS内",
+      "productName": "クレヨンしんちゃん ぷっくりシール",
+      "sightingTime": "2026-07-20 10:38頃",
+      "statusText": "再入荷（在庫あり）",
+      "confidenceMemo": "店舗公式アカウントによる写真付きの入荷告知であり、信頼性が非常に高い。",
+      "sourceUrl": "https://x.com/390sendaiE/status/2079154070879920531",
+      "sourceTweetId": "2079154070879920531",
       "isPrediction": false
     }
   ]
