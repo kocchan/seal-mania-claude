@@ -334,8 +334,16 @@ async function main() {
       try {
         const scraped = await scrapeArticle(realUrl);
 
-        if (!matchesKeywords(scraped.meta.description || '')) {
-          console.log('     ⏭️ description にキーワード不一致: スキップ');
+        // タイトル・description・本文冒頭のいずれかにキーワードがあれば採用
+        // （以前はdescriptionのみ判定で、タイトルに「めじるし」等があっても弾いていた）
+        const haystack = [
+          item.title || '',
+          scraped.meta.title || '',
+          scraped.meta.description || '',
+          String(scraped.bodyText || '').slice(0, 2000)
+        ].join(' ');
+        if (!matchesKeywords(haystack)) {
+          console.log('     ⏭️ タイトル/description/本文にキーワード不一致: スキップ');
           totalSkipped++;
           continue;
         }
