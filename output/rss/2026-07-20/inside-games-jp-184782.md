@@ -1,0 +1,20 @@
+---
+source: rss
+url: "https://www.inside-games.jp/article/2026/07/19/184782.html"
+title: "ガシャポン「mofusand」めじるしアクセサリーに、メロンパンやカニ型パンなど全5種！パンを被った猫たちに癒される… | インサイド"
+siteName: "インサイド"
+publishedAt: "2026-07-19T13:11:46Z"
+fetchedAt: "2026-07-20T01:22:19.440Z"
+fetchMethod: axios
+ogImage: "https://www.inside-games.jp/imgs/ogp_f/1751376.jpg"
+description: "ガシャポン「mofusand めじるしアクセサリー ベーカリーにゃん」が7月第4週より発売！"
+---
+
+## RSS要約
+
+ガシャポン「mofusand めじるしアクセサリー ベーカリーにゃん」が7月第4週より発売！
+
+## 本文HTML（サニタイズ済み）
+
+<html><head></head><body><figure class="ctms-editor-image"><img src="https://www.inside-games.jp/imgs/zoom/1751369.jpg" class="inline-article-image" width="640" height="640"></figure><p>バンダイは、ガシャポン「mofusand めじるしアクセサリー ベーカリーにゃん」を7月第4週より発売します。</p><h2>◆パンを被った猫たちに癒される…！めじるしアクセサリー全5種</h2><p>本商品は、キュートで少しシュールな猫のキャラクターシリーズ「mofusand（モフサンド）」のめじるしアクセサリー。第4弾となる今回は、パンを被った猫たちが登場します。</p><p>ラインナップは「メロンパン」「カニ型パン」「クロワッサン」「コロネ」「ネコ型食パン」の全5種。カニカン・わっかパーツ付きでさまざまな所に着けて癒されるアイテムです。</p><h3>■メロンパン</h3><figure class="ctms-editor-image"><img src="https://www.inside-games.jp/imgs/zoom/1751364.jpg" class="inline-article-image" width="560" height="560"></figure><h3>■カニ型パン</h3><figure class="ctms-editor-image"><img src="https://www.inside-games.jp/imgs/zoom/1751365.jpg" class="inline-article-image" width="560" height="560"></figure><h3>■クロワッサン</h3><figure class="ctms-editor-image"><img src="https://www.inside-games.jp/imgs/zoom/1751366.jpg" class="inline-article-image" width="560" height="560"></figure><h3>■コロネ</h3><figure class="ctms-editor-image"><img src="https://www.inside-games.jp/imgs/zoom/1751367.jpg" class="inline-article-image" width="560" height="560"></figure><h3>■ネコ型食パン</h3><figure class="ctms-editor-image"><img src="https://www.inside-games.jp/imgs/zoom/1751368.jpg" class="inline-article-image" width="560" height="560"></figure><hr><p>「mofusand めじるしアクセサリー ベーカリーにゃん」の価格は1回300円（税込）で、7月第4週より発売します。詳細は<a target="_blank" rel="noopener noreferrer" href="https://gashapon.jp/products/detail.php?jan_code=4570118206282000">ガシャポン商品ページ</a>をご確認ください。</p><br><div class="af_box"><!-- start --><div class="af_list"><div class="af_box_left"><a href="https://www.amazon.co.jp/dp/B0H33KG51D?tag=insidegames-22&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank"><img src="https://m.media-amazon.com/images/I/41UsQUAOhdL._SL160_.jpg" class="af_box_image"></a></div><div class="af_box_right"><b><a href="https://www.amazon.co.jp/dp/B0H33KG51D?tag=insidegames-22&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank">ニャンとも清潔トイレ mofusandコラボ 猫 トイレ [約1か月分 猫砂・シート付] オープンタイプ パウダーブルー モフサンド</a></b><br><b>￥3,278</b><br><span>(価格・在庫状況は記事公開時点のものです)</span><br><div class="af_box_link_amazon"><a href="https://www.amazon.co.jp/dp/B0H33KG51D?tag=insidegames-22&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank">Amazon</a></div><div class="af_box_link_rakuten"><a href="https://hb.afl.rakuten.co.jp/hgc/0dfd5e9c.cb53a4b8.132b5a79.c657d846/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fmofusand%2F" target="_blank">楽天市場</a></div></div></div><!-- //end --></div><div class="af_box"><!-- start --><div class="af_list"><div class="af_box_left"><a href="https://www.amazon.co.jp/dp/B0GPT77Y4R?tag=insidegames-22&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank"><img src="https://m.media-amazon.com/images/I/31TT-QEWEoL._SL160_.jpg" class="af_box_image"></a></div><div class="af_box_right"><b><a href="https://www.amazon.co.jp/dp/B0GPT77Y4R?tag=insidegames-22&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank">猫壱 猫用 脚付ウォーターボウル レギュラーmofusand 食器 モフサンド</a></b><br><b>￥3,291</b><br><span>(価格・在庫状況は記事公開時点のものです)</span><br><div class="af_box_link_amazon"><a href="https://www.amazon.co.jp/dp/B0GPT77Y4R?tag=insidegames-22&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank">Amazon</a></div><div class="af_box_link_rakuten"><a href="https://hb.afl.rakuten.co.jp/hgc/0dfd5e9c.cb53a4b8.132b5a79.c657d846/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fmofusand%2F" target="_blank">楽天市場</a></div></div></div><!-- //end --></div>
+</body></html>

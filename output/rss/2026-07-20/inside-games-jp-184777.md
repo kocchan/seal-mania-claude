@@ -1,0 +1,20 @@
+---
+source: rss
+url: "https://www.inside-games.jp/article/2026/07/19/184777.html"
+title: "「パペットスンスン」めじるしアクセサリーが再販！ノンノン、ゾンゾンも揃った全5種類 | インサイド"
+siteName: "インサイド"
+publishedAt: "2026-07-19T11:46:37Z"
+fetchedAt: "2026-07-20T01:22:31.780Z"
+fetchMethod: axios
+ogImage: "https://www.inside-games.jp/imgs/ogp_f/1749355.jpg"
+description: "ガシャポン「パペットスンスン めじるしアクセサリー」が7月第4週より再販！"
+---
+
+## RSS要約
+
+ガシャポン「パペットスンスン めじるしアクセサリー 」が7月第4週より再販！ フィギュア・グッズ グッズ. 2026.7.19 Sun 8:45. シェア.
+
+## 本文HTML（サニタイズ済み）
+
+<html><head></head><body><figure class="ctms-editor-image"><img src="https://www.inside-games.jp/imgs/zoom/1749354.jpg" class="inline-article-image" width="640" height="640"></figure><p>バンダイは、ガシャポン<b>「パペットスンスン めじるしアクセサリー」</b>を7月第4週より再販します。</p><h2>◆「パペットスンスン」のめじるしアクセサリーが再販！</h2><p>人気キャラクター「パペットスンスン」より、スンスンたちがめじるしアクセサリーとして登場します。ラインナップは「スンスン」「ノンノン」「ゾンゾン」「スンスン（ドーナツ）」「スンスン（いちご）」の全5種類。傘やポーチに取り付けて楽しめます。</p><h3>■スンスン</h3><figure class="ctms-editor-image"><img src="https://www.inside-games.jp/imgs/zoom/1749355.jpg" class="inline-article-image" width="560" height="560"></figure><h3>■ノンノン</h3><figure class="ctms-editor-image"><img src="https://www.inside-games.jp/imgs/zoom/1749356.jpg" class="inline-article-image" width="560" height="560"></figure><h3>■ゾンゾン</h3><figure class="ctms-editor-image"><img src="https://www.inside-games.jp/imgs/zoom/1749357.jpg" class="inline-article-image" width="560" height="560"></figure><h3>■スンスン（ドーナツ）</h3><figure class="ctms-editor-image"><img src="https://www.inside-games.jp/imgs/zoom/1749358.jpg" class="inline-article-image" width="560" height="560"></figure><h3>■スンスン（いちご）</h3><figure class="ctms-editor-image"><img src="https://www.inside-games.jp/imgs/zoom/1749359.jpg" class="inline-article-image" width="560" height="560"></figure><hr><p><a target="_blank" rel="noopener noreferrer" href="https://gashapon.jp/products/detail.php?jan_code=4582769891854000">「パペットスンスン めじるしアクセサリー」</a>は2026年7月第4週より再販予定。価格は300円（税込）です。</p><br><div class="af_box"><!-- start --><div class="af_list"><div class="af_box_left"><a href="https://www.amazon.co.jp/dp/B0FRMFZW29?tag=insidegames-22&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank"><img src="https://m.media-amazon.com/images/I/313o-MLVKFL._SL160_.jpg" class="af_box_image"></a></div><div class="af_box_right"><b><a href="https://www.amazon.co.jp/dp/B0FRMFZW29?tag=insidegames-22&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank">[バンダイ(BANDAI)] おしゃべりぬいぐるみ(スンスン) PUPPET SUNSUN パペットスンスン 対象年齢 6 才以上</a></b><br><b>￥4,620</b><br><span>(価格・在庫状況は記事公開時点のものです)</span><br><div class="af_box_link_amazon"><a href="https://www.amazon.co.jp/dp/B0FRMFZW29?tag=insidegames-22&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank">Amazon</a></div><div class="af_box_link_rakuten"><a href="https://hb.afl.rakuten.co.jp/hgc/0dfd5e9c.cb53a4b8.132b5a79.c657d846/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2583%2591%25E3%2583%259A%25E3%2583%2583%25E3%2583%2588%25E3%2582%25B9%25E3%2583%25B3%25E3%2582%25B9%25E3%2583%25B3%2F" target="_blank">楽天市場</a></div></div></div><!-- //end --></div><div class="af_box"><!-- start --><div class="af_list"><div class="af_box_left"><a href="https://www.amazon.co.jp/dp/B0DNMBFJC8?tag=insidegames-22&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank"><img src="https://m.media-amazon.com/images/I/41NYW0b+34L._SL160_.jpg" class="af_box_image"></a></div><div class="af_box_right"><b><a href="https://www.amazon.co.jp/dp/B0DNMBFJC8?tag=insidegames-22&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank">ティーズファクトリー パペットスンスンカラビナぬいぐるみファスナーマスコットスンス</a></b><br><b>￥1,385</b><br><span>(価格・在庫状況は記事公開時点のものです)</span><br><div class="af_box_link_amazon"><a href="https://www.amazon.co.jp/dp/B0DNMBFJC8?tag=insidegames-22&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank">Amazon</a></div><div class="af_box_link_rakuten"><a href="https://hb.afl.rakuten.co.jp/hgc/0dfd5e9c.cb53a4b8.132b5a79.c657d846/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2583%2591%25E3%2583%259A%25E3%2583%2583%25E3%2583%2588%25E3%2582%25B9%25E3%2583%25B3%25E3%2582%25B9%25E3%2583%25B3%2F" target="_blank">楽天市場</a></div></div></div><!-- //end --></div>
+</body></html>
