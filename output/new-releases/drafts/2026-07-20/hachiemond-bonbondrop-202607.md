@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-07-20T04:59:48.686Z"
+wpPostUrl: "https://www.seal-search.com/news/new-item/hachiemond-bonbondrop-202607/"
+wpPostId: 12481
+posted: true
 imageGenerated: true
 type: new-release
 status: draft
