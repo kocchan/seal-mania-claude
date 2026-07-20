@@ -53,23 +53,50 @@ function parseFrontmatter(content) {
   return { frontmatter };
 }
 
-// slugから決定的にベース素材を選ぶ（再実行しても同じ絵＝冪等）
-function pickBase(slug, bases) {
+// キャラ名 → 専用素材のプレフィックス（assets/mejirushi-thumbs/char-{key}-*.png）
+// タイトル/タグにキーがヒットしたら、その専用素材群から優先的に選ぶ
+const CHAR_ASSET_MAP = {
+  'サンリオ': 'sanrio',
+  'ちいかわ': 'chiikawa',
+  'しずくちゃん': 'shizuku',
+  'たまごっち': 'tamagotchi',
+  'ディズニー': 'castle',
+  'すみっコぐらし': 'sumikko',
+  'すみっコ': 'sumikko',
+  'mofusand': 'mofucat',
+  'モフサンド': 'mofucat',
+  'ナガノキャラ': 'nagano'
+};
+
+// slugから決定的に1枚選ぶ（同じslugなら常に同じ絵＝冪等）
+function pickDeterministic(slug, pool) {
   const h = crypto.createHash('md5').update(slug).digest();
-  return bases[h[0] % bases.length];
+  return pool[h[0] % pool.length];
+}
+
+// タイトル/タグからキャラを判定し、専用素材があればそこから選ぶ。無ければ汎用baseから選ぶ
+function pickBase(slug, title, tags, bases, allFiles) {
+  const haystack = [title || '', ...(tags || [])].join(' ');
+  for (const [keyword, prefix] of Object.entries(CHAR_ASSET_MAP)) {
+    if (haystack.includes(keyword)) {
+      const charPool = allFiles.filter(f => f.startsWith(`char-${prefix}-`));
+      if (charPool.length) return pickDeterministic(slug, charPool);
+    }
+  }
+  return pickDeterministic(slug, bases);
 }
 
 function main() {
   console.log('[Images/Stock] めじるしアイキャッチ生成開始（ストック素材＋文字合成・0円）');
 
-  const bases = fs.existsSync(CONFIG.assetsDir)
-    ? fs.readdirSync(CONFIG.assetsDir).filter(f => /^base-\d+\.png$/.test(f)).sort()
-    : [];
+  const allFiles = fs.existsSync(CONFIG.assetsDir) ? fs.readdirSync(CONFIG.assetsDir) : [];
+  const bases = allFiles.filter(f => /^base-\d+\.png$/.test(f)).sort();
+  const charFiles = allFiles.filter(f => /^char-[a-z]+-\d+\.png$/.test(f));
   if (!bases.length) {
     console.error(`❌ ベース素材がありません: ${CONFIG.assetsDir}/base-*.png`);
     process.exit(1);
   }
-  console.log(`[Images/Stock] ベース素材: ${bases.length}枚`);
+  console.log(`[Images/Stock] 汎用素材: ${bases.length}枚 / キャラ専用素材: ${charFiles.length}枚`);
 
   if (!fs.existsSync(CONFIG.draftsDir)) {
     console.log('[Images/Stock] draftsディレクトリが見つかりません');
@@ -101,7 +128,9 @@ function main() {
       // priceRange 例: "300円" / "300〜400円" → 短い表記だけ値札にする
       const price = (frontmatter.priceRange || '').length <= 8 ? (frontmatter.priceRange || '') : '';
 
-      const base = pickBase(slug, bases);
+      const title = frontmatter.title || '';
+      const tags = Array.isArray(frontmatter.tags) ? frontmatter.tags : [];
+      const base = pickBase(slug, title, tags, bases, allFiles);
       console.log(`  🖼️ 素材: ${base} / バッジ: ${badge}${price ? ' / 値札: ' + price : ''}`);
 
       try {

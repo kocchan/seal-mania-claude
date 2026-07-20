@@ -32,10 +32,27 @@ if (!WP_API_URL || !WP_USER || !WP_APP_PASSWORD) {
 }
 const AUTH = { headers: { Authorization: `Basic ${Buffer.from(`${WP_USER}:${WP_APP_PASSWORD}`).toString('base64')}` } };
 
-// slugから決定的にベース素材を選ぶ（generate-images-stock.jsと同一ロジック）
-function pickBase(slug, bases) {
+// キャラ名 → 専用素材のプレフィックス（generate-images-stock.jsと同一ロジック）
+const CHAR_ASSET_MAP = {
+  'サンリオ': 'sanrio', 'ちいかわ': 'chiikawa', 'しずくちゃん': 'shizuku',
+  'たまごっち': 'tamagotchi', 'ディズニー': 'castle', 'すみっコぐらし': 'sumikko',
+  'すみっコ': 'sumikko', 'mofusand': 'mofucat', 'モフサンド': 'mofucat', 'ナガノキャラ': 'nagano'
+};
+
+function pickDeterministic(slug, pool) {
   const h = crypto.createHash('md5').update(slug).digest();
-  return bases[h[0] % bases.length];
+  return pool[h[0] % pool.length];
+}
+
+function pickBase(slug, title, tags, bases, allFiles) {
+  const haystack = [title || '', ...(tags || [])].join(' ');
+  for (const [keyword, prefix] of Object.entries(CHAR_ASSET_MAP)) {
+    if (haystack.includes(keyword)) {
+      const charPool = allFiles.filter(f => f.startsWith(`char-${prefix}-`));
+      if (charPool.length) return pickDeterministic(slug, charPool);
+    }
+  }
+  return pickDeterministic(slug, bases);
 }
 
 // ローカルdraftsから該当slugのfrontmatter値を探す
@@ -47,7 +64,9 @@ function findDraftMeta(slug) {
       const c = fs.readFileSync(p, 'utf-8');
       const sales = c.match(/^salesDate:\s*"?([\d-]+)"?/m);
       const price = c.match(/^priceRange:\s*"?([^"\n]+)"?/m);
-      return { salesDate: sales?.[1] || '', priceRange: price?.[1] || '' };
+      const tagsBlock = c.match(/^tags:\n((?:\s+-\s+.*\n?)+)/m);
+      const tags = tagsBlock ? tagsBlock[1].split('\n').map(l => l.replace(/^\s+-\s+/, '').trim()).filter(Boolean) : [];
+      return { salesDate: sales?.[1] || '', priceRange: price?.[1] || '', tags };
     }
   }
   return null;
@@ -57,7 +76,8 @@ async function main() {
   const onlySlug = process.argv[2] || null;
   console.log('[RefreshThumbs] めじるし記事のサムネ差し替え開始（ストック素材方式）');
 
-  const bases = fs.readdirSync(ASSETS_DIR).filter(f => /^base-\d+\.png$/.test(f)).sort();
+  const allFiles = fs.readdirSync(ASSETS_DIR);
+  const bases = allFiles.filter(f => /^base-\d+\.png$/.test(f)).sort();
   if (!bases.length) { console.error('❌ ベース素材がありません'); process.exit(1); }
 
   // めじるしカテゴリID → 記事一覧
@@ -91,7 +111,7 @@ async function main() {
       const priceSrc = (meta?.priceRange || '') || (title.match(/(\d{2,4}円)/)?.[1] || '');
       if (priceSrc && priceSrc.length <= 8) price = priceSrc;
 
-      const base = pickBase(post.slug, bases);
+      const base = pickBase(post.slug, title, meta?.tags || [], bases, allFiles);
       console.log(`  🖼️ 素材: ${base} / バッジ: ${badge}${price ? ' / 値札: ' + price : ''}`);
 
       // 合成
