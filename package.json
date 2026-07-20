@@ -23,7 +23,8 @@
     "weekly-roundup:post": "node scripts/weekly-roundup/weekly-roundup-post.js",
     "weekly-roundup:link": "node scripts/weekly-roundup/weekly-roundup-link.js",
     "mejirushi:images:gemini": "node scripts/mejirushi/generate-images.js",
-    "mejirushi:base-assets": "node scripts/mejirushi/generate-base-assets.js"
+    "mejirushi:base-assets": "node scripts/mejirushi/generate-base-assets.js",
+    "mejirushi:refresh-thumbs": "node scripts/mejirushi/refresh-thumbnails.js"
   },
   "dependencies": {
     "@google/generative-ai": "^0.24.1",
