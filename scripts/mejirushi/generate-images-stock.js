@@ -80,15 +80,22 @@ const CHAR_LABELS = {
   nagano: 'ナガノキャラ'
 };
 
-// salesDateを解釈して { month, day } を返す。month必須・dayは無い場合null。
+// salesDateを解釈して { year, month, day } を返す（yearは無ければnull）。
 // 対応形式: "2026-07-15" / "2026-07" / "2026年7月15日" / "2026年7月"
 function parseSalesDate(salesDate) {
   if (!salesDate) return null;
-  let m = salesDate.match(/^\d{4}-(\d{2})(?:-(\d{2}))?/);
-  if (m) return { month: parseInt(m[1]), day: m[2] ? parseInt(m[2]) : null };
-  m = salesDate.match(/(\d{1,2})月(?:(\d{1,2})日)?/);
-  if (m) return { month: parseInt(m[1]), day: m[2] ? parseInt(m[2]) : null };
+  let m = salesDate.match(/^(\d{4})-(\d{2})(?:-(\d{2}))?/);
+  if (m) return { year: parseInt(m[1]), month: parseInt(m[2]), day: m[3] ? parseInt(m[3]) : null };
+  m = salesDate.match(/(?:(\d{4})年)?(\d{1,2})月(?:(\d{1,2})日)?/);
+  if (m) return { year: m[1] ? parseInt(m[1]) : null, month: parseInt(m[2]), day: m[3] ? parseInt(m[3]) : null };
   return null;
+}
+
+// タイトルの「【7月再販】」「【7月第3週発売】」等から週・発売/再販の別を抽出
+function parseTitlePrefix(title) {
+  const m = (title || '').match(/(\d{1,2})月(?:第(\d+)週)?(発売|再販)/);
+  if (!m) return null;
+  return { month: parseInt(m[1]), week: m[2] ? parseInt(m[2]) : null, action: m[3] };
 }
 
 // slugから決定的に1枚選ぶ（同じslugなら常に同じ絵＝冪等）
@@ -152,10 +159,23 @@ function main() {
       const outputPath = path.join(outputDir, `${slug}.png`);
 
       // 文字要素を frontmatter から決定
+      // バッジ（スターバースト）＝ タイトルから抽出した「発売」「再販」の短い語
+      // 日付タグ（青ピル）＝ 年月（＋週があれば）。例: "2026年7月" / "2026年7月 第3週"
       const sd = parseSalesDate(frontmatter.salesDate);
-      const badge = sd ? `${sd.month}月新作` : '新作';
-      // 発売日タグ（例: 7/15発売）。日付（日にち）まで分かる場合のみ表示
-      const date = sd && sd.day ? `${sd.month}/${sd.day}発売` : '';
+      const tp = parseTitlePrefix(frontmatter.title);
+      const badge = tp ? tp.action : (sd ? `${sd.month}月新作` : '新作');
+      const year = sd?.year;
+      const month = tp?.month || sd?.month;
+      const week = tp?.week;
+      const day = sd?.day;
+      let date = '';
+      if (year && month) {
+        date = `${year}年${month}月`;
+        if (week) date += ` 第${week}週`;
+        else if (day) date = `${year}年${month}/${day}発売`;
+      } else if (month) {
+        date = week ? `${month}月 第${week}週` : (day ? `${month}/${day}発売` : '');
+      }
       // priceRange 例: "300円" / "300〜400円" → 短い表記だけ値札にする
       const price = (frontmatter.priceRange || '').length <= 8 ? (frontmatter.priceRange || '') : '';
 

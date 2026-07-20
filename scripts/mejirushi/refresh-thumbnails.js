@@ -45,14 +45,21 @@ const CHAR_LABELS = {
   castle: 'ディズニー', sumikko: 'すみっコぐらし', mofucat: 'mofusand', nagano: 'ナガノキャラ'
 };
 
-// salesDateを解釈して { month, day } を返す（generate-images-stock.jsと同一）
+// salesDateを解釈して { year, month, day } を返す（generate-images-stock.jsと同一）
 function parseSalesDate(salesDate) {
   if (!salesDate) return null;
-  let m = salesDate.match(/^\d{4}-(\d{2})(?:-(\d{2}))?/);
-  if (m) return { month: parseInt(m[1]), day: m[2] ? parseInt(m[2]) : null };
-  m = salesDate.match(/(\d{1,2})月(?:(\d{1,2})日)?/);
-  if (m) return { month: parseInt(m[1]), day: m[2] ? parseInt(m[2]) : null };
+  let m = salesDate.match(/^(\d{4})-(\d{2})(?:-(\d{2}))?/);
+  if (m) return { year: parseInt(m[1]), month: parseInt(m[2]), day: m[3] ? parseInt(m[3]) : null };
+  m = salesDate.match(/(?:(\d{4})年)?(\d{1,2})月(?:(\d{1,2})日)?/);
+  if (m) return { year: m[1] ? parseInt(m[1]) : null, month: parseInt(m[2]), day: m[3] ? parseInt(m[3]) : null };
   return null;
+}
+
+// タイトルの「【7月再販】」「【7月第3週発売】」等から週・発売/再販の別を抽出
+function parseTitlePrefix(title) {
+  const m = (title || '').match(/(\d{1,2})月(?:第(\d+)週)?(発売|再販)/);
+  if (!m) return null;
+  return { month: parseInt(m[1]), week: m[2] ? parseInt(m[2]) : null, action: m[3] };
 }
 
 function pickDeterministic(slug, pool) {
@@ -83,7 +90,9 @@ function findDraftMeta(slug) {
     const p = path.join(DRAFTS_DIR, dateDir, `${slug}.md`);
     if (fs.existsSync(p)) {
       const c = fs.readFileSync(p, 'utf-8');
-      const sales = c.match(/^salesDate:\s*"?([\d-]+)"?/m);
+      // 値は "2026-07-15" だけでなく "2026年7月" のような日本語表記もあるため、
+      // 引用符の中身（または行末まで）をそのまま拾う
+      const sales = c.match(/^salesDate:\s*"([^"]*)"/m) || c.match(/^salesDate:\s*(.+)$/m);
       const price = c.match(/^priceRange:\s*"?([^"\n]+)"?/m);
       const tagsBlock = c.match(/^tags:\n((?:\s+-\s+.*\n?)+)/m);
       const tags = tagsBlock ? tagsBlock[1].split('\n').map(l => l.replace(/^\s+-\s+/, '').trim()).filter(Boolean) : [];
@@ -119,21 +128,23 @@ async function main() {
 
     try {
       // 文字情報: drafts優先 → タイトルから推定
+      // バッジ（スターバースト）＝ タイトルから抽出した「発売」「再販」の短い語
+      // 日付タグ（青ピル）＝ 年月（＋週があれば）。例: "2026年7月" / "2026年7月 第3週"
       const meta = findDraftMeta(post.slug);
-      let badge = '新作';
-      let date = '';
       const sd = parseSalesDate(meta?.salesDate);
-      if (sd) {
-        badge = `${sd.month}月新作`;
-        if (sd.day) date = `${sd.month}/${sd.day}発売`;
-      } else {
-        const m = title.match(/(\d{1,2})月/);
-        if (m) badge = `${m[1]}月新作`;
-      }
-      if (!date) {
-        // タイトルの "7/15発売" 等から日付を補完（salesDateが年月のみでも拾えるように）
-        const md = title.match(/(\d{1,2})\/(\d{1,2})(発売|再販)/);
-        if (md) date = `${md[1]}/${md[2]}${md[3]}`;
+      const tp = parseTitlePrefix(title);
+      const badge = tp ? tp.action : (sd ? `${sd.month}月新作` : '新作');
+      const year = sd?.year;
+      const month = tp?.month || sd?.month;
+      const week = tp?.week;
+      const day = sd?.day;
+      let date = '';
+      if (year && month) {
+        date = `${year}年${month}月`;
+        if (week) date += ` 第${week}週`;
+        else if (day) date = `${year}年${month}/${day}発売`;
+      } else if (month) {
+        date = week ? `${month}月 第${week}週` : (day ? `${month}/${day}発売` : '');
       }
       let price = '';
       const priceSrc = (meta?.priceRange || '') || (title.match(/(\d{2,4}円)/)?.[1] || '');
