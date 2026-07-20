@@ -223,7 +223,16 @@ add_action( 'init', 'ktop_create_mejirushi_categories' );
 **     報酬化する場合は ktop_afi_yahoo() を各自のリンクに差し替える。
 ************************************/
 if ( ! function_exists( 'ktop_afi_amazon' ) ) {
+	// キーワード → 実際のAmazon商品ページのASIN。
+	// 登録済みのキーワードは検索結果ではなく商品ページへ直リンクする（2026-07-20〜）。
+	// 未登録のキーワードは従来どおりキーワード検索にフォールバック。
 	function ktop_afi_amazon( $kw ) {
+		$asin_map = array(
+			'サンリオ ボンボンドロップ ミニチュアチャーム' => 'B0GYGLNWTW', // サン'リオキャラクターズ ボンボン'ドロップ ミニチュアチャーム 全5種セット(フルコンプ)
+		);
+		if ( isset( $asin_map[ $kw ] ) ) {
+			return 'https://www.amazon.co.jp/dp/' . $asin_map[ $kw ] . '/?tag=sealmania-22';
+		}
 		return 'https://www.amazon.co.jp/s?k=' . rawurlencode( $kw ) . '&tag=sealmania-22';
 	}
 }
