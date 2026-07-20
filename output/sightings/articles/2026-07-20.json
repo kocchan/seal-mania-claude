@@ -1,7 +1,7 @@
 {
   "date": "2026-07-20",
-  "updatedAt": "2026-07-20T12:50:34.358+09:00",
-  "count": 13,
+  "updatedAt": "2026-07-20T15:12:12.646+09:00",
+  "count": 15,
   "articles": [
     {
       "isSighting": true,
@@ -184,6 +184,34 @@
       "sourceUrl": "https://x.com/harajuku_picnic/status/2078645849287246283",
       "sourceTweetId": "2078645849287246283",
       "isPrediction": false
+    },
+    {
+      "isSighting": true,
+      "prefecture": "静岡県",
+      "city": "静岡市葵区",
+      "shopName": "Cute静岡けやきプラザ店",
+      "shopAddress": "静岡県静岡市葵区伝馬町1-3 けやきプラザ",
+      "productName": "TWICE LOVELYS うるちゅるシールミニ",
+      "sightingTime": "2026-07-20 14:14頃",
+      "statusText": "在庫あり（入荷情報）",
+      "confidenceMemo": "店舗公式アカウントによる入荷情報。うるちゅるシールはボンボンドロップと同シリーズのオイル入りシール商品。",
+      "sourceUrl": "https://x.com/cute_shizuoka/status/2079072654221521106",
+      "sourceTweetId": "2079072654221521106",
+      "isPrediction": false
+    },
+    {
+      "isSighting": true,
+      "prefecture": "広島県",
+      "city": "広島市佐伯区",
+      "shopName": "フタバ図書TSUTAYA 五日市福屋店",
+      "shopAddress": "広島県広島市佐伯区五日市駅前1-4-5 福屋五日市店4F",
+      "productName": "ぷっくりシール",
+      "sightingTime": "2026-07-20 14:33頃",
+      "statusText": "入荷あり",
+      "confidenceMemo": "公式アカウントによる入荷情報。名称が『ぷっくりシール』と汎用的であるため、ボンボンドロップシールを含むかは要確認。",
+      "sourceUrl": "https://x.com/futaba_itsufuku/status/2079077404182798538",
+      "sourceTweetId": "2079077404182798538",
+      "isPrediction": true
     }
   ]
 }
