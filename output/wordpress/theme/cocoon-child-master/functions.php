@@ -229,6 +229,8 @@ if ( ! function_exists( 'ktop_afi_amazon' ) ) {
 	function ktop_afi_amazon( $kw ) {
 		$asin_map = array(
 			'サンリオ ボンボンドロップ ミニチュアチャーム' => 'B0GYGLNWTW', // サン'リオキャラクターズ ボンボン'ドロップ ミニチュアチャーム 全5種セット(フルコンプ)
+			'ちいかわ ボンボンドロップシール'             => 'B0FN3ZW94L', // サンスター文具 ちいかわ グッズ ボンボンドロップシール モモンガ S8542929（広告カードの型番と完全一致）
+			'しずくちゃん うるちゅるシール'               => 'B0DRHVTZPH', // サンスター文具 しずくちゃん シール 立体 ボンボンドロップシール B S8544930
 		);
 		if ( isset( $asin_map[ $kw ] ) ) {
 			return 'https://www.amazon.co.jp/dp/' . $asin_map[ $kw ] . '/?tag=sealmania-22';
