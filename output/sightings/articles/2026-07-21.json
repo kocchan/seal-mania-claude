@@ -1,7 +1,7 @@
 {
   "date": "2026-07-21",
-  "updatedAt": "2026-07-21T17:38:17.672+09:00",
-  "count": 22,
+  "updatedAt": "2026-07-21T20:03:52.660+09:00",
+  "count": 24,
   "articles": [
     {
       "isSighting": true,
@@ -309,6 +309,34 @@
       "confidenceMemo": "店舗公式アカウントによる告知。ボンボンドロップシールの特徴（ビーズぷっくり・サンリオ等）と一致し、しなこちゃん紹介品についても言及あり。",
       "sourceUrl": "https://x.com/itoy3710045/status/2079463479157870648",
       "sourceTweetId": "2079463479157870648",
+      "isPrediction": false
+    },
+    {
+      "isSighting": true,
+      "prefecture": "北海道",
+      "city": "室蘭市",
+      "shopName": "駿河屋 室蘭弥生店",
+      "shopAddress": "北海道室蘭市弥生町1-1-1",
+      "productName": "ボンボンドロップシール（はぴだんぶい、モフサンド、ハチワレ）",
+      "sightingTime": "2026-07-21 19:14頃",
+      "statusText": "入荷・在庫あり",
+      "confidenceMemo": "店舗公式アカウントによる入荷情報のため信頼性が高い",
+      "sourceUrl": "https://x.com/SURUGA_MURORAN/status/2079510428582121708",
+      "sourceTweetId": "2079510428582121708",
+      "isPrediction": false
+    },
+    {
+      "isSighting": true,
+      "prefecture": "神奈川県",
+      "city": "横浜市西区",
+      "shopName": "横浜ビブレ（Oshicoco/ossi）",
+      "shopAddress": "神奈川県横浜市西区南幸2-15-13",
+      "productName": "んぽちゃむ ボンボンドロップシール",
+      "sightingTime": "2026-07-21 09:00頃",
+      "statusText": "在庫あり",
+      "confidenceMemo": "現地での目撃情報。店舗内のポップアップストア「Oshicoco(ossi)」での情報の可能性が高い",
+      "sourceUrl": "https://x.com/hamuhamusurunn/status/2079491702105219393",
+      "sourceTweetId": "2079491702105219393",
       "isPrediction": false
     }
   ]
