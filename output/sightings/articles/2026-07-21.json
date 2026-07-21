@@ -1,7 +1,7 @@
 {
   "date": "2026-07-21",
-  "updatedAt": "2026-07-21T11:52:24.725+09:00",
-  "count": 19,
+  "updatedAt": "2026-07-21T14:44:22.305+09:00",
+  "count": 21,
   "articles": [
     {
       "isSighting": true,
@@ -267,6 +267,34 @@
       "confidenceMemo": "店舗公式アカウントによる確定した入荷予告情報",
       "sourceUrl": "https://x.com/GiGO_Ichinoseki/status/2079008389347131868",
       "sourceTweetId": "2079008389347131868",
+      "isPrediction": false
+    },
+    {
+      "isSighting": true,
+      "prefecture": "愛知県",
+      "city": "名古屋市西区",
+      "shopName": "#C-pla mozoワンダーシティ店",
+      "shopAddress": "愛知県名古屋市西区二方町40 mozoワンダーシティ 4F",
+      "productName": "サンリオキャラクターズ ボンボンドロップミニチュアチャーム",
+      "sightingTime": "2026-07-21 13:58頃",
+      "statusText": "完売（次回入荷未定）",
+      "confidenceMemo": "公式店舗アカウントによる完売報告。同日午前中に再入荷するも午後に完売。",
+      "sourceUrl": "https://x.com/cplamozo/status/2079430983619940398",
+      "sourceTweetId": "2079430983619940398",
+      "isPrediction": false
+    },
+    {
+      "isSighting": true,
+      "prefecture": "北海道",
+      "city": "札幌市東区",
+      "shopName": "BE-POP アリオ札幌店",
+      "shopAddress": "北海道札幌市東区北7条東9丁目2-20 アリオ札幌 3F",
+      "productName": "ボンボンドロップシール",
+      "sightingTime": "2026-07-20",
+      "statusText": "入荷・販売（事後報告のため在庫は要確認）",
+      "confidenceMemo": "公式店舗アカウントによる入荷・販売実績の報告。他種類のシールも同時入荷。",
+      "sourceUrl": "https://x.com/ario_bepop/status/2079416155765453289",
+      "sourceTweetId": "2079416155765453289",
       "isPrediction": false
     }
   ]
