@@ -219,8 +219,8 @@ add_action( 'init', 'ktop_create_mejirushi_categories' );
 **  ID は既存サイトの実アフィリエイトIDを流用：
 **   - Amazon アソシエイト: sealmania-22
 **   - 楽天アフィリエイト(afl): 50f17d50.13213066.50f17d51.fed7b043
-**   ※ Yahoo! は現状プレーンなショッピング検索。ValueCommerce 経由で
-**     報酬化する場合は ktop_afi_yahoo() を各自のリンクに差し替える。
+**   - Yahoo!ショッピング: ValueCommerce MyLink（2026-07-22〜報酬化）
+**     sid=3776298（サイトID） / pid=892663221（Yahoo!ショッピング自動提携プログラム）
 ************************************/
 if ( ! function_exists( 'ktop_afi_amazon' ) ) {
 	// キーワード → 実際のAmazon商品ページのASIN。
@@ -245,8 +245,15 @@ if ( ! function_exists( 'ktop_afi_rakuten' ) ) {
 	}
 }
 if ( ! function_exists( 'ktop_afi_yahoo' ) ) {
+	// ValueCommerce MyLink 経由でYahoo!ショッピング検索を計測リンク化する。
+	// キーワードは通常どおり構築し、それをMyLinkのreferralサーブレットでラップするだけ
+	// なので、どんなキーワードでも自動で報酬対象のリンクになる（Amazon/楽天と同じ設計）。
 	function ktop_afi_yahoo( $kw ) {
-		return 'https://shopping.yahoo.co.jp/search?p=' . rawurlencode( $kw );
+		// vc_url は「元のURL全体（未エンコードの生の状態）」を1回だけエンコードして渡す。
+		// ここで $kw を先にrawurlencodeしてしまうと二重エンコードになりVC側で正しく
+		// 展開されないため、$target は生のキーワードを連結するだけにする。
+		$target = 'https://shopping.yahoo.co.jp/search?p=' . $kw;
+		return 'https://ck.jp.ap.valuecommerce.com/servlet/referral?sid=3776298&pid=892663221&vc_url=' . rawurlencode( $target );
 	}
 }
 // 3ボタン（Amazon/楽天/Yahoo）をまとめて出力。$short=true で「楽天」表記（サイドバー用）
