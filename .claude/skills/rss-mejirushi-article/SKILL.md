@@ -125,7 +125,26 @@ grep -rl "sourceRssUrl" output/mejirushi/drafts/ 2>/dev/null | xargs grep -l "{�
 {要点の箇条書き＋入手方法の再提示}
 ```
 
-### 5. frontmatter
+### 5. Amazon商品ページの検索（任意・確信があるときだけ）
+
+WebSearchで実際のAmazon商品ページを探し、**高確度で一致する場合だけ** ASIN を控える。
+これは「投稿時にAmazonボタンを検索結果ではなく商品ページへ直リンクさせる」ための下ごしらえ。
+（`functions.php` の `ktop_afi_amazon()` の ASIN 直リンク方式と同じ考え方）
+
+```
+WebSearch: "{ブランド名} {商品名} Amazon" （allowed_domains: amazon.co.jp）
+```
+
+**ASINを採用してよい条件（すべて満たす場合のみ）:**
+- 商品名・ブランド名・型番のいずれかが記事の商品と完全に一致する
+- 実在ページであることが確認できる（検索結果に出ただけで満足しない。可能ならページ内容を1回fetchして確認）
+- 1点物の確定商品である（「まとめ買いセット」「アソート」等、記事の商品と1対1で対応しない曖昧な商品は不可）
+
+**注意（めじるし特有の事情）**: ガチャ・カプセルトイは通常Amazonで個別ASIN販売されておらず、確信の持てる一致が**見つからないことの方が多い**。無理に一致させないこと。1つも自信が持てなければ `amazonAsin` は書かない（空欄でよい。投稿時は自動でキーワード検索にフォールバックする）。
+
+見つかった場合は frontmatter に `amazonAsin: "B0XXXXXXX"` として追加する。
+
+### 6. frontmatter
 
 ```yaml
 ---
@@ -142,6 +161,7 @@ tags:
 brand: "サンリオ"
 salesDate: "2026-08-01"
 priceRange: "300〜400円"
+amazonAsin: ""
 featuredImage: "{rss frontmatter の ogImage}"
 source: rss
 sourceRssUrl: "{rss frontmatter の url}"
@@ -151,7 +171,9 @@ updatedAt: "..."
 ---
 ```
 
-### 6. ファイル保存
+`amazonAsin` は手順5で高確度の一致が見つかった場合のみ値を入れる。見つからなければ空文字のまま（フィールド自体は残してよい）。
+
+### 7. ファイル保存
 
 出力: `output/mejirushi/drafts/{date}/{slug}.md`
 
@@ -160,7 +182,7 @@ updatedAt: "..."
 slug生成ルール:
 - ブランド/キャラをローマ字化 + `mejirushi` + シリーズ名 + 発売日yyyymmdd
 
-### 7. git commit & push
+### 8. git commit & push
 
 ```bash
 git add output/mejirushi/drafts/
@@ -168,7 +190,7 @@ git commit -m "chore: RSSめじるし新作情報から記事生成 [skip ci]"
 git push
 ```
 
-### 8. 完了メッセージ
+### 9. 完了メッセージ
 
 ```
 ✅ RSSめじるし新作情報の記事生成完了: {件数}件
@@ -188,6 +210,7 @@ git push
 - [ ] ラインナップ表・発売情報表がある
 - [ ] 通販リンクが3つある
 - [ ] 元記事URL（sourceRssUrl）が記事に明記されている
+- [ ] amazonAsin を入れた場合、実在ページ・1点物・完全一致を確認済み（自信がなければ空欄のままでよい）
 - [ ] シールが主題の記事を誤って拾っていない
 - [ ] 同URLの既存ドラフトと重複していない
 

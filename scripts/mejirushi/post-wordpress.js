@@ -222,7 +222,9 @@ async function fetchYahooProducts(keywords) {
 // =====================================
 // アフィリエイトHTML生成
 // =====================================
-function generateAffiliateHtml(keyword, productData) {
+// amazonAsin が分かっていれば商品ページへ直リンク、無ければ従来どおりキーワード検索
+// （functions.php の ktop_afi_amazon() と同じ「確信があるものだけ直リンク」設計）
+function generateAffiliateHtml(keyword, productData, amazonAsin) {
   if (!keyword) return '';
 
   const itemName = productData ? productData.name : keyword;
@@ -230,7 +232,9 @@ function generateAffiliateHtml(keyword, productData) {
   const itemPrice = productData ? `¥${productData.price.toLocaleString()}〜` : '';
   const encKey = encodeURIComponent(keyword);
 
-  const amazonUrl = `https://www.amazon.co.jp/s?k=${encKey}&tag=${CONFIG.affiliateIds.amazon}`;
+  const amazonUrl = amazonAsin
+    ? `https://www.amazon.co.jp/dp/${amazonAsin}/?tag=${CONFIG.affiliateIds.amazon}`
+    : `https://www.amazon.co.jp/s?k=${encKey}&tag=${CONFIG.affiliateIds.amazon}`;
   const rakutenUrl = `https://hb.afl.rakuten.co.jp/hgc/${CONFIG.affiliateIds.rakuten}/?pc=${encodeURIComponent('https://search.rakuten.co.jp/search/mall/' + keyword)}`;
   const yahooSearchUrl = `https://shopping.yahoo.co.jp/search?p=${encKey}`;
   const mainLinkUrl = productData ? productData.url : yahooSearchUrl;
@@ -425,10 +429,15 @@ class WordPressService {
     ].slice(0, 5);
     const products = await fetchYahooProducts(searchKeywords);
 
+    // 記事生成スキルが「確信あり」で特定できた場合のみ frontmatter.amazonAsin が入る。
+    // 空なら generateAffiliateHtml が自動でキーワード検索にフォールバックする。
+    const amazonAsin = (frontmatter.amazonAsin || '').trim() || null;
+    if (amazonAsin) console.log(`  🔗 Amazon直リンク: ASIN ${amazonAsin}`);
+
     // アフィリエイトを分割（冒頭・中盤・末尾）
-    const affiliateTop = products.slice(0, 3).map(p => generateAffiliateHtml(p.keyword, p)).join('\n');
-    const affiliateMid = products.slice(0, 2).map(p => generateAffiliateHtml(p.keyword, p)).join('\n');
-    const affiliateBottom = products.slice(0, 3).map(p => generateAffiliateHtml(p.keyword, p)).join('\n');
+    const affiliateTop = products.slice(0, 3).map(p => generateAffiliateHtml(p.keyword, p, amazonAsin)).join('\n');
+    const affiliateMid = products.slice(0, 2).map(p => generateAffiliateHtml(p.keyword, p, amazonAsin)).join('\n');
+    const affiliateBottom = products.slice(0, 3).map(p => generateAffiliateHtml(p.keyword, p, amazonAsin)).join('\n');
 
     // カテゴリ・タグ
     const categories = await this.getCategoryIds();

@@ -21,6 +21,7 @@
   },
   "affiliate": {
     "productFilterRegex": "チャーム|めじるし|目印|アクセサリー|マスコット|キーホルダー|ストラップ|ガチャ|ガシャポン",
-    "fallbackKeyword": "めじるしアクセサリー"
+    "fallbackKeyword": "めじるしアクセサリー",
+    "_amazonAsinNote": "記事frontmatterのamazonAsinが埋まっていればAmazonボタンは商品ページへ直リンクし、空ならキーワード検索にフォールバックする（scripts/mejirushi/post-wordpress.js）。ASINはrss-mejirushi-articleスキルがWebSearchで高確度一致のときだけ記入する（functions.phpのktop_afi_amazon()と同じ設計思想）"
   }
 }
