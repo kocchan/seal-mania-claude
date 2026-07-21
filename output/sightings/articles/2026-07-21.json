@@ -1,7 +1,7 @@
 {
   "date": "2026-07-21",
-  "updatedAt": "2026-07-21T14:44:22.305+09:00",
-  "count": 21,
+  "updatedAt": "2026-07-21T17:38:17.672+09:00",
+  "count": 22,
   "articles": [
     {
       "isSighting": true,
@@ -295,6 +295,20 @@
       "confidenceMemo": "公式店舗アカウントによる入荷・販売実績の報告。他種類のシールも同時入荷。",
       "sourceUrl": "https://x.com/ario_bepop/status/2079416155765453289",
       "sourceTweetId": "2079416155765453289",
+      "isPrediction": false
+    },
+    {
+      "isSighting": true,
+      "prefecture": "宮城県",
+      "city": "仙台市泉区",
+      "shopName": "万代仙台泉店",
+      "shopAddress": "宮城県仙台市泉区松森字後田45-1",
+      "productName": "サンリオ新作シール（オーロラ立体シール、金箔ぷっくりシール、ビーズぷっくりシール、タイルシール）",
+      "sightingTime": "2026-07-21 07:08頃",
+      "statusText": "入荷（在庫あり）",
+      "confidenceMemo": "店舗公式アカウントによる告知。ボンボンドロップシールの特徴（ビーズぷっくり・サンリオ等）と一致し、しなこちゃん紹介品についても言及あり。",
+      "sourceUrl": "https://x.com/itoy3710045/status/2079463479157870648",
+      "sourceTweetId": "2079463479157870648",
       "isPrediction": false
     }
   ]
