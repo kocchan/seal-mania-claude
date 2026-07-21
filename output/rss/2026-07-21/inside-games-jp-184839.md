@@ -1,0 +1,20 @@
+---
+source: rss
+url: "https://www.inside-games.jp/article/2026/07/20/184839.html"
+title: "「しまじろう」のめじるしアクセサリーがガシャポン展開！雨合羽を着たような姿のとりっぴいたち全5種 | インサイド"
+siteName: "インサイド"
+publishedAt: "2026-07-20T12:12:13Z"
+fetchedAt: "2026-07-21T01:19:07.507Z"
+fetchMethod: axios
+ogImage: "https://www.inside-games.jp/imgs/ogp_f/1748785.jpg"
+description: "ガシャポン「しまじろう めじるしアクセサリー」が7月下旬より発売！"
+---
+
+## RSS要約
+
+ガシャポン「しまじろう めじるしアクセサリー 」が7月下旬より発売！ フィギュア・グッズ グッズ. 2026.7.20 Mon 15:10. シェア.
+
+## 本文HTML（サニタイズ済み）
+
+<html><head></head><body><figure class="ctms-editor-image"><img src="https://www.inside-games.jp/imgs/zoom/1748783.jpg" class="inline-article-image" width="560" height="560"></figure><p>バンダイは、ガシャポン「しまじろう めじるしアクセサリー」を7月下旬より発売します。</p><h2>◆「しまじろう」のめじるしアクセサリー全5種</h2><p>アニメ「しまじろう」のめじるしアクセサリーが新登場。傘やペットボトルなどにめじるしとして付けられる、小さくてかわいいぷっくり仕様のマスコットです。</p><p>ラインナップは「しまじろう」「みみりん」「はなちゃん」「とりっぴい」「にゃっきい」の全5種。それぞれ雨合羽を着たような姿となっています。</p><h3>■しまじろう</h3><figure class="ctms-editor-image"><img src="https://www.inside-games.jp/imgs/zoom/1748778.jpg" class="inline-article-image" width="560" height="560"></figure><h3>■みみりん</h3><figure class="ctms-editor-image"><img src="https://www.inside-games.jp/imgs/zoom/1748779.jpg" class="inline-article-image" width="560" height="560"></figure><h3>■はなちゃん</h3><figure class="ctms-editor-image"><img src="https://www.inside-games.jp/imgs/zoom/1748780.jpg" class="inline-article-image" width="560" height="560"></figure><h3>■とりっぴい</h3><figure class="ctms-editor-image"><img src="https://www.inside-games.jp/imgs/zoom/1748781.jpg" class="inline-article-image" width="560" height="560"></figure><h3>■にゃっきい</h3><figure class="ctms-editor-image"><img src="https://www.inside-games.jp/imgs/zoom/1748782.jpg" class="inline-article-image" width="560" height="560"></figure><hr><p>「しまじろう めじるしアクセサリー」の価格は1回300円（税込）で、7月下旬より発売します。詳細は<a target="_blank" rel="noopener noreferrer" href="https://www.bandai.co.jp/catalog/item.php?jan_cd=4570118186140000">バンダイ商品ページ</a>をご確認ください。</p><br><div class="af_box"><!-- start --><div class="af_list"><div class="af_box_left"><a href="https://www.amazon.co.jp/dp/B0CQY2RVPQ?tag=insidegames-22&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank"><img src="https://m.media-amazon.com/images/I/31wALNc0GfL._SL160_.jpg" class="af_box_image"></a></div><div class="af_box_right"><b><a href="https://www.amazon.co.jp/dp/B0CQY2RVPQ?tag=insidegames-22&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank">ハピネット(Happinet) ずっとフレンズ しまじろう 対象年齢1.5歳~</a></b><br><b>￥964</b><br><span>(価格・在庫状況は記事公開時点のものです)</span><br><div class="af_box_link_amazon"><a href="https://www.amazon.co.jp/dp/B0CQY2RVPQ?tag=insidegames-22&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank">Amazon</a></div><div class="af_box_link_rakuten"><a href="https://hb.afl.rakuten.co.jp/hgc/0dfd5e9c.cb53a4b8.132b5a79.c657d846/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2581%2597%25E3%2581%25BE%25E3%2581%2598%25E3%2582%258D%25E3%2581%2586%2F" target="_blank">楽天市場</a></div></div></div><!-- //end --></div><div class="af_box"><!-- start --><div class="af_list"><div class="af_box_left"><a href="https://www.amazon.co.jp/dp/B0FWYQGB59?tag=insidegames-22&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank"><img src="https://m.media-amazon.com/images/I/51cf1mvlNFL._SL160_.jpg" class="af_box_image"></a></div><div class="af_box_right"><b><a href="https://www.amazon.co.jp/dp/B0FWYQGB59?tag=insidegames-22&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank">映画しまじろう まほうのしまの だいぼうけん</a></b><br><b></b><br><span>(価格・在庫状況は記事公開時点のものです)</span><br><div class="af_box_link_amazon"><a href="https://www.amazon.co.jp/dp/B0FWYQGB59?tag=insidegames-22&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank">Amazon</a></div><div class="af_box_link_rakuten"><a href="https://hb.afl.rakuten.co.jp/hgc/0dfd5e9c.cb53a4b8.132b5a79.c657d846/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2581%2597%25E3%2581%25BE%25E3%2581%2598%25E3%2582%258D%25E3%2581%2586%2F" target="_blank">楽天市場</a></div></div></div><!-- //end --></div>
+</body></html>
