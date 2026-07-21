@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-07-21T04:41:31.962Z"
+wpPostUrl: "https://www.seal-search.com/news/new-item/chiikawa-bonbondrop-mini2-202610/"
+wpPostId: 12532
+posted: true
 imageGenerated: true
 type: new-release
 status: draft
