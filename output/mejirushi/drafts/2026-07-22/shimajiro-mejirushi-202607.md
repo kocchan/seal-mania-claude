@@ -1,4 +1,9 @@
 ---
+postedAt: "2026-07-22T04:43:00.689Z"
+wpPostUrl: "https://www.seal-search.com/mejirushi/shimajiro-mejirushi-202607/"
+wpPostId: 12674
+posted: true
+imageGenerated: true
 type: mejirushi
 status: draft
 title: "【7月下旬発売】しまじろう めじるしアクセサリー新登場"

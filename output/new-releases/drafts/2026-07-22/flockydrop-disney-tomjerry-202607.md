@@ -1,4 +1,7 @@
 ---
+postedAt: "2026-07-22T04:42:29.216Z"
+wpPostUrl: "https://www.seal-search.com/news/new-item/flockydrop-disney-tomjerry-202607/"
+wpPostId: 12669
 type: new-release
 status: draft
 title: "フロッキードロップステッカー新作！ディズニー・トムジェリ全6種"
@@ -13,7 +16,7 @@ tags:
   - トムとジェリー
   - 7月発売
   - 神明社
-posted: false
+posted: true
 imageGenerated: true
 store: ""
 deadline: null

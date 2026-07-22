@@ -1,4 +1,7 @@
 ---
+postedAt: "2026-07-22T04:42:37.428Z"
+wpPostUrl: "https://www.seal-search.com/news/new-item/qlia-flocky-bonbondrop-202607/"
+wpPostId: 12671
 type: new-release
 status: draft
 title: "Q-LiAフロッキーボンボンドロップシール全4柄7月下旬発売"
@@ -12,7 +15,7 @@ tags:
   - Q-LiA
   - クーリア
   - 7月発売
-posted: false
+posted: true
 imageGenerated: true
 store: ""
 deadline: null

@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-07-22T04:42:20.124Z"
+wpPostUrl: "https://www.seal-search.com/character/tourabu-embroidery-patch-seal-20260731/"
+wpPostId: 12667
+posted: true
 type: newproduct
 status: draft
 title: "【7/31締切】刀剣乱舞 刺繍ワッペンシール新作"

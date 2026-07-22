@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-07-22T04:42:13.109Z"
+wpPostUrl: "https://www.seal-search.com/character/pooh-honeycake-sticker-20260721/"
+wpPostId: 12666
+posted: true
 type: newproduct
 status: draft
 title: "【7/21発売】くまのプーさん はちみつケーキ新作"

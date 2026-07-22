@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-07-22T04:42:06.280Z"
+wpPostUrl: "https://www.seal-search.com/character/daiso-punipoyo-seal-20260720/"
+wpPostId: 12665
+posted: true
 type: newproduct
 status: draft
 title: "【7月新作】ダイソー ぷにぽよシール登場"
