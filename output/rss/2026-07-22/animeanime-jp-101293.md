@@ -1,0 +1,20 @@
+---
+source: rss
+url: "https://animeanime.jp/article/2026/07/21/101293.html"
+title: "善逸、しのぶの激闘が蘇る…「鬼滅の刃」全ラインナップがスーパーレア以上！「にふぉるめーしょん 鬼滅の刃ディフォルメシールウエハース 其ノ十六」が超豪華！ | アニメ！アニメ！"
+siteName: "アニメ！アニメ！"
+publishedAt: "2026-07-21T11:01:10Z"
+fetchedAt: "2026-07-22T01:17:34.650Z"
+fetchMethod: axios
+ogImage: "https://animeanime.jp/imgs/ogp_f/907850.jpg"
+description: "アニメ『鬼滅の刃』より、ディフォルメシールコレクション「にふぉるめーしょん 鬼滅の刃ディフォルメシールウエハース 其ノ十六」が登場。2026年11月に全国量販店の菓子売場などで展開される予定だ。"
+---
+
+## RSS要約
+
+... シールコレクション「にふぉるめーしょん 鬼滅の刃ディフォルメシール ... 「刀剣乱舞」“ ボンボンドロップシール ”が登場♪ 三日月宗近ら124振りの刀剣&nbsp;...
+
+## 本文HTML（サニタイズ済み）
+
+<html><head></head><body><p>アニメ『鬼滅の刃』より、ディフォルメシールコレクション「にふぉるめーしょん 鬼滅の刃ディフォルメシールウエハース 其ノ十六」が登場。2026年11月に全国量販店の菓子売場などで展開される予定だ。</p><p>『鬼滅の刃』は、集英社「ジャンプコミックス」より全23巻が刊行され累計発行部数は1億5,000万部を突破する、吾峠呼世晴によるマンガを原作とするアニメだ。家族を鬼に殺された少年・竈門炭治郎が、鬼になった妹の禰豆子を人間に戻すべく＜鬼殺隊＞へと入隊し、鬼との戦いに身を投じる物語を描く。人と鬼の切ない物語に鬼気迫る剣戟、魅力的なキャラクター、そして時折描かれるコミカルなシーンが人気を呼ぶ。</p><p>ufotableがアニメーション制作を手掛けるアニメは、2019年4月の『テレビアニメ「鬼滅の刃」竈門炭治郎 立志編』を皮切りにシリーズ展開してきた。2024年5月より放送された『テレビアニメ「鬼滅の刃」柱稽古編』に続く物語を描く『劇場版「鬼滅の刃」無限城編』は三部作として制作され、「第一章 猗窩座再来」が2025年7月18日より公開された。2026年4月5日より毎週日曜日の朝9時30分よりシリーズ全編再放送がスタートしている。</p><p>「にふぉるめーしょん」とは、「に」とうしん（2頭身）のデ「フォルメ」イラストで作品の魅力を表現するシールコレク「ション」のこと。</p><figure class="ctms-editor-image"><img src="https://animeanime.jp/imgs/zoom/907851.jpg" class="inline-article-image" width="640" height="640"><figcaption>にふぉるめーしょん 鬼滅の刃ディフォルメシールウエハース 其ノ十六</figcaption></figure><p>そんな「にふぉるめーしょん」より『鬼滅の刃』第16弾が登場。本弾も、にふぉるめーしょん5周年を記念したレアリティ「5thレア」が収録される。</p><figure class="ctms-editor-image"><img src="https://animeanime.jp/imgs/zoom/907852.jpg" class="inline-article-image" width="640" height="640"><figcaption>にふぉるめーしょん 鬼滅の刃ディフォルメシールウエハース 其ノ十六</figcaption></figure><p>さらに本弾は、全てのラインナップをスーパーレア以上で構成している超豪華弾！</p><p>「にふぉるめーしょん 鬼滅の刃ディフォルメシールウエハース 其ノ十六」には、シールのほかにバニラクリーム味ウエハースも1枚封入。価格は単品が154円（税込）となっている。</p><br><div class="af_box"><!-- start --><div class="af_list"><div class="af_box_left"><a href="https://www.amazon.co.jp/dp/B0995DWN1D?tag=animeanimea-22&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank"><img src="https://m.media-amazon.com/images/I/51V2ChKFikL._SL160_.jpg" class="af_box_image"></a></div><div class="af_box_right"><b><a href="https://www.amazon.co.jp/dp/B0995DWN1D?tag=animeanimea-22&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank">ポケットピクチュアカード 鬼滅の刃 漢字</a></b><br><b>￥930</b><br><span>(価格・在庫状況は記事公開時点のものです)</span><br><div class="af_box_link_amazon"><a href="https://www.amazon.co.jp/dp/B0995DWN1D?tag=animeanimea-22&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank">Amazon</a></div><div class="af_box_link_rakuten"><a href="https://hb.afl.rakuten.co.jp/hgc/13d62b94.d0647ae0.13d62b95.6b8000ba/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E9%25AC%25BC%25E6%25BB%2585%25E3%2580%2580%25E3%2582%25B0%25E3%2583%2583%25E3%2582%25BA%2F" target="_blank">楽天市場</a></div></div></div><!-- //end --></div><div class="af_box"><!-- start --><div class="af_list"><div class="af_box_left"><a href="https://www.amazon.co.jp/dp/B0995FFB9C?tag=animeanimea-22&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank"><img src="https://m.media-amazon.com/images/I/51EhBbMxdyL._SL160_.jpg" class="af_box_image"></a></div><div class="af_box_right"><b><a href="https://www.amazon.co.jp/dp/B0995FFB9C?tag=animeanimea-22&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank">エポック社 【ポケットピクチュアカード】 鬼滅の刃 ひらがな 08-314 リング&amp;透明カバー付き 3歳以上 おもちゃ</a></b><br><b>￥670</b><br><span>(価格・在庫状況は記事公開時点のものです)</span><br><div class="af_box_link_amazon"><a href="https://www.amazon.co.jp/dp/B0995FFB9C?tag=animeanimea-22&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank">Amazon</a></div><div class="af_box_link_rakuten"><a href="https://hb.afl.rakuten.co.jp/hgc/13d62b94.d0647ae0.13d62b95.6b8000ba/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E9%25AC%25BC%25E6%25BB%2585%25E3%2580%2580%25E3%2582%25B0%25E3%2583%2583%25E3%2582%25BA%2F" target="_blank">楽天市場</a></div></div></div><!-- //end --></div><div class="enclosure"><p>＜商品詳細＞<br>■にふぉるめーしょん 鬼滅の刃ディフォルメシールウエハース 其ノ十六<br>価格：単品154円<br>単品内容：シール1枚（全34種/うちシークレット3種）、バニラクリーム味ウエハース1枚<br>対象年齢：6才以上</p></div><p>（C）吾峠呼世晴／集英社・アニプレックス・ufotable</p>
+</body></html>
