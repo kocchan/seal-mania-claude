@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-07-23T04:46:41.853Z"
+wpPostUrl: "https://www.seal-search.com/character/nagano-characters-bonbondrop-20260626/"
+wpPostId: 12705
+posted: true
 type: newproduct
 status: draft
 title: "【6/26発売】ナガノキャラクターズ ボンボンドロップ"

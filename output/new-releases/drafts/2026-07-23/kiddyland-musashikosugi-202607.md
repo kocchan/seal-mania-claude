@@ -1,4 +1,7 @@
 ---
+postedAt: "2026-07-23T04:47:37.879Z"
+wpPostUrl: "https://www.seal-search.com/news/new-item/kiddyland-musashikosugi-202607/"
+wpPostId: 12715
 type: lottery
 status: draft
 title: "キデイランド武蔵小杉ボンボンドロップシール抽選7月23日締切"
@@ -15,7 +18,7 @@ tags:
   - お茶犬
   - LivePocket
   - 7月発売
-posted: false
+posted: true
 imageGenerated: true
 store: "キデイランド グランツリー武蔵小杉店"
 deadline: "2026-07-23T23:59:00+09:00"

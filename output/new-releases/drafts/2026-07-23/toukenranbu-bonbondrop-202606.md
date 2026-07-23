@@ -1,4 +1,7 @@
 ---
+postedAt: "2026-07-23T04:47:45.748Z"
+wpPostUrl: "https://www.seal-search.com/news/new-item/toukenranbu-bonbondrop-202606/"
+wpPostId: 12717
 type: new-release
 status: draft
 title: "刀剣乱舞ONLINEボンボンドロップシール全4種予約受付中"
@@ -14,7 +17,7 @@ tags:
   - サンスター文具
   - クーリア
   - プレミアムバンダイ
-posted: false
+posted: true
 imageGenerated: true
 store: "プレミアムバンダイ（サンスター文具ストア）"
 deadline: null

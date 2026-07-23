@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-07-23T04:46:17.625Z"
+wpPostUrl: "https://www.seal-search.com/character/sdgundam-sticker-binder-20261100/"
+wpPostId: 12701
+posted: true
 type: newproduct
 status: draft
 title: "【2026年11月発送】元祖SDガンダム シールバインダー"

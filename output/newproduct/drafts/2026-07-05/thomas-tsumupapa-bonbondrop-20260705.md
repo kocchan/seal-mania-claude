@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-07-23T04:47:00.977Z"
+wpPostUrl: "https://www.seal-search.com/character/thomas-tsumupapa-bonbondrop-20260705/"
+wpPostId: 12708
+posted: true
 type: newproduct
 status: draft
 title: "【7/5発売】きかんしゃトーマス×つむぱぱ ボンドロ"

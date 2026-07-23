@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-07-23T04:46:23.888Z"
+wpPostUrl: "https://www.seal-search.com/character/cando-kirarin-crystal-capsule-seal-20260609/"
+wpPostId: 12702
+posted: true
 type: newproduct
 status: draft
 title: "【220円】キャンドゥ 宝石カプセルシール新作"

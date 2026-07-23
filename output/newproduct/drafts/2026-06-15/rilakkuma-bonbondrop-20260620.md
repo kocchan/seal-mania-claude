@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-07-23T04:46:35.871Z"
+wpPostUrl: "https://www.seal-search.com/character/rilakkuma-bonbondrop-20260620/"
+wpPostId: 12704
+posted: true
 type: newproduct
 status: draft
 title: "【6月下旬発売】リラックマ ボンボンドロップシール"

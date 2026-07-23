@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-07-23T04:46:30.050Z"
+wpPostUrl: "https://www.seal-search.com/character/pekochan-clear-resin-seal-20260614/"
+wpPostId: 12703
+posted: true
 type: newproduct
 status: draft
 title: "【440円】ペコちゃん 透明樹脂シール新作4種"

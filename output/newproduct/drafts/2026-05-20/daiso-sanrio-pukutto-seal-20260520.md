@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-07-23T04:46:05.123Z"
+wpPostUrl: "https://www.seal-search.com/character/daiso-sanrio-pukutto-seal-20260520/"
+wpPostId: 12699
+posted: true
 type: newproduct
 status: draft
 title: "【110円】ダイソー サンリオぷくっとシール新作"

@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-07-23T04:47:07.376Z"
+wpPostUrl: "https://www.seal-search.com/character/ohaasa-bonbondrop-20260816/"
+wpPostId: 12709
+posted: true
 type: newproduct
 status: draft
 title: "【8/16先行販売】おはよう朝日です ボンボンドロップ"

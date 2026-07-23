@@ -1,4 +1,7 @@
 ---
+postedAt: "2026-07-23T04:47:29.871Z"
+wpPostUrl: "https://www.seal-search.com/news/new-item/hachemon-takashimaya-osaka-202608/"
+wpPostId: 12713
 type: new-release
 status: draft
 title: "ハチエモンボンボンドロップシール高島屋大阪8月20日発売"
@@ -14,7 +17,7 @@ tags:
   - ポップアップ
   - あべのキューズモール
   - 8月発売
-posted: false
+posted: true
 imageGenerated: true
 store: "高島屋大阪店 7階催会場"
 deadline: null

@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-07-23T04:47:13.925Z"
+wpPostUrl: "https://www.seal-search.com/character/kimetsu-nifolmeshon16-20261100/"
+wpPostId: 12710
+posted: true
 type: newproduct
 status: draft
 title: "【2026年11月発売】鬼滅の刃 にふぉるめーしょん其ノ十六"

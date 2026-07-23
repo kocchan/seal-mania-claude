@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-07-23T04:47:20.482Z"
+wpPostUrl: "https://www.seal-search.com/character/mocha-punipuri-seal-20260728/"
+wpPostId: 12711
+posted: true
 type: newproduct
 status: draft
 title: "【7/28発売】猫カフェMOCHA ぷっくりシール新作"

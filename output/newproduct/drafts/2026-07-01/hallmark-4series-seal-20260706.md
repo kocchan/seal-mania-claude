@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-07-23T04:46:54.823Z"
+wpPostUrl: "https://www.seal-search.com/character/hallmark-4series-seal-20260706/"
+wpPostId: 12707
+posted: true
 type: newproduct
 status: draft
 title: "【7/6発売】日本ホールマーク シール新商品全29点"

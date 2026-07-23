@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-07-23T04:45:57.964Z"
+wpPostUrl: "https://www.seal-search.com/news/reservation/jal-bonbondrop-20260729/"
+wpPostId: 12698
+posted: true
 imageGenerated: true
 type: preorder
 status: draft

@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-07-23T04:46:48.623Z"
+wpPostUrl: "https://www.seal-search.com/character/touken-ranbu-bonbondrop-20270100/"
+wpPostId: 12706
+posted: true
 type: newproduct
 status: draft
 title: "【2027年1月発送】刀剣乱舞 ボンボンドロップシール"

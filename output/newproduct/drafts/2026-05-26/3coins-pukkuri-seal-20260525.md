@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-07-23T04:46:11.184Z"
+wpPostUrl: "https://www.seal-search.com/character/3coins-pukkuri-seal-20260525/"
+wpPostId: 12700
+posted: true
 type: newproduct
 status: draft
 title: "【5/25発売】3COINS ぷっくりシール新作11種"

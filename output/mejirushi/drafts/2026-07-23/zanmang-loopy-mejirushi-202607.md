@@ -1,4 +1,9 @@
 ---
+postedAt: "2026-07-23T04:48:16.293Z"
+wpPostUrl: "https://www.seal-search.com/mejirushi/zanmang-loopy-mejirushi-202607/"
+wpPostId: 12723
+posted: true
+imageGenerated: true
 type: mejirushi
 status: draft
 title: "【7月第4週発売】ZANMANG LOOPYめじるしアクセサリー"
