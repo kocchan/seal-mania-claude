@@ -1,7 +1,7 @@
 {
   "date": "2026-07-23",
-  "updatedAt": "2026-07-23T14:50:36.025+09:00",
-  "count": 16,
+  "updatedAt": "2026-07-23T17:39:53.030+09:00",
+  "count": 19,
   "articles": [
     {
       "isSighting": true,
@@ -306,6 +306,63 @@
       "wpPostId": 12755,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-gifu-toki-2026-07-22-2/",
       "postedAt": "2026-07-23T14:52:27.840+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "神奈川県",
+      "city": "横浜市旭区",
+      "shopName": "アクアテラスギフトショップ（よこはま動物園ズーラシア内）",
+      "shopAddress": "神奈川県横浜市旭区上白根町1175-1",
+      "productName": "ボンボンドロップシール",
+      "sightingTime": "2026-07-23 06:52頃",
+      "statusText": "完売（次回入荷未定）",
+      "confidenceMemo": "公式アカウントによる在庫終了の告知",
+      "sourceUrl": "https://x.com/ZOORASIA_office/status/2080184171209887779",
+      "sourceTweetId": "2080184171209887779",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2080184171209887779.png",
+      "isPosted": true,
+      "wpPostId": 12757,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-kanagawa-asahi-yokohama-2026-07-23/",
+      "postedAt": "2026-07-23T17:40:00.903+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "北海道",
+      "city": "北斗市",
+      "shopName": "未来屋書店 上磯店",
+      "shopAddress": "北海道北斗市七重浜4-44-1 イオン上磯店 2F",
+      "productName": "うるちゅるPOP SEAL（名探偵コナン、ブルーロック）",
+      "sightingTime": "2026-07-23 07:00頃",
+      "statusText": "在庫あり（新入荷）",
+      "confidenceMemo": "店舗公式アカウントによる具体的な商品名と入荷の報告",
+      "sourceUrl": "https://x.com/ms_kamiiso/status/2080186316394832023",
+      "sourceTweetId": "2080186316394832023",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2080186316394832023.png",
+      "isPosted": true,
+      "wpPostId": 12759,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-hokkaido-hokuto-2026-07-23/",
+      "postedAt": "2026-07-23T17:40:08.559+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "宮城県",
+      "city": "名取市",
+      "shopName": "未来屋書店名取店",
+      "shopAddress": "宮城県名取市杜せきのした5-3-1 イオンモール名取 3F",
+      "productName": "ブルーロック うるちゅる POP SEAL",
+      "sightingTime": "2026-07-23 07:07頃",
+      "statusText": "在庫あり（残り少なくなってきている）",
+      "confidenceMemo": "店舗公式アカウントによる現在の在庫状況の報告",
+      "sourceUrl": "https://x.com/mi_natori/status/2080187909097812322",
+      "sourceTweetId": "2080187909097812322",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2080187909097812322.png",
+      "isPosted": true,
+      "wpPostId": 12761,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-miyagi-natori-2026-07-23/",
+      "postedAt": "2026-07-23T17:40:15.254+09:00"
     }
   ]
 }
