@@ -1,7 +1,7 @@
 {
   "date": "2026-07-24",
-  "updatedAt": "2026-07-24T22:55:43.300+09:00",
-  "count": 45,
+  "updatedAt": "2026-07-25T07:02:24.780+09:00",
+  "count": 46,
   "articles": [
     {
       "isSighting": true,
@@ -857,6 +857,25 @@
       "wpPostId": 12869,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-hokkaido-chitose-2026-07-25/",
       "postedAt": "2026-07-24T22:56:03.526+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "長崎県",
+      "city": "西彼杵郡時津町",
+      "shopName": "まるみつ時津店",
+      "shopAddress": "長崎県西彼杵郡時津町久留里郷1448-10",
+      "productName": "サンリオ うるちゅるポップシール",
+      "sightingTime": "2026-07-25 10:02頃",
+      "statusText": "在庫あり（入荷中）",
+      "confidenceMemo": "店舗公式関連アカウントによる具体的な入荷・賞品情報の投稿。商品名は「うるちゅるポップシール」だが、ボンボンドロップシールと類似のぷっくり系シールとして言及されている。",
+      "sourceUrl": "https://x.com/jaena_nf73/status/2080711127567351830",
+      "sourceTweetId": "2080711127567351830",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2080711127567351830.png",
+      "isPosted": true,
+      "wpPostId": 12871,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-nagasaki-togitsu-nishisonogi-district-2026-07-25/",
+      "postedAt": "2026-07-25T07:02:31.641+09:00"
     }
   ]
 }
