@@ -1,7 +1,7 @@
 {
   "date": "2026-07-24",
-  "updatedAt": "2026-07-24T20:01:42.433+09:00",
-  "count": 42,
+  "updatedAt": "2026-07-24T22:55:43.300+09:00",
+  "count": 45,
   "articles": [
     {
       "isSighting": true,
@@ -800,6 +800,63 @@
       "wpPostId": 12863,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-hokkaido-asahikawa-2026-07-25-5/",
       "postedAt": "2026-07-24T20:02:35.587+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "静岡県",
+      "city": "富士市",
+      "shopName": "ホビヨン富士店",
+      "shopAddress": "静岡県富士市中島391-4",
+      "productName": "ブルーロック うるちゅるPOPシール",
+      "sightingTime": "2026-07-24 12:02",
+      "statusText": "在庫あり（入荷情報）",
+      "confidenceMemo": "店舗公式アカウントによる入荷案内。商品名に『うるちゅる』を含む。",
+      "sourceUrl": "https://x.com/hobbyon1/status/2080624582659281101",
+      "sourceTweetId": "2080624582659281101",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2080624582659281101.png",
+      "isPosted": true,
+      "wpPostId": 12865,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-shizuoka-fuji-2026-07-24/",
+      "postedAt": "2026-07-24T22:55:49.837+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "三重県",
+      "city": "津市",
+      "shopName": "GiGO 久居",
+      "shopAddress": "三重県津市久居明神町風早2534-1 イオンタウン久居内",
+      "productName": "TWICE LOVELYS うるちゅるシールBIG",
+      "sightingTime": "2026-07-25 10:00頃（予定）",
+      "statusText": "2026年7月25日より入荷予定",
+      "confidenceMemo": "店舗公式アカウントによる入荷予告。基準日の翌日からの販売情報。",
+      "sourceUrl": "https://x.com/GiGO_hisai/status/2080627547411517591",
+      "sourceTweetId": "2080627547411517591",
+      "isPrediction": true,
+      "imagePath": "output/sightings/images/2080627547411517591.png",
+      "isPosted": true,
+      "wpPostId": 12867,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-mie-tsu-2026-07-25/",
+      "postedAt": "2026-07-24T22:55:56.725+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "北海道",
+      "city": "千歳市",
+      "shopName": "GiGO ちとせモール",
+      "shopAddress": "北海道千歳市勇舞8-1-1 ちとせモール内",
+      "productName": "TWICE LOVELYS うるちゅるシールBIG",
+      "sightingTime": "2026-07-25 10:00頃（予定）",
+      "statusText": "2026年7月25日より入荷予定",
+      "confidenceMemo": "店舗公式アカウントによるキャンペーン告知。基準日の翌日からの販売情報。",
+      "sourceUrl": "https://x.com/GiGO_chitose/status/2080616648709755105",
+      "sourceTweetId": "2080616648709755105",
+      "isPrediction": true,
+      "imagePath": "output/sightings/images/2080616648709755105.png",
+      "isPosted": true,
+      "wpPostId": 12869,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-hokkaido-chitose-2026-07-25/",
+      "postedAt": "2026-07-24T22:56:03.526+09:00"
     }
   ]
 }
