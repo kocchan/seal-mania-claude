@@ -1,7 +1,7 @@
 {
   "date": "2026-07-25",
-  "updatedAt": "2026-07-25T14:39:10.719+09:00",
-  "count": 60,
+  "updatedAt": "2026-07-25T17:16:21.049+09:00",
+  "count": 62,
   "articles": [
     {
       "isSighting": true,
@@ -1142,6 +1142,44 @@
       "wpPostId": 13166,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-fukushima-fukushima-2026-07-25-4/",
       "postedAt": "2026-07-25T14:40:35.007+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "北海道",
+      "city": "札幌市中央区",
+      "shopName": "駿河屋札幌ノルベサ店",
+      "shopAddress": "北海道札幌市中央区南3条西5丁目1-1 ノルベサ3F",
+      "productName": "ボンボンドロップシール（スヌーピー、ディズニー）",
+      "sightingTime": "2026-07-25 07:07頃",
+      "statusText": "在庫あり（3階ショーケースにて販売中）",
+      "confidenceMemo": "店舗公式アカウントによる写真付きの入荷案内であり、信頼性が非常に高い",
+      "sourceUrl": "https://x.com/suruga_norbesa/status/2080912863603065272",
+      "sourceTweetId": "2080912863603065272",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2080912863603065272.png",
+      "isPosted": true,
+      "wpPostId": 13168,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-hokkaido-chuo-sapporo-2026-07-25/",
+      "postedAt": "2026-07-25T17:16:27.436+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "千葉県",
+      "city": "千葉市中央区",
+      "shopName": "Bepop アリオ蘇我店",
+      "shopAddress": "千葉県千葉市中央区川崎町52-7 アリオ蘇我2F",
+      "productName": "ディズニーのボンボンドロップシール",
+      "sightingTime": "2026-07-23",
+      "statusText": "入荷済み（7/23入荷・販売の事後報告）",
+      "confidenceMemo": "店舗公式アカウントによる入荷実績の報告。投稿日は7/25だが、実際の入荷は7/23。",
+      "sourceUrl": "https://x.com/ario_bepop/status/2080927267337973950",
+      "sourceTweetId": "2080927267337973950",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2080927267337973950.png",
+      "isPosted": true,
+      "wpPostId": 13170,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-chiba-chuo-chiba-2026-07-23/",
+      "postedAt": "2026-07-25T17:16:33.627+09:00"
     }
   ]
 }
