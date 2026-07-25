@@ -1,4 +1,9 @@
 ---
+postedAt: "2026-07-25T04:40:14.751Z"
+wpPostUrl: "https://www.seal-search.com/mejirushi/tamagotchi-paradise-mejirushi-202607/"
+wpPostId: 13131
+posted: true
+imageGenerated: true
 type: mejirushi
 status: draft
 title: "【7月第5週発売】たまごっちめじるしアクセサリー"

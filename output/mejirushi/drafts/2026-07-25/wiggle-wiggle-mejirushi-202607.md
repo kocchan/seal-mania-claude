@@ -1,4 +1,9 @@
 ---
+postedAt: "2026-07-25T04:40:49.420Z"
+wpPostUrl: "https://www.seal-search.com/mejirushi/wiggle-wiggle-mejirushi-202607/"
+wpPostId: 13140
+posted: true
+imageGenerated: true
 type: mejirushi
 status: draft
 title: "【7月第5週発売】wiggle wiggleめじるしアクセサリー"

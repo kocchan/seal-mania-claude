@@ -1,4 +1,9 @@
 ---
+postedAt: "2026-07-25T04:39:52.203Z"
+wpPostUrl: "https://www.seal-search.com/mejirushi/mr-potato-head-mejirushi-202607/"
+wpPostId: 13125
+posted: true
+imageGenerated: true
 type: mejirushi
 status: draft
 title: "【7月発売】ポテトヘッドめじるしガチャマスコット"

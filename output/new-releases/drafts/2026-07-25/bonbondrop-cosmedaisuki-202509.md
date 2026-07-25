@@ -1,4 +1,7 @@
 ---
+postedAt: "2026-07-25T04:38:40.467Z"
+wpPostUrl: "https://www.seal-search.com/news/new-item/bonbondrop-cosmedaisuki-202509/"
+wpPostId: 13111
 type: new-release
 status: draft
 title: "ボンボンドロップシールコスメダイスキ2026年9月発売"
@@ -11,7 +14,7 @@ tags:
   - コスメダイスキ
   - 2026年9月発売
   - 新商品情報
-posted: false
+posted: true
 imageGenerated: true
 store: ""
 deadline: null

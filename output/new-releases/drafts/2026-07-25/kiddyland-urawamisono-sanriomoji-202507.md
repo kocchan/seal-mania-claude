@@ -1,4 +1,7 @@
 ---
+postedAt: "2026-07-25T04:38:48.524Z"
+wpPostUrl: "https://www.seal-search.com/news/new-item/kiddyland-urawamisono-sanriomoji-202507/"
+wpPostId: 13113
 type: lottery
 status: draft
 title: "キデイランド浦和美園ボンドロmoji抽選7月26日締切"
@@ -16,7 +19,7 @@ tags:
   - 抽選販売
   - LivePocket
   - 7月
-posted: false
+posted: true
 imageGenerated: true
 store: "キデイランド浦和美園店"
 deadline: "2026-07-26T23:59:00+09:00"

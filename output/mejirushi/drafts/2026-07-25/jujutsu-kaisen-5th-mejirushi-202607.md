@@ -1,4 +1,9 @@
 ---
+postedAt: "2026-07-25T04:39:29.316Z"
+wpPostUrl: "https://www.seal-search.com/mejirushi/jujutsu-kaisen-5th-mejirushi-202607/"
+wpPostId: 13119
+posted: true
+imageGenerated: true
 type: mejirushi
 status: draft
 title: "【7月第4週発売】呪術廻戦5周年めじるしアクセサリー"

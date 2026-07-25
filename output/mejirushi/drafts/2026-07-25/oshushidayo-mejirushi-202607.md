@@ -1,4 +1,9 @@
 ---
+postedAt: "2026-07-25T04:40:03.959Z"
+wpPostUrl: "https://www.seal-search.com/mejirushi/oshushidayo-mejirushi-202607/"
+wpPostId: 13128
+posted: true
+imageGenerated: true
 type: mejirushi
 status: draft
 title: "【7月第4週発売】おしゅしだよめじるしアクセサリー"

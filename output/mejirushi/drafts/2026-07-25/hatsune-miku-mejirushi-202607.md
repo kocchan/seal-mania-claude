@@ -1,4 +1,9 @@
 ---
+postedAt: "2026-07-25T04:39:17.733Z"
+wpPostUrl: "https://www.seal-search.com/mejirushi/hatsune-miku-mejirushi-202607/"
+wpPostId: 13116
+posted: true
+imageGenerated: true
 type: mejirushi
 status: draft
 title: "【7/22 2次予約】初音ミクめじるしアクセサリー"

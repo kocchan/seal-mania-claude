@@ -1,4 +1,9 @@
 ---
+postedAt: "2026-07-25T04:39:40.075Z"
+wpPostUrl: "https://www.seal-search.com/mejirushi/kumatan-mejirushi-202607/"
+wpPostId: 13122
+posted: true
+imageGenerated: true
 type: mejirushi
 status: draft
 title: "【7月第4週発売】クマタンめじるしアクセサリー"

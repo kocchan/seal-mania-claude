@@ -1,4 +1,9 @@
 ---
+postedAt: "2026-07-25T04:40:27.099Z"
+wpPostUrl: "https://www.seal-search.com/mejirushi/tezuka-osamu-mejirushi-202607/"
+wpPostId: 13134
+posted: true
+imageGenerated: true
 type: mejirushi
 status: draft
 title: "【7月第4週発売】手塚治虫キャラめじるしアクセサリー"
