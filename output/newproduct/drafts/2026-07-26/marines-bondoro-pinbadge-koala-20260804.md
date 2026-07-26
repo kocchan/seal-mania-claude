@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-07-26T04:52:51.784Z"
+wpPostUrl: "https://www.seal-search.com/character/marines-bondoro-pinbadge-koala-20260804/"
+wpPostId: 13213
+posted: true
 type: newproduct
 status: draft
 title: "【8/4発売】マリーンズ ボンドロ新デザイン2種"

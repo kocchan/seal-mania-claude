@@ -1,4 +1,7 @@
 ---
+postedAt: "2026-07-26T04:53:02.250Z"
+wpPostUrl: "https://www.seal-search.com/news/new-item/bonbondrop-convenience-202507/"
+wpPostId: 13215
 type: new-release
 status: draft
 title: "ボンボンドロップシール コンビニモチーフ新作全4柄7月下旬発売"
@@ -13,7 +16,7 @@ tags:
   - 新商品情報
   - おにぎり
   - ホットスナック
-posted: false
+posted: true
 imageGenerated: true
 store: ""
 deadline: null

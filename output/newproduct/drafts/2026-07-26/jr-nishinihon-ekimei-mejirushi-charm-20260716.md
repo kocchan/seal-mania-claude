@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-07-26T04:52:45.277Z"
+wpPostUrl: "https://www.seal-search.com/character/jr-nishinihon-ekimei-mejirushi-charm-20260716/"
+wpPostId: 13212
+posted: true
 type: newproduct
 status: draft
 title: "【7/16発売】JR西日本駅名看板めじるしチャーム"

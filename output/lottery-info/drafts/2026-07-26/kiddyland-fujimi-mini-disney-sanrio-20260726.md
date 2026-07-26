@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-07-26T04:52:31.008Z"
+wpPostUrl: "https://www.seal-search.com/news/reservation/kiddyland-fujimi-mini-disney-sanrio-20260726/"
+wpPostId: 13210
+posted: true
 imageGenerated: true
 type: lottery
 status: draft

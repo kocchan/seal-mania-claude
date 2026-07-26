@@ -1,4 +1,9 @@
 ---
+postedAt: "2026-07-26T04:53:18.688Z"
+wpPostUrl: "https://www.seal-search.com/mejirushi/touken-ranbu-mejirushi-hashtag-202606/"
+wpPostId: 13218
+posted: true
+imageGenerated: true
 type: mejirushi
 status: draft
 title: "【6月発売】刀剣乱舞ONLINEめじるしアクセサリー"

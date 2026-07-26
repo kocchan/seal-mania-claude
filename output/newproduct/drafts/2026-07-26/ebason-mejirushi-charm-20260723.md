@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-07-26T04:52:38.950Z"
+wpPostUrl: "https://www.seal-search.com/character/ebason-mejirushi-charm-20260723/"
+wpPostId: 13211
+posted: true
 type: newproduct
 status: draft
 title: "【7/23販売開始】えばそんめじるしチャーム第2弾"
