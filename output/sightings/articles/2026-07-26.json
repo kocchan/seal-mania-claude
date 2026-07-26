@@ -1,7 +1,7 @@
 {
   "date": "2026-07-26",
-  "updatedAt": "2026-07-26T17:34:31.894+09:00",
-  "count": 18,
+  "updatedAt": "2026-07-26T19:42:33.118+09:00",
+  "count": 20,
   "articles": [
     {
       "isSighting": true,
@@ -344,6 +344,44 @@
       "wpPostId": 13234,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-toyama-tonami-2026-07-26/",
       "postedAt": "2026-07-26T17:34:44.509+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "タイ・バンコク",
+      "city": "パトゥムワン区",
+      "shopName": "紀伊國屋書店 バンコク店",
+      "shopAddress": "4, 4/1-4/2, 4/4 Ratchadamri Rd, Pathum Wan, Bangkok 10330 Thailand (Central World 6F)",
+      "productName": "ボンボンドロップシール",
+      "sightingTime": "2026-07-26 09:01頃",
+      "statusText": "在庫あり（十分）、1シート195バーツ（約975円）",
+      "confidenceMemo": "具体的な店舗名と価格、現地の在庫状況が詳細に記載されている",
+      "sourceUrl": "https://x.com/wesker4728/status/2081303965812367695",
+      "sourceTweetId": "2081303965812367695",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2081303965812367695.png",
+      "isPosted": true,
+      "wpPostId": 13236,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-unknown-pathumwan-district-2026-07-26/",
+      "postedAt": "2026-07-26T19:42:39.591+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "神奈川県",
+      "city": "横浜市西区",
+      "shopName": "テレビ局公式ショップ ～ツリービレッジ～ 横浜店",
+      "shopAddress": "神奈川県横浜市西区高島2-14-9 アソビル 1F",
+      "productName": "うるちゅる POP SEAL（ブルーロック）",
+      "sightingTime": "2026-07-26 19:29頃",
+      "statusText": "新入荷、在庫あり（全6種類）",
+      "confidenceMemo": "店舗公式アカウントによる最新の入荷・在庫情報",
+      "sourceUrl": "https://x.com/treevillage_yok/status/2081326160084914570",
+      "sourceTweetId": "2081326160084914570",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2081326160084914570.png",
+      "isPosted": true,
+      "wpPostId": 13238,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-kanagawa-nishi-yokohama-2026-07-26/",
+      "postedAt": "2026-07-26T19:42:46.115+09:00"
     }
   ]
 }
