@@ -1,7 +1,7 @@
 {
   "date": "2026-07-26",
-  "updatedAt": "2026-07-26T14:55:03.838+09:00",
-  "count": 16,
+  "updatedAt": "2026-07-26T17:34:31.894+09:00",
+  "count": 18,
   "articles": [
     {
       "isSighting": true,
@@ -306,6 +306,44 @@
       "wpPostId": 13230,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-aomori-hachinohe-2026-07-26/",
       "postedAt": "2026-07-26T14:55:45.769+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "徳島県",
+      "city": "徳島市",
+      "shopName": "白秀堂",
+      "shopAddress": "徳島県徳島市寺島本町東3丁目15-5",
+      "productName": "ボンボンドロップシールミニチャーム",
+      "sightingTime": "2026-07-26 06:49頃",
+      "statusText": "在庫あり（店舗・Web在庫調整中、一人3個制限）",
+      "confidenceMemo": "店舗公式アカウントによる詳細な販売情報",
+      "sourceUrl": "https://x.com/hakusyudo/status/2081270670688985555",
+      "sourceTweetId": "2081270670688985555",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2081270670688985555.png",
+      "isPosted": true,
+      "wpPostId": 13232,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-tokushima-tokushima-2026-07-26/",
+      "postedAt": "2026-07-26T17:34:38.167+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "富山県",
+      "city": "砺波市",
+      "shopName": "ドリームカプセル イオンモールとなみ",
+      "shopAddress": "富山県砺波市中神1丁目174 イオンモール砺波 2F",
+      "productName": "サンリオキャラクターズ ボンボンドロップ ミニチュアチャーム",
+      "sightingTime": "2026-07-26 06:44頃",
+      "statusText": "再入荷（一人2個制限）",
+      "confidenceMemo": "店舗公式アカウントによる再入荷告知",
+      "sourceUrl": "https://x.com/drecap_tonami/status/2081269511857340844",
+      "sourceTweetId": "2081269511857340844",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2081269511857340844.png",
+      "isPosted": true,
+      "wpPostId": 13234,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-toyama-tonami-2026-07-26/",
+      "postedAt": "2026-07-26T17:34:44.509+09:00"
     }
   ]
 }
