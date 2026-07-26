@@ -1,7 +1,7 @@
 {
   "date": "2026-07-26",
-  "updatedAt": "2026-07-26T22:40:05.384+09:00",
-  "count": 22,
+  "updatedAt": "2026-07-27T06:56:16.794+09:00",
+  "count": 23,
   "articles": [
     {
       "isSighting": true,
@@ -420,6 +420,25 @@
       "wpPostId": 13242,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-tokyo-shinjuku-2026-07-26/",
       "postedAt": "2026-07-26T22:40:17.838+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "大阪府",
+      "city": "大阪市",
+      "shopName": "ボンボンドロップ POP UP STORE 大阪",
+      "shopAddress": "大阪府大阪市",
+      "productName": "ボンボンドロップシール",
+      "sightingTime": "2026-07-27 15:21頃",
+      "statusText": "在庫あり（目当てのものが残っていた）",
+      "confidenceMemo": "「大阪5日目」との記述があり、特定のイベント会場での目撃情報。写真付きの言及で信頼性が高い。",
+      "sourceUrl": "https://x.com/akg_ars/status/2081399627908325431",
+      "sourceTweetId": "2081399627908325431",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2081399627908325431.png",
+      "isPosted": true,
+      "wpPostId": 13244,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-osaka-osaka-2026-07-27/",
+      "postedAt": "2026-07-27T06:56:24.069+09:00"
     }
   ]
 }
