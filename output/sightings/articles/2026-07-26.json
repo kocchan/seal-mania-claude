@@ -1,7 +1,7 @@
 {
   "date": "2026-07-26",
-  "updatedAt": "2026-07-26T19:42:33.118+09:00",
-  "count": 20,
+  "updatedAt": "2026-07-26T22:40:05.384+09:00",
+  "count": 22,
   "articles": [
     {
       "isSighting": true,
@@ -382,6 +382,44 @@
       "wpPostId": 13238,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-kanagawa-nishi-yokohama-2026-07-26/",
       "postedAt": "2026-07-26T19:42:46.115+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "北海道",
+      "city": "旭川市",
+      "shopName": "ダイナム旭川近文店",
+      "shopAddress": "北海道旭川市緑町12丁目2719-1",
+      "productName": "ぷっくりシール（ダイキチ景品第3弾）",
+      "sightingTime": "2026-07-26 11:00頃",
+      "statusText": "2026年7月28日に景品入荷予定",
+      "confidenceMemo": "店舗公式アカウントによる入荷予告情報",
+      "sourceUrl": "https://x.com/dynam_00112/status/2081333792845762895",
+      "sourceTweetId": "2081333792845762895",
+      "isPrediction": true,
+      "imagePath": "output/sightings/images/2081333792845762895.png",
+      "isPosted": true,
+      "wpPostId": 13240,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-hokkaido-asahikawa-2026-07-26/",
+      "postedAt": "2026-07-26T22:40:11.336+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "東京都",
+      "city": "新宿区",
+      "shopName": "ドン・キホーテ新大久保駅前店",
+      "shopAddress": "東京都新宿区百人町2-17-1",
+      "productName": "うるちゅるシール",
+      "sightingTime": "2026-07-26 11:42頃",
+      "statusText": "在庫あり",
+      "confidenceMemo": "写真付きの目撃情報（ボンボンドロップ類縁商品）",
+      "sourceUrl": "https://x.com/fealy_onpu/status/2081344309354500274",
+      "sourceTweetId": "2081344309354500274",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2081344309354500274.png",
+      "isPosted": true,
+      "wpPostId": 13242,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-tokyo-shinjuku-2026-07-26/",
+      "postedAt": "2026-07-26T22:40:17.838+09:00"
     }
   ]
 }
