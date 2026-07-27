@@ -1,7 +1,7 @@
 {
   "date": "2026-07-27",
-  "updatedAt": "2026-07-27T12:23:01.386+09:00",
-  "count": 23,
+  "updatedAt": "2026-07-27T15:23:02.206+09:00",
+  "count": 24,
   "articles": [
     {
       "isSighting": true,
@@ -439,6 +439,25 @@
       "wpPostId": 13290,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-okayama-naka-okayama-2026-07-26/",
       "postedAt": "2026-07-27T12:25:45.436+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "京都府",
+      "city": "京都市下京区",
+      "shopName": "くまざわ書店 京都ポルタ店",
+      "shopAddress": "京都府京都市下京区烏丸通塩小路下ル東塩小路町902 京都駅前地下街ポルタ内",
+      "productName": "ボンボンドロップシール",
+      "sightingTime": "2026-07-27 14:57頃",
+      "statusText": "在庫あり（お一人様1種1点まで、取り置き不可）",
+      "confidenceMemo": "店舗公式アカウントによる入荷告知のため信頼性が高い",
+      "sourceUrl": "https://x.com/kbc_kyotoporta/status/2081619885868851396",
+      "sourceTweetId": "2081619885868851396",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2081619885868851396.png",
+      "isPosted": true,
+      "wpPostId": 13303,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-kyoto-shimogyo-kyoto-2026-07-27/",
+      "postedAt": "2026-07-27T15:23:08.817+09:00"
     }
   ]
 }
