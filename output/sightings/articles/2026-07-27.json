@@ -1,7 +1,7 @@
 {
   "date": "2026-07-27",
-  "updatedAt": "2026-07-27T19:02:49.137+09:00",
-  "count": 57,
+  "updatedAt": "2026-07-27T21:17:29.598+09:00",
+  "count": 58,
   "articles": [
     {
       "isSighting": true,
@@ -1085,6 +1085,25 @@
       "wpPostId": 13369,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-nagano-nagano-2026-07-27/",
       "postedAt": "2026-07-27T19:06:35.617+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "北海道",
+      "city": "札幌市東区",
+      "shopName": "Be-Pop アリオ札幌店",
+      "shopAddress": "北海道札幌市東区北7条東9丁目2-20 アリオ札幌 2F",
+      "productName": "ボンボンドロップシール",
+      "sightingTime": "2026-07-25",
+      "statusText": "入荷・販売（7/25入荷の事後報告）",
+      "confidenceMemo": "店舗公式アカウントによる写真付きの入荷・販売報告のため信頼性が高い。事後報告である点に注意。",
+      "sourceUrl": "https://x.com/ario_bepop/status/2081688863848972408",
+      "sourceTweetId": "2081688863848972408",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2081688863848972408.png",
+      "isPosted": true,
+      "wpPostId": 13371,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-hokkaido-higashi-sapporo-2026-07-25/",
+      "postedAt": "2026-07-27T21:17:36.706+09:00"
     }
   ]
 }
