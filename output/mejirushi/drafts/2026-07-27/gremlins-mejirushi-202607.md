@@ -1,4 +1,9 @@
 ---
+postedAt: "2026-07-27T05:04:31.306Z"
+wpPostUrl: "https://www.seal-search.com/mejirushi/gremlins-mejirushi-202607/"
+wpPostId: 13298
+posted: true
+imageGenerated: true
 type: mejirushi
 status: draft
 title: "【7月第5週発売】グレムリン めじるしアクセサリー"

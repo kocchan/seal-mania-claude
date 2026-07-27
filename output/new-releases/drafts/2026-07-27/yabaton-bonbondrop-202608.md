@@ -1,4 +1,7 @@
 ---
+postedAt: "2026-07-27T05:04:11.652Z"
+wpPostUrl: "https://www.seal-search.com/news/new-item/yabaton-bonbondrop-202608/"
+wpPostId: 13295
 type: new-release
 status: draft
 title: "矢場とんオリジナル ボンボンドロップシール 8月8日〜16日限定販売！みそかつ＆ぶーちゃんver."
@@ -15,7 +18,7 @@ tags:
   - 限定販売
   - 愛知
   - 期間限定
-posted: false
+posted: true
 imageGenerated: true
 store: "矢場とん（名古屋・愛知各店）"
 deadline: null

@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-07-27T05:03:51.347Z"
+wpPostUrl: "https://www.seal-search.com/character/bondorop-conveni-motif-20260727/"
+wpPostId: 13291
+posted: true
 type: newproduct
 status: draft
 title: "【7月下旬発売】ボンボンドロップシール コンビニ商品モチーフ新作"

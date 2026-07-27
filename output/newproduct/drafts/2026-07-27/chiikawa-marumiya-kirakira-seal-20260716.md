@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-07-27T05:03:57.219Z"
+wpPostUrl: "https://www.seal-search.com/character/chiikawa-marumiya-kirakira-seal-20260716/"
+wpPostId: 13292
+posted: true
 type: newproduct
 status: draft
 title: "【7/16発売】ちいかわ×丸美屋 キラキラシール入りふりかけ・カレー"

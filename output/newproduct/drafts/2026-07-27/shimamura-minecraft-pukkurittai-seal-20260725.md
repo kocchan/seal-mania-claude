@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-07-27T05:04:03.117Z"
+wpPostUrl: "https://www.seal-search.com/character/shimamura-minecraft-pukkurittai-seal-20260725/"
+wpPostId: 13293
+posted: true
 type: newproduct
 status: draft
 title: "【7/25発売】しまむら『マインクラフト』ぷっくりったいシールTシャツ"
