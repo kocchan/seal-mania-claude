@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-07-28T04:37:15.715Z"
+wpPostUrl: "https://www.seal-search.com/news/new-item/kyoto-aquarium-bonbondrop-202608/"
+wpPostId: 13429
+posted: true
 imageGenerated: true
 type: new-release
 status: draft
