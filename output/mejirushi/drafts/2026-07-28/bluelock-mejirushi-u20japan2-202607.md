@@ -1,4 +1,9 @@
 ---
+postedAt: "2026-07-29T04:41:33.002Z"
+wpPostUrl: "https://www.seal-search.com/mejirushi/bluelock-mejirushi-u20japan2-202607/"
+wpPostId: 13491
+posted: true
+imageGenerated: true
 type: mejirushi
 status: draft
 title: "【7月第5週】ブルーロック めじるしアクセサリー第2弾"

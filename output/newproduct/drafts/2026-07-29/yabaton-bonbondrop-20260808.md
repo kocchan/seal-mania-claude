@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-07-29T04:41:15.419Z"
+wpPostUrl: "https://www.seal-search.com/character/yabaton-bonbondrop-20260808/"
+wpPostId: 13488
+posted: true
 type: newproduct
 status: draft
 title: "【8/8〜】矢場とん ボンボンドロップシール数量限定"

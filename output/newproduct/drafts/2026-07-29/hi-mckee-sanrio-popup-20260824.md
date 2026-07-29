@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-07-29T04:41:10.719Z"
+wpPostUrl: "https://www.seal-search.com/character/hi-mckee-sanrio-popup-20260824/"
+wpPostId: 13487
+posted: true
 type: newproduct
 status: draft
 title: "【8/24発売】Hi! Mckee×サンリオ第1弾ステッカー登場"

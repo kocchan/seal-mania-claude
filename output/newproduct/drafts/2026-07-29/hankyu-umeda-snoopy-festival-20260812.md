@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-07-29T04:41:04.955Z"
+wpPostUrl: "https://www.seal-search.com/character/hankyu-umeda-snoopy-festival-20260812/"
+wpPostId: 13486
+posted: true
 type: newproduct
 status: draft
 title: "【8/12開幕】うめだスヌーピーフェスティバル新作シール"

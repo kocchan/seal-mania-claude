@@ -1,4 +1,9 @@
 ---
+postedAt: "2026-07-29T04:41:45.161Z"
+wpPostUrl: "https://www.seal-search.com/mejirushi/hongama-ghost-mejirushi-202611/"
+wpPostId: 13494
+posted: true
+imageGenerated: true
 type: mejirushi
 status: draft
 title: "【11月発売】HONGAMA ゴースト めじるしアクリルチャーム"

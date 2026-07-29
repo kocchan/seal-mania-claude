@@ -1,4 +1,9 @@
 ---
+postedAt: "2026-07-29T04:41:55.981Z"
+wpPostUrl: "https://www.seal-search.com/mejirushi/ranma12-mejirushi-202607/"
+wpPostId: 13497
+posted: true
+imageGenerated: true
 type: mejirushi
 status: draft
 title: "【7/28 17時2次予約】らんま1/2 めじるしアクセサリー"
