@@ -1,7 +1,7 @@
 {
   "date": "2026-07-29",
-  "updatedAt": "2026-07-29T17:49:16.049+09:00",
-  "count": 15,
+  "updatedAt": "2026-07-29T20:21:28.084+09:00",
+  "count": 16,
   "articles": [
     {
       "isSighting": true,
@@ -287,6 +287,25 @@
       "wpPostId": 13503,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-kanagawa-saiwai-kawasaki-2026-07-29/",
       "postedAt": "2026-07-29T17:49:22.658+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "沖縄県",
+      "city": "那覇市",
+      "shopName": "アニメイト那覇国際通り店",
+      "shopAddress": "沖縄県那覇市松尾2-8-19 どん亭ビル2F",
+      "productName": "うるちゅるポップシール",
+      "sightingTime": "2026-07-29 09:33頃",
+      "statusText": "入荷（在庫あり）",
+      "confidenceMemo": "店舗公式アカウントによる画像付きの入荷告知であり、信頼性が非常に高い。",
+      "sourceUrl": "https://x.com/animatenahakd/status/2082399027522584728",
+      "sourceTweetId": "2082399027522584728",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2082399027522584728.png",
+      "isPosted": true,
+      "wpPostId": 13505,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-okinawa-naha-2026-07-29/",
+      "postedAt": "2026-07-29T20:21:34.482+09:00"
     }
   ]
 }
