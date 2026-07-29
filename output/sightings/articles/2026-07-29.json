@@ -1,7 +1,7 @@
 {
   "date": "2026-07-29",
-  "updatedAt": "2026-07-29T11:49:05.781+09:00",
-  "count": 12,
+  "updatedAt": "2026-07-29T14:45:47.785+09:00",
+  "count": 14,
   "articles": [
     {
       "isSighting": true,
@@ -230,6 +230,44 @@
       "wpPostId": 13485,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-shizuoka-numazu-2026-07-28/",
       "postedAt": "2026-07-29T11:50:24.454+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "茨城県",
+      "city": "水戸市",
+      "shopName": "ブックエース 酒門店",
+      "shopAddress": "茨城県水戸市酒門町3108-3",
+      "productName": "ボンボンドロップシール",
+      "sightingTime": "2026-07-29 14:18頃",
+      "statusText": "在庫あり（1家族2点までの購入制限あり）",
+      "confidenceMemo": "店舗公式アカウントによる入荷案内",
+      "sourceUrl": "https://x.com/BA_sakado/status/2082334937081151552",
+      "sourceTweetId": "2082334937081151552",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2082334937081151552.png",
+      "isPosted": true,
+      "wpPostId": 13499,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-ibaraki-mito-2026-07-29/",
+      "postedAt": "2026-07-29T14:45:55.158+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "栃木県",
+      "city": "宇都宮市",
+      "shopName": "ヤマダデンキ 宇都宮インターパーク店",
+      "shopAddress": "栃木県宇都宮市インターパーク6-5-2",
+      "productName": "ボンボンドロップシール コジコジ",
+      "sightingTime": "2026-07-29 03:30頃",
+      "statusText": "緊急入荷（在庫あり、購入制限あり）",
+      "confidenceMemo": "店舗公式アカウントによる入荷案内",
+      "sourceUrl": "https://x.com/yamada_N_kanto/status/2082307627770421525",
+      "sourceTweetId": "2082307627770421525",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2082307627770421525.png",
+      "isPosted": true,
+      "wpPostId": 13501,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-tochigi-utsunomiya-2026-07-29/",
+      "postedAt": "2026-07-29T14:46:01.934+09:00"
     }
   ]
 }
