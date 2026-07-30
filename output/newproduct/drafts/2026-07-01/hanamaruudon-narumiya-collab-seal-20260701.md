@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-07-30T04:28:21.358Z"
+wpPostUrl: "https://www.seal-search.com/character/hanamaruudon-narumiya-collab-seal-20260701/"
+wpPostId: 13560
+posted: true
 type: newproduct
 status: draft
 title: "はなまるうどん×ナルミヤ限定シール完売続出"

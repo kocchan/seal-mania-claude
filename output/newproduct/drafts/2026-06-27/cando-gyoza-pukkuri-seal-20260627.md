@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-07-30T04:28:01.612Z"
+wpPostUrl: "https://www.seal-search.com/character/cando-gyoza-pukkuri-seal-20260627/"
+wpPostId: 13557
+posted: true
 type: newproduct
 status: draft
 title: "キャンドゥ「餃子のぷっくりシール」がシュール可愛い"

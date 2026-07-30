@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-07-30T04:27:43.487Z"
+wpPostUrl: "https://www.seal-search.com/character/anime-chiikawa-pukkuri-gohobi-seal-20260828/"
+wpPostId: 13554
+posted: true
 type: newproduct
 status: draft
 title: "【8/28発売】アニメちいかわぷっくりごほうびシール"

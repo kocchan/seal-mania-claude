@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-07-30T04:29:17.608Z"
+wpPostUrl: "https://www.seal-search.com/character/hachiemon-bonbondrop-20260801/"
+wpPostId: 13569
+posted: true
 type: newproduct
 status: draft
 title: "【8月上旬】カンテレ「ハチエモン」ボンドロ登場"

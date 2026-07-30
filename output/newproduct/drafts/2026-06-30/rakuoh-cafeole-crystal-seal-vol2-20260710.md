@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-07-30T04:28:14.228Z"
+wpPostUrl: "https://www.seal-search.com/character/rakuoh-cafeole-crystal-seal-vol2-20260710/"
+wpPostId: 13559
+posted: true
 type: newproduct
 status: draft
 title: "酪王カフェオレ クリスタルシールVol.2予約開始"

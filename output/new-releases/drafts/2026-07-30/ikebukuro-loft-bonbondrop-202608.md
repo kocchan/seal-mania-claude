@@ -1,6 +1,9 @@
 ---
+postedAt: "2026-07-30T04:29:27.109Z"
+wpPostUrl: "https://www.seal-search.com/news/new-item/ikebukuro-loft-bonbondrop-202608/"
+wpPostId: 13571
 imageGenerated: true
-posted: false
+posted: true
 type: lottery
 status: draft
 title: "【本日7/30締切】池袋ロフト 8/7ボンボンドロップシール抽選販売｜LivePocket申込方法"

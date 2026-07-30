@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-07-30T04:27:37.871Z"
+wpPostUrl: "https://www.seal-search.com/character/chiikawa-bonbondrop-sakigake-20260616/"
+wpPostId: 13553
+posted: true
 type: newproduct
 status: draft
 title: "【6/16先着】ちいかわボンボンドロップ再入荷"

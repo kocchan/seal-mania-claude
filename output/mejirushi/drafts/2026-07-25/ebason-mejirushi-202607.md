@@ -1,4 +1,9 @@
 ---
+postedAt: "2026-07-30T04:29:44.222Z"
+wpPostUrl: "https://www.seal-search.com/mejirushi/ebason-mejirushi-202607/"
+wpPostId: 13574
+posted: true
+imageGenerated: true
 type: mejirushi
 status: draft
 title: "【7月23日受注開始】えばそんめじるしチャーム第2弾"

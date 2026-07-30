@@ -1,4 +1,9 @@
 ---
+postedAt: "2026-07-30T04:29:55.134Z"
+wpPostUrl: "https://www.seal-search.com/mejirushi/hi-mckee-sanrio-mejirushi-202608/"
+wpPostId: 13577
+posted: true
+imageGenerated: true
 type: mejirushi
 status: draft
 title: "【8月24日発売】Hi!Mckee×サンリオ めじるしチャーム"

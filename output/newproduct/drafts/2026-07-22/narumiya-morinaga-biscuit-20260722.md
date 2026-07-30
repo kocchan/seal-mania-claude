@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-07-30T04:28:34.164Z"
+wpPostUrl: "https://www.seal-search.com/character/narumiya-morinaga-biscuit-20260722/"
+wpPostId: 13562
+posted: true
 type: newproduct
 status: draft
 title: "【7月下旬】ナルミヤ×森永ビスケットコラボ発売"

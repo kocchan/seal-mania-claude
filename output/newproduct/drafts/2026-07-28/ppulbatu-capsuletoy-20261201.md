@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-07-30T04:29:05.845Z"
+wpPostUrl: "https://www.seal-search.com/character/ppulbatu-capsuletoy-20261201/"
+wpPostId: 13567
+posted: true
 type: newproduct
 status: draft
 title: "TXTキャラ「PPULBATU」初カプセルトイ展開"

@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-07-30T04:28:40.406Z"
+wpPostUrl: "https://www.seal-search.com/character/pandorobo-fanclub-goods-20260723/"
+wpPostId: 13563
+posted: true
 type: newproduct
 status: draft
 title: "パンどろぼう誕生日記念グッズ会員先行販売"

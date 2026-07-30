@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-07-30T04:28:07.958Z"
+wpPostUrl: "https://www.seal-search.com/character/akabeko-color-pukkuri-kirakira-seal-20260630/"
+wpPostId: 13558
+posted: true
 type: newproduct
 status: draft
 title: "カラーべこぷっくりキラキラシール発売"

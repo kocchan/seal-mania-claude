@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-07-30T04:28:46.131Z"
+wpPostUrl: "https://www.seal-search.com/character/tamagotchi-punipunishitai-20260801/"
+wpPostId: 13564
+posted: true
 type: newproduct
 status: draft
 title: "【8月発売】たまごっちぷにぷにし隊ガシャポン"

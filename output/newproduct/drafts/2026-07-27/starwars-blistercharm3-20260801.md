@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-07-30T04:28:52.420Z"
+wpPostUrl: "https://www.seal-search.com/character/starwars-blistercharm3-20260801/"
+wpPostId: 13565
+posted: true
 type: newproduct
 status: draft
 title: "【8月発売】スター・ウォーズ新作ガシャポンチャーム"

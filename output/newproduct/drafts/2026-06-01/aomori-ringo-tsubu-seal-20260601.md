@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-07-30T04:27:32.306Z"
+wpPostUrl: "https://www.seal-search.com/character/aomori-ringo-tsubu-seal-20260601/"
+wpPostId: 13552
+posted: true
 type: newproduct
 status: draft
 title: "青森「りんごつぶつぶシール」一般販売開始"

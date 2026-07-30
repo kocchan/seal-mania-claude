@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-07-30T04:29:11.808Z"
+wpPostUrl: "https://www.seal-search.com/character/chiikawa-okaomultiring-20260701/"
+wpPostId: 13568
+posted: true
 type: newproduct
 status: draft
 title: "ちいかわ「おかおマルチリング」ガチャ登場"

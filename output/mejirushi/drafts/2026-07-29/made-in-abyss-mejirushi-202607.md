@@ -1,4 +1,9 @@
 ---
+postedAt: "2026-07-30T04:30:06.925Z"
+wpPostUrl: "https://www.seal-search.com/mejirushi/made-in-abyss-mejirushi-202607/"
+wpPostId: 13580
+posted: true
+imageGenerated: true
 type: mejirushi
 status: draft
 title: "【7月28日発売】メイドインアビス めじるしアクセサリー"

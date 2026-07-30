@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-07-30T04:27:49.333Z"
+wpPostUrl: "https://www.seal-search.com/character/bonbondrop-popupstore-tour-20260619/"
+wpPostId: 13555
+posted: true
 type: newproduct
 status: draft
 title: "【6/19開催】ボンボンドロップ全国POP UP開催"

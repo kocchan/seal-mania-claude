@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-07-30T04:28:28.180Z"
+wpPostUrl: "https://www.seal-search.com/character/jojo-nifolmeshon9-sealwafers-20260801/"
+wpPostId: 13561
+posted: true
 type: newproduct
 status: draft
 title: "【8月発売】ジョジョにふぉるめーしょん第9弾"

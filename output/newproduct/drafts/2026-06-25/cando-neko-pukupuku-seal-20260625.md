@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-07-30T04:27:55.226Z"
+wpPostUrl: "https://www.seal-search.com/character/cando-neko-pukupuku-seal-20260625/"
+wpPostId: 13556
+posted: true
 type: newproduct
 status: draft
 title: "キャンドゥ「猫デザインぷくぷくシール」登場"

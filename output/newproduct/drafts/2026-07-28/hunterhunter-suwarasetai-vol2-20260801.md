@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-07-30T04:28:58.897Z"
+wpPostUrl: "https://www.seal-search.com/character/hunterhunter-suwarasetai-vol2-20260801/"
+wpPostId: 13566
+posted: true
 type: newproduct
 status: draft
 title: "【8月発売】ハンターハンター幻影旅団すわらせ隊2"
