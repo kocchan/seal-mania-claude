@@ -1,8 +1,8 @@
 {
-  "timestamp": "2026-07-30T14:12:54.297Z",
+  "timestamp": "2026-07-30T22:07:42.774Z",
   "source": "yahoo_realtime",
   "platform": "x",
-  "count": 236,
+  "count": 248,
   "data": [
     {
       "tweetId": "2082630813078913126",
@@ -3968,6 +3968,208 @@
       "images": [
         "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i5e72TLbER0xQeK1l8ZZ0OLVAhdjU5Fd3BfG7WHCEFQfBkOyVVaEiY1GhkPi5VIk_3nrRis5uOkA2O00HwCanYRHDIJW0pEQeB9JNjcJiSFLXlzhh-IMj7Qmt-4UKGuBf1Zu3OBO2lgp4KfM8xyre9djBM-d4_sNc_9U1YqKFTATUnS_SdVy9OjQWHWJFZdtVpVzVzeqzUzqBQ0E--L99oU",
         "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i6hjVpND1OjWZ7RVcmujne-hQ4fzsZKNOXiZqxyMbXjJJP3ClwfigbpZ32xMRufDRdmcdTIqyr-tYu_Db8xfOKZs9FIKhLyEPJEknUPtOA7WT8235UaC4Lu-60_x1C2yqekW59YAreAqd4Vy0FvBOQieCRbpy-loqRDgETpjPaQMQ=="
+      ],
+      "isProcessed": true,
+      "_filepath": "output/sightings/raw/yahoo-2026-07-30.json"
+    },
+    {
+      "tweetId": "2082883369864437925",
+      "userId": "MeloMeloNikki",
+      "text": "ボンボンドロップのクロミマイメロキティ…バラ売りないけど欲しくなる  ボンボンドロップシール ボンドロ クロミ マイメロ キティ jp.mercari.com/item/m37674846…めろ@MeloMeloNikki17:37",
+      "user": "めろ",
+      "time": "2026-07-31T17:37:00.000+09:00",
+      "timeRaw": "17:37",
+      "url": "https://x.com/MeloMeloNikki/status/2082883369864437925",
+      "hashtags": [],
+      "images": [
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i5e72TLbER0xQeK1l8ZZ0OLLC6LbM9s-J6h5y06EnifwKWWSR2CjPPSyPneg7p6gFAuAz9mjUGUsyDqKIwjNt389Um_wHYqBpe99pELGHw1DPPetP3noAobzV1kxvRV3MqmoM2JkZY2hy1n0gpOGWCorTv2TPvEPJIAwOuj1b_UZc-AM4v4bqFx9Bm_5dnBbTUYKGTYKBSZ1nGly4kxEqf3"
+      ],
+      "isProcessed": true,
+      "_filepath": "output/sightings/raw/yahoo-2026-07-30.json"
+    },
+    {
+      "tweetId": "2082856858902241473",
+      "userId": "setushufu",
+      "text": "ボンボンドロップ ハローキティ　在庫あります  サンリオ　ボンドロ link.amazon/B0e8zONeMまる@setushufu15:52",
+      "user": "まる",
+      "time": "2026-07-31T15:52:00.000+09:00",
+      "timeRaw": "15:52",
+      "url": "https://x.com/setushufu/status/2082856858902241473",
+      "hashtags": [],
+      "images": [
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i5e72TLbER0xQeK1l8ZZ0OLthj4FRH2y-KhGiEIFmYw_6MLOs-1wgUAjxhz78qihXwR5Qdk8tlb_9nPSd-FGiW_0bn_K2H93ylWZ7snZbxtMx57hL9koAW-SL1X0BSA8gnWyyoGv1f1v6Q8umGh9wfrVbMua9bHYLhLLnuFPL5Nb7wRV_DOHDLGZVocs93P9mnBbLDQeV_qB9S4QxUbd-LF"
+      ],
+      "isProcessed": true,
+      "_filepath": "output/sightings/raw/yahoo-2026-07-30.json"
+    },
+    {
+      "tweetId": "2082878913987191262",
+      "userId": "yellow_ked",
+      "text": "大阪物販、ぷっくりシール行列で諦める人が出ないと良いけど…暑いしねぇ🫠ぴょん@yellow_ked17:20",
+      "user": "ぴょん",
+      "time": "2026-07-31T17:20:00.000+09:00",
+      "timeRaw": "17:20",
+      "url": "https://x.com/yellow_ked/status/2082878913987191262",
+      "hashtags": [],
+      "images": [
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i5e72TLbER0xQeK1l8ZZ0OLaOJvSFKoULy5h3PMQ_Z3IhW3E07kR59A8NRa4Sds4ocgewI9FZKqN38IuyVthA4An1QDhGQgK3mCfmNugZFt-seltwxPgXPD9Cg2ni0qjukVdHQNkAMb5lrrjs-wf9lNwxsnrF_v6w3YuArEXl26CLEyJHu8FyVLa9xmL-4bWZEL4FVRGTAbWbEx0qEYGpXc"
+      ],
+      "isProcessed": true,
+      "_filepath": "output/sightings/raw/yahoo-2026-07-30.json"
+    },
+    {
+      "tweetId": "2082864246816419904",
+      "userId": "n_vicfan2025",
+      "text": "消えない花火も、ぷっくりシールの対象になるの良いですね🎆 三形態+ユニバ限定盤+会場限定盤と購入したなかで、会場限定盤がパッケージの満足度高かったです🥰 映像特典はないけど、LPサイズのビジュアルは最高💕 会場限定ですし、オススメです！ #timelesz_消えない花火 x.com/OVTT_official/…timelesz (タイムレス)｜Over The Top【公式】@OVTT_official9:20/／ 　New Single『消えない花火』 　ツアー会場販売のご案内 \\＼  『We're timelesz LIVE TOUR 2026 episode 2 MOMENTUM』 大阪・福岡・宮城公演で『消えない花火』のCD販売をいたします。 会場にお越しの際は、ぜひお立ち寄りください☺️  『消えない花火』取扱商品 💿初回限定盤A 💿初回限定盤B ゆーSS@n_vicfan202516:21",
+      "user": "ゆーSS",
+      "time": "2026-07-31T09:20:00.000+09:00",
+      "timeRaw": "9:20",
+      "url": "https://x.com/n_vicfan2025/status/2082864246816419904",
+      "hashtags": [
+        "#timelesz_消えない花火"
+      ],
+      "images": [
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i5e72TLbER0xQeK1l8ZZ0OLXH8P_h6_ydor6ig8I1CFsjU9vcIDhizxJfPuV0ceq9pXa5ecwcJsRYCx1RnUwcl_Wp89BJWwLsXUq5mazvtQ1-BBp3xHlWu4Tm-DceRqJk7PYZpAItVijQ2NXx41RuYJbTvNrUFJTa4DBbJDk_F7GwPFbrhDlaGKck8AUShxrFXuPdmIL-9Mhd6e8vUFKbIM",
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i5e72TLbER0xQeK1l8ZZ0OLi-IKw1TGrXP_E3B9YFQk0WHMyuy4bL4R0Q4kjdaF6Q3Chd-StDXWffDhCq1llnXa6klSlSqSAjaWEIznmdIemGmlknCRCmEveIQYRzpDW-e5yEZbXmsk_kIMmCFLylB3RWzuObxxc77JlQ9xE3ZnboPNAwdTvGYpkGEg1FSeSLcZyf0cNjlHHLzxegLkK56c",
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i6hjVpND1OjWZ7RVcmujne-J_yP1iw0lKukGwKA76GuqLA2rzDZ96Jw6cgvkKnWWxqT665snLJ1cvEui2LMN4p3hstffO4CsIhJSS64vmPswKrgGPIvRkQqCzVepl9a0hGUrR8M0qpZi6y8QN0QpyOWHuXcQYLLaFjgUq6_XBX5uw=="
+      ],
+      "isProcessed": true,
+      "_filepath": "output/sightings/raw/yahoo-2026-07-30.json"
+    },
+    {
+      "tweetId": "2082858615820747048",
+      "userId": "houko3",
+      "text": "十二国記、なんかぷっくりシール付きフェアやるらしいけどこんな「ぷっくり」みたいは可愛いオノマトペ似合わないジャンルそうそう無いなって。ほーこ@houko315:59",
+      "user": "ほーこ",
+      "time": "2026-07-31T15:59:00.000+09:00",
+      "timeRaw": "15:59",
+      "url": "https://x.com/houko3/status/2082858615820747048",
+      "hashtags": [],
+      "images": [
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i5e72TLbER0xQeK1l8ZZ0OLrCvZ7K5PHsOMRrttM6QgA11KAqdA0G0AQC6bmc1ZlDXB2-bOer9Dy8fHgQ5X2uWYDRVTeyU_hxQv2EiWVi0hKd2fIxsGMPHN9V3IuLyhxNMn85AYHn3kHndukSEFTfPdb6SqvxzBy3CyxSI_B9WqCQ-SxJkgC4pjYPNsI_z_wFPvUaLGkplzg1oFrtq3HGlg"
+      ],
+      "isProcessed": true,
+      "_filepath": "output/sightings/raw/yahoo-2026-07-30.json"
+    },
+    {
+      "tweetId": "2082844569327313329",
+      "userId": "timele8_luv",
+      "text": "そういえば…ぷっくりシールのおかげで 過去の作品の売上は結構あったはずだよね？！ 消えない花火も大阪会場で売上伸びますように🙏𝚖𝚊𝚛𝚐𝚊𝚛𝚎𝚝*まーが@timele8_luv15:03",
+      "user": "𝚖𝚊𝚛𝚐𝚊𝚛𝚎𝚝*まーが",
+      "time": "2026-07-31T15:03:00.000+09:00",
+      "timeRaw": "15:03",
+      "url": "https://x.com/timele8_luv/status/2082844569327313329",
+      "hashtags": [],
+      "images": [
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i5e72TLbER0xQeK1l8ZZ0OL4BywCmMK50R4EbzJm81FOeAS8-t8hSANxlA9l1PGYSusHW8UvgTDZSTlDKZS7GJrzfxTXRB6ByBkCpGsc3amNI93EE8uY1qfgsMqkGq9tDkbiQfVzOHLR40q0qpM0sTZj8Cvu82DuE3lQzH4mHQ9Zjajy858dv7t7K3B2lDjnUuTTdLHFMiRifIbhFv-yRjl"
+      ],
+      "isProcessed": true,
+      "_filepath": "output/sightings/raw/yahoo-2026-07-30.json"
+    },
+    {
+      "tweetId": "2082833360146338102",
+      "userId": "fmkn_0916sz",
+      "text": "ぷっくりシール消えない花火対象最高だね！ 真駒内でGETしたけど思ったより大きくて実物かわいいです🫶🏻 pic.x.com/aYnikQW3nn𝑌@fmkn_0916sz14:19",
+      "user": "𝑌",
+      "time": "2026-07-31T14:19:00.000+09:00",
+      "timeRaw": "14:19",
+      "url": "https://x.com/fmkn_0916sz/status/2082833360146338102",
+      "hashtags": [],
+      "images": [
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i5e72TLbER0xQeK1l8ZZ0OLVTzNDQJQqGm2lamEx2twOg1_60juYCmjgb__URUq-qc5NS1SC0PPU_vAuuCLnDfOy0vqfIKwODjmT_NZXPHGQ58KEcxCq8ry4rSLBFpz1ifi9O1UFfyc-wxnnKxjRHULBSQvUN2VQEm1szhZr0qoLq0P9MYj_mBxsg8NdPVL8BRd79x2jPIFKF8Jte2gOOV7",
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i6hjVpND1OjWZ7RVcmujne-B5HuwUsxjnUqlJeF_Rqb55t2SkpV_taRK_wWQdcZ5CD6njH_bwdJv3pnvz0iIrBEx1Dy4izxJ9ZcT27RcVWC6HKQH2DKgwThGG2LyVoAJ0Fcq_nyIeVFmcg_srqAEfWGAWC7EyTdxXIuJ1m0RAOgzw=="
+      ],
+      "isProcessed": true,
+      "_filepath": "output/sightings/raw/yahoo-2026-07-30.json"
+    },
+    {
+      "tweetId": "2082832245816181144",
+      "userId": "ganbaranai_3103",
+      "text": "大阪行けないけどぷっくりシール対象なの最高やん！！！！！ ありがとうございます！！！！！ x.com/ovtt_official/…timelesz (タイムレス)｜Over The Top【公式】@OVTT_official9:20/／ 　New Single『消えない花火』 　ツアー会場販売のご案内 \\＼  『We're timelesz LIVE TOUR 2026 episode 2 MOMENTUM』 大阪・福岡・宮城公演で『消えない花火』のCD販売をいたします。 会場にお越しの際は、ぜひお立ち寄りください☺️  『消えない花火』取扱商品 💿初回限定盤A 💿初回限定盤B しお🐰ྀི🤍@ganbaranai_310314:14",
+      "user": "しお🐰ྀི🤍",
+      "time": "2026-07-31T09:20:00.000+09:00",
+      "timeRaw": "9:20",
+      "url": "https://x.com/ganbaranai_3103/status/2082832245816181144",
+      "hashtags": [],
+      "images": [
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i5e72TLbER0xQeK1l8ZZ0OLbwKcSy_vwiI3YyDqfYYazqiaZvx02xjLA8TucMVkWB8filM1aCydWY4KYl6C-StGnFWTWchMYSrIoraVLiddt3AxKweMhnjFMFQli78WFjGlvCmDuIdevOBzOJtCW4Ws2x4oMIH_URrNYireaB5Zgrcxylm6OfxUHbQNVRzTbH2KEUitcVV5OG1F1tiNRCMk",
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i5e72TLbER0xQeK1l8ZZ0OLi-IKw1TGrXP_E3B9YFQk0WHMyuy4bL4R0Q4kjdaF6Q3Chd-StDXWffDhCq1llnXa6klSlSqSAjaWEIznmdIemGmlknCRCmEveIQYRzpDW-e5yEZbXmsk_kIMmCFLylB3RWzuObxxc77JlQ9xE3ZnboPNAwdTvGYpkGEg1FSeSLcZyf0cNjlHHLzxegLkK56c",
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i6hjVpND1OjWZ7RVcmujne-J_yP1iw0lKukGwKA76GuqLA2rzDZ96Jw6cgvkKnWWxqT665snLJ1cvEui2LMN4p3hstffO4CsIhJSS64vmPswKrgGPIvRkQqCzVepl9a0hGUrR8M0qpZi6y8QN0QpyOWHuXcQYLLaFjgUq6_XBX5uw=="
+      ],
+      "isProcessed": true,
+      "_filepath": "output/sightings/raw/yahoo-2026-07-30.json"
+    },
+    {
+      "tweetId": "2082844054707224740",
+      "userId": "Yxmz7P",
+      "text": "返信先:@minngyu46他1人はい　お姉さんに伝えて欲しいのですが、自分勝手にはなるのですが、ベリーベリーのプチドロお譲りいただき、キティ親が買ってきてくれたため、ナルミヤボンドロ、うるちゅる2の3つのお取引可能でしょうか自分勝手で申し訳ありません あと、一応受験生のため返信遅れるかもしれないです😭きー@Yxmz7P15:01",
+      "user": "きー",
+      "time": "2026-07-31T15:01:00.000+09:00",
+      "timeRaw": "15:01",
+      "url": "https://x.com/Yxmz7P/status/2082844054707224740",
+      "hashtags": [],
+      "images": [
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8P6b-YUbn3oNOitp_cHdw_uJ74V6_SfYweFQS1qwk-_TJcz301WI2Cz5eywMtn22AoNcm-px-tUtzgy1UghJnmv5CSX3nK1QdnMN8PmdZ_qSU_tLrY5bztAawi997k2aD0PQI8bppeqemfjVhU461isgsL7D2Sl1B_zbLtx9WJFDWmsCthWLKZMqqZeAdP0T9uUO7vwCTdJbQvUBaXJxbTinLqNWnhJaG3v165qGUTgw"
+      ],
+      "isProcessed": true,
+      "_filepath": "output/sightings/raw/yahoo-2026-07-30.json"
+    },
+    {
+      "tweetId": "2082843753661010200",
+      "userId": "minami_000578",
+      "text": "帰り道にドンキあるから寄ったけどボンドロなかった(:３っ)∋ うるちゅるが大量にあった(´•.̫ • ⋈)サンリオベビーもあった(´•.̫ • ⋈)買わなかったけどひさしぶりに見かけた(´•.̫ • ⋈)minami♡@minami_00057815:00",
+      "user": "minami♡",
+      "time": "2026-07-31T15:00:00.000+09:00",
+      "timeRaw": "15:00",
+      "url": "https://x.com/minami_000578/status/2082843753661010200",
+      "hashtags": [],
+      "images": [
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i5e72TLbER0xQeK1l8ZZ0OL-pPPq7prvcIJ90Lqd_FJkWyHDHi6bkR8ylnfuBQe1lPGPqgi-_DyDBQk61Qn1_K1oKyAbtQ4nxbPO9etF2MMFahsUSVoVjhr2WSyG83owKs16wyyokMB1E_127e9vlQbPIDTO5HuX2Aka1PNBraAJTc6ZmBrv6KeslWTyvOlBq3OsgXQU_TwKsq1ZMVpH2xZ"
+      ],
+      "isProcessed": true,
+      "_filepath": "output/sightings/raw/yahoo-2026-07-30.json"
+    },
+    {
+      "tweetId": "2082835730381087164",
+      "userId": "y_ro_ashikun",
+      "text": "シール 三省堂 picnic イオン  うるちゅるを全然持っていないことに気付いたので、持っているかも？と思ってステイしたもう2種も買いに行く。 pic.x.com/4B0xHF3xRP芦🆕@y_ro_ashikun14:28",
+      "user": "芦🆕",
+      "time": "2026-07-31T14:28:00.000+09:00",
+      "timeRaw": "14:28",
+      "url": "https://x.com/y_ro_ashikun/status/2082835730381087164",
+      "hashtags": [],
+      "images": [
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i5e72TLbER0xQeK1l8ZZ0OLJvGHue_cTuyqLlsjdCZcCZ1YY5e3oNjzd1hyZMSv5dsLg0rwUevu1zmw4PrFTiT_MVA-88p8t96j-6LggTqb10u0SzJKTtxSSrVBiOsJzIDGOVyYGEcsazSLXg62MAxpvkO5U-DwojazyC6brOLuzXyASGapL6evoMv4wHZg2thF8XErh_n-67bxKFmLMb5V",
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i6hjVpND1OjWZ7RVcmujne-s5EmeqXQ9mCn56LoHEH6NhaI1f9fv1bFzQeGZmMH5zjdV1vUXkJIF27EhjJ_pKI9JSGBtGrjgTAhZZ7p7ySN8StgQDcEf4D2GeKObb8Zn512Sl_BYUIas1_vp3gxwb9X2nnr4awwGwNOtKcI4iZtgw==",
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i6hjVpND1OjWZ7RVcmujne-Wco1TU9IPRbbDihAk1XmRfJO4ulFJ3990oKpWvasEkTgqamynC34Xl8f2iU29s_BRr7x4k4MGRxOuzsHQG9f1T_UNONwVE8g9-_8AuK7qwKhKlIQqcY6b7stj8EjQ9XpQnfrZyooMgu3qVIjHOHThQ==",
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i6hjVpND1OjWZ7RVcmujne-N-expyBWRXu8jzxE9VaoMuA1tCl-zPBQ35ye_BVS93K_skzEqvWRzjjM2GhPomXvAeCzA98kAlBF0si0cw-qQKHMgBEQL5Ubfz6380Nk9U6Mh4kyUSitjSiZOaKx3ifiQQu7k2xfxtuiylsd0qtEVw=="
+      ],
+      "isProcessed": true,
+      "_filepath": "output/sightings/raw/yahoo-2026-07-30.json"
+    },
+    {
+      "tweetId": "2082834366380806622",
+      "userId": "umoumikecat",
+      "text": "やねです！本日は直前にご迷惑お掛けしました😭  ストレスはすぐポイ❕言葉で小出しして解消❕大感謝救世主⚯を。氏、ゲリラご帰宅つおい⚡️☔️傘で道幅取るやつは慎ましく、じゃない詰めるよご主、ウォーターシールが破れたらどうなるか知りたいけど試せない⩌   ̫ ⩌うるちゅるPOPシールてのが x.com/umoumikecat/st…うもう@みけねこカフェ秋葉原@umoumikecat7:06ぐっうもうにーん！！ 直前にポストすみませんでした😭 16時半にいんさせて頂きます😭  #みけねこカフェ #秋葉原コンカフェ #コンカフェ嬢 #コンカフェ営業 #コンカフェ #お給仕 #またたび #鯖缶 #屋根裏 うもう@みけねこカフェ秋葉原@umoumikecat14:23",
+      "user": "うもう@みけねこカフェ秋葉原",
+      "time": "2026-07-31T07:06:00.000+09:00",
+      "timeRaw": "7:06",
+      "url": "https://x.com/umoumikecat/status/2082834366380806622",
+      "hashtags": [
+        "#みけねこカフェ",
+        "#秋葉原コンカフェ",
+        "#コンカフェ嬢",
+        "#コンカフェ営業",
+        "#コンカフェ",
+        "#お給仕",
+        "#またたび",
+        "#鯖缶",
+        "#屋根裏"
+      ],
+      "images": [
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i5e72TLbER0xQeK1l8ZZ0OLKAvUTtyYpR00ZhgOi4iJUy8qGnKbtTbMTn_dSvaydEEFNoOW_qGsWg0VIIDBikMDB42l6tFNKcx3I98tTRG-nJ7YBzRajp3JL9KnCGUEMs6EcvqKm9fMRVniy6E8aOQ09G5B3V4P2KUqWTHuLkRfPAffPaCwKBz1SfKd7d9ECxSIs6lnIB-opHn9hU_Ih0Is",
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i5e72TLbER0xQeK1l8ZZ0OLKAvUTtyYpR00ZhgOi4iJUy8qGnKbtTbMTn_dSvaydEEFNoOW_qGsWg0VIIDBikMDB42l6tFNKcx3I98tTRG-nJ7YBzRajp3JL9KnCGUEMs6EcvqKm9fMRVniy6E8aOQ09G5B3V4P2KUqWTHuLkRfPAffPaCwKBz1SfKd7d9ECxSIs6lnIB-opHn9hU_Ih0Is",
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i6hjVpND1OjWZ7RVcmujne-sloRFypaW7f4rcKLBQXNGBu8FOj00Oq8rrtIKuPV_6CEXEOznLGt0f7n8UKXu3ML6tIgi8eWq6HF3Q-_D1Pc-aL35YGmhvDoRrz1uhxO8-liOliH42xawzwIhM-VfK48agMZ2z3SpgMMDANumJ0eUQ=="
       ],
       "isProcessed": true,
       "_filepath": "output/sightings/raw/yahoo-2026-07-30.json"
