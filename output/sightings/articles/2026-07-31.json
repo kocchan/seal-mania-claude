@@ -1,7 +1,7 @@
 {
   "date": "2026-07-31",
-  "updatedAt": "2026-07-31T11:58:14.180+09:00",
-  "count": 24,
+  "updatedAt": "2026-07-31T15:05:01.700+09:00",
+  "count": 26,
   "articles": [
     {
       "isSighting": true,
@@ -458,6 +458,44 @@
       "wpPostId": 13684,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-oita-oita-2026-07-30-2/",
       "postedAt": "2026-07-31T12:01:02.329+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "滋賀県",
+      "city": "草津市",
+      "shopName": "ブックハウスひらがき エイスクエア店",
+      "shopAddress": "滋賀県草津市西渋川1丁目18-1 エイスクエア内",
+      "productName": "BONBON DROP ボンボンドロップシールミニチャーム",
+      "sightingTime": "2026-07-31 04:02頃",
+      "statusText": "在庫あり（入荷直後・在庫に限りあり）",
+      "confidenceMemo": "店舗公式アカウントによる入荷情報で信頼性が非常に高い",
+      "sourceUrl": "https://x.com/hiragakiasq/status/2083040493936816312",
+      "sourceTweetId": "2083040493936816312",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2083040493936816312.png",
+      "isPosted": true,
+      "wpPostId": 13686,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-shiga-kusatsu-2026-07-31/",
+      "postedAt": "2026-07-31T15:05:08.520+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "大阪府",
+      "city": "和泉市",
+      "shopName": "CAPSULE POP 和泉中央駅店",
+      "shopAddress": "大阪府和泉市いぶき野5丁目1-1 和泉中央駅構内",
+      "productName": "平成メモリーうるちゅるシールプチキーホルダー",
+      "sightingTime": "2026-08-01 入荷予定",
+      "statusText": "2026年8月1日に入荷予定",
+      "confidenceMemo": "店舗公式アカウントによる入荷予告ツイートのため信頼性が高い",
+      "sourceUrl": "https://x.com/capsulepop/status/2083038367693025726",
+      "sourceTweetId": "2083038367693025726",
+      "isPrediction": true,
+      "imagePath": "output/sightings/images/2083038367693025726.png",
+      "isPosted": true,
+      "wpPostId": 13688,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-osaka-izumi-2026-08-01/",
+      "postedAt": "2026-07-31T15:05:14.731+09:00"
     }
   ]
 }
