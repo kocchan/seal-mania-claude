@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-08-01T04:46:45.256Z"
+wpPostUrl: "https://www.seal-search.com/character/sanrio-bonbondrop-amazon-20260803/"
+wpPostId: 13986
+posted: true
 type: newproduct
 status: draft
 title: "【8/3発売】サンリオ ボンボンドロップシール新作8種"

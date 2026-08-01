@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-08-01T04:46:34.395Z"
+wpPostUrl: "https://www.seal-search.com/character/cocos-gochisou-sticker-20260803/"
+wpPostId: 13984
+posted: true
 type: newproduct
 status: draft
 title: "【8/3発売】ココス「ごちそうシール」新登場"

@@ -1,4 +1,9 @@
 ---
+postedAt: "2026-08-01T04:47:44.492Z"
+wpPostUrl: "https://www.seal-search.com/mejirushi/takaratomy-mejirushi-doubutsunomori-tsunagaring-202608/"
+wpPostId: 14001
+posted: true
+imageGenerated: true
 type: mejirushi
 status: draft
 title: "【8月発売】つながリングチャーム どうぶつの森"

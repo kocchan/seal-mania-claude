@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-08-01T04:46:58.312Z"
+wpPostUrl: "https://www.seal-search.com/news/new-item/uebun-tochigi-bonbondrop-202608/"
+wpPostId: 13989
+posted: true
 imageGenerated: true
 type: lottery
 status: draft

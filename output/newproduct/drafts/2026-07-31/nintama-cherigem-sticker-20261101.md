@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-08-01T04:46:40.370Z"
+wpPostUrl: "https://www.seal-search.com/character/nintama-cherigem-sticker-20261101/"
+wpPostId: 13985
+posted: true
 type: newproduct
 status: draft
 title: "【11月発売】忍たま乱太郎 ぷっくりシール新作"

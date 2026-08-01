@@ -1,4 +1,9 @@
 ---
+postedAt: "2026-08-01T04:47:26.201Z"
+wpPostUrl: "https://www.seal-search.com/mejirushi/disney-mejirushi-pooh-harvestmarket-20260803/"
+wpPostId: 13995
+posted: true
+imageGenerated: true
 type: mejirushi
 status: draft
 title: "【新作】くまのプーさん めじるしチャーム"

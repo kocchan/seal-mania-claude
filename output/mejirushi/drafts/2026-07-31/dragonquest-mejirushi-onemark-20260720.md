@@ -1,4 +1,9 @@
 ---
+postedAt: "2026-08-01T04:47:35.495Z"
+wpPostUrl: "https://www.seal-search.com/mejirushi/dragonquest-mejirushi-onemark-20260720/"
+wpPostId: 13998
+posted: true
+imageGenerated: true
 type: mejirushi
 status: draft
 title: "【7/20発売】ドラクエ めじるしチャーム全9種"

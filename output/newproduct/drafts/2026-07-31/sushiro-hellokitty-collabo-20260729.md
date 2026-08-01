@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-08-01T04:46:50.637Z"
+wpPostUrl: "https://www.seal-search.com/character/sushiro-hellokitty-collabo-20260729/"
+wpPostId: 13987
+posted: true
 type: newproduct
 status: draft
 title: "【7/29開催】スシロー×ハローキティコラボ"

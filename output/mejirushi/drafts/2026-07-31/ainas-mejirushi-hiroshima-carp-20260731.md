@@ -1,4 +1,9 @@
 ---
+postedAt: "2026-08-01T04:47:17.924Z"
+wpPostUrl: "https://www.seal-search.com/mejirushi/ainas-mejirushi-hiroshima-carp-20260731/"
+wpPostId: 13992
+posted: true
+imageGenerated: true
 type: mejirushi
 status: draft
 title: "【7/31発売】広島東洋カープめじるしチャーム"
