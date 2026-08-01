@@ -1,7 +1,7 @@
 {
   "date": "2026-08-01",
-  "updatedAt": "2026-08-01T22:37:49.063+09:00",
-  "count": 106,
+  "updatedAt": "2026-08-02T06:54:21.777+09:00",
+  "count": 107,
   "articles": [
     {
       "isSighting": true,
@@ -2016,6 +2016,25 @@
       "wpPostId": 14141,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-tokyo-hachioji-2026-08-01-2/",
       "postedAt": "2026-08-01T22:38:27.424+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "大阪府",
+      "city": "大阪市中央区",
+      "shopName": "ナガノマーケット 心斎橋店",
+      "shopAddress": "大阪府大阪市中央区心斎橋筋1-8-3 心斎橋PARCO 5F",
+      "productName": "ナガノマーケット ボンボンドロップ",
+      "sightingTime": "2026-08-02以前（「先日」との記載）",
+      "statusText": "在庫あり（2種類販売中）",
+      "confidenceMemo": "心斎橋PARCO内の特定店舗にて購入報告あり。写真付きで信頼性が高い。",
+      "sourceUrl": "https://x.com/kimamaniusagi10/status/2083554479392387534",
+      "sourceTweetId": "2083554479392387534",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2083554479392387534.png",
+      "isPosted": true,
+      "wpPostId": 14143,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-osaka-chuo-osaka-2026-08-02/",
+      "postedAt": "2026-08-02T06:54:28.855+09:00"
     }
   ]
 }
