@@ -1,7 +1,7 @@
 {
   "date": "2026-08-03",
-  "updatedAt": "2026-08-03T18:58:29.269+09:00",
-  "count": 40,
+  "updatedAt": "2026-08-03T21:19:01.321+09:00",
+  "count": 41,
   "articles": [
     {
       "isSighting": true,
@@ -762,6 +762,25 @@
       "wpPostId": 14334,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-kanagawa-konan-yokohama-2026-08-03/",
       "postedAt": "2026-08-03T18:59:33.020+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "愛知県",
+      "city": "名古屋市中区",
+      "shopName": "#C-pla 名古屋サカエチカ店",
+      "shopAddress": "愛知県名古屋市中区栄3-5-12先 サカエチカ内",
+      "productName": "平成メモリーうるちゅるシール プチキーホルダー",
+      "sightingTime": "2026-08-03 11:15頃",
+      "statusText": "完売",
+      "confidenceMemo": "店舗公式アカウントによる完売告知のため信頼性が高い",
+      "sourceUrl": "https://x.com/Cplasakaechika/status/2084236648041369851",
+      "sourceTweetId": "2084236648041369851",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2084236648041369851.png",
+      "isPosted": true,
+      "wpPostId": 14336,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-aichi-naka-nagoya-2026-08-03/",
+      "postedAt": "2026-08-03T21:19:07.800+09:00"
     }
   ]
 }
