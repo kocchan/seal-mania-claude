@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-08-03T04:59:26.998Z"
+wpPostUrl: "https://www.seal-search.com/character/bonbondrop-snoopy-churukira-20260731/"
+wpPostId: 14292
+posted: true
 type: newproduct
 status: draft
 title: "【7/31発売】スヌーピーchurukira新作シール"

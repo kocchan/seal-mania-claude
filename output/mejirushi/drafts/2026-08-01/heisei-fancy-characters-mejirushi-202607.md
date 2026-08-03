@@ -1,4 +1,9 @@
 ---
+postedAt: "2026-08-03T04:59:55.164Z"
+wpPostUrl: "https://www.seal-search.com/mejirushi/heisei-fancy-characters-mejirushi-202607/"
+wpPostId: 14297
+posted: true
+imageGenerated: true
 type: mejirushi
 status: draft
 title: "【2026年7月発売】平成ファンシーキャラクターズ めじるし"

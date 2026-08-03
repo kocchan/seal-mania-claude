@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-08-03T04:59:38.280Z"
+wpPostUrl: "https://www.seal-search.com/character/heroaca-marion-crepe-20260803/"
+wpPostId: 14294
+posted: true
 type: newproduct
 status: draft
 title: "【8/3発売】ヒロアカ×マリオンクレープ新作グッズ"

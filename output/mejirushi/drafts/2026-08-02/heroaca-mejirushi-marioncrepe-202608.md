@@ -1,4 +1,9 @@
 ---
+postedAt: "2026-08-03T05:00:03.994Z"
+wpPostUrl: "https://www.seal-search.com/mejirushi/heroaca-mejirushi-marioncrepe-202608/"
+wpPostId: 14300
+posted: true
+imageGenerated: true
 type: mejirushi
 status: draft
 title: "【8/3発売】ヒロアカ×マリオンクレープ めじるしキーホルダー"
