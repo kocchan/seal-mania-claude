@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-08-04T04:38:55.313Z"
+wpPostUrl: "https://www.seal-search.com/character/sanrio-retro-fancy-sealbook-20260727-2/"
+wpPostId: 14361
+posted: true
 type: newproduct
 status: draft
 title: "【7/27発売】サンリオ レトロファンシーシールブック"

@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-08-04T04:39:10.602Z"
+wpPostUrl: "https://www.seal-search.com/news/new-item/fabore-toyama-bonbondrop-popup/"
+wpPostId: 14365
+posted: true
 imageGenerated: true
 type: lottery
 status: draft

@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-08-04T04:39:03.701Z"
+wpPostUrl: "https://www.seal-search.com/news/new-item/eiga-chiikawa-bonbondrop-nyujotokuten2/"
+wpPostId: 14363
+posted: true
 imageGenerated: true
 type: new-release
 status: draft

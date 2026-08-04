@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-08-04T04:39:17.610Z"
+wpPostUrl: "https://www.seal-search.com/news/new-item/hachemon-abenoqusmall-popup/"
+wpPostId: 14367
+posted: true
 imageGenerated: true
 type: new-release
 status: draft

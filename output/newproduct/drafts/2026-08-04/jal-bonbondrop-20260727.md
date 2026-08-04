@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-08-04T04:38:50.532Z"
+wpPostUrl: "https://www.seal-search.com/character/jal-bonbondrop-20260727-2/"
+wpPostId: 14360
+posted: true
 type: newproduct
 status: draft
 title: "【7/27予約開始】JAL×ボンボンドロップシール新作登場"

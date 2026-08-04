@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-08-04T04:38:45.809Z"
+wpPostUrl: "https://www.seal-search.com/character/colorfulpeach-new-seal-20260817/"
+wpPostId: 14359
+posted: true
 type: newproduct
 status: draft
 title: "【8/17締切】カラフルピーチ新作シール全4種"

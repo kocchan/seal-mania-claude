@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-08-04T04:39:32.161Z"
+wpPostUrl: "https://www.seal-search.com/news/new-item/shinjuku-marui-bonbondrop-popup/"
+wpPostId: 14371
+posted: true
 imageGenerated: true
 type: lottery
 status: draft
