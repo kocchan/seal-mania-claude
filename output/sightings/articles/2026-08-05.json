@@ -1,7 +1,7 @@
 {
   "date": "2026-08-05",
-  "updatedAt": "2026-08-05T20:17:19.295+09:00",
-  "count": 61,
+  "updatedAt": "2026-08-05T23:24:43.924+09:00",
+  "count": 64,
   "articles": [
     {
       "isSighting": true,
@@ -1161,6 +1161,63 @@
       "wpPostId": 14568,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-shizuoka-hamamatsu-2026-08-05/",
       "postedAt": "2026-08-05T20:18:03.767+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "神奈川県",
+      "city": "横浜市神奈川区",
+      "shopName": "T・ジョイ横浜",
+      "shopAddress": "神奈川県横浜市神奈川区鶴屋町1-41",
+      "productName": "ボンボンドロップシール",
+      "sightingTime": "2026-08-05 13:09頃",
+      "statusText": "在庫あり（再入荷）",
+      "confidenceMemo": "特定の劇場アカウント（T・ジョイ横浜）へのリプライで、再入荷の事実と写真について言及されているため信頼性が高い。",
+      "sourceUrl": "https://x.com/Chu202405/status/2084990184706437542",
+      "sourceTweetId": "2084990184706437542",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2084990184706437542.png",
+      "isPosted": true,
+      "wpPostId": 14570,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-kanagawa-kanagawa-yokohama-2026-08-05/",
+      "postedAt": "2026-08-05T23:24:56.884+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "東京都",
+      "city": "国分寺市",
+      "shopName": "C-pla ミーツ国分寺店",
+      "shopAddress": "東京都国分寺市本町3-1-1 ミーツ国分寺",
+      "productName": "平成メモリーうるちゅるシール フレーク",
+      "sightingTime": "2026-08-05 11:28頃",
+      "statusText": "完売（再入荷未定）",
+      "confidenceMemo": "店舗公式アカウントによる情報で信頼性が非常に高い",
+      "sourceUrl": "https://x.com/Cplakokubunji/status/2084964686592950371",
+      "sourceTweetId": "2084964686592950371",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2084964686592950371.png",
+      "isPosted": true,
+      "wpPostId": 14572,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-tokyo-kokubunji-2026-08-05/",
+      "postedAt": "2026-08-05T23:25:14.215+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "京都府",
+      "city": "京都市右京区",
+      "shopName": "C-pla 京都ファミリー店",
+      "shopAddress": "京都府京都市右京区山ノ内池尻町1-1 京都ファミリー",
+      "productName": "魔法のコンパクトシールメーカーマスコット",
+      "sightingTime": "2026-08-05 11:36頃",
+      "statusText": "完売（再入荷未定）",
+      "confidenceMemo": "店舗公式アカウントによる関連商品の完売報告",
+      "sourceUrl": "https://x.com/Cplakyotofamily/status/2084966768502841750",
+      "sourceTweetId": "2084966768502841750",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2084966768502841750.png",
+      "isPosted": true,
+      "wpPostId": 14574,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-kyoto-ukyo-kyoto-2026-08-05-2/",
+      "postedAt": "2026-08-05T23:25:26.730+09:00"
     }
   ]
 }
