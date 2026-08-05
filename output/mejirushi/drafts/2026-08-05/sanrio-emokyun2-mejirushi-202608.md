@@ -1,4 +1,9 @@
 ---
+postedAt: "2026-08-05T04:38:53.250Z"
+wpPostUrl: "https://www.seal-search.com/mejirushi/sanrio-emokyun2-mejirushi-202608/"
+wpPostId: 14479
+posted: true
+imageGenerated: true
 type: mejirushi
 status: draft
 title: "【8月下旬発売】サンリオ めじるしアクセサリー～エモきゅん～2"

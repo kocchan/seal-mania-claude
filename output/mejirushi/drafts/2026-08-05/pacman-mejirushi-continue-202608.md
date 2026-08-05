@@ -1,4 +1,9 @@
 ---
+postedAt: "2026-08-05T04:38:29.081Z"
+wpPostUrl: "https://www.seal-search.com/mejirushi/pacman-mejirushi-continue-202608/"
+wpPostId: 14473
+posted: true
+imageGenerated: true
 type: mejirushi
 status: draft
 title: "【8月第2週発売】パックマン めじるしアクセサリーContinue"

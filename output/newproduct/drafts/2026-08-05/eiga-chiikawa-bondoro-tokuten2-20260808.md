@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-08-05T04:37:55.052Z"
+wpPostUrl: "https://www.seal-search.com/character/eiga-chiikawa-bondoro-tokuten2-20260808/"
+wpPostId: 14468
+posted: true
 type: newproduct
 status: draft
 title: "【8/8配布開始】映画ちいかわ×ボンドロ入場者特典"

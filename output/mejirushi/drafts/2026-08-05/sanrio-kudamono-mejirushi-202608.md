@@ -1,4 +1,9 @@
 ---
+postedAt: "2026-08-05T04:39:04.769Z"
+wpPostUrl: "https://www.seal-search.com/mejirushi/sanrio-kudamono-mejirushi-202608/"
+wpPostId: 14482
+posted: true
+imageGenerated: true
 type: mejirushi
 status: draft
 title: "【8月第2週発売】サンリオ くだものめじるしアクセサリー"

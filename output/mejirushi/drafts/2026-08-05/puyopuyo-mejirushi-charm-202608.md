@@ -1,4 +1,9 @@
 ---
+postedAt: "2026-08-05T04:38:41.634Z"
+wpPostUrl: "https://www.seal-search.com/mejirushi/puyopuyo-mejirushi-charm-202608/"
+wpPostId: 14476
+posted: true
+imageGenerated: true
 type: mejirushi
 status: draft
 title: "【2026年8月発売】ぷよぷよ マスコットめじるしチャーム全6種"

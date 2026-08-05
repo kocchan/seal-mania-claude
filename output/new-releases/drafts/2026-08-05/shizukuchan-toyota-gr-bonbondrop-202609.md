@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-08-05T04:38:04.306Z"
+wpPostUrl: "https://www.seal-search.com/news/new-item/shizukuchan-toyota-gr-bonbondrop-202609/"
+wpPostId: 14470
+posted: true
 imageGenerated: true
 type: new-release
 status: draft
