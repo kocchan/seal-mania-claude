@@ -1,7 +1,7 @@
 {
   "date": "2026-08-05",
-  "updatedAt": "2026-08-05T14:42:38.066+09:00",
-  "count": 53,
+  "updatedAt": "2026-08-05T17:45:30.399+09:00",
+  "count": 54,
   "articles": [
     {
       "isSighting": true,
@@ -1009,6 +1009,25 @@
       "wpPostId": 14552,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-hokkaido-shinhidaka-hidaka-district-2026-08-05-2/",
       "postedAt": "2026-08-05T14:46:26.293+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "東京都",
+      "city": "大田区",
+      "shopName": "HANEDA POP UP STORE（羽田空港第1ターミナル）",
+      "shopAddress": "東京都大田区羽田空港3-3-2 羽田空港第1ターミナル2F 出発ロビー",
+      "productName": "ボンボンドロップシール(なかまたち)",
+      "sightingTime": "2026-08-05 07:11頃",
+      "statusText": "完売（再入荷未定）",
+      "confidenceMemo": "公式のイベント情報アカウントによる正確な在庫状況の報告",
+      "sourceUrl": "https://x.com/Juice_inc_event/status/2084899976786907270",
+      "sourceTweetId": "2084899976786907270",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2084899976786907270.png",
+      "isPosted": true,
+      "wpPostId": 14554,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-tokyo-ota-2026-08-05-2/",
+      "postedAt": "2026-08-05T17:45:37.341+09:00"
     }
   ]
 }
