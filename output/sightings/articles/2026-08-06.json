@@ -1,7 +1,7 @@
 {
   "date": "2026-08-06",
-  "updatedAt": "2026-08-06T20:17:44.857+09:00",
-  "count": 42,
+  "updatedAt": "2026-08-06T23:24:56.028+09:00",
+  "count": 45,
   "articles": [
     {
       "isSighting": true,
@@ -800,6 +800,63 @@
       "wpPostId": 14680,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-hokkaido-nishi-sapporo-2026-08-06-2/",
       "postedAt": "2026-08-06T20:18:38.288+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "徳島県",
+      "city": "三好郡東みよし町",
+      "shopName": "ダイナム徳島三加茂店",
+      "shopAddress": "徳島県三好郡東みよし町中庄1171番地1",
+      "productName": "ダイキチぷっくりシール",
+      "sightingTime": "2026-08-06 12:07",
+      "statusText": "2026年8月7日に入荷予定（景品）",
+      "confidenceMemo": "店舗公式アカウントによる入荷予告ツイート",
+      "sourceUrl": "https://x.com/dynam_00312/status/2085336860226736638",
+      "sourceTweetId": "2085336860226736638",
+      "isPrediction": true,
+      "imagePath": "output/sightings/images/2085336860226736638.png",
+      "isPosted": true,
+      "wpPostId": 14682,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-tokushima-higashimiyoshi-miyoshi-district-2026-08-06/",
+      "postedAt": "2026-08-06T23:25:03.094+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "福岡県",
+      "city": "三井郡大刀洗町",
+      "shopName": "ダイナム福岡大刀洗店",
+      "shopAddress": "福岡県三井郡大刀洗町大字山隈1438番地1",
+      "productName": "ダイキチぷっくりシール",
+      "sightingTime": "2026-08-06 11:47",
+      "statusText": "2026年8月7日に入荷予定（景品）",
+      "confidenceMemo": "店舗公式アカウントによる入荷予告ツイート",
+      "sourceUrl": "https://x.com/dynam_00228/status/2085331839355396286",
+      "sourceTweetId": "2085331839355396286",
+      "isPrediction": true,
+      "imagePath": "output/sightings/images/2085331839355396286.png",
+      "isPosted": true,
+      "wpPostId": 14684,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-fukuoka-tachiarai-mitsui-district-2026-08-06/",
+      "postedAt": "2026-08-06T23:25:09.880+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "兵庫県",
+      "city": "姫路市",
+      "shopName": "C-pla 姫路みゆき通り店",
+      "shopAddress": "兵庫県姫路市綿町62",
+      "productName": "平成メモリーうるちゅるシール",
+      "sightingTime": "2026-08-06 12:32",
+      "statusText": "完売",
+      "confidenceMemo": "店舗公式アカウントによる完売報告",
+      "sourceUrl": "https://x.com/cplamiyukidori/status/2085343198067757541",
+      "sourceTweetId": "2085343198067757541",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2085343198067757541.png",
+      "isPosted": true,
+      "wpPostId": 14686,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-hyogo-himeji-2026-08-06-3/",
+      "postedAt": "2026-08-06T23:25:16.007+09:00"
     }
   ]
 }
