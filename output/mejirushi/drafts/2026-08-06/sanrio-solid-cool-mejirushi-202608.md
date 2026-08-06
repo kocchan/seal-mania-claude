@@ -1,4 +1,9 @@
 ---
+postedAt: "2026-08-06T04:40:02.180Z"
+wpPostUrl: "https://www.seal-search.com/mejirushi/sanrio-solid-cool-mejirushi-202608/"
+wpPostId: 14625
+posted: true
+imageGenerated: true
 type: mejirushi
 status: draft
 title: "【8月第3週発売】サンリオ クールめじるしアクセサリー"

@@ -1,4 +1,9 @@
 ---
+postedAt: "2026-08-06T04:40:13.467Z"
+wpPostUrl: "https://www.seal-search.com/mejirushi/summerwars-mejirushi2-202608/"
+wpPostId: 14628
+posted: true
+imageGenerated: true
 type: mejirushi
 status: draft
 title: "【2026年8月発売】サマーウォーズ めじるしアクセサリー2"

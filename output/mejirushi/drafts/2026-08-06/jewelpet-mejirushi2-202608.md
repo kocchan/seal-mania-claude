@@ -1,4 +1,9 @@
 ---
+postedAt: "2026-08-06T04:39:50.038Z"
+wpPostUrl: "https://www.seal-search.com/mejirushi/jewelpet-mejirushi2-202608/"
+wpPostId: 14622
+posted: true
+imageGenerated: true
 type: mejirushi
 status: draft
 title: "【8月第2週発売】ジュエルペット めじるしアクセサリー第2弾"

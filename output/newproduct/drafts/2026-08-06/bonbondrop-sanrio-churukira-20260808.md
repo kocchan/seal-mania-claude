@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-08-06T04:38:30.485Z"
+wpPostUrl: "https://www.seal-search.com/character/bonbondrop-sanrio-churukira-20260808/"
+wpPostId: 14607
+posted: true
 type: newproduct
 status: draft
 title: "【8月上旬発売】ボンドロ サンリオchurukiraデザイン全8種"

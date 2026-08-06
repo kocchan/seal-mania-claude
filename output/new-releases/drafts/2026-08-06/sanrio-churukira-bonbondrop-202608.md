@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-08-06T04:39:18.610Z"
+wpPostUrl: "https://www.seal-search.com/news/new-item/sanrio-churukira-bonbondrop-202608/"
+wpPostId: 14616
+posted: true
 type: new-release
 status: draft
 title: "サンリオ×ボンボンドロップシール「churukira」8月上旬登場！キラキラ新作全8種"

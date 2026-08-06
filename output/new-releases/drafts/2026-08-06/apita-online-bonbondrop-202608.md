@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-08-06T04:39:01.847Z"
+wpPostUrl: "https://www.seal-search.com/news/new-item/apita-online-bonbondrop-202608/"
+wpPostId: 14612
+posted: true
 type: lottery
 status: draft
 title: "【8/16締切】アピタ公式オンラインでボンボンドロップ新作8種を先着販売！くりーむそーだ・しまえなが"

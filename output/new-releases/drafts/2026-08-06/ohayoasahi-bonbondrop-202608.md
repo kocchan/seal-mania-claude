@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-08-06T04:39:10.318Z"
+wpPostUrl: "https://www.seal-search.com/news/new-item/ohayoasahi-bonbondrop-202608/"
+wpPostId: 14614
+posted: true
 type: new-release
 status: draft
 title: "ABCテレビ「おはよう朝日です」×ボンボンドロップシール！おきたくんが8月16日先行販売"

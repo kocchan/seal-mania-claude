@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-08-06T04:38:44.593Z"
+wpPostUrl: "https://www.seal-search.com/character/italian-brainrot-fanbook-3d-seal-20260804/"
+wpPostId: 14609
+posted: true
 type: newproduct
 status: draft
 title: "【8/4発売】イタリアンブレインロット3Dぷっくりシール本"

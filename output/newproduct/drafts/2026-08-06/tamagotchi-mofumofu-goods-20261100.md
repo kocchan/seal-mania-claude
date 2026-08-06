@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-08-06T04:38:51.394Z"
+wpPostUrl: "https://www.seal-search.com/character/tamagotchi-mofumofu-goods-20261100/"
+wpPostId: 14610
+posted: true
 type: newproduct
 status: draft
 title: "【11月発売】たまごっち もふもふ新作＆再販グッズ"

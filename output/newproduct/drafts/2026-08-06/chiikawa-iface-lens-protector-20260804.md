@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-08-06T04:38:37.303Z"
+wpPostUrl: "https://www.seal-search.com/character/chiikawa-iface-lens-protector-20260804/"
+wpPostId: 14608
+posted: true
 type: newproduct
 status: draft
 title: "【8月下旬発売】ちいかわiFaceレンズプロテクター"
