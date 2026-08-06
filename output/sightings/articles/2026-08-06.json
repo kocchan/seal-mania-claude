@@ -1,7 +1,7 @@
 {
   "date": "2026-08-06",
-  "updatedAt": "2026-08-06T14:43:31.917+09:00",
-  "count": 31,
+  "updatedAt": "2026-08-06T17:46:57.643+09:00",
+  "count": 34,
   "articles": [
     {
       "isSighting": true,
@@ -591,6 +591,63 @@
       "wpPostId": 14658,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-saitama-iruma-2026-08-06/",
       "postedAt": "2026-08-06T14:45:20.936+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "長崎県",
+      "city": "大村市",
+      "shopName": "ゲームソニック大村店",
+      "shopAddress": "長崎県大村市幸町25-200",
+      "productName": "ムーミン ボンボンドロップシール",
+      "sightingTime": "2026-08-06 06:47頃",
+      "statusText": "在庫あり（クレーンゲーム景品として展開中）",
+      "confidenceMemo": "同一投稿内で近隣店舗（大村マンガ倉庫）への言及があり、地域が特定可能。実際に獲得した情報のため信頼性が高い。",
+      "sourceUrl": "https://x.com/OXYGEN_nagamon/status/2085256537396908245",
+      "sourceTweetId": "2085256537396908245",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2085256537396908245.png",
+      "isPosted": true,
+      "wpPostId": 14660,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-nagasaki-omura-2026-08-06/",
+      "postedAt": "2026-08-06T17:47:05.294+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "北海道",
+      "city": "札幌市西区",
+      "shopName": "C-pla イオンモール札幌発寒店",
+      "shopAddress": "北海道札幌市西区発寒8条12丁目1-1 イオンモール札幌発寒",
+      "productName": "平成メモリーうるちゅるシール フレーク",
+      "sightingTime": "2026-08-06 07:40頃",
+      "statusText": "完売（次回入荷未定）",
+      "confidenceMemo": "公式店舗アカウントによる完売告知のため、信頼性が非常に高い。",
+      "sourceUrl": "https://x.com/Cpla24716377/status/2085269690440687891",
+      "sourceTweetId": "2085269690440687891",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2085269690440687891.png",
+      "isPosted": true,
+      "wpPostId": 14662,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-hokkaido-nishi-sapporo-2026-08-06/",
+      "postedAt": "2026-08-06T17:47:13.011+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "福岡県",
+      "city": "飯塚市",
+      "shopName": "C-pla ゆめタウン飯塚店",
+      "shopAddress": "福岡県飯塚市菰田西3丁目6番1号 ゆめタウン飯塚",
+      "productName": "クラックスキャラクターズ うるちゅるシール プチキーホルダー",
+      "sightingTime": "2026-08-06 06:40頃",
+      "statusText": "在庫あり（入荷情報、数に限りあり）",
+      "confidenceMemo": "公式店舗アカウントによる入荷告知。キーホルダータイプの商品情報。",
+      "sourceUrl": "https://x.com/CPLA_YUMEIIZUKA/status/2085254665932095796",
+      "sourceTweetId": "2085254665932095796",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2085254665932095796.png",
+      "isPosted": true,
+      "wpPostId": 14664,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-fukuoka-iizuka-2026-08-06/",
+      "postedAt": "2026-08-06T17:47:20.076+09:00"
     }
   ]
 }
