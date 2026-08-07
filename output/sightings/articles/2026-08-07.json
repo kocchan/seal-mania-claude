@@ -1,7 +1,7 @@
 {
   "date": "2026-08-07",
-  "updatedAt": "2026-08-07T10:02:42.540+09:00",
-  "count": 23,
+  "updatedAt": "2026-08-07T11:44:37.476+09:00",
+  "count": 25,
   "articles": [
     {
       "isSighting": true,
@@ -439,6 +439,44 @@
       "wpPostId": 14732,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-tottori-tottori-2026-08-06-2/",
       "postedAt": "2026-08-07T10:05:17.630+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "兵庫県",
+      "city": "神戸市東灘区",
+      "shopName": "FROM STELLAR",
+      "shopAddress": "兵庫県神戸市東灘区向洋町中2-13 ニューステップ内",
+      "productName": "ボンボンドロップシール ｃｈｕｒｕｋｉｒａ（ハローキティ、マイメロディ、ハンギョドン）",
+      "sightingTime": "2026-08-07 11:27頃",
+      "statusText": "入荷（在庫あり、購入制限あり、数少ない）",
+      "confidenceMemo": "店舗公式アカウントによる写真付きの入荷告知であり、信頼性が非常に高い。",
+      "sourceUrl": "https://x.com/from_stellar/status/2085553197322830215",
+      "sourceTweetId": "2085553197322830215",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2085553197322830215.png",
+      "isPosted": true,
+      "wpPostId": 14734,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-hyogo-higashinada-kobe-2026-08-07/",
+      "postedAt": "2026-08-07T11:44:44.956+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "島根県",
+      "city": "益田市",
+      "shopName": "文華堂",
+      "shopAddress": "島根県益田市あけぼの東町2-1",
+      "productName": "ボンボンドロップシール ちゅるきらシリーズ（スヌーピー柄4種）",
+      "sightingTime": "2026-08-07 01:06頃",
+      "statusText": "入荷（在庫あり、おひとり様1枚限り）",
+      "confidenceMemo": "地域密着型の文房具店による公式アカウントの入荷投稿。",
+      "sourceUrl": "https://x.com/bunkado_masuda/status/2085532940960936254",
+      "sourceTweetId": "2085532940960936254",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2085532940960936254.png",
+      "isPosted": true,
+      "wpPostId": 14736,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-shimane-masuda-2026-08-07/",
+      "postedAt": "2026-08-07T11:44:52.102+09:00"
     }
   ]
 }
