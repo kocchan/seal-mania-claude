@@ -1,0 +1,20 @@
+---
+source: rss
+url: "https://animeanime.jp/article/2026/08/06/101796.html"
+title: "柱の個性的な鍔をコレクションしたい☆ 「鬼滅の刃」冨岡義勇ら柱の日輪刀の鍔がマスコットに！狛治ら人間時代の上弦の鬼“おねむたん”も | アニメ！アニメ！"
+siteName: "アニメ！アニメ！"
+publishedAt: "2026-08-06T11:14:14Z"
+fetchedAt: "2026-08-07T01:58:10.794Z"
+fetchMethod: axios
+ogImage: "https://animeanime.jp/imgs/ogp_f/915784.jpg"
+description: "『鬼滅の刃』のカプセル新商品として、全柱が集合した「日輪刀めじるしマスコット」、上弦の鬼が人間だった時の姿を含む「おねむたん 拾肆ノ型」が登場。カプセル専用筐体にて順次取り扱い中だ。"
+---
+
+## RSS要約
+
+『鬼滅の刃』のカプセル新商品として、全柱が集合した「日輪刀 めじるし マスコット」、上弦の鬼が人間だった時の姿を含む「おねむたん 拾肆ノ型」が登場。
+
+## 本文HTML（サニタイズ済み）
+
+<html><head></head><body><p>『鬼滅の刃』のカプセル新商品として、全柱が集合した「日輪刀めじるしマスコット」、上弦の鬼が人間だった時の姿を含む「おねむたん 拾肆ノ型」が登場。カプセル専用筐体にて順次取り扱い中だ。</p><figure class="ctms-editor-image"><img src="https://animeanime.jp/imgs/zoom/915785.jpg" class="inline-article-image" width="640" height="579"><figcaption>「鬼滅の刃 おねむたん 拾肆ノ型」</figcaption></figure><p>『鬼滅の刃』は、集英社「ジャンプコミックス」より全23巻が刊行され累計発行部数は2億2000万部を突破する、吾峠呼世晴によるマンガを原作とするアニメだ。家族を鬼に殺された少年・竈門炭治郎が、鬼になった妹の禰豆子を人間に戻すべく鬼殺隊へと入隊し、鬼との戦いに身を投じる物語を描く。人と鬼の切ない物語に鬼気迫る剣戟、魅力的なキャラクター、そして時折描かれるコミカルなシーンが人気を呼ぶ。</p><p>ufotableがアニメーション制作を手掛けており、2019年4月の『テレビアニメ「鬼滅の刃」竈門炭治郎 立志編』を皮切りにシリーズ展開してきた。鬼の根城「無限城」を舞台に、”鬼殺隊”と”鬼”の最終決戦が繰り広げられる『劇場版「鬼滅の刃」無限城編』は三部作として制作されることが決定しており、2025年7月18日より公開された『第一章 猗窩座再来』は4月9日までの公開266日間で観客動員数が2745万5968人、興行収入が402億1万9000円を記録。劇場版前作『劇場版「鬼滅の刃」無限列車編』に続く国内歴代興行収入2位の数字を残した。Blu-ray・DVDは7月29日より発売中だ。</p><p>スタンド・ストーンズによるこのたびのカプセル新商品のうち、「日輪刀めじるしマスコット」は柱たちの日輪刀の鍔を形どっためじるしマスコットだ。冨岡義勇、胡蝶しのぶ、煉獄杏寿郎、宇髄天元、甘露寺蜜璃、時透無一郎、伊黒小芭内、不死川実弥、悲鳴嶼行冥の全9種で、それぞれの柱のプレートが付く豪華仕様となっている。<br>「おねむたん 拾肆ノ型」は、眠そうなキャラクターがかわいい「おねむたん」シリーズの最新作となるもの。狛治、恋雪、童磨（幼少期）、獪岳（鬼殺隊）、村田と、上弦の鬼が人間だった時の姿を含むラインナップだ。全て新規造形の全5種から、好みのキャラクターを狙ってみたい。</p><p>価格は税込みで、「日輪刀めじるしマスコット」が１回300円、「おねむたん 拾肆ノ型」が1回400円。お求めはカプセル専用筐体まで。</p><div class="af_box"><!-- start --><div class="af_list"><div class="af_box_left"><a href="https://www.amazon.co.jp/dp/B0986XHLY9?tag=animeanimea-22&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank"><img src="https://m.media-amazon.com/images/I/51HgTU9ezcL._SL160_.jpg" class="af_box_image"></a></div><div class="af_box_right"><b><a href="https://www.amazon.co.jp/dp/B0986XHLY9?tag=animeanimea-22&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank">アクセクルーラ 【 鬼滅の刃 アクセクルーラ 】 C-64 STマーク認証 6歳以上 おもちゃ アクセサリー ビーズアクセサリー メイキングトイ Acce Cruller エポック社 EPOCH</a></b><br><b>￥1,600</b><br><span>(価格・在庫状況は記事公開時点のものです)</span><br><div class="af_box_link_amazon"><a href="https://www.amazon.co.jp/dp/B0986XHLY9?tag=animeanimea-22&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank">Amazon</a></div><div class="af_box_link_rakuten"><a href="https://hb.afl.rakuten.co.jp/hgc/13d62b94.d0647ae0.13d62b95.6b8000ba/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E9%25AC%25BC%25E6%25BB%2585%25E3%2581%25AE%25E5%2588%2583%25E3%2580%2580%25E3%2582%25B0%25E3%2583%2583%25E3%2582%25BA%2F" target="_blank">楽天市場</a></div></div></div><!-- //end --></div><div class="af_box"><!-- start --><div class="af_list"><div class="af_box_left"><a href="https://www.amazon.co.jp/dp/B0995DWN1D?tag=animeanimea-22&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank"><img src="https://m.media-amazon.com/images/I/51V2ChKFikL._SL160_.jpg" class="af_box_image"></a></div><div class="af_box_right"><b><a href="https://www.amazon.co.jp/dp/B0995DWN1D?tag=animeanimea-22&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank">ポケットピクチュアカード 鬼滅の刃 漢字</a></b><br><b>￥930</b><br><span>(価格・在庫状況は記事公開時点のものです)</span><br><div class="af_box_link_amazon"><a href="https://www.amazon.co.jp/dp/B0995DWN1D?tag=animeanimea-22&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank">Amazon</a></div><div class="af_box_link_rakuten"><a href="https://hb.afl.rakuten.co.jp/hgc/13d62b94.d0647ae0.13d62b95.6b8000ba/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E9%25AC%25BC%25E6%25BB%2585%25E3%2581%25AE%25E5%2588%2583%25E3%2580%2580%25E3%2582%25B0%25E3%2583%2583%25E3%2582%25BA%2F" target="_blank">楽天市場</a></div></div></div><!-- //end --></div><div class="enclosure"><p>「鬼滅の刃 日輪刀めじるしマスコット」<br>1回300円<br>7月27日(月)よりカプセル専用筐体にて順次発売予定<br>※店舗により導入タイミングが異なります</p><p>「鬼滅の刃 おねむたん 拾肆ノ型」<br>1回400円<br>7月28日(火）より順次発売予定<br>※店舗によって導入時期が違います</p></div>
+</body></html>
