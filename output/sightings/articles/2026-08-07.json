@@ -1,7 +1,7 @@
 {
   "date": "2026-08-07",
-  "updatedAt": "2026-08-07T13:51:21.337+09:00",
-  "count": 38,
+  "updatedAt": "2026-08-07T16:25:04.742+09:00",
+  "count": 40,
   "articles": [
     {
       "isSighting": true,
@@ -724,6 +724,44 @@
       "wpPostId": 14769,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-tokyo-shinjuku-2026-07-24-2/",
       "postedAt": "2026-08-07T13:52:55.465+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "静岡県",
+      "city": "静岡市清水区",
+      "shopName": "オオイシ文具店",
+      "shopAddress": "静岡県静岡市清水区真砂町5-25",
+      "productName": "サンスター ボンボンドロップシールchurukira（ハンギョドン）",
+      "sightingTime": "2026-08-07 05:55頃",
+      "statusText": "在庫あり（超極少入荷、1家族1枚の購入制限あり）",
+      "confidenceMemo": "店舗公式アカウントによる入荷・販売開始告知",
+      "sourceUrl": "https://x.com/ooishibungu/status/2085605607751799046",
+      "sourceTweetId": "2085605607751799046",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2085605607751799046.png",
+      "isPosted": true,
+      "wpPostId": 14771,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-shizuoka-shimizu-shizuoka-2026-08-07/",
+      "postedAt": "2026-08-07T16:25:11.535+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "大阪府",
+      "city": "大阪市浪速区",
+      "shopName": "大阪日本橋ジャングル-JUNGLE-",
+      "shopAddress": "大阪府大阪市浪速区日本橋3-4-16",
+      "productName": "ボンボンドロップシール",
+      "sightingTime": "2026-08-07 05:14頃",
+      "statusText": "在庫あり（久しぶりの入荷）",
+      "confidenceMemo": "店舗公式アカウントによる入荷告知",
+      "sourceUrl": "https://x.com/robojungle/status/2085595321346986008",
+      "sourceTweetId": "2085595321346986008",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2085595321346986008.png",
+      "isPosted": true,
+      "wpPostId": 14773,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-osaka-naniwa-osaka-2026-08-07/",
+      "postedAt": "2026-08-07T16:25:18.224+09:00"
     }
   ]
 }
