@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-08-07T04:07:24.106Z"
+wpPostUrl: "https://www.seal-search.com/character/kira-gacha-seal-pukkuri-drop-20260801/"
+wpPostId: 14740
+posted: true
 type: newproduct
 status: draft
 title: "【8/1発売】キラ★ガチャシールぷっくりドロップ"

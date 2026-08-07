@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-08-07T04:07:18.597Z"
+wpPostUrl: "https://www.seal-search.com/character/hachiemon-bonbondrop-kantere-20260801/"
+wpPostId: 14739
+posted: true
 type: newproduct
 status: draft
 title: "【8月上旬発売】ハチエモン柄ボンドロ新作レビュー"

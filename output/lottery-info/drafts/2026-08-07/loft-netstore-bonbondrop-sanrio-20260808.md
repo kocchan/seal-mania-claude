@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-08-07T04:07:12.310Z"
+wpPostUrl: "https://www.seal-search.com/news/reservation/loft-netstore-bonbondrop-sanrio-20260808/"
+wpPostId: 14738
+posted: true
 imageGenerated: true
 type: lottery
 status: draft

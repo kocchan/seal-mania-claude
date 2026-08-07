@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-08-07T04:07:37.200Z"
+wpPostUrl: "https://www.seal-search.com/news/new-item/loftnetstore-sanrio-churukira-202608/"
+wpPostId: 14743
+posted: true
 type: lottery
 status: draft
 title: "【8/8締切】ロフトネットストアでボンボンドロップシール サンリオchurukira全8種を抽選販売"
