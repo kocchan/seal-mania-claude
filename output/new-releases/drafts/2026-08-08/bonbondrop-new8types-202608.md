@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-08-08T03:04:58.101Z"
+wpPostUrl: "https://www.seal-search.com/news/new-item/bonbondrop-new8types-202608/"
+wpPostId: 14886
+posted: true
 type: new-release
 status: draft
 title: "【2026年8月新作】ボンボンドロップシール全8種類 はではでボンボン・おやすみバニーなど8月中旬より発売"

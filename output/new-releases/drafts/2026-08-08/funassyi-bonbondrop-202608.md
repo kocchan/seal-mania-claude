@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-08-08T03:05:06.783Z"
+wpPostUrl: "https://www.seal-search.com/news/new-item/funassyi-bonbondrop-202608/"
+wpPostId: 14891
+posted: true
 type: new-release
 status: draft
 title: "ふなっしーボンボンドロップシールが登場！ふなっしーLANDで8/8より発売"
