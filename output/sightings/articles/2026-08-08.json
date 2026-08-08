@@ -1,7 +1,7 @@
 {
   "date": "2026-08-08",
-  "updatedAt": "2026-08-08T21:57:53.468+09:00",
-  "count": 60,
+  "updatedAt": "2026-08-09T06:26:44.240+09:00",
+  "count": 62,
   "articles": [
     {
       "isSighting": true,
@@ -1142,6 +1142,44 @@
       "wpPostId": 15161,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-hyogo-nishinomiya-2026-08-08/",
       "postedAt": "2026-08-08T21:58:48.749+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "東京都",
+      "city": "葛飾区",
+      "shopName": "MOVIX亀有",
+      "shopAddress": "東京都葛飾区亀有3-49-3 アリオ亀有3F",
+      "productName": "映画ちいかわ 入場者特典 ボンボンドロップシール",
+      "sightingTime": "2026-08-09 16:03頃",
+      "statusText": "在庫あり（入場者特典として配布中）",
+      "confidenceMemo": "具体的な劇場名「MOVIX亀有」の記載があり、実際に鑑賞して特典を受け取った報告であるため信頼性が高い。",
+      "sourceUrl": "https://x.com/sennatsucobu/status/2086121124484845853",
+      "sourceTweetId": "2086121124484845853",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2086121124484845853.png",
+      "isPosted": true,
+      "wpPostId": 15163,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-tokyo-katsushika-2026-08-09/",
+      "postedAt": "2026-08-09T06:26:51.467+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "青森県",
+      "city": "青森市",
+      "shopName": "浅虫水族館",
+      "shopAddress": "青森県青森市浅虫馬場山1-25",
+      "productName": "ボンボンドロップシール（深海魚）",
+      "sightingTime": "2026-08-09 12:57頃",
+      "statusText": "在庫あり（購入報告）",
+      "confidenceMemo": "具体的な施設名と商品名の略称（ボンドロ）、および購入報告が含まれている。水族館オリジナルの商品とともに購入されており、場所の特定が可能。",
+      "sourceUrl": "https://x.com/kaznoko_days/status/2086074305276973157",
+      "sourceTweetId": "2086074305276973157",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2086074305276973157.png",
+      "isPosted": true,
+      "wpPostId": 15165,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-aomori-aomori-2026-08-09/",
+      "postedAt": "2026-08-09T06:26:58.220+09:00"
     }
   ]
 }
