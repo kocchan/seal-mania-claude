@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-08-09T03:12:16.925Z"
+wpPostUrl: "https://www.seal-search.com/news/new-item/bonbondrop-convenience-lottery-202608/"
+wpPostId: 15211
+posted: true
 type: lottery
 status: draft
 title: "【8/9締切】ボンボンドロップシール コンビニシリーズ4種セット公式抽選販売"

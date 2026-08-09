@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-08-09T03:12:02.648Z"
+wpPostUrl: "https://www.seal-search.com/character/bonbondrop-sanrio-churukira-20260808-2/"
+wpPostId: 15208
+posted: true
 type: newproduct
 status: draft
 title: "ボンボンドロップシール サンリオchurukira新作"

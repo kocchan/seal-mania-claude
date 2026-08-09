@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-08-09T03:12:08.175Z"
+wpPostUrl: "https://www.seal-search.com/character/chiikawa-eiga-bonbondrop-tokuten2-20260808/"
+wpPostId: 15209
+posted: true
 type: newproduct
 status: draft
 title: "【8/8配布】映画ちいかわ第2弾ボンボンドロップシール"

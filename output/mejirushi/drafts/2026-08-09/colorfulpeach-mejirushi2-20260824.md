@@ -1,4 +1,9 @@
 ---
+postedAt: "2026-08-09T03:12:37.164Z"
+wpPostUrl: "https://www.seal-search.com/mejirushi/colorfulpeach-mejirushi2-20260824/"
+wpPostId: 15214
+posted: true
+imageGenerated: true
 type: mejirushi
 status: draft
 title: "【8月4週発売】カラフルピーチ めじるしアクセサリー第2弾"

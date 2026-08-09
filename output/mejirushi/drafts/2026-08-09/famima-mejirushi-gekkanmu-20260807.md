@@ -1,4 +1,9 @@
 ---
+postedAt: "2026-08-09T03:12:50.640Z"
+wpPostUrl: "https://www.seal-search.com/mejirushi/famima-mejirushi-gekkanmu-20260807/"
+wpPostId: 15217
+posted: true
+imageGenerated: true
 type: mejirushi
 status: draft
 title: "【8/7予約開始】ファミマ×月刊ムー めじるしアクリルチャーム"
