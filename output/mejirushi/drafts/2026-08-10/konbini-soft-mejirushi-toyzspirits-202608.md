@@ -1,4 +1,9 @@
 ---
+postedAt: "2026-08-10T03:23:27.855Z"
+wpPostUrl: "https://www.seal-search.com/mejirushi/konbini-soft-mejirushi-toyzspirits-202608/"
+wpPostId: 15304
+posted: true
+imageGenerated: true
 type: mejirushi
 status: draft
 title: "ざ・コンビニソフト めじるしチャーム新登場"

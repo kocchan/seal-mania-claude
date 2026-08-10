@@ -1,4 +1,9 @@
 ---
+postedAt: "2026-08-10T03:24:36.784Z"
+wpPostUrl: "https://www.seal-search.com/mejirushi/toystory5-mejirushi-202608/"
+wpPostId: 15316
+posted: true
+imageGenerated: true
 type: mejirushi
 status: draft
 title: "【8月第4週発売】トイ・ストーリー5 めじるしアクセサリー"

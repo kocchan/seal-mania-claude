@@ -1,4 +1,9 @@
 ---
+postedAt: "2026-08-10T03:24:10.794Z"
+wpPostUrl: "https://www.seal-search.com/mejirushi/powerpuffgirls-mejirushi-tarts-202608/"
+wpPostId: 15310
+posted: true
+imageGenerated: true
 type: mejirushi
 status: draft
 title: "【8月発売】パワーパフガールズ めじるしガチャマスコット"

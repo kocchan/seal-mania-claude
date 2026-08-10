@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-08-10T03:22:21.812Z"
+wpPostUrl: "https://www.seal-search.com/character/colorfulpeach-akusta-gumi-20260810/"
+wpPostId: 15296
+posted: true
 type: newproduct
 status: draft
 title: "【8/10発売】カラフルピーチ アクスタグミ全15種"

@@ -1,4 +1,9 @@
 ---
+postedAt: "2026-08-10T03:24:25.835Z"
+wpPostUrl: "https://www.seal-search.com/mejirushi/proyakyu-mejirushi-saihan-202608/"
+wpPostId: 15313
+posted: true
+imageGenerated: true
 type: mejirushi
 status: draft
 title: "【8月第2週再販】プロ野球12球団 めじるしアクセサリー"

@@ -1,4 +1,9 @@
 ---
+postedAt: "2026-08-10T03:23:09.103Z"
+wpPostUrl: "https://www.seal-search.com/mejirushi/drmoricky-toymini-mejirushi-202608/"
+wpPostId: 15301
+posted: true
+imageGenerated: true
 type: mejirushi
 status: draft
 title: "【8月第2週発売】toyminiめじるしアクセサリー"

@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-08-10T03:22:36.468Z"
+wpPostUrl: "https://www.seal-search.com/news/new-item/fujiko-museum-bonbondrop-202608/"
+wpPostId: 15298
+posted: true
 type: new-release
 status: draft
 title: "【8/14発売】藤子・F・不二雄ミュージアム限定ボンボンドロップシール ドラえもんA・キャラクター集合A"

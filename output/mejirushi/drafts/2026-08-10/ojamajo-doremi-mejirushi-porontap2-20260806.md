@@ -1,4 +1,9 @@
 ---
+postedAt: "2026-08-10T03:23:54.746Z"
+wpPostUrl: "https://www.seal-search.com/mejirushi/ojamajo-doremi-mejirushi-porontap2-20260806/"
+wpPostId: 15307
+posted: true
+imageGenerated: true
 type: mejirushi
 status: draft
 title: "【8/6発売】おジャ魔女どれみ めじるしアクセサリー2弾"
