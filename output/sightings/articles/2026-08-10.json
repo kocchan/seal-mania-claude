@@ -1,7 +1,7 @@
 {
   "date": "2026-08-10",
-  "updatedAt": "2026-08-10T16:52:22.919+09:00",
-  "count": 30,
+  "updatedAt": "2026-08-10T19:14:42.916+09:00",
+  "count": 32,
   "articles": [
     {
       "isSighting": true,
@@ -572,6 +572,44 @@
       "wpPostId": 15344,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-hyogo-kakogawa-2026-08-10/",
       "postedAt": "2026-08-10T16:53:01.835+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "長野県",
+      "city": "千曲市",
+      "shopName": "無人ガチャガチャコーナー",
+      "shopAddress": "長野県千曲市大字戸倉",
+      "productName": "ボンボンドロップシール",
+      "sightingTime": "2026-08-10 09:02頃",
+      "statusText": "在庫あり（大量入荷）",
+      "confidenceMemo": "店舗公式アカウントによる写真付きの入荷情報",
+      "sourceUrl": "https://x.com/tikumagatya/status/2086740027233759533",
+      "sourceTweetId": "2086740027233759533",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2086740027233759533.png",
+      "isPosted": true,
+      "wpPostId": 15346,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-nagano-chikuma-2026-08-10/",
+      "postedAt": "2026-08-10T19:14:49.688+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "東京都",
+      "city": "豊島区",
+      "shopName": "TOHOシネマズ池袋",
+      "shopAddress": "東京都豊島区東池袋1-18-1 Hareza Tower内",
+      "productName": "ボンボンドロップシール（映画ちいかわ第2弾入場特典）",
+      "sightingTime": "2026-08-10 08:50頃",
+      "statusText": "在庫あり（8/12まで配布可能見込み）",
+      "confidenceMemo": "特定の映画館における配布状況の詳細情報",
+      "sourceUrl": "https://x.com/ddddeeebbbbuuu/status/2086736933754171868",
+      "sourceTweetId": "2086736933754171868",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2086736933754171868.png",
+      "isPosted": true,
+      "wpPostId": 15348,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-tokyo-toshima-2026-08-10/",
+      "postedAt": "2026-08-10T19:14:56.738+09:00"
     }
   ]
 }
