@@ -1,7 +1,7 @@
 {
   "date": "2026-08-10",
-  "updatedAt": "2026-08-10T19:14:42.916+09:00",
-  "count": 32,
+  "updatedAt": "2026-08-10T22:20:25.109+09:00",
+  "count": 33,
   "articles": [
     {
       "isSighting": true,
@@ -610,6 +610,25 @@
       "wpPostId": 15348,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-tokyo-toshima-2026-08-10/",
       "postedAt": "2026-08-10T19:14:56.738+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "愛知県",
+      "city": "豊田市",
+      "shopName": "ガチャガチャスポットKiTARA",
+      "shopAddress": "愛知県豊田市喜多町2丁目160 KiTARA内",
+      "productName": "平成メモリー うるちゅるシールフレーク / クラックスキャラクターズ うるちゅるシール プチキーホルダー",
+      "sightingTime": "2026-08-10 21:42頃",
+      "statusText": "在庫あり（本日入荷）",
+      "confidenceMemo": "店舗公式アカウントによる入荷情報の投稿であり、信頼性が非常に高い。ボンボンドロップと同系統の『うるちゅる』シリーズの入荷が確認できる。",
+      "sourceUrl": "https://x.com/KiTARA_ikuman/status/2086799744920432685",
+      "sourceTweetId": "2086799744920432685",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2086799744920432685.png",
+      "isPosted": true,
+      "wpPostId": 15350,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-aichi-toyota-2026-08-10/",
+      "postedAt": "2026-08-10T22:20:31.701+09:00"
     }
   ]
 }
