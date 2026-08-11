@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-08-11T03:15:23.815Z"
+wpPostUrl: "https://www.seal-search.com/character/nagano-market-bonbondrop-sendai-20260826/"
+wpPostId: 15368
+posted: true
 type: newproduct
 status: draft
 title: "【8/26開催】ナガノマーケット仙台 ボンドロ新作"

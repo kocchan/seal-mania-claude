@@ -1,4 +1,9 @@
 ---
+postedAt: "2026-08-11T03:15:40.616Z"
+wpPostUrl: "https://www.seal-search.com/mejirushi/cardcaptorsakura-mejirushi4-202608/"
+wpPostId: 15371
+posted: true
+imageGenerated: true
 type: mejirushi
 status: draft
 title: "【8月第2週発売】カードキャプターさくら めじるしアクセサリー4"

@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-08-11T03:15:18.393Z"
+wpPostUrl: "https://www.seal-search.com/character/fujiya-pekochan-pukupuyo-seal-20260809/"
+wpPostId: 15367
+posted: true
 type: newproduct
 status: draft
 title: "【8/9発売】ペコちゃん立体シール ぷゆぽよ新作"
