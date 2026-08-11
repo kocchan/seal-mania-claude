@@ -1,7 +1,7 @@
 {
   "date": "2026-08-11",
-  "updatedAt": "2026-08-11T22:16:37.807+09:00",
-  "count": 27,
+  "updatedAt": "2026-08-12T06:43:57.213+09:00",
+  "count": 28,
   "articles": [
     {
       "isSighting": true,
@@ -515,6 +515,25 @@
       "wpPostId": 15411,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-tokyo-minato-2026-08-11/",
       "postedAt": "2026-08-11T22:17:55.716+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "愛知県",
+      "city": "名古屋市中村区",
+      "shopName": "矢場とん 名古屋駅構内店舗",
+      "shopAddress": "愛知県名古屋市中村区名駅1丁目1-4",
+      "productName": "ボンボンドロップシールセット",
+      "sightingTime": "2026-08-12 13:59頃",
+      "statusText": "在庫あり（お弁当とセットで販売中）",
+      "confidenceMemo": "名古屋駅の店舗にて写真付きの購入報告があり、信頼性が高い。複数人による同様の目撃情報あり。",
+      "sourceUrl": "https://x.com/mochinokoge/status/2087177207282344071",
+      "sourceTweetId": "2087177207282344071",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2087177207282344071.png",
+      "isPosted": true,
+      "wpPostId": 15413,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-aichi-nakamura-nagoya-2026-08-12/",
+      "postedAt": "2026-08-12T06:44:03.255+09:00"
     }
   ]
 }
