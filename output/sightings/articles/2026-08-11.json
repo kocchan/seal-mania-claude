@@ -1,7 +1,7 @@
 {
   "date": "2026-08-11",
-  "updatedAt": "2026-08-11T16:18:12.225+09:00",
-  "count": 13,
+  "updatedAt": "2026-08-11T18:56:44.088+09:00",
+  "count": 15,
   "articles": [
     {
       "isSighting": true,
@@ -249,6 +249,44 @@
       "wpPostId": 15383,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-hiroshima-higashihiroshima-2026-08-11/",
       "postedAt": "2026-08-11T16:18:47.423+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "神奈川県",
+      "city": "相模原市",
+      "shopName": "トイ・スクエア橋本",
+      "shopAddress": "神奈川県相模原市緑区大山町1-22 アリオ橋本2F",
+      "productName": "ボンボンドロップシール お文具といっしょ",
+      "sightingTime": "2026-08-11 18:26頃",
+      "statusText": "完売（8月8日入荷分）",
+      "confidenceMemo": "店舗公式アカウントによる完売報告のため信頼性が高い",
+      "sourceUrl": "https://x.com/omochayasan_jp/status/2087108428657537092",
+      "sourceTweetId": "2087108428657537092",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2087108428657537092.png",
+      "isPosted": true,
+      "wpPostId": 15385,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-kanagawa-sagamihara-2026-08-11/",
+      "postedAt": "2026-08-11T18:56:50.691+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "北海道",
+      "city": "札幌市中央区",
+      "shopName": "駿河屋札幌ノルベサ店",
+      "shopAddress": "北海道札幌市中央区南3条西5丁目1-1 ノルベサ3F",
+      "productName": "ボンボンドロップシール churukira サンリオキャラクターズ",
+      "sightingTime": "2026-08-11 08:16頃",
+      "statusText": "新品入荷・在庫あり",
+      "confidenceMemo": "店舗公式アカウントによる商品入荷および販売区画（3階雑貨コーナー）の明示的な告知",
+      "sourceUrl": "https://x.com/suruga_norbesa/status/2087090835200586228",
+      "sourceTweetId": "2087090835200586228",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2087090835200586228.png",
+      "isPosted": true,
+      "wpPostId": 15387,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-hokkaido-chuo-sapporo-2026-08-11/",
+      "postedAt": "2026-08-11T18:56:57.814+09:00"
     }
   ]
 }
