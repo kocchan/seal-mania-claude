@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-08-12T03:33:24.210Z"
+wpPostUrl: "https://www.seal-search.com/news/new-item/chiikawa-bonbondrop-mini2-202610-2/"
+wpPostId: 15437
+posted: true
 type: new-release
 status: draft
 title: "【10/30発売予定】ちいかわボンボンドロップシールmini第2弾 全8種が2026年10月登場"
