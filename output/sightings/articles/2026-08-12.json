@@ -1,7 +1,7 @@
 {
   "date": "2026-08-12",
-  "updatedAt": "2026-08-12T22:20:23.753+09:00",
-  "count": 30,
+  "updatedAt": "2026-08-13T06:44:12.091+09:00",
+  "count": 31,
   "articles": [
     {
       "isSighting": true,
@@ -572,6 +572,25 @@
       "wpPostId": 15477,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-saitama-omiya-saitama-2026-08-12/",
       "postedAt": "2026-08-12T22:21:00.035+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "千葉県",
+      "city": "千葉市美浜区",
+      "shopName": "ZOZOマリンスタジアム（ロッテ販売エリア）",
+      "shopAddress": "千葉県千葉市美浜区美浜1",
+      "productName": "ロッテのボンボンドロップシール",
+      "sightingTime": "2026-08-13 14:41頃",
+      "statusText": "在庫あり（購入・配布報告あり）",
+      "confidenceMemo": "「ロッテ」「席」というキーワードから、球場（ZOZOマリンスタジアム）での配布・販売と推測",
+      "sourceUrl": "https://x.com/y_y_n1124/status/2087550023886315637",
+      "sourceTweetId": "2087550023886315637",
+      "isPrediction": true,
+      "imagePath": "output/sightings/images/2087550023886315637.png",
+      "isPosted": true,
+      "wpPostId": 15479,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-chiba-mihama-chiba-2026-08-13/",
+      "postedAt": "2026-08-13T06:44:18.603+09:00"
     }
   ]
 }
