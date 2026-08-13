@@ -1,7 +1,7 @@
 {
   "date": "2026-08-13",
-  "updatedAt": "2026-08-13T11:07:57.572+09:00",
-  "count": 19,
+  "updatedAt": "2026-08-13T13:47:41.309+09:00",
+  "count": 21,
   "articles": [
     {
       "isSighting": true,
@@ -363,6 +363,44 @@
       "wpPostId": 15517,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-hokkaido-toyohira-sapporo-2026-08-11/",
       "postedAt": "2026-08-13T11:10:12.518+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "大阪府",
+      "city": "泉大津市",
+      "shopName": "泉大津PA（海側）",
+      "shopAddress": "大阪府泉大津市なぎさ町5-1",
+      "productName": "ボンボンドロップシール（サンドイッチ＆パン、おにぎり＆お弁当、スイーツ＆お菓子、ほっとスナック）",
+      "sightingTime": "2026-08-13 13:22頃",
+      "statusText": "在庫あり（4種類入荷）",
+      "confidenceMemo": "公式アカウントによる写真付きの正確な入荷情報",
+      "sourceUrl": "https://x.com/hex_pa_info/status/2087756782349508900",
+      "sourceTweetId": "2087756782349508900",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2087756782349508900.png",
+      "isPosted": true,
+      "wpPostId": 15523,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-osaka-izumiotsu-2026-08-13/",
+      "postedAt": "2026-08-13T13:47:49.034+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "大阪府",
+      "city": "池田市",
+      "shopName": "いしばしや＆KEY´S CAFE石橋駅前店",
+      "shopAddress": "大阪府池田市石橋1丁目8-12",
+      "productName": "うるちゅるシール、ウォーターシール、肉球シール、コットンパフィーシール、ちいかわおはじきシール",
+      "sightingTime": "2026-08-13 13:41頃",
+      "statusText": "入荷あり（複数種類）",
+      "confidenceMemo": "店舗公式アカウントによる入荷・在庫報告のため信頼性が高い",
+      "sourceUrl": "https://x.com/ishibashiya/status/2087761549578613246",
+      "sourceTweetId": "2087761549578613246",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2087761549578613246.png",
+      "isPosted": true,
+      "wpPostId": 15525,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-osaka-ikeda-2026-08-13/",
+      "postedAt": "2026-08-13T13:47:56.329+09:00"
     }
   ]
 }
