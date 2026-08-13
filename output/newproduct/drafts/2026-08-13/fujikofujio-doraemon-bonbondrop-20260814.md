@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-08-13T03:36:46.641Z"
+wpPostUrl: "https://www.seal-search.com/character/fujikofujio-doraemon-bonbondrop-20260814/"
+wpPostId: 15518
+posted: true
 type: newproduct
 status: draft
 title: "【8/14発売】ドラえもん ボンボンドロップシール新作"

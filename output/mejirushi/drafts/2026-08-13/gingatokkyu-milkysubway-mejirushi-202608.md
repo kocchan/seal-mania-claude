@@ -1,4 +1,9 @@
 ---
+postedAt: "2026-08-13T03:37:01.866Z"
+wpPostUrl: "https://www.seal-search.com/mejirushi/gingatokkyu-milkysubway-mejirushi-202608/"
+wpPostId: 15521
+posted: true
+imageGenerated: true
 type: mejirushi
 status: draft
 title: "【8月第2週発売】『銀河特急』めじるしアクセサリー"
