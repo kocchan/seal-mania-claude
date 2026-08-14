@@ -1,7 +1,7 @@
 {
   "date": "2026-08-14",
-  "updatedAt": "2026-08-14T22:17:22.141+09:00",
-  "count": 32,
+  "updatedAt": "2026-08-15T06:22:05.076+09:00",
+  "count": 34,
   "articles": [
     {
       "isSighting": true,
@@ -610,6 +610,44 @@
       "wpPostId": 15639,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-hyogo-himeji-2026-08-14/",
       "postedAt": "2026-08-14T22:17:49.093+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "神奈川県",
+      "city": "川崎市多摩区",
+      "shopName": "川崎市 藤子・F・不二雄ミュージアム",
+      "shopAddress": "神奈川県川崎市多摩区長尾2丁目8番1号",
+      "productName": "ボンボンドロップシール（ドラえもん）",
+      "sightingTime": "2026-08-15 14:56頃",
+      "statusText": "在庫切れ（完売）",
+      "confidenceMemo": "公式ミュージアムでの配布終了に対する直接的な報告",
+      "sourceUrl": "https://x.com/vYtFc58s7K57912/status/2088278696285360457",
+      "sourceTweetId": "2088278696285360457",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2088278696285360457.png",
+      "isPosted": true,
+      "wpPostId": 15641,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-kanagawa-tama-kawasaki-2026-08-15/",
+      "postedAt": "2026-08-15T06:22:11.546+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "千葉県",
+      "city": "千葉市美浜区",
+      "shopName": "イオンシネマ幕張新都心（マングー）",
+      "shopAddress": "千葉県千葉市美浜区豊砂1-1 イオンモール幕張新都心 グランドモール3F",
+      "productName": "ボンボンドロップ",
+      "sightingTime": "2026-08-15 13:37頃",
+      "statusText": "完売（入場時は在庫あり、その後配布終了）",
+      "confidenceMemo": "「マングー」はイオンシネマ幕張新都心のファンによる通称。入場ゲート（もぎり）での配布状況に関する直接の情報。",
+      "sourceUrl": "https://x.com/onlooks_sa/status/2088258628730192171",
+      "sourceTweetId": "2088258628730192171",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2088258628730192171.png",
+      "isPosted": true,
+      "wpPostId": 15643,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-chiba-mihama-chiba-2026-08-15/",
+      "postedAt": "2026-08-15T06:22:17.748+09:00"
     }
   ]
 }
