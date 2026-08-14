@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-08-14T03:34:13.674Z"
+wpPostUrl: "https://www.seal-search.com/news/new-item/bonbondrop-new8types-onsale-202608/"
+wpPostId: 15593
+posted: true
 type: new-release
 status: draft
 title: "8/18発売！ボンボンドロップ新作8種はどこで買える？全種まとめ"

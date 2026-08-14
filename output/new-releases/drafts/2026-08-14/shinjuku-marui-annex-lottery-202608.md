@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-08-14T03:34:20.954Z"
+wpPostUrl: "https://www.seal-search.com/news/new-item/shinjuku-marui-annex-lottery-202608/"
+wpPostId: 15595
+posted: true
 type: new-release
 status: draft
 title: "【8/15締切】ボンボンドロップシールPOPUP@新宿マルイアネックスの抽選予約方法"
