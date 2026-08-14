@@ -1,7 +1,7 @@
 {
   "date": "2026-08-14",
-  "updatedAt": "2026-08-14T16:40:35.461+09:00",
-  "count": 27,
+  "updatedAt": "2026-08-14T18:55:54.255+09:00",
+  "count": 28,
   "articles": [
     {
       "isSighting": true,
@@ -515,6 +515,25 @@
       "wpPostId": 15629,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-aomori-hirosaki-2026-08-14/",
       "postedAt": "2026-08-14T16:43:39.970+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "群馬県",
+      "city": "高崎市",
+      "shopName": "ダイナム群馬吉井店",
+      "shopAddress": "群馬県高崎市吉井町吉井川422",
+      "productName": "ぷっくりシール (ダイキチ景品)",
+      "sightingTime": "2026-08-14 18:00頃（8/15入荷予定の告知）",
+      "statusText": "2026年8月15日入荷予定",
+      "confidenceMemo": "店舗公式アカウントによる入荷予告のため信頼性が非常に高い",
+      "sourceUrl": "https://x.com/dynam_00188/status/2088188935973265562",
+      "sourceTweetId": "2088188935973265562",
+      "isPrediction": true,
+      "imagePath": "output/sightings/images/2088188935973265562.png",
+      "isPosted": true,
+      "wpPostId": 15631,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-gunma-takasaki-2026-08-14/",
+      "postedAt": "2026-08-14T18:56:00.472+09:00"
     }
   ]
 }
