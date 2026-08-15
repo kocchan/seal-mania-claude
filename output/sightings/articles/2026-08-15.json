@@ -1,7 +1,7 @@
 {
   "date": "2026-08-15",
-  "updatedAt": "2026-08-15T10:21:03.304+09:00",
-  "count": 13,
+  "updatedAt": "2026-08-15T12:33:47.691+09:00",
+  "count": 14,
   "articles": [
     {
       "isSighting": true,
@@ -249,6 +249,25 @@
       "wpPostId": 15669,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-shiga-toyosato-inukami-district-2026-08-14-2/",
       "postedAt": "2026-08-15T10:22:32.414+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "大阪府",
+      "city": "枚方市",
+      "shopName": "TOHOシネマズ くずはモール",
+      "shopAddress": "大阪府枚方市楠葉花園町15-1 くずはモール 南館 3F",
+      "productName": "ボンボンドロップシール（ちいかわ入場特典）",
+      "sightingTime": "2026-08-15 11:56頃",
+      "statusText": "在庫あり（今日中にはなくなりそう）",
+      "confidenceMemo": "具体的な店舗名（樟葉モール TOHOシネマズ）と「あった」という肯定的な情報が含まれているため、信頼性が高い。",
+      "sourceUrl": "https://x.com/muki_gari/status/2088459867996790859",
+      "sourceTweetId": "2088459867996790859",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2088459867996790859.png",
+      "isPosted": true,
+      "wpPostId": 15827,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-osaka-hirakata-2026-08-15/",
+      "postedAt": "2026-08-15T12:33:54.129+09:00"
     }
   ]
 }
