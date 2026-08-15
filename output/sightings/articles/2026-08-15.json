@@ -1,7 +1,7 @@
 {
   "date": "2026-08-15",
-  "updatedAt": "2026-08-15T21:49:43.330+09:00",
-  "count": 25,
+  "updatedAt": "2026-08-16T06:17:42.702+09:00",
+  "count": 26,
   "articles": [
     {
       "isSighting": true,
@@ -477,6 +477,25 @@
       "wpPostId": 15849,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-fukuoka-chuo-fukuoka-2026-08-16/",
       "postedAt": "2026-08-15T21:49:49.308+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "大阪府",
+      "city": "泉大津市",
+      "shopName": "阪神高速 泉大津PA海側 3F売店",
+      "shopAddress": "大阪府泉大津市なぎさ町6-1",
+      "productName": "ボンボンドロップシール",
+      "sightingTime": "2026-08-16 17:20頃",
+      "statusText": "在庫あり（たくさんあった）",
+      "confidenceMemo": "日時、場所、在庫状況が非常に具体的に記載されており、信頼性が高い。",
+      "sourceUrl": "https://x.com/JA7005/status/2088623214222274961",
+      "sourceTweetId": "2088623214222274961",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2088623214222274961.png",
+      "isPosted": true,
+      "wpPostId": 15851,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-osaka-izumiotsu-2026-08-16/",
+      "postedAt": "2026-08-16T06:17:48.519+09:00"
     }
   ]
 }
