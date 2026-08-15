@@ -1,7 +1,7 @@
 {
   "date": "2026-08-15",
-  "updatedAt": "2026-08-15T18:21:38.102+09:00",
-  "count": 24,
+  "updatedAt": "2026-08-15T21:49:43.330+09:00",
+  "count": 25,
   "articles": [
     {
       "isSighting": true,
@@ -458,6 +458,25 @@
       "wpPostId": 15847,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-tokyo-shibuya-2026-08-15/",
       "postedAt": "2026-08-15T18:22:20.009+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "福岡県",
+      "city": "福岡市中央区",
+      "shopName": "プラザ天神",
+      "shopAddress": "福岡県福岡市中央区天神2丁目6-32",
+      "productName": "ボンボンドロップシール",
+      "sightingTime": "2026-08-16 入荷予定",
+      "statusText": "在庫あり（8/16 入荷告知）",
+      "confidenceMemo": "店舗公式情報に基づく入荷告知。賞品としての取り扱い。",
+      "sourceUrl": "https://x.com/diary868894/status/2088571348352373034",
+      "sourceTweetId": "2088571348352373034",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2088571348352373034.png",
+      "isPosted": true,
+      "wpPostId": 15849,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-fukuoka-chuo-fukuoka-2026-08-16/",
+      "postedAt": "2026-08-15T21:49:49.308+09:00"
     }
   ]
 }
