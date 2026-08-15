@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-08-15T02:29:41.218Z"
+wpPostUrl: "https://www.seal-search.com/news/reservation/kiddyland-urawamisono-bonbondrop-fuwafuwa-20260816/"
+wpPostId: 15822
+posted: true
 imageGenerated: true
 type: lottery
 status: draft

@@ -1,4 +1,9 @@
 ---
+postedAt: "2026-08-15T02:29:57.824Z"
+wpPostUrl: "https://www.seal-search.com/mejirushi/perfect-piggy-mejirushi-202608/"
+wpPostId: 15825
+posted: true
+imageGenerated: true
 type: mejirushi
 status: draft
 title: "【8月第4週発売】パーフェクトピギー めじるしアクセサリー"
