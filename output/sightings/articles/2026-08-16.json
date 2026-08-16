@@ -1,7 +1,7 @@
 {
   "date": "2026-08-16",
-  "updatedAt": "2026-08-16T18:23:15.106+09:00",
-  "count": 18,
+  "updatedAt": "2026-08-16T21:48:03.141+09:00",
+  "count": 21,
   "articles": [
     {
       "isSighting": true,
@@ -344,6 +344,63 @@
       "wpPostId": 15889,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-hokkaido-asahikawa-2026-08-05-5/",
       "postedAt": "2026-08-16T18:23:41.588+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "京都府",
+      "city": "京都市中京区",
+      "shopName": "TOHOシネマズ二条",
+      "shopAddress": "京都府京都市中京区西ノ京栂尾町107 二条駅前ビル",
+      "productName": "ボンボンドロップシール (ちいかわ映画入場特典)",
+      "sightingTime": "2026-08-16 08:47頃",
+      "statusText": "配布終了（在庫なし）",
+      "confidenceMemo": "具体的な店舗名と特典の終了状況が明記されている",
+      "sourceUrl": "https://x.com/ChilChillmichel/status/2088954686762365350",
+      "sourceTweetId": "2088954686762365350",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2088954686762365350.png",
+      "isPosted": true,
+      "wpPostId": 15891,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-kyoto-nakagyo-kyoto-2026-08-16/",
+      "postedAt": "2026-08-16T21:48:09.093+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "愛知県",
+      "city": "春日井市",
+      "shopName": "ヨロッカ (イーアス春日井内)",
+      "shopAddress": "愛知県春日井市六軒屋町東丘22 イーアス春日井 2F",
+      "productName": "ボンボンドロップシール",
+      "sightingTime": "2026-08-16 10:49頃",
+      "statusText": "在庫あり（ポップアップストア開催、混雑あり）",
+      "confidenceMemo": "ポップアップストアの場所が具体的で写真付きの情報",
+      "sourceUrl": "https://x.com/ddx2g/status/2088941088317042964",
+      "sourceTweetId": "2088941088317042964",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2088941088317042964.png",
+      "isPosted": true,
+      "wpPostId": 15893,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-aichi-kasugai-2026-08-16/",
+      "postedAt": "2026-08-16T21:48:15.210+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "埼玉県",
+      "city": "上尾市",
+      "shopName": "bepop アリオ上尾店",
+      "shopAddress": "埼玉県上尾市大字壱丁目367 アリオ上尾 2F",
+      "productName": "ボンボンドロップシール (サンリオ、しずくちゃん、大人の図鑑シリーズ)",
+      "sightingTime": "2026-08-16 09:57頃",
+      "statusText": "入荷・販売あり（当日入荷分）",
+      "confidenceMemo": "店舗アカウント（bepop.ario）による公式の入荷・販売報告",
+      "sourceUrl": "https://x.com/ario_bepop/status/2088928095248228598",
+      "sourceTweetId": "2088928095248228598",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2088928095248228598.png",
+      "isPosted": true,
+      "wpPostId": 15895,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-saitama-ageo-2026-08-16/",
+      "postedAt": "2026-08-16T21:48:21.464+09:00"
     }
   ]
 }
