@@ -1,7 +1,7 @@
 {
   "date": "2026-08-16",
-  "updatedAt": "2026-08-16T10:26:54.146+09:00",
-  "count": 11,
+  "updatedAt": "2026-08-16T12:42:52.116+09:00",
+  "count": 13,
   "articles": [
     {
       "isSighting": true,
@@ -211,6 +211,44 @@
       "wpPostId": 15873,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-ishikawa-kanazawa-2026-08-15-3/",
       "postedAt": "2026-08-16T10:28:07.826+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "神奈川県",
+      "city": "川崎市川崎区",
+      "shopName": "TOHOシネマズ川崎",
+      "shopAddress": "神奈川県川崎市川崎区駅前本町8 ダイスビル7F",
+      "productName": "ボンボンドロップシール（映画ちいかわ入場特典）",
+      "sightingTime": "2026-08-16 12:25頃",
+      "statusText": "在庫あり（入口に5段ほど積まれていたとのこと）",
+      "confidenceMemo": "具体的な場所とパレットの積載状況の記述があり信頼性が高い",
+      "sourceUrl": "https://x.com/1021junie3/status/2088829498632654857",
+      "sourceTweetId": "2088829498632654857",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2088829498632654857.png",
+      "isPosted": true,
+      "wpPostId": 15877,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-kanagawa-kawasaki-kawasaki-2026-08-16/",
+      "postedAt": "2026-08-16T12:42:57.790+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "富山県",
+      "city": "富山市",
+      "shopName": "コンプオフ マリエとやま店",
+      "shopAddress": "富山県富山市桜町1丁目1-61 マリエとやま内",
+      "productName": "ボンボンドロップシール",
+      "sightingTime": "2026-08-16 12:20頃",
+      "statusText": "入荷（在庫あり）",
+      "confidenceMemo": "店舗公式アカウントによる入荷・在庫情報",
+      "sourceUrl": "https://x.com/compoff_marier/status/2088828180866232822",
+      "sourceTweetId": "2088828180866232822",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2088828180866232822.png",
+      "isPosted": true,
+      "wpPostId": 15879,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-toyama-toyama-2026-08-16/",
+      "postedAt": "2026-08-16T12:43:03.874+09:00"
     }
   ]
 }
