@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-08-16T02:38:33.219Z"
+wpPostUrl: "https://www.seal-search.com/news/new-item/shinjuku-marui-annex-2nd-reservation-20260820/"
+wpPostId: 15875
+posted: true
 type: new-release
 status: draft
 title: "【8/20 12時〜】ボンドロPOPUP新宿マルイの2次先着予約方法と当選確認手順"
