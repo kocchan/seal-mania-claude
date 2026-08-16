@@ -1,7 +1,7 @@
 {
   "date": "2026-08-16",
-  "updatedAt": "2026-08-16T12:42:52.116+09:00",
-  "count": 13,
+  "updatedAt": "2026-08-16T15:49:45.085+09:00",
+  "count": 14,
   "articles": [
     {
       "isSighting": true,
@@ -249,6 +249,25 @@
       "wpPostId": 15879,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-toyama-toyama-2026-08-16/",
       "postedAt": "2026-08-16T12:43:03.874+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "東京都",
+      "city": "千代田区",
+      "shopName": "Tokyo Hobby Base WTJ",
+      "shopAddress": "東京都千代田区外神田1-15-16 秋葉原ラジオ会館内",
+      "productName": "しずくちゃん ボンボンドロップシール、サンリオ ボンボンドロップシール",
+      "sightingTime": "2026-08-16 14:58頃",
+      "statusText": "大量入荷（在庫あり）",
+      "confidenceMemo": "店舗公式アカウントによる具体的な入荷案内",
+      "sourceUrl": "https://x.com/tokyohobbybase/status/2088867988309180827",
+      "sourceTweetId": "2088867988309180827",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2088867988309180827.png",
+      "isPosted": true,
+      "wpPostId": 15881,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-tokyo-chiyoda-2026-08-16/",
+      "postedAt": "2026-08-16T15:49:52.062+09:00"
     }
   ]
 }
