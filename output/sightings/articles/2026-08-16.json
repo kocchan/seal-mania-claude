@@ -1,7 +1,7 @@
 {
   "date": "2026-08-16",
-  "updatedAt": "2026-08-16T21:48:03.141+09:00",
-  "count": 21,
+  "updatedAt": "2026-08-17T06:16:23.354+09:00",
+  "count": 22,
   "articles": [
     {
       "isSighting": true,
@@ -401,6 +401,25 @@
       "wpPostId": 15895,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-saitama-ageo-2026-08-16/",
       "postedAt": "2026-08-16T21:48:21.464+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "東京都",
+      "city": "立川市",
+      "shopName": "立川シネマシティ（シネマ・ツー）",
+      "shopAddress": "東京都立川市曙町2-42-26",
+      "productName": "映画ちいかわ入場者特典 ぷっくりシール（ボンボンドロップシール）",
+      "sightingTime": "2026-08-16 16:03頃",
+      "statusText": "在庫あり（配布開始から1週間経過も在庫あり）",
+      "confidenceMemo": "ツイート内の「極爆」および「映画ちいかわ」の記述から、立川シネマシティでの特典配布情報と特定。",
+      "sourceUrl": "https://x.com/woodk278147731/status/2089020134472183952",
+      "sourceTweetId": "2089020134472183952",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2089020134472183952.png",
+      "isPosted": true,
+      "wpPostId": 15897,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-tokyo-tachikawa-2026-08-16/",
+      "postedAt": "2026-08-17T06:16:30.368+09:00"
     }
   ]
 }
