@@ -1,7 +1,7 @@
 {
   "date": "2026-08-17",
-  "updatedAt": "2026-08-17T16:07:18.380+09:00",
-  "count": 18,
+  "updatedAt": "2026-08-17T18:37:01.602+09:00",
+  "count": 20,
   "articles": [
     {
       "isSighting": true,
@@ -344,6 +344,44 @@
       "wpPostId": 15947,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-shizuoka-mishima-2026-08-17/",
       "postedAt": "2026-08-17T16:07:42.380+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "三重県",
+      "city": "松阪市",
+      "shopName": "ドリームカプセル イオンタウン松阪船江",
+      "shopAddress": "三重県松阪市船江町1392-3 イオンタウン松阪船江内",
+      "productName": "平成メモリー うるちゅるPOP シールフレーク",
+      "sightingTime": "2026-08-17 18:01頃",
+      "statusText": "完売",
+      "confidenceMemo": "店舗公式アカウントによる完売報告",
+      "sourceUrl": "https://x.com/drecap_funae/status/2089276568766218645",
+      "sourceTweetId": "2089276568766218645",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2089276568766218645.png",
+      "isPosted": true,
+      "wpPostId": 15949,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-mie-matsusaka-2026-08-17/",
+      "postedAt": "2026-08-17T18:37:08.605+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "神奈川県",
+      "city": "平塚市",
+      "shopName": "ドリームカプセル THE OUTLETS SHONAN HIRATSUKA",
+      "shopAddress": "神奈川県平塚市大神字一之堰605 THE OUTLETS SHONAN HIRATSUKA内",
+      "productName": "平成メモリー うるちゅるPOPシールフレーク",
+      "sightingTime": "2026-08-17 07:47頃",
+      "statusText": "再入荷（在庫あり）",
+      "confidenceMemo": "店舗公式アカウントによる再入荷報告",
+      "sourceUrl": "https://x.com/drecap_SHONAN/status/2089257805283025113",
+      "sourceTweetId": "2089257805283025113",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2089257805283025113.png",
+      "isPosted": true,
+      "wpPostId": 15951,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-kanagawa-hiratsuka-2026-08-17/",
+      "postedAt": "2026-08-17T18:37:15.002+09:00"
     }
   ]
 }
