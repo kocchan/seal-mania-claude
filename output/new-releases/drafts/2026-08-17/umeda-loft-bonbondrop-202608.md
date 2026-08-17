@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-08-17T02:38:24.217Z"
+wpPostUrl: "https://www.seal-search.com/news/new-item/umeda-loft-bonbondrop-202608/"
+wpPostId: 15925
+posted: true
 type: new-release
 status: draft
 title: "【8/17締切】ボンボンドロップシール全14種の抽選@梅田ロフト（8/21〜23販売）"

@@ -1,4 +1,9 @@
 ---
+postedAt: "2026-08-17T02:38:43.265Z"
+wpPostUrl: "https://www.seal-search.com/mejirushi/cando-neko-mejirushi-charm-20260816/"
+wpPostId: 15928
+posted: true
+imageGenerated: true
 type: mejirushi
 status: draft
 title: "【100均新作】キャンドゥ 猫デザインめじるしチャーム"

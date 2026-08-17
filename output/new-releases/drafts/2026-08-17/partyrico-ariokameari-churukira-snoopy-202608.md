@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-08-17T02:38:17.456Z"
+wpPostUrl: "https://www.seal-search.com/news/new-item/partyrico-ariokameari-churukira-snoopy-202608/"
+wpPostId: 15923
+posted: true
 type: new-release
 status: draft
 title: "【8/17締切】ボンボンドロップシールchurukiraスヌーピー抽選@パーティリコ亀有"

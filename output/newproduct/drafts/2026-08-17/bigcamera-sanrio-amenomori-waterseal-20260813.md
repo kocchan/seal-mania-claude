@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-08-17T02:38:05.108Z"
+wpPostUrl: "https://www.seal-search.com/character/bigcamera-sanrio-amenomori-waterseal-20260813/"
+wpPostId: 15920
+posted: true
 type: newproduct
 status: draft
 title: "【605円・限定】サンリオ×飴ノ森ふみかウォーターシール"

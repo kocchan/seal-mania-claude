@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-08-17T02:38:10.117Z"
+wpPostUrl: "https://www.seal-search.com/character/ohaasa-bonbondrop-qlia-202609/"
+wpPostId: 15921
+posted: true
 type: newproduct
 status: draft
 title: "【9月発売】ボンボンドロップシール『おはよう朝日です』"

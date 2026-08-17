@@ -1,4 +1,9 @@
 ---
+postedAt: "2026-08-17T02:39:05.256Z"
+wpPostUrl: "https://www.seal-search.com/mejirushi/thomas-mejirushi-gacha-mascot-20260824/"
+wpPostId: 15933
+posted: true
+imageGenerated: true
 type: mejirushi
 status: draft
 title: "【8月発売】きかんしゃトーマス めじるしガチャマスコット"

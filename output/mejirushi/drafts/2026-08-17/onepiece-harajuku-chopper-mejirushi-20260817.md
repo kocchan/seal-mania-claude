@@ -1,4 +1,9 @@
 ---
+postedAt: "2026-08-17T02:38:53.903Z"
+wpPostUrl: "https://www.seal-search.com/mejirushi/onepiece-harajuku-chopper-mejirushi-20260817/"
+wpPostId: 15930
+posted: true
+imageGenerated: true
 type: mejirushi
 status: draft
 title: "【HARAJUKU限定】チョッパーめじるしチャーム全13種"
