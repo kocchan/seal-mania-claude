@@ -1,7 +1,7 @@
 {
   "date": "2026-08-17",
-  "updatedAt": "2026-08-17T21:53:59.409+09:00",
-  "count": 24,
+  "updatedAt": "2026-08-18T06:22:32.252+09:00",
+  "count": 26,
   "articles": [
     {
       "isSighting": true,
@@ -458,6 +458,44 @@
       "wpPostId": 15959,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-tokyo-chiyoda-2026-08-17/",
       "postedAt": "2026-08-17T21:54:22.458+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "埼玉県",
+      "city": "さいたま市浦和区",
+      "shopName": "ユナイテッド・シネマ浦和",
+      "shopAddress": "埼玉県さいたま市浦和区東高砂町11-1 浦和パルコ 6F",
+      "productName": "ボンボンドロップシール（映画ちいかわ 入場者特典 第2弾）",
+      "sightingTime": "2026-08-15 15:37頃",
+      "statusText": "在庫あり（入場特典として配布）",
+      "confidenceMemo": "具体的な施設名と入手報告があり、信頼性が高い。投稿日は18日だが、土曜日に訪問との記述あり。",
+      "sourceUrl": "https://x.com/yrk_luv03040212/status/2089376009107980717",
+      "sourceTweetId": "2089376009107980717",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2089376009107980717.png",
+      "isPosted": true,
+      "wpPostId": 15961,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-saitama-saitama-urawa-2026-08-15/",
+      "postedAt": "2026-08-18T06:22:39.954+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "神奈川県",
+      "city": "横浜市港南区",
+      "shopName": "港南台バーズ内の雑貨屋",
+      "shopAddress": "神奈川県横浜市港南区港南台3-1-3 港南台バーズ内",
+      "productName": "ボンボンドロップシール（100円）",
+      "sightingTime": "2026-08-18 14:58頃",
+      "statusText": "在庫あり",
+      "confidenceMemo": "商業施設内の店舗にて継続的に販売されている目撃情報。",
+      "sourceUrl": "https://x.com/moridon0523/status/2089366304180596918",
+      "sourceTweetId": "2089366304180596918",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2089366304180596918.png",
+      "isPosted": true,
+      "wpPostId": 15963,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-kanagawa-konan-yokohama-2026-08-18/",
+      "postedAt": "2026-08-18T06:22:46.783+09:00"
     }
   ]
 }
