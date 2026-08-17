@@ -1,7 +1,7 @@
 {
   "date": "2026-08-17",
-  "updatedAt": "2026-08-17T10:23:34.058+09:00",
-  "count": 11,
+  "updatedAt": "2026-08-17T12:44:21.248+09:00",
+  "count": 14,
   "articles": [
     {
       "isSighting": true,
@@ -211,6 +211,63 @@
       "wpPostId": 15919,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-okinawa-urasoe-2026-08-15-3/",
       "postedAt": "2026-08-17T10:24:45.915+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "静岡県",
+      "city": "静岡市駿河区",
+      "shopName": "パッケージプラザ静岡南店",
+      "shopAddress": "静岡県静岡市駿河区中田2-6-20",
+      "productName": "ボンボンドロップ",
+      "sightingTime": "2026-08-17 12:34頃",
+      "statusText": "入荷（お一人様1つまでの購入制限あり）",
+      "confidenceMemo": "店舗公式アカウントによる入荷・制限告知のため信頼性が高い",
+      "sourceUrl": "https://x.com/pico1883/status/2089194101895987570",
+      "sourceTweetId": "2089194101895987570",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2089194101895987570.png",
+      "isPosted": true,
+      "wpPostId": 15935,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-shizuoka-suruga-shizuoka-2026-08-17/",
+      "postedAt": "2026-08-17T12:44:28.647+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "東京都",
+      "city": "大田区",
+      "shopName": "丸善 アトレ大森店",
+      "shopAddress": "東京都大田区大森北1-6-16 アトレ大森4階",
+      "productName": "ボンボンドロップシール",
+      "sightingTime": "2026-08-17 14:00頃",
+      "statusText": "時間限定販売（14時～16時、売切の可能性あり）",
+      "confidenceMemo": "店舗公式アカウントによる具体的な販売時間・ルール告知",
+      "sourceUrl": "https://x.com/maruzen_omori/status/2089185462686490832",
+      "sourceTweetId": "2089185462686490832",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2089185462686490832.png",
+      "isPosted": true,
+      "wpPostId": 15937,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-tokyo-ota-2026-08-17/",
+      "postedAt": "2026-08-17T12:44:35.504+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "静岡県",
+      "city": "富士市",
+      "shopName": "オオイシ文具店",
+      "shopAddress": "静岡県富士市吉原2-10-14",
+      "productName": "サンスター ボンボンドロップシール（エンジェルブルー✕デイジーラヴァーズ）",
+      "sightingTime": "2026-08-17 02:37頃",
+      "statusText": "再入荷（極少入荷、1家族1枚制限）",
+      "confidenceMemo": "店舗公式アカウントによる在庫僅少の再入荷速報",
+      "sourceUrl": "https://x.com/ooishibungu/status/2089179720873357572",
+      "sourceTweetId": "2089179720873357572",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2089179720873357572.png",
+      "isPosted": true,
+      "wpPostId": 15939,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-shizuoka-fuji-2026-08-17/",
+      "postedAt": "2026-08-17T12:44:42.185+09:00"
     }
   ]
 }
