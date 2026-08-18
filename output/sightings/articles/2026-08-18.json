@@ -1,7 +1,7 @@
 {
   "date": "2026-08-18",
-  "updatedAt": "2026-08-18T18:28:10.167+09:00",
-  "count": 19,
+  "updatedAt": "2026-08-18T21:57:04.727+09:00",
+  "count": 21,
   "articles": [
     {
       "isSighting": true,
@@ -363,6 +363,44 @@
       "wpPostId": 16009,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-okinawa-naha-2026-08-18-2/",
       "postedAt": "2026-08-18T18:28:49.556+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "京都府",
+      "city": "京都市",
+      "shopName": "京都ホビーセンター",
+      "shopAddress": "京都府京都市",
+      "productName": "プチドロップステッカー・うるちゅるシール各種",
+      "sightingTime": "2026-08-18 11:08頃",
+      "statusText": "大量入荷（発売開始）",
+      "confidenceMemo": "店舗公式アカウントによる入荷・発売告知のため信頼性が高い",
+      "sourceUrl": "https://x.com/kyoto_hobby_/status/2089670659530223798",
+      "sourceTweetId": "2089670659530223798",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2089670659530223798.png",
+      "isPosted": true,
+      "wpPostId": 16011,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-kyoto-kyoto-2026-08-18/",
+      "postedAt": "2026-08-18T21:57:11.623+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "沖縄県",
+      "city": "那覇市",
+      "shopName": "カプセルジャングルあっぷるタウン新都心店",
+      "shopAddress": "沖縄県那覇市おもろまち3丁目3-1 あっぷるタウン内",
+      "productName": "平成メモリー うるちゅるPOPシールフレーク",
+      "sightingTime": "2026-08-18 11:01頃",
+      "statusText": "入荷（在庫あり）",
+      "confidenceMemo": "店舗公式アカウントによる入荷告知のため信頼性が高い",
+      "sourceUrl": "https://x.com/cp_apple86/status/2089668945137774857",
+      "sourceTweetId": "2089668945137774857",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2089668945137774857.png",
+      "isPosted": true,
+      "wpPostId": 16013,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-okinawa-naha-2026-08-18-3/",
+      "postedAt": "2026-08-18T21:57:18.323+09:00"
     }
   ]
 }
