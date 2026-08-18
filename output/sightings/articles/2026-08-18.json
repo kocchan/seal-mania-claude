@@ -1,7 +1,7 @@
 {
   "date": "2026-08-18",
-  "updatedAt": "2026-08-18T12:39:51.686+09:00",
-  "count": 10,
+  "updatedAt": "2026-08-18T15:53:18.220+09:00",
+  "count": 13,
   "articles": [
     {
       "isSighting": true,
@@ -192,6 +192,63 @@
       "wpPostId": 15991,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-aichi-midori-nagoya-2026-08-18-2/",
       "postedAt": "2026-08-18T12:40:04.080+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "愛知県",
+      "city": "名古屋市西区",
+      "shopName": "ナンバーズイン mozoワンダーシティ店",
+      "shopAddress": "愛知県名古屋市西区二方町40 mozoワンダーシティ 2階",
+      "productName": "ボンボンドロップシール",
+      "sightingTime": "2026-08-18 05:08頃",
+      "statusText": "数量限定ノベルティとして在庫あり（お早めに）",
+      "confidenceMemo": "店舗公式アカウントによる限定ノベルティ情報",
+      "sourceUrl": "https://x.com/tabun_numbuzin/status/2089580072030355734",
+      "sourceTweetId": "2089580072030355734",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2089580072030355734.png",
+      "isPosted": true,
+      "wpPostId": 15993,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-aichi-nishi-nagoya-2026-08-18/",
+      "postedAt": "2026-08-18T15:53:25.582+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "京都府",
+      "city": "京都市伏見区",
+      "shopName": "くまざわ書店桃山店",
+      "shopAddress": "京都府京都市伏見区桃山町山ノ下32 MOMO Terrace 2F",
+      "productName": "ボンボンドロップシール",
+      "sightingTime": "2026-08-18 14:30より販売",
+      "statusText": "入荷（14:30から先着50名限定販売）",
+      "confidenceMemo": "店舗公式アカウントによる入荷・時間指定販売の告知",
+      "sourceUrl": "https://x.com/kumazawa_momo/status/2089578370543874167",
+      "sourceTweetId": "2089578370543874167",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2089578370543874167.png",
+      "isPosted": true,
+      "wpPostId": 15995,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-kyoto-fushimi-kyoto-2026-08-18/",
+      "postedAt": "2026-08-18T15:53:32.552+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "東京都",
+      "city": "江東区",
+      "shopName": "TSUTAYA BOOKSTORE 亀戸",
+      "shopAddress": "東京都江東区亀戸6丁目31-6 カメイドクロック内",
+      "productName": "ボンボンドロップシール・ふわふわドロップシール",
+      "sightingTime": "2026-08-18 04:59頃",
+      "statusText": "在庫あり（お一人様各1点まで）",
+      "confidenceMemo": "店舗公式アカウントによる入荷・販売ルール告知",
+      "sourceUrl": "https://x.com/TBS2137/status/2089577876681277658",
+      "sourceTweetId": "2089577876681277658",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2089577876681277658.png",
+      "isPosted": true,
+      "wpPostId": 15997,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-tokyo-koto-2026-08-18/",
+      "postedAt": "2026-08-18T15:53:39.341+09:00"
     }
   ]
 }
