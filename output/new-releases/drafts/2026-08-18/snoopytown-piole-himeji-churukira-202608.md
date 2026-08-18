@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-08-18T02:33:07.255Z"
+wpPostUrl: "https://www.seal-search.com/news/new-item/snoopytown-piole-himeji-churukira-202608/"
+wpPostId: 15984
+posted: true
 type: new-release
 status: draft
 title: "【8/19締切】churukiraスヌーピー抽選@ピオレ姫路スヌーピータウン"

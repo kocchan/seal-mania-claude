@@ -1,4 +1,9 @@
 ---
+postedAt: "2026-08-18T02:33:22.458Z"
+wpPostUrl: "https://www.seal-search.com/mejirushi/gundam-gquuuuuux-mejirushi-20260818/"
+wpPostId: 15987
+posted: true
+imageGenerated: true
 type: mejirushi
 status: draft
 title: "【8/18予約開始】ジークアクス めじるしアクセサリー"

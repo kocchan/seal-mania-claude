@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-08-18T02:32:50.225Z"
+wpPostUrl: "https://www.seal-search.com/news/reservation/funassyiland-online-bonbondrop-funassyi-20260820/"
+wpPostId: 15981
+posted: true
 imageGenerated: true
 type: lottery
 status: draft

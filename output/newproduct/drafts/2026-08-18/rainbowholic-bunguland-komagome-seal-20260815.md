@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-08-18T02:32:58.011Z"
+wpPostUrl: "https://www.seal-search.com/character/rainbowholic-bunguland-komagome-seal-20260815/"
+wpPostId: 15982
+posted: true
 type: newproduct
 status: draft
 title: "【8/15オープン】駒込「文具ランド」限定シール300種"
