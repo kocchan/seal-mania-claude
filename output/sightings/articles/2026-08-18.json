@@ -1,7 +1,7 @@
 {
   "date": "2026-08-18",
-  "updatedAt": "2026-08-18T10:21:38.682+09:00",
-  "count": 8,
+  "updatedAt": "2026-08-18T12:39:51.686+09:00",
+  "count": 10,
   "articles": [
     {
       "isSighting": true,
@@ -154,6 +154,44 @@
       "wpPostId": 15979,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-kanagawa-hiratsuka-2026-08-17-3/",
       "postedAt": "2026-08-18T10:22:31.881+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "東京都",
+      "city": "台東区",
+      "shopName": "TokyoHobbyBase WTJ",
+      "shopAddress": "東京都台東区浅草1丁目31-4",
+      "productName": "ボンボンドロップシール（しずくちゃん、サンリオシリーズ）",
+      "sightingTime": "2026-08-18 12:04頃",
+      "statusText": "在庫あり（続々入荷中）",
+      "confidenceMemo": "店舗公式アカウントによる入荷・営業告知ツイートのため信頼性が高い",
+      "sourceUrl": "https://x.com/tokyohobbybase/status/2089548898192990497",
+      "sourceTweetId": "2089548898192990497",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2089548898192990497.png",
+      "isPosted": true,
+      "wpPostId": 15989,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-tokyo-taito-2026-08-18/",
+      "postedAt": "2026-08-18T12:39:57.915+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "愛知県",
+      "city": "名古屋市緑区",
+      "shopName": "#C-pla イオンモール大高店",
+      "shopAddress": "愛知県名古屋市緑区南大高2丁目450番地 イオンモール大高",
+      "productName": "サンリオキャラクターズ ボンボンドロップミニチュアチャーム",
+      "sightingTime": "2026-08-18 02:28頃",
+      "statusText": "完売（再入荷未定）",
+      "confidenceMemo": "店舗公式アカウントによる完売報告のため信頼性が高い",
+      "sourceUrl": "https://x.com/C_plaOdaka/status/2089539783257395320",
+      "sourceTweetId": "2089539783257395320",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2089539783257395320.png",
+      "isPosted": true,
+      "wpPostId": 15991,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-aichi-midori-nagoya-2026-08-18-2/",
+      "postedAt": "2026-08-18T12:40:04.080+09:00"
     }
   ]
 }
