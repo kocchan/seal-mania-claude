@@ -1,7 +1,7 @@
 {
   "date": "2026-08-19",
-  "updatedAt": "2026-08-19T10:21:13.407+09:00",
-  "count": 9,
+  "updatedAt": "2026-08-19T12:41:13.442+09:00",
+  "count": 11,
   "articles": [
     {
       "isSighting": true,
@@ -173,6 +173,44 @@
       "wpPostId": 16033,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-kanagawa-hiratsuka-2026-08-17-4/",
       "postedAt": "2026-08-19T10:22:08.850+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "東京都",
+      "city": "渋谷区",
+      "shopName": "三千里薬品 宇田川店",
+      "shopAddress": "東京都渋谷区宇田川町28-4",
+      "productName": "ボンボンドロップシール / シールバインダーセット",
+      "sightingTime": "2026-08-19 12:37頃",
+      "statusText": "入荷・在庫あり（お求めやすい価格との記載あり）",
+      "confidenceMemo": "店舗公式アカウントによる告知で信頼性が非常に高い",
+      "sourceUrl": "https://x.com/SanzenU/status/2089919585021731131",
+      "sourceTweetId": "2089919585021731131",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2089919585021731131.png",
+      "isPosted": true,
+      "wpPostId": 16049,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-tokyo-shibuya-2026-08-19/",
+      "postedAt": "2026-08-19T12:41:19.849+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "東京都",
+      "city": "豊島区",
+      "shopName": "TOHOシネマズ池袋",
+      "shopAddress": "東京都豊島区東池袋1-18-1 Hareza池袋",
+      "productName": "ちいかわ ボンボンドロップシール",
+      "sightingTime": "2026-08-18 21:10頃",
+      "statusText": "在庫あり（8月18日夜の時点で配布中）",
+      "confidenceMemo": "昨日夜に実際に受け取ったという具体的報告",
+      "sourceUrl": "https://x.com/nico_xxx_Uo_oU/status/2089913505881485659",
+      "sourceTweetId": "2089913505881485659",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2089913505881485659.png",
+      "isPosted": true,
+      "wpPostId": 16051,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-tokyo-toshima-2026-08-18/",
+      "postedAt": "2026-08-19T12:41:27.159+09:00"
     }
   ]
 }
