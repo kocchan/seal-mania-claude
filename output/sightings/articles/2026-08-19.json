@@ -1,7 +1,7 @@
 {
   "date": "2026-08-19",
-  "updatedAt": "2026-08-19T21:56:31.303+09:00",
-  "count": 20,
+  "updatedAt": "2026-08-20T06:24:25.951+09:00",
+  "count": 22,
   "articles": [
     {
       "isSighting": true,
@@ -382,6 +382,44 @@
       "wpPostId": 16069,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-hyogo-chuo-kobe-2026-08-19/",
       "postedAt": "2026-08-19T21:57:15.123+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "東京都",
+      "city": "豊島区",
+      "shopName": "TOHOシネマズ池袋",
+      "shopAddress": "東京都豊島区東池袋1-18-1 Hareza池袋内",
+      "productName": "ちいかわボンボンドロップシール（第1弾・第2弾）",
+      "sightingTime": "2026-08-19",
+      "statusText": "完売（昨日で配布終了）",
+      "confidenceMemo": "具体的な店舗名と配布終了のタイミングが明記されている",
+      "sourceUrl": "https://x.com/jibun_rikai/status/2090108545786401146",
+      "sourceTweetId": "2090108545786401146",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2090108545786401146.png",
+      "isPosted": true,
+      "wpPostId": 16071,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-tokyo-toshima-2026-08-19-2/",
+      "postedAt": "2026-08-20T06:24:33.518+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "東京都",
+      "city": "新宿区",
+      "shopName": "新宿ピカデリー",
+      "shopAddress": "東京都新宿区新宿3-15-15",
+      "productName": "映画ちいかわ 入場者特典第2弾 ボンボンドロップシール",
+      "sightingTime": "2026-08-20 14:33頃",
+      "statusText": "配布終了",
+      "confidenceMemo": "劇場内の在庫表示掲示に基づいた正確な情報",
+      "sourceUrl": "https://x.com/kabu_DE_Chiika2/status/2090084800883523942",
+      "sourceTweetId": "2090084800883523942",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2090084800883523942.png",
+      "isPosted": true,
+      "wpPostId": 16073,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-tokyo-shinjuku-2026-08-20/",
+      "postedAt": "2026-08-20T06:24:40.711+09:00"
     }
   ]
 }
