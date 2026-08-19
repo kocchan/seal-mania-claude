@@ -1,7 +1,7 @@
 {
   "date": "2026-08-19",
-  "updatedAt": "2026-08-19T12:41:13.442+09:00",
-  "count": 11,
+  "updatedAt": "2026-08-19T15:53:54.342+09:00",
+  "count": 13,
   "articles": [
     {
       "isSighting": true,
@@ -211,6 +211,44 @@
       "wpPostId": 16051,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-tokyo-toshima-2026-08-18/",
       "postedAt": "2026-08-19T12:41:27.159+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "岡山県",
+      "city": "岡山市北区",
+      "shopName": "アニメイト岡山",
+      "shopAddress": "岡山県岡山市北区本町6-30 第一セントラルビル2号館 4F",
+      "productName": "ボンボンドロップシール",
+      "sightingTime": "2026-08-19 05:21",
+      "statusText": "入荷・在庫あり",
+      "confidenceMemo": "店舗公式アカウント（アニメイト岡山）による入荷情報の告知のため、信頼性が非常に高い",
+      "sourceUrl": "https://x.com/animateokayama/status/2089945792350126472",
+      "sourceTweetId": "2089945792350126472",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2089945792350126472.png",
+      "isPosted": true,
+      "wpPostId": 16053,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-okayama-kita-okayama-2026-08-19/",
+      "postedAt": "2026-08-19T15:54:00.089+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "岐阜県",
+      "city": "瑞浪市",
+      "shopName": "三洋堂書店 瑞浪中央店",
+      "shopAddress": "岐阜県瑞浪市薬師町2丁目52番地",
+      "productName": "ボンボンドロップシール サンリオ",
+      "sightingTime": "2026-08-19 04:30頃",
+      "statusText": "在庫あり（1人1種類につき1点までの制限あり）",
+      "confidenceMemo": "店舗公式アカウントによる販売中の告知。有人レジ前にて展開。",
+      "sourceUrl": "https://x.com/sanyodoMizunami/status/2089932955661848819",
+      "sourceTweetId": "2089932955661848819",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2089932955661848819.png",
+      "isPosted": true,
+      "wpPostId": 16055,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-gifu-mizunami-2026-08-19/",
+      "postedAt": "2026-08-19T15:54:06.434+09:00"
     }
   ]
 }
