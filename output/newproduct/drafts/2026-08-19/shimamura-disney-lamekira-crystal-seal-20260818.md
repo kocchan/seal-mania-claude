@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-08-19T02:35:25.693Z"
+wpPostUrl: "https://www.seal-search.com/character/shimamura-disney-lamekira-crystal-seal-20260818/"
+wpPostId: 16037
+posted: true
 type: newproduct
 status: draft
 title: "【539円】ディズニー ラメきらクリスタルシール新作"

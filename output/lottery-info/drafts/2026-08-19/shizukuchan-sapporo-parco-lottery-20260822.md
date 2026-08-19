@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-08-19T02:35:12.137Z"
+wpPostUrl: "https://www.seal-search.com/news/reservation/shizukuchan-sapporo-parco-lottery-20260822/"
+wpPostId: 16035
+posted: true
 imageGenerated: true
 type: lottery
 status: draft

@@ -1,4 +1,9 @@
 ---
+postedAt: "2026-08-19T02:36:18.255Z"
+wpPostUrl: "https://www.seal-search.com/mejirushi/nintama-defolava-mejirushi-20260824/"
+wpPostId: 16047
+posted: true
+imageGenerated: true
 type: mejirushi
 status: draft
 title: "【8/24週発売】忍たま乱太郎 でふぉラバ！めじるしガチャ"

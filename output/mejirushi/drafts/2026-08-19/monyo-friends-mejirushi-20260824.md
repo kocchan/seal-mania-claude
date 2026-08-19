@@ -1,4 +1,9 @@
 ---
+postedAt: "2026-08-19T02:36:04.812Z"
+wpPostUrl: "https://www.seal-search.com/mejirushi/monyo-friends-mejirushi-20260824/"
+wpPostId: 16044
+posted: true
+imageGenerated: true
 type: mejirushi
 status: draft
 title: "【8月第4週発売】MONYO FRIENDS めじるしアクセサリー"

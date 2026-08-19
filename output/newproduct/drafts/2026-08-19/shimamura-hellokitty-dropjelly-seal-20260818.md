@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-08-19T02:35:31.683Z"
+wpPostUrl: "https://www.seal-search.com/character/shimamura-hellokitty-dropjelly-seal-20260818/"
+wpPostId: 16038
+posted: true
 type: newproduct
 status: draft
 title: "【予約受付中】キティ ドロップジェリーシール429円"

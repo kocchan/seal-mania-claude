@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-08-19T02:35:19.606Z"
+wpPostUrl: "https://www.seal-search.com/character/anan-chiikawa-omoide-seal-20260826/"
+wpPostId: 16036
+posted: true
 type: newproduct
 status: draft
 title: "【8/26発売】島のおもいでシール - anan映画ちいかわ号"
