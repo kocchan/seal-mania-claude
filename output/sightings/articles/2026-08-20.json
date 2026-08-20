@@ -1,7 +1,7 @@
 {
   "date": "2026-08-20",
-  "updatedAt": "2026-08-20T10:21:57.112+09:00",
-  "count": 8,
+  "updatedAt": "2026-08-20T12:41:48.154+09:00",
+  "count": 9,
   "articles": [
     {
       "isSighting": true,
@@ -154,6 +154,25 @@
       "wpPostId": 16089,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-saitama-ageo-2026-08-18/",
       "postedAt": "2026-08-20T10:22:46.326+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "東京都",
+      "city": "世田谷区",
+      "shopName": "三千里薬品 二子玉川店",
+      "shopAddress": "東京都世田谷区玉川2-21-1",
+      "productName": "ボンボンドロップシール シールバインダーセット",
+      "sightingTime": "2026-08-20 12:34頃",
+      "statusText": "入荷（在庫あり）",
+      "confidenceMemo": "店舗公式アカウントによる入荷情報",
+      "sourceUrl": "https://x.com/SanzenU/status/2090281349924188609",
+      "sourceTweetId": "2090281349924188609",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2090281349924188609.png",
+      "isPosted": true,
+      "wpPostId": 16096,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-tokyo-setagaya-2026-08-20/",
+      "postedAt": "2026-08-20T12:41:54.073+09:00"
     }
   ]
 }
