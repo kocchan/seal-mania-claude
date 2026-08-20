@@ -1,7 +1,7 @@
 {
   "date": "2026-08-20",
-  "updatedAt": "2026-08-20T18:29:38.181+09:00",
-  "count": 14,
+  "updatedAt": "2026-08-20T21:58:11.077+09:00",
+  "count": 15,
   "articles": [
     {
       "isSighting": true,
@@ -268,6 +268,25 @@
       "wpPostId": 16106,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-kanagawa-nishi-yokohama-2026-08-20/",
       "postedAt": "2026-08-20T18:29:52.343+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "兵庫県",
+      "city": "神戸市中央区",
+      "shopName": "acury（アキュリー）",
+      "shopAddress": "兵庫県神戸市中央区三宮町1-8-1 さんプラザ2F",
+      "productName": "ハンギョドン ボンボンドロップシール churukira",
+      "sightingTime": "2026-08-20 10:00頃",
+      "statusText": "入荷（在庫あり、数量限定）",
+      "confidenceMemo": "店舗公式アカウントによる具体的な入荷・販売告知のため信頼性が高い",
+      "sourceUrl": "https://x.com/acury_shop/status/2090378467976372226",
+      "sourceTweetId": "2090378467976372226",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2090378467976372226.png",
+      "isPosted": true,
+      "wpPostId": 16108,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-hyogo-chuo-kobe-2026-08-20/",
+      "postedAt": "2026-08-20T21:58:17.340+09:00"
     }
   ]
 }
