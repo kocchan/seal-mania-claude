@@ -1,7 +1,7 @@
 {
   "date": "2026-08-20",
-  "updatedAt": "2026-08-20T15:55:19.650+09:00",
-  "count": 12,
+  "updatedAt": "2026-08-20T18:29:38.181+09:00",
+  "count": 14,
   "articles": [
     {
       "isSighting": true,
@@ -230,6 +230,44 @@
       "wpPostId": 16102,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-aichi-nagoya-2026-08-20/",
       "postedAt": "2026-08-20T15:55:37.783+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "東京都",
+      "city": "港区",
+      "shopName": "とっとりおかやま新橋館",
+      "shopAddress": "東京都港区新橋1-11-7 新橋センタープレイス 1F・2F",
+      "productName": "ふなっしー ボンボンドロップシール",
+      "sightingTime": "2026-08-20 06:55頃",
+      "statusText": "在庫あり",
+      "confidenceMemo": "公式の寄付報告により、当該店舗での販売と収益発生が確認できるため",
+      "sourceUrl": "https://x.com/saya_moon/status/2090334242933010670",
+      "sourceTweetId": "2090334242933010670",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2090334242933010670.png",
+      "isPosted": true,
+      "wpPostId": 16104,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-tokyo-minato-2026-08-20/",
+      "postedAt": "2026-08-20T18:29:45.154+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "神奈川県",
+      "city": "横浜市西区",
+      "shopName": "テレビ局公式ショップ ～ツリービレッジ～ 横浜店",
+      "shopAddress": "神奈川県横浜市西区高島2-14-9 アソビル 1F",
+      "productName": "ふなっしー ボンボンドロップシール",
+      "sightingTime": "2026-08-20 06:55頃",
+      "statusText": "在庫あり",
+      "confidenceMemo": "公式の寄付報告により、当該店舗での販売と収益発生が確認できるため",
+      "sourceUrl": "https://x.com/saya_moon/status/2090334242933010670",
+      "sourceTweetId": "2090334242933010670",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2090334242933010670.png",
+      "isPosted": true,
+      "wpPostId": 16106,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-kanagawa-nishi-yokohama-2026-08-20/",
+      "postedAt": "2026-08-20T18:29:52.343+09:00"
     }
   ]
 }
