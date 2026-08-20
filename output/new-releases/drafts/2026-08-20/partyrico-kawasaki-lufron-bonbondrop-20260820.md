@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-08-20T02:33:54.657Z"
+wpPostUrl: "https://www.seal-search.com/news/new-item/partyrico-kawasaki-lufron-bonbondrop-20260820/"
+wpPostId: 16091
+posted: true
 type: lottery
 status: draft
 title: "【8/20締切】ボンボンドロップシール抽選@パーティリコ川崎ルフロン"

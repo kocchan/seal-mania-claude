@@ -1,4 +1,9 @@
 ---
+postedAt: "2026-08-20T02:34:13.079Z"
+wpPostUrl: "https://www.seal-search.com/mejirushi/zenmai-zamurai-mejirushi2-202608/"
+wpPostId: 16094
+posted: true
+imageGenerated: true
 type: mejirushi
 status: draft
 title: "【8月第4週発売】ぜんまいざむらい めじるしアクセサリー2"
