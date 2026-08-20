@@ -1,7 +1,7 @@
 {
   "date": "2026-08-20",
-  "updatedAt": "2026-08-20T21:58:11.077+09:00",
-  "count": 15,
+  "updatedAt": "2026-08-21T06:23:58.004+09:00",
+  "count": 16,
   "articles": [
     {
       "isSighting": true,
@@ -287,6 +287,25 @@
       "wpPostId": 16108,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-hyogo-chuo-kobe-2026-08-20/",
       "postedAt": "2026-08-20T21:58:17.340+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "熊本県",
+      "city": "熊本市西区",
+      "shopName": "熊本ピカデリー",
+      "shopAddress": "熊本県熊本市西区春日3丁目15-26 アミュプラザくまもと 7F",
+      "productName": "ちいかわ特典 第2弾ボンボンドロップシール",
+      "sightingTime": "2026-08-20頃",
+      "statusText": "配布終了（前日まで在庫あり・残りわずかだったが終了）",
+      "confidenceMemo": "具体的な店舗名と配布終了に至るまでの在庫状況の推移が記載されているため信頼性が高い",
+      "sourceUrl": "https://x.com/yll____s/status/2090538107817070609",
+      "sourceTweetId": "2090538107817070609",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2090538107817070609.png",
+      "isPosted": true,
+      "wpPostId": 16110,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-kumamoto-kumamoto-nishi-2026-08-20/",
+      "postedAt": "2026-08-21T06:24:05.760+09:00"
     }
   ]
 }
