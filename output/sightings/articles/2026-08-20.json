@@ -1,7 +1,7 @@
 {
   "date": "2026-08-20",
-  "updatedAt": "2026-08-20T12:41:48.154+09:00",
-  "count": 9,
+  "updatedAt": "2026-08-20T15:55:19.650+09:00",
+  "count": 12,
   "articles": [
     {
       "isSighting": true,
@@ -173,6 +173,63 @@
       "wpPostId": 16096,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-tokyo-setagaya-2026-08-20/",
       "postedAt": "2026-08-20T12:41:54.073+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "奈良県",
+      "city": "奈良市",
+      "shopName": "文具のスリーアップ",
+      "shopAddress": "奈良県奈良市二条大路南1丁目3-1 ミ・ナーラ 2F",
+      "productName": "ボンボンドロップシール churukira（サンリオ、スヌーピー）",
+      "sightingTime": "2026-08-20 15:14頃",
+      "statusText": "在庫あり（入荷情報、1人1枚まで、在庫極少、取り置き不可）",
+      "confidenceMemo": "店舗公式アカウントによる入荷・販売ルール告知のため信頼性が高い",
+      "sourceUrl": "https://x.com/BUNGUnothreeup/status/2090321481796596111",
+      "sourceTweetId": "2090321481796596111",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2090321481796596111.png",
+      "isPosted": true,
+      "wpPostId": 16098,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-nara-nara-2026-08-20/",
+      "postedAt": "2026-08-20T15:55:25.958+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "愛知県",
+      "city": "半田市",
+      "shopName": "三洋堂書店 半田店",
+      "shopAddress": "愛知県半田市南本町1-1",
+      "productName": "ボンボンドロップシール",
+      "sightingTime": "2026-08-20 04:36頃",
+      "statusText": "在庫あり（入荷情報、1人1点まで、並び直し不可）",
+      "confidenceMemo": "店舗公式アカウントによる具体的な入荷告知",
+      "sourceUrl": "https://x.com/sanyodohanda/status/2090296910045405622",
+      "sourceTweetId": "2090296910045405622",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2090296910045405622.png",
+      "isPosted": true,
+      "wpPostId": 16100,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-aichi-handa-2026-08-20/",
+      "postedAt": "2026-08-20T15:55:31.766+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "愛知県",
+      "city": "名古屋市",
+      "shopName": "PukuPuku Mart（プクマ）",
+      "shopAddress": "愛知県名古屋市中区栄3-29-1 名古屋パルコ内（PukuPuku Mart ポップアップストア）",
+      "productName": "ボンボンドロップシール（みんなニコニコ/みんなポーズ/古本屋）",
+      "sightingTime": "2026-08-20 05:00頃",
+      "statusText": "在庫あり（8/20入荷情報、完売の可能性あり）",
+      "confidenceMemo": "ショップ公式アカウントによる入荷告知。地域は主要な展開先を補完。",
+      "sourceUrl": "https://x.com/Puku2Mart/status/2090302829890293780",
+      "sourceTweetId": "2090302829890293780",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2090302829890293780.png",
+      "isPosted": true,
+      "wpPostId": 16102,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-aichi-nagoya-2026-08-20/",
+      "postedAt": "2026-08-20T15:55:37.783+09:00"
     }
   ]
 }
