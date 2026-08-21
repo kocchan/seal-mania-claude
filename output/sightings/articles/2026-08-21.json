@@ -1,7 +1,7 @@
 {
   "date": "2026-08-21",
-  "updatedAt": "2026-08-21T18:31:58.802+09:00",
-  "count": 14,
+  "updatedAt": "2026-08-21T21:59:54.726+09:00",
+  "count": 16,
   "articles": [
     {
       "isSighting": true,
@@ -268,6 +268,44 @@
       "wpPostId": 16144,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-ishikawa-hakusan-2026-08-21/",
       "postedAt": "2026-08-21T18:32:04.980+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "大阪府",
+      "city": "大阪市中央区",
+      "shopName": "株式会社クーリア（公式オンライン予約販売）",
+      "shopAddress": "大阪府大阪市中央区淡路町3-2-14",
+      "productName": "ボンボンドロップシール くまモン",
+      "sightingTime": "2026-08-21 03:00頃",
+      "statusText": "完売（半日で10万枚終了）",
+      "confidenceMemo": "メーカー公式による予約販売の告知。別のツイートで10万枚が半日で完売したとの報告あり。",
+      "sourceUrl": "https://x.com/taki_yasya/status/2090746330763137154",
+      "sourceTweetId": "2090746330763137154",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2090746330763137154.png",
+      "isPosted": true,
+      "wpPostId": 16146,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-osaka-chuo-osaka-2026-08-21/",
+      "postedAt": "2026-08-21T22:00:01.433+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "埼玉県",
+      "city": "ふじみ野市",
+      "shopName": "namcoイオンタウンふじみ野",
+      "shopAddress": "埼玉県ふじみ野市福岡2丁目1-6 イオンタウンふじみ野 2F",
+      "productName": "EXPO2025ミャクミャク ぷっくりシール",
+      "sightingTime": "2026-08-21 21:05頃",
+      "statusText": "入荷・在庫あり",
+      "confidenceMemo": "店舗公式アカウントによる入荷情報。特定ブランド名（ボンボンドロップシール）ではないが、同カテゴリのぷっくりシール情報の入荷が確認された。",
+      "sourceUrl": "https://x.com/namco_fujimino/status/2090772253231456629",
+      "sourceTweetId": "2090772253231456629",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2090772253231456629.png",
+      "isPosted": true,
+      "wpPostId": 16148,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-saitama-fujimino-2026-08-21/",
+      "postedAt": "2026-08-21T22:00:07.978+09:00"
     }
   ]
 }
