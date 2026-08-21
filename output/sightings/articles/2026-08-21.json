@@ -1,7 +1,7 @@
 {
   "date": "2026-08-21",
-  "updatedAt": "2026-08-21T12:45:40.846+09:00",
-  "count": 11,
+  "updatedAt": "2026-08-21T15:57:31.048+09:00",
+  "count": 13,
   "articles": [
     {
       "isSighting": true,
@@ -211,6 +211,44 @@
       "wpPostId": 16138,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-nara-yamatotakada-2026-08-21/",
       "postedAt": "2026-08-21T12:46:09.041+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "埼玉県",
+      "city": "鴻巣市",
+      "shopName": "埼玉県警察運転免許センター 売店",
+      "shopAddress": "埼玉県鴻巣市鴻巣405-4",
+      "productName": "サンリオコラボ 警察限定ぷっくりシール",
+      "sightingTime": "2026-08-21 04:14頃",
+      "statusText": "在庫あり",
+      "confidenceMemo": "具体的な施設名と商品の写真付き情報のため信頼性が高い",
+      "sourceUrl": "https://x.com/hiromin_ohno/status/2090653620408611155",
+      "sourceTweetId": "2090653620408611155",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2090653620408611155.png",
+      "isPosted": true,
+      "wpPostId": 16140,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-saitama-konosu-2026-08-21/",
+      "postedAt": "2026-08-21T15:57:37.629+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "福岡県",
+      "city": "福岡市東区",
+      "shopName": "原宿Picnic ゆめタウン博多店",
+      "shopAddress": "福岡県福岡市東区東浜1-1-1 ゆめタウン博多内",
+      "productName": "うるちゅるシール（ボンボンドロップシール）",
+      "sightingTime": "2026-08-21 14:58頃",
+      "statusText": "11種類在庫あり",
+      "confidenceMemo": "店舗公式アカウントによる詳細な在庫投稿のため信頼性が非常に高い",
+      "sourceUrl": "https://x.com/harajuku_picnic/status/2090680104431296749",
+      "sourceTweetId": "2090680104431296749",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2090680104431296749.png",
+      "isPosted": true,
+      "wpPostId": 16142,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-fukuoka-fukuoka-higashi-2026-08-21/",
+      "postedAt": "2026-08-21T15:57:44.879+09:00"
     }
   ]
 }
