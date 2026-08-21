@@ -1,4 +1,9 @@
 ---
+postedAt: "2026-08-21T02:40:48.168Z"
+wpPostUrl: "https://www.seal-search.com/mejirushi/curious-george-mejirushi-norimono-202608/"
+wpPostId: 16127
+posted: true
+imageGenerated: true
 type: mejirushi
 status: draft
 title: "【8月順次発売】おさるのジョージ めじるしガチャ"

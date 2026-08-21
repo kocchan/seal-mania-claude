@@ -1,4 +1,9 @@
 ---
+postedAt: "2026-08-21T02:41:15.270Z"
+wpPostUrl: "https://www.seal-search.com/mejirushi/fighters-mejirushi-charm-202608/"
+wpPostId: 16130
+posted: true
+imageGenerated: true
 type: mejirushi
 status: draft
 title: "【8月下旬発売】日本ハムめじるしチャーム2種"
