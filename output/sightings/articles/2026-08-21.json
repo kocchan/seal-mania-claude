@@ -1,7 +1,7 @@
 {
   "date": "2026-08-21",
-  "updatedAt": "2026-08-21T15:57:31.048+09:00",
-  "count": 13,
+  "updatedAt": "2026-08-21T18:31:58.802+09:00",
+  "count": 14,
   "articles": [
     {
       "isSighting": true,
@@ -249,6 +249,25 @@
       "wpPostId": 16142,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-fukuoka-fukuoka-higashi-2026-08-21/",
       "postedAt": "2026-08-21T15:57:44.879+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "石川県",
+      "city": "白山市",
+      "shopName": "新星堂 アピタ松任店",
+      "shopAddress": "石川県白山市幸明町280 アピタ松任店 2F",
+      "productName": "ボンボンドロップシール",
+      "sightingTime": "2026-08-21 07:17頃",
+      "statusText": "入荷（在庫あり、各種1枚までの制限あり）",
+      "confidenceMemo": "店舗公式アカウントによる入荷案内で信頼性が極めて高い",
+      "sourceUrl": "https://x.com/ssd_matto/status/2090699763352260848",
+      "sourceTweetId": "2090699763352260848",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2090699763352260848.png",
+      "isPosted": true,
+      "wpPostId": 16144,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-ishikawa-hakusan-2026-08-21/",
+      "postedAt": "2026-08-21T18:32:04.980+09:00"
     }
   ]
 }
