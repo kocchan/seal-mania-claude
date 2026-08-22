@@ -1,7 +1,7 @@
 {
   "date": "2026-08-22",
-  "updatedAt": "2026-08-22T18:22:46.242+09:00",
-  "count": 19,
+  "updatedAt": "2026-08-23T06:17:56.805+09:00",
+  "count": 20,
   "articles": [
     {
       "isSighting": true,
@@ -363,6 +363,25 @@
       "wpPostId": 16264,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-yamaguchi-yamaguchi-2026-08-22/",
       "postedAt": "2026-08-22T18:23:07.617+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "東京都",
+      "city": "渋谷区",
+      "shopName": "REJECT POPUP 渋谷",
+      "shopAddress": "東京都渋谷区宇田川町（SHIBUYA TSUTAYA内等のイベントスペース）",
+      "productName": "ぷるるたんのぷっくりシール",
+      "sightingTime": "2026-08-23 14:01頃",
+      "statusText": "在庫あり（購入報告あり）",
+      "confidenceMemo": "ハッシュタグおよび店舗名に具体的な地域名（渋谷）が含まれており信頼性が高い",
+      "sourceUrl": "https://x.com/kaneyan7117/status/2091163864704733679",
+      "sourceTweetId": "2091163864704733679",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2091163864704733679.png",
+      "isPosted": true,
+      "wpPostId": 16266,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-tokyo-unknown-2026-08-23/",
+      "postedAt": "2026-08-23T06:18:03.301+09:00"
     }
   ]
 }
