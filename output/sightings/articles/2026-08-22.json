@@ -1,7 +1,7 @@
 {
   "date": "2026-08-22",
-  "updatedAt": "2026-08-22T15:50:11.170+09:00",
-  "count": 16,
+  "updatedAt": "2026-08-22T18:22:46.242+09:00",
+  "count": 19,
   "articles": [
     {
       "isSighting": true,
@@ -306,6 +306,63 @@
       "wpPostId": 16258,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-aichi-chiryu-2026-08-22/",
       "postedAt": "2026-08-22T15:50:55.803+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "千葉県",
+      "city": "千葉市中央区",
+      "shopName": "Bepop アリオ蘇我店",
+      "shopAddress": "千葉県千葉市中央区川崎町52-7 アリオ蘇我 2F",
+      "productName": "サンリオ、ちいかわのボンボンドロップシール",
+      "sightingTime": "2026-08-22 06:58頃",
+      "statusText": "入荷あり（少量・在庫限り）",
+      "confidenceMemo": "店舗公式アカウント（@ario_bepop）によるリアルタイムの入荷案内",
+      "sourceUrl": "https://x.com/ario_bepop/status/2091057409850761680",
+      "sourceTweetId": "2091057409850761680",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2091057409850761680.png",
+      "isPosted": true,
+      "wpPostId": 16260,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-chiba-chuo-chiba-2026-08-22/",
+      "postedAt": "2026-08-22T18:22:53.635+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "千葉県",
+      "city": "千葉市中央区",
+      "shopName": "Bepop アリオ蘇我店",
+      "shopAddress": "千葉県千葉市中央区川崎町52-7 アリオ蘇我 2F",
+      "productName": "サンリオ、しずくちゃんのボンボンドロップシール",
+      "sightingTime": "2026-08-20 (販売報告)",
+      "statusText": "8月20日に入荷・販売済み（在庫状況は要確認）",
+      "confidenceMemo": "店舗公式アカウントによる事後の入荷・販売実績報告",
+      "sourceUrl": "https://x.com/ario_bepop/status/2091055406097535204",
+      "sourceTweetId": "2091055406097535204",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2091055406097535204.png",
+      "isPosted": true,
+      "wpPostId": 16262,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-chiba-chuo-chiba-2026-08-20/",
+      "postedAt": "2026-08-22T18:23:00.727+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "山口県",
+      "city": "山口市",
+      "shopName": "明屋書店MEGA大内店",
+      "shopAddress": "山口県山口市大内長野581",
+      "productName": "サンリオキャラクターズ ビーズ入りぷっくりシール / 金箔ぷっくりシール / オーロラ立体シール",
+      "sightingTime": "2026-08-22 07:48頃",
+      "statusText": "在庫あり（新商品入荷）",
+      "confidenceMemo": "店舗公式アカウントによる商品入荷および販売区画（1Fシール売場）の具体的な告知",
+      "sourceUrl": "https://x.com/MegaOouchi/status/2091069905919742109",
+      "sourceTweetId": "2091069905919742109",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2091069905919742109.png",
+      "isPosted": true,
+      "wpPostId": 16264,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-yamaguchi-yamaguchi-2026-08-22/",
+      "postedAt": "2026-08-22T18:23:07.617+09:00"
     }
   ]
 }
