@@ -1,8 +1,8 @@
 {
-  "timestamp": "2026-08-22T01:17:47.872Z",
+  "timestamp": "2026-08-22T03:36:26.907Z",
   "source": "yahoo_realtime",
   "platform": "x",
-  "count": 106,
+  "count": 112,
   "data": [
     {
       "tweetId": "2090344900181287056",
@@ -1702,6 +1702,106 @@
         "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i6hjVpND1OjWZ7RVcmujne-DxiGR62ZWEerSul1Osw3ZhkmzOHzmnKq_sXY220ouPCwBKiIss9I1Z4hCnOxFBW9lazMEjGFVT4KNjyQ3rk6R_6xChfuz74kJj0ug9O64_lfRu1BSYcfuuEUZMWR0mYVh1Rhzj0J75jtgmqf4P4Rfw==",
         "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i6hjVpND1OjWZ7RVcmujne-6jVhSU19qqfEL_rB1eR4JTqLPCBL7zNRGVAeAzO3ajXRlNgav5LvTR6sjbIWjQg7uyu5_hX1LqpfiUdxPxm4zz_LItFAbewdN9vS2AGIjKwKbgqLugMKnPq9KPN36qOI5PAu2w7QlJZ_VCQoohe19A==",
         "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i6hjVpND1OjWZ7RVcmujne--PDfI8n8PrPeOSraaBQvFlVKr5iQ_CHUn1qBzLGsSzUUPm7RWGDeds2ITaMPFw2a2MjY_wgS3RnktZn78ghVpODVwUDs08F1ttHGyovLNNcDK-y3vu3DCggFsY0osX3q-Ok0ow1ktUdwwyS2hWchyQ=="
+      ],
+      "isProcessed": true,
+      "_filepath": "output/sightings/raw/yahoo-2026-08-22.json"
+    },
+    {
+      "tweetId": "2090971745562116213",
+      "userId": "strawberr_1o",
+      "text": "こんだけハチワレ買ったのにボンボンドロップシールだけ売ってないのおかしいから😭😭⤵️りお@strawberr_1o1:18",
+      "user": "りお",
+      "time": "2026-08-22T01:18:00.000+09:00",
+      "timeRaw": "1:18",
+      "url": "https://x.com/strawberr_1o/status/2090971745562116213",
+      "hashtags": [],
+      "images": [
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i5e72TLbER0xQeK1l8ZZ0OLpyrxThyHFV-gwCTX00ksuRGeqR0RE-_-Tj8PsaD8jNe-p6Xr21NiMigw6YG6yFHND_Ru_hTJJh0Fm-eraUFQgqZjjcLwtLxfZgJe3ZUBoJEFKEHjzUyvdkH45w1yt4dYzfdSoE5EVNdETFc0UFcCL8UuC_of9PfpmRy1WunAXFxvUWjqgF-GY7m21ClrnKda"
+      ],
+      "isProcessed": true,
+      "_filepath": "output/sightings/raw/yahoo-2026-08-22.json"
+    },
+    {
+      "tweetId": "2091002180539146407",
+      "userId": "risu____ko",
+      "text": "トレーディングには手を出さないので買わないけど、クリアチケットかわいいなー！ ぷっくりシールほしい。りす@risu____ko18分前",
+      "user": "りす",
+      "time": "2026-08-22T12:18:26.907+09:00",
+      "timeRaw": "18分前",
+      "url": "https://x.com/risu____ko/status/2091002180539146407",
+      "hashtags": [],
+      "images": [
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i5e72TLbER0xQeK1l8ZZ0OLgiW-CMIc0aFV3qSBwIbP0DBG9acUuS3uCosFO1XZ4Lh5uUq2eKgoTYmhev0lS5im0mh50vw48whPwDc5yxWpdPQ9RTzJTPpubfAkxR6J2sHWrGM4zrRSLjQznlRleAn59-0xtMopgR-1HyVZWRyh3o2bvRuabcyteRT6Z8a3A6X1c3BGo9f_MwO82xMT7ddv"
+      ],
+      "isProcessed": true,
+      "_filepath": "output/sightings/raw/yahoo-2026-08-22.json"
+    },
+    {
+      "tweetId": "2090995561508073873",
+      "userId": "MrTWL",
+      "text": "ほしいわけではないのだけど、みんながぷっくりシールやらプルカーやら貰って喜んでいるのを見るとちょっとだけ羨ましいのだ。たおる@MrTWL44分前",
+      "user": "たおる",
+      "time": "2026-08-22T11:52:26.907+09:00",
+      "timeRaw": "44分前",
+      "url": "https://x.com/MrTWL/status/2090995561508073873",
+      "hashtags": [],
+      "images": [
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i5e72TLbER0xQeK1l8ZZ0OLB2LFtQo-mroMCE0rM9Y2s_KfUpgU-EU4ssIivNeQ_qJpF7m-csl5YbNGOJ0FUpZrJzqLm7JTNVEEhhKWeT5uOv4lal3iwsMQiLxjaVWAVywYsJZT5sLpl3kKnaK_tFUahnmJzMDKhKBBAQZAeIpIOeNAody9dVSeOwDdWDbbuNpE40FNJbwI1aCJXZFyBw-5"
+      ],
+      "isProcessed": true,
+      "_filepath": "output/sightings/raw/yahoo-2026-08-22.json"
+    },
+    {
+      "tweetId": "2090992631946043845",
+      "userId": "gakuya_tsutaya",
+      "text": "ムカデ人間のぷっくりシールは大人気に付売り切れ！なんで！！ムカデ人間だよ！？ 悲しいからクッキー買ってきたけれどよく考えたらあんまり美味しそうな柄じゃないな… pic.x.com/VsYdbU8Ppyがくや@gakuya_tsutaya4656分前",
+      "user": "がくや",
+      "time": "2026-08-22T11:40:26.907+09:00",
+      "timeRaw": "56分前",
+      "url": "https://x.com/gakuya_tsutaya/status/2090992631946043845",
+      "hashtags": [],
+      "images": [
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i5e72TLbER0xQeK1l8ZZ0OLjlF9J43zvVvBV1hiZv3xtldqWvL1PvkdQ5SG444nCozNFZyFfQ0nHAJ7znTlKr4SigAYRRM1o2lj3YS-0mnIZ4TtMgHiqyKYcN_LtT71UJl1mPfqpXIGqcZwRX8vGzfGjGFBpGH1iU35MzDYLdU97teihFXHYsBSR0JB_h_ap6-KWB2QLCjrsMbTDnETzf2e",
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i6hjVpND1OjWZ7RVcmujne-zrxdtMdQcUZ8j4fMTUowmDqT2AKXzW-95NhtbpuOIO7Vfnq1dUunffZgFSnz0QuMW979mjJq8d8VwqTXDjADO6078JEyNGkYKR1r9TGXI7TuDtQssVutFrgx7Hp0n0MbcQ5eps8jmrZC7Jqbi1knUA=="
+      ],
+      "isProcessed": true,
+      "_filepath": "output/sightings/raw/yahoo-2026-08-22.json"
+    },
+    {
+      "tweetId": "2090982274913423615",
+      "userId": "RyuchanCosme",
+      "text": "BBIA ローティント 08 スイート•ロー  高保湿で高発色なティントリップとの事。水を多く含んだ水彩系所謂水光ツヤ。持ちは良くなくてすぐに蒸発？するのと飲食で落ちる。ただ掌に出したら全然落ちない。うるちゅる？じゅわ？というのか？若い今っぽいニュアンスのリップに仕上がる。 #コスメ購入品 pic.x.com/WGDrtL2Cgm x.com/ryuchancosme/s…りゅう@RyuchanCosme8月15日(土) 2:15#コスメ購入品 BBIA ◼︎グロウティント 00 ロージー ◼︎オーバーグレイズ 02 フィグシロップ ◼︎ローティント 08 スイート•ロー  安すぎて息するように買ってるの怖い りゅう@RyuchanCosme1:59",
+      "user": "りゅう",
+      "time": "2026-08-15T00:00:00.000+09:00",
+      "timeRaw": "8月15日(土) 2:15",
+      "url": "https://x.com/RyuchanCosme/status/2090982274913423615",
+      "hashtags": [
+        "#コスメ購入品",
+        "#コスメ購入品"
+      ],
+      "images": [
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i5e72TLbER0xQeK1l8ZZ0OLT7LHiRAJBS81bhIWB3lt2uZaH9acqKq_YKKrvV4uBx2kaFkLjRfVfLTBKYaub_q8pg9-fD3YGyfg_EIXQH2aC5fFKxyRKqgkR-zxtOn43NDJUn05VWTQMaWB8GHrqp7HjpC9iqp7CAldStnl9NolgD3brz4653WsnkvSss15Zy7QtmZtsRU2uBHOsjEHHPb-",
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i6hjVpND1OjWZ7RVcmujne-7AgN_-JYZEWLZ8m675hQiGIfI0vthRKYPFt9MtmuJvW4ZS0zoLVgHtA6U_uOMEv_j2-uY1xo33xtPKzTIHG2fM6VkuhTaDhWb-qVDlTaCrQchnXjlVOxS4ZRhcv6pPzOXely7GLlTj9URTcv9YcOBw==",
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i6hjVpND1OjWZ7RVcmujne-iZbWVK-ngPmN0wu86g83SXhpodOTII_hha1n--D50ArzDVwTIOi9O9Oc8A3pP130VtRPtV_akNSkoZXezH-rFE1T3_0t-_QXtLIvzn1433HgK-0RzUO9DaX6iaJbdkeoSTfF1fy5qWE_PzCVbg1wYg==",
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i6hjVpND1OjWZ7RVcmujne-h0iY7B9k672p21N4sgaY_ldlcPo9II0DBqNZGxA5bWtUzoNXpzEnyvqmXrDYTsHOc3D6lkHPDM8QQfNabCPMFXarghy1B8euayYA7ktnhidhRbAYh3HB9dI0CgvyqdP78OXp7jFsDFEYsPnCOdPz9g==",
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i6hjVpND1OjWZ7RVcmujne-gntXUEND-cbJ_8h9fvdR5fQh7SriZWuxVyRTZ_5mZaA-6JM-P8g2_59gvFY9UNWLDiqO1jY9DbR9FGToiBfh4Py8ztX8Dan0Vz7q_he0Yw8Zir3cPRt4Cgh2Irj6lL1cU2hcEVkFokDZyEL8D4DLEQ==",
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i5e72TLbER0xQeK1l8ZZ0OLT7LHiRAJBS81bhIWB3lt2uZaH9acqKq_YKKrvV4uBx2kaFkLjRfVfLTBKYaub_q8pg9-fD3YGyfg_EIXQH2aC5fFKxyRKqgkR-zxtOn43NDJUn05VWTQMaWB8GHrqp7HjpC9iqp7CAldStnl9NolgD3brz4653WsnkvSss15Zy7QtmZtsRU2uBHOsjEHHPb-",
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i6hjVpND1OjWZ7RVcmujne-RQeGsI4tiaaB2OE2rhB3Q6VmQHf3EP3C77uSiYXePPgN1S6d7WaPIsAjzMd2iv7CW83PVGFMTzgNLPdZaB_PPXy3XBNOGj2JS9M3Ti8HhzizuKuNqUNa_V68a828ODEWjyKL5VneA3FqlvGeWU5mnA=="
+      ],
+      "isProcessed": true,
+      "_filepath": "output/sightings/raw/yahoo-2026-08-22.json"
+    },
+    {
+      "tweetId": "2090972617150960000",
+      "userId": "mojisanjo",
+      "text": "うるちゅるはまだこないもじ@mojisanjo1:21",
+      "user": "もじ",
+      "time": "2026-08-22T01:21:00.000+09:00",
+      "timeRaw": "1:21",
+      "url": "https://x.com/mojisanjo/status/2090972617150960000",
+      "hashtags": [],
+      "images": [
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i5e72TLbER0xQeK1l8ZZ0OLIHMiYTFV1mdzIinqozxRt5OR5sdRBHt83LvQXEdoYVcBYrC0HjITEuBiIJEuWvjJuikbGA-XEErzYK4_-d-_CtJFCaAZur3M2VDB7IdJ5MCuJkoglJBF6XmCTHxHS7fLg1pKByh3gfmNjXIlHQeknht5GVv9owxjq36Scw9_l43ZBV8rTwf1a9Hgp60QdFld"
       ],
       "isProcessed": true,
       "_filepath": "output/sightings/raw/yahoo-2026-08-22.json"
