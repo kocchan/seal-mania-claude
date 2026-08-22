@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-08-22T02:31:49.462Z"
+wpPostUrl: "https://www.seal-search.com/character/chiikawa-puku-churu-seal2-20260821/"
+wpPostId: 16243
+posted: true
 type: newproduct
 status: draft
 title: "【8/21発売】ちいかわPUKU CHURUシール第2弾"

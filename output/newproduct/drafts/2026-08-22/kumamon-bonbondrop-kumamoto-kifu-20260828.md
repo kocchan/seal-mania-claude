@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-08-22T02:31:56.687Z"
+wpPostUrl: "https://www.seal-search.com/character/kumamon-bonbondrop-kumamoto-kifu-20260828/"
+wpPostId: 16244
+posted: true
 type: newproduct
 status: draft
 title: "【8/28締切】ボンボンドロップシール くまモン義援金"
