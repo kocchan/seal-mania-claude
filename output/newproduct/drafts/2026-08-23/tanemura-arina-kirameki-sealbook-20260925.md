@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-08-23T02:41:04.407Z"
+wpPostUrl: "https://www.seal-search.com/character/tanemura-arina-kirameki-sealbook-20260925/"
+wpPostId: 16300
+posted: true
 type: newproduct
 status: draft
 title: "【9/25発売】種村有菜きらめきシールブック新登場"

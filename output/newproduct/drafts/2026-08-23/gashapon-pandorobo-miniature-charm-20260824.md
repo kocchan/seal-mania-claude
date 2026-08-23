@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-08-23T02:40:43.774Z"
+wpPostUrl: "https://www.seal-search.com/character/gashapon-pandorobo-miniature-charm-20260824/"
+wpPostId: 16297
+posted: true
 type: newproduct
 status: draft
 title: "【8月第5週発売】パンどろぼうミニチャーム新作"

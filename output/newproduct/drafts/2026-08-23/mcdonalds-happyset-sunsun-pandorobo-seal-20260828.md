@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-08-23T02:40:57.437Z"
+wpPostUrl: "https://www.seal-search.com/character/mcdonalds-happyset-sunsun-pandorobo-seal-20260828/"
+wpPostId: 16299
+posted: true
 type: newproduct
 status: draft
 title: "【8/28発売】ハピセット新作シール スンスン&パンどろぼう"

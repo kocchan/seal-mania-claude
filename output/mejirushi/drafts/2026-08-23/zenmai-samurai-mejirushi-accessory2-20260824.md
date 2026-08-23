@@ -1,4 +1,9 @@
 ---
+postedAt: "2026-08-23T02:41:20.979Z"
+wpPostUrl: "https://www.seal-search.com/mejirushi/zenmai-samurai-mejirushi-accessory2-20260824/"
+wpPostId: 16303
+posted: true
+imageGenerated: true
 type: mejirushi
 status: draft
 title: "【8月第4週発売】ぜんまいざむらいめじるし第2弾"

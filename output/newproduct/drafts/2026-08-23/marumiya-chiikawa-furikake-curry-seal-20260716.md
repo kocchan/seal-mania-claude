@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-08-23T02:40:51.121Z"
+wpPostUrl: "https://www.seal-search.com/character/marumiya-chiikawa-furikake-curry-seal-20260716/"
+wpPostId: 16298
+posted: true
 type: newproduct
 status: draft
 title: "【期間限定発売】ちいかわ丸美屋キラキラシール付き"
