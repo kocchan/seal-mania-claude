@@ -1,7 +1,7 @@
 {
   "date": "2026-08-23",
-  "updatedAt": "2026-08-23T10:29:05.086+09:00",
-  "count": 15,
+  "updatedAt": "2026-08-23T12:45:29.694+09:00",
+  "count": 18,
   "articles": [
     {
       "isSighting": true,
@@ -287,6 +287,63 @@
       "wpPostId": 16296,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-fukuoka-unknown-2026-08-21/",
       "postedAt": "2026-08-23T10:30:52.143+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "ソウル特別市",
+      "city": "城東区",
+      "shopName": "メタモンプレイグラウンド ソンス店",
+      "shopAddress": "21, Yeonmujang 5-gil, Seongdong-gu, Seoul, South Korea",
+      "productName": "ボンボンドロップシール（ポケモン）",
+      "sightingTime": "2026-08-17 02:38頃",
+      "statusText": "購入実績あり（現在は在庫不明）",
+      "confidenceMemo": "具体的な店舗名（ソンスのメタモンプレイグラウンド）と言及あり",
+      "sourceUrl": "https://x.com/geniusPD_SUGA/status/2091369126732104041",
+      "sourceTweetId": "2091369126732104041",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2091369126732104041.png",
+      "isPosted": true,
+      "wpPostId": 16305,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-unknown-unknown-2026-08-17/",
+      "postedAt": "2026-08-23T12:45:38.020+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "奈良県",
+      "city": "奈良市",
+      "shopName": "楽天市場 シネマコレクション",
+      "shopAddress": "奈良県奈良市二条大路南1-3-1",
+      "productName": "ボンボンドロップシール churukira（サンリオ・マイメロディ等）",
+      "sightingTime": "2026-08-23 12:06頃",
+      "statusText": "在庫あり（795円・再入荷）",
+      "confidenceMemo": "具体的な店舗名と入荷価格、商品名の詳細が記述されている",
+      "sourceUrl": "https://x.com/ninkigourmet/status/2091361388103164386",
+      "sourceTweetId": "2091361388103164386",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2091361388103164386.png",
+      "isPosted": true,
+      "wpPostId": 16307,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-nara-unknown-2026-08-23/",
+      "postedAt": "2026-08-23T12:45:45.270+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "奈良県",
+      "city": "奈良市",
+      "shopName": "シネマコレクション（楽天市場）",
+      "shopAddress": "奈良県奈良市二条大路南1-3-1",
+      "productName": "ボンボンドロップシール（マイメロディ）",
+      "sightingTime": "2026-08-23 12:10頃",
+      "statusText": "完売（入荷後、約1分で売り切れ）",
+      "confidenceMemo": "具体的な在庫数変動と売り切れ状況が報告されている",
+      "sourceUrl": "https://x.com/ninkigourmet/status/2091362469214335049",
+      "sourceTweetId": "2091362469214335049",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2091362469214335049.png",
+      "isPosted": true,
+      "wpPostId": 16309,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-nara-unknown-2026-08-23-2/",
+      "postedAt": "2026-08-23T12:45:52.297+09:00"
     }
   ]
 }
