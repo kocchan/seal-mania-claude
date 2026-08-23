@@ -1,10 +1,10 @@
 ---
-type: newproduct
+type: mejirushi
 status: draft
 title: "【8月第4週発売】ぜんまいざむらいめじるし第2弾"
 description: "カプセルトイ「ぜんまいざむらい めじるしアクセサリー2」が8月第4週発売。全6種、価格は各300円。だんご剣が七色にグレードアップ。"
 slug: "zenmai-samurai-mejirushi-accessory2-20260824"
-category: "新作情報"
+category: "新作・ガチャ情報"
 tags:
   - ぜんまいざむらい
   - めじるしアクセサリー
@@ -15,6 +15,7 @@ tags:
 brand: "バンダイ × ぜんまいざむらい"
 salesDate: "2026-08-24"
 priceRange: "300円（税込・1回）"
+amazonAsin: ""
 featuredImage: "https://game.watch.impress.co.jp/img/gmw/list/2132/967/008.jpg"
 source: rss
 sourceRssUrl: "https://game.watch.impress.co.jp/docs/news/2132967.html"
