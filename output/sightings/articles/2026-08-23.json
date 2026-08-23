@@ -1,7 +1,7 @@
 {
   "date": "2026-08-23",
-  "updatedAt": "2026-08-23T15:50:43.293+09:00",
-  "count": 19,
+  "updatedAt": "2026-08-23T21:48:50.930+09:00",
+  "count": 22,
   "articles": [
     {
       "isSighting": true,
@@ -363,6 +363,63 @@
       "wpPostId": 16311,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-nagano-unknown-2026-08-23/",
       "postedAt": "2026-08-23T15:50:50.576+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "大阪府",
+      "city": "大阪市北区",
+      "shopName": "キディランド 大阪梅田店",
+      "shopAddress": "大阪府大阪市北区芝田1-1-3 阪急三番街",
+      "productName": "ボンボンドロップシール",
+      "sightingTime": "2026-08-23 11:47頃",
+      "statusText": "在庫あり（大量に販売中）",
+      "confidenceMemo": "大阪のキディランドでの大量販売報告。主要店である大阪梅田店と推測。",
+      "sourceUrl": "https://x.com/viluce0324/status/2091492554852466995",
+      "sourceTweetId": "2091492554852466995",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2091492554852466995.png",
+      "isPosted": true,
+      "wpPostId": 16313,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-osaka-unknown-2026-08-23/",
+      "postedAt": "2026-08-23T21:48:58.196+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "新潟県",
+      "city": "三条市",
+      "shopName": "トイニティ三条店",
+      "shopAddress": "新潟県三条市興野2丁目2-1 蔦屋書店 三条河渡店内",
+      "productName": "ボンボンドロップシール",
+      "sightingTime": "2026-08-23 09:51頃",
+      "statusText": "在庫あり（新入荷・買い取り品）",
+      "confidenceMemo": "店舗公式アカウントによる入荷・販売告知のため信頼性が高い。",
+      "sourceUrl": "https://x.com/bmat_sanjo/status/2091463393328980404",
+      "sourceTweetId": "2091463393328980404",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2091463393328980404.png",
+      "isPosted": true,
+      "wpPostId": 16315,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-niigata-unknown-2026-08-23/",
+      "postedAt": "2026-08-23T21:49:05.734+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "北海道",
+      "city": "苫小牧市",
+      "shopName": "GiGOイオンモール苫小牧",
+      "shopAddress": "北海道苫小牧市柳町3-1-20 イオンモール苫小牧 2F",
+      "productName": "MIXうるちゅるシールMEGA",
+      "sightingTime": "2026-08-23 21:31頃",
+      "statusText": "入荷（在庫あり）",
+      "confidenceMemo": "店舗公式アカウントによる入荷・景品情報のため信頼性が非常に高い",
+      "sourceUrl": "https://x.com/GiGO_Tomakomai/status/2091503558801920458",
+      "sourceTweetId": "2091503558801920458",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2091503558801920458.png",
+      "isPosted": true,
+      "wpPostId": 16317,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-hokkaido-unknown-2026-08-23/",
+      "postedAt": "2026-08-23T21:49:13.031+09:00"
     }
   ]
 }
