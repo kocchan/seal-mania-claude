@@ -1,7 +1,7 @@
 {
   "date": "2026-08-23",
-  "updatedAt": "2026-08-23T12:45:29.694+09:00",
-  "count": 18,
+  "updatedAt": "2026-08-23T15:50:43.293+09:00",
+  "count": 19,
   "articles": [
     {
       "isSighting": true,
@@ -344,6 +344,25 @@
       "wpPostId": 16309,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-nara-unknown-2026-08-23-2/",
       "postedAt": "2026-08-23T12:45:52.297+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "長野県",
+      "city": "千曲市",
+      "shopName": "インフィニティ バニーラッシュ",
+      "shopAddress": "長野県千曲市大字寂蒔1060-2",
+      "productName": "ボンボンドロップシール（バウ・パトロール、きかんしゃトーマス）",
+      "sightingTime": "2026-08-23 05:04頃",
+      "statusText": "入荷情報あり",
+      "confidenceMemo": "店舗公式アカウントによる詳細な入荷案内ツイートのため信頼性が高い",
+      "sourceUrl": "https://x.com/i_bunnyrush/status/2091391108706353357",
+      "sourceTweetId": "2091391108706353357",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2091391108706353357.png",
+      "isPosted": true,
+      "wpPostId": 16311,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-nagano-unknown-2026-08-23/",
+      "postedAt": "2026-08-23T15:50:50.576+09:00"
     }
   ]
 }
