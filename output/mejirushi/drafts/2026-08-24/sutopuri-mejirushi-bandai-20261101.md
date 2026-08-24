@@ -1,4 +1,9 @@
 ---
+postedAt: "2026-08-24T02:42:13.627Z"
+wpPostUrl: "https://www.seal-search.com/mejirushi/sutopuri-mejirushi-bandai-20261101/"
+wpPostId: 16367
+posted: true
+imageGenerated: true
 type: mejirushi
 status: draft
 title: "【11月発売】すとぷり めじるしアクセサリー ガシャポン新作"

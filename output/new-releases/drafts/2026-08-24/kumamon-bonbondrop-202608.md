@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-08-24T02:41:45.307Z"
+wpPostUrl: "https://www.seal-search.com/news/new-item/kumamon-bonbondrop-202608/"
+wpPostId: 16361
+posted: true
 imageGenerated: true
 type: lottery
 status: draft

@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-08-24T02:41:32.068Z"
+wpPostUrl: "https://www.seal-search.com/character/chiikawa-movie-bonbondrop-seirene-20260822/"
+wpPostId: 16358
+posted: true
 type: newproduct
 status: draft
 title: "【8/22配布開始】映画ちいかわ第3弾ボンボンドロップシール"

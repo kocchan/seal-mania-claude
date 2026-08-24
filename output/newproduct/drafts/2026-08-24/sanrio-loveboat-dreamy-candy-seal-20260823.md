@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-08-24T02:41:37.198Z"
+wpPostUrl: "https://www.seal-search.com/character/sanrio-loveboat-dreamy-candy-seal-20260823/"
+wpPostId: 16359
+posted: true
 type: newproduct
 status: draft
 title: "ハローキティ&クロミ×LOVEBOAT ドリーミーキャンディシール新登場"
