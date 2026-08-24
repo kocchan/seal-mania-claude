@@ -1,7 +1,7 @@
 {
   "date": "2026-08-24",
-  "updatedAt": "2026-08-24T10:25:25.631+09:00",
-  "count": 19,
+  "updatedAt": "2026-08-24T16:09:31.081+09:00",
+  "count": 22,
   "articles": [
     {
       "isSighting": true,
@@ -363,6 +363,63 @@
       "wpPostId": 16357,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-tokyo-akishima-2026-08-22-2/",
       "postedAt": "2026-08-24T10:27:22.260+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "東京都",
+      "city": "江東区",
+      "shopName": "TSUTAYA BOOKSTORE 亀戸",
+      "shopAddress": "東京都江東区亀戸6丁目31-6 カメイドクロック 4F",
+      "productName": "ボンボンドロップシール",
+      "sightingTime": "2026-08-24 15:57頃",
+      "statusText": "入荷あり（各種1点までの購入制限あり）",
+      "confidenceMemo": "店舗公式アカウントによる正確な入荷案内。購入制限や年齢制限などの詳細あり。",
+      "sourceUrl": "https://x.com/TBS2137/status/2091781864919065031",
+      "sourceTweetId": "2091781864919065031",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2091781864919065031.png",
+      "isPosted": true,
+      "wpPostId": 16369,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-tokyo-unknown-2026-08-24/",
+      "postedAt": "2026-08-24T16:09:38.742+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "神奈川県",
+      "city": "大和市",
+      "shopName": "ぐるぐる大帝国 大和店",
+      "shopAddress": "神奈川県大和市代官1丁目15-4",
+      "productName": "ボンボンドロップシール",
+      "sightingTime": "2026-08-24 05:28頃",
+      "statusText": "買取・販売情報あり（在庫状況は随時変動）",
+      "confidenceMemo": "ホビーショップ公式による買取価格・在庫更新情報。",
+      "sourceUrl": "https://x.com/gr2yamato/status/2091759503725535699",
+      "sourceTweetId": "2091759503725535699",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2091759503725535699.png",
+      "isPosted": true,
+      "wpPostId": 16371,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-kanagawa-yamato-2026-08-24/",
+      "postedAt": "2026-08-24T16:09:45.631+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "山梨県",
+      "city": "甲府市",
+      "shopName": "天真堂書店 本店",
+      "shopAddress": "山梨県甲府市丸の内1丁目1-11",
+      "productName": "ハローキティ ぷっくりシール、ドームシール、おはじき風シール",
+      "sightingTime": "2026-08-24 04:24頃",
+      "statusText": "入荷（在庫あり）",
+      "confidenceMemo": "店舗公式アカウントによる写真付きの入荷告知であり信頼性が非常に高い",
+      "sourceUrl": "https://x.com/TENSHINDOHONTEN/status/2091743346553495980",
+      "sourceTweetId": "2091743346553495980",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2091743346553495980.png",
+      "isPosted": true,
+      "wpPostId": 16373,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-yamanashi-kofu-2026-08-24/",
+      "postedAt": "2026-08-24T16:09:52.382+09:00"
     }
   ]
 }
