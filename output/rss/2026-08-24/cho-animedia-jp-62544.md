@@ -1,0 +1,20 @@
+---
+source: rss
+url: "https://cho-animedia.jp/article/2026/08/23/62544.html"
+title: "ハローキティ＆クロミ × LOVEBOAT コラボ！“ギャルかわ”な「ドリーミーキャンディシール」が新登場 | 超！アニメディア"
+siteName: "超！アニメディア"
+publishedAt: "2026-08-23T10:17:00Z"
+fetchedAt: "2026-08-24T00:30:44.898Z"
+fetchMethod: axios
+ogImage: "https://cho-animedia.jp/imgs/ogp_f/1339093.jpg"
+description: "「ハローキティ」「クロミ」と「LOVEBOAT」のコラボレーションによる「Dreamy Candy Seal（ドリーミーキャンディシール）」が登場する。"
+---
+
+## RSS要約
+
+オススメのアニラジを紹介！ アクセスランキング. 「 ボンボンドロップシール &nbsp;...
+
+## 本文HTML（サニタイズ済み）
+
+<html><head></head><body><p>「ハローキティ」「クロミ」と「LOVEBOAT」のコラボレーションによる「Dreamy Candy Seal（ドリーミーキャンディシール）」が登場する。</p><p>サンリオキャラクターの人気投票イベント「2026年サンリオキャラクター大賞」は、総得票数は昨年比で112%、過去最多となる7,064万7,379票を数え、「ポムポムプリン」が第1位に輝いた。30周年のアニバーサリーイヤーに700万票以上を集め、2年連続で通算5度目の栄冠を掴んだ。</p><p>初回速報順位で首位だった「シナモロール」が第2位につけ、第3位に「ポチャッコ」、第4位に「クロミ」、第5位に「ハローキティ」が続いた。長年にわたり世界中のファンから愛され続けるキャラクターたちが、今年も支持を集めた。</p><p>今回の新作では、「LOVEBOAT」の代名詞でもあるレオパード柄やロゴデザインに、ギャル風のサングラスや日焼け肌、ハイビスカスを身につけた特別仕様の「ハローキティ」と「クロミ」が全4種で登場する。</p><p>「Dreamy Candy Seal（ドリーミーキャンディシール）」は、キャンディのようなツヤ感とぷっくりとした立体感が特徴的なドーム型シール。存在感抜群で、スマートフォンケースやPC、トレカケース、ノートなどのデコレーションにぴったりのアイテムとなっている。</p><p>商品ラインナップは、ハローキティは「LEOPARD」「PINK LEOPARD」の2種、クロミは「BLACK LEOPARD」「PURPLE LEOPARD」の2種を展開する。</p><figure class="ctms-editor-image"><img src="/imgs/zoom/1339097.jpg" class="inline-article-image" width="640" height="456"><figcaption>Dreamy Candy Seal（ドリーミーキャンディシール）</figcaption></figure><p>「ハローキティ（LEOPARD / PINK LEOPARD）」は、日焼けしたデザインのハローキティやハイビスカス、LOVE BOATロゴがぎゅっと詰まった王道ギャルかわデザインとなっている。</p><figure class="ctms-editor-image"><img src="/imgs/zoom/1339098.jpg" class="inline-article-image" width="640" height="456"><figcaption>Dreamy Candy Seal（ドリーミーキャンディシール）</figcaption></figure><p>「クロミ（BLACK LEOPARD / PURPLE LEOPARD）」は、クールな第一印象のクロミとシック＆キュートなカラーリングがマッチした、クール＆ガーリーなデザインに仕上がっている。</p><figure class="ctms-editor-image"><img src="/imgs/zoom/1339099.jpg" class="inline-article-image" width="640" height="456"><figcaption>Dreamy Candy Seal（ドリーミーキャンディシール）</figcaption></figure><p>さまざまなアイテムのデコレーションに取り入れて楽しめそうだ。</p><br><div class="af_box"><div class="af_list"><div class="af_box_left"><a href="https://www.amazon.co.jp/dp/B0H8DP2HBB?tag=cho-animedia-22&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank"><img src="/imgs/zoom/1339100.jpg" class="af_box_image"></a></div><div class="af_box_right"><b><a href="https://www.amazon.co.jp/dp/B0H8DP2HBB?tag=cho-animedia-22&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank">サンリオ(SANRIO) オーロラ立体シール マイメロディ 対象年齢3才以上 225266</a></b><br><b>￥748</b><br><span>(価格・在庫状況は記事公開時点のものです)</span><br><div class="af_box_link_amazon"><a href="https://www.amazon.co.jp/dp/B0H8DP2HBB?tag=cho-animedia-22&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank">Amazon</a></div><div class="af_box_link_rakuten"><a href="https://hb.afl.rakuten.co.jp/hgc/1451ad24.f444fd34.1451ad25.ae6493d0/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2582%25B5%25E3%2583%25B3%25E3%2583%25AA%25E3%2582%25AA%2F" target="_blank">楽天市場</a></div></div></div></div><div class="af_box"><div class="af_list"><div class="af_box_left"><a href="https://www.amazon.co.jp/dp/B0HF89VZWC?tag=cho-animedia-22&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank"><img src="/imgs/zoom/1339101.jpg" class="af_box_image"></a></div><div class="af_box_right"><b><a href="https://www.amazon.co.jp/dp/B0HF89VZWC?tag=cho-animedia-22&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank">サンリオ(SANRIO) フェイス形クリアミニポーチ（きらめきサマープール） ハローキティ 467693</a></b><br><b>￥1,496</b><br><span>(価格・在庫状況は記事公開時点のものです)</span><br><div class="af_box_link_amazon"><a href="https://www.amazon.co.jp/dp/B0HF89VZWC?tag=cho-animedia-22&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank">Amazon</a></div><div class="af_box_link_rakuten"><a href="https://hb.afl.rakuten.co.jp/hgc/1451ad24.f444fd34.1451ad25.ae6493d0/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2582%25B5%25E3%2583%25B3%25E3%2583%25AA%25E3%2582%25AA%2F" target="_blank">楽天市場</a></div></div></div></div><br><p>(C)2026 SANRIO CO., LTD. APPROVAL NO. L672488</p>
+</body></html>
