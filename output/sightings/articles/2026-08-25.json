@@ -1,7 +1,7 @@
 {
   "date": "2026-08-25",
-  "updatedAt": "2026-08-25T12:43:27.712+09:00",
-  "count": 10,
+  "updatedAt": "2026-08-25T15:58:06.188+09:00",
+  "count": 13,
   "articles": [
     {
       "isSighting": true,
@@ -192,6 +192,63 @@
       "wpPostId": 16427,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-kanagawa-unknown-2026-08-25/",
       "postedAt": "2026-08-25T12:43:35.084+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "東京都",
+      "city": "大田区",
+      "shopName": "トップボーイ蒲田店",
+      "shopAddress": "東京都大田区西蒲田7-6-7",
+      "productName": "サンリオ ビーズ入りぷっくりシール",
+      "sightingTime": "2026-08-25 04:54",
+      "statusText": "再入荷（在庫あり）",
+      "confidenceMemo": "店舗公式アカウントによる画像付きの入荷告知であり、商品特徴（ビーズ入り）が合致する",
+      "sourceUrl": "https://x.com/topboykamata/status/2092113334460096844",
+      "sourceTweetId": "2092113334460096844",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2092113334460096844.png",
+      "isPosted": true,
+      "wpPostId": 16429,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-tokyo-unknown-2026-08-25/",
+      "postedAt": "2026-08-25T15:58:12.358+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "東京都",
+      "city": "調布市",
+      "shopName": "TSUTAYA 調布駅南口店",
+      "shopAddress": "東京都調布市小島町2-52-1",
+      "productName": "初音ミク うるちゅるPOP SEAL",
+      "sightingTime": "2026-08-25 15:20頃",
+      "statusText": "在庫あり（入荷情報）",
+      "confidenceMemo": "店舗公式アカウントによる写真付きの入荷報告",
+      "sourceUrl": "https://x.com/TSUTAYA93345494/status/2092135093011992744",
+      "sourceTweetId": "2092135093011992744",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2092135093011992744.png",
+      "isPosted": true,
+      "wpPostId": 16431,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-tokyo-unknown-2026-08-25-2/",
+      "postedAt": "2026-08-25T15:58:19.039+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "神奈川県",
+      "city": "横浜市西区",
+      "shopName": "アニメイト横浜ビブレ",
+      "shopAddress": "神奈川県横浜市西区南幸2-15-13 横浜ビブレ8F",
+      "productName": "ケロロ軍曹 うるちゅるポップシール",
+      "sightingTime": "2026-08-25 05:22頃",
+      "statusText": "在庫あり（入荷情報）",
+      "confidenceMemo": "店舗公式アカウントによる入荷報告",
+      "sourceUrl": "https://x.com/ani_yokohama/status/2092120300800594162",
+      "sourceTweetId": "2092120300800594162",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2092120300800594162.png",
+      "isPosted": true,
+      "wpPostId": 16433,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-kanagawa-unknown-2026-08-25-2/",
+      "postedAt": "2026-08-25T15:58:25.800+09:00"
     }
   ]
 }
