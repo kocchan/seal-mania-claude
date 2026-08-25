@@ -1,7 +1,7 @@
 {
   "date": "2026-08-25",
-  "updatedAt": "2026-08-25T10:23:18.925+09:00",
-  "count": 9,
+  "updatedAt": "2026-08-25T12:43:27.712+09:00",
+  "count": 10,
   "articles": [
     {
       "isSighting": true,
@@ -173,6 +173,25 @@
       "wpPostId": 16415,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-miyagi-natori-2026-08-23-2/",
       "postedAt": "2026-08-25T10:24:21.792+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "神奈川県",
+      "city": "大和市",
+      "shopName": "ぐるぐる大帝国 大和店",
+      "shopAddress": "神奈川県大和市上和田2684",
+      "productName": "ボンボンドロップシール",
+      "sightingTime": "2026-08-25 02:39頃",
+      "statusText": "買取情報更新（在庫状況は要確認）",
+      "confidenceMemo": "店舗公式アカウントによる買取情報の投稿。当該商品の取り扱いが具体的に示されている。",
+      "sourceUrl": "https://x.com/gr2yamato/status/2092079276380348862",
+      "sourceTweetId": "2092079276380348862",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2092079276380348862.png",
+      "isPosted": true,
+      "wpPostId": 16427,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-kanagawa-unknown-2026-08-25/",
+      "postedAt": "2026-08-25T12:43:35.084+09:00"
     }
   ]
 }
