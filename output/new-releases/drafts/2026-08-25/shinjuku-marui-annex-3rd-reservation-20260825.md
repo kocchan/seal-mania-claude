@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-08-25T02:35:53.248Z"
+wpPostUrl: "https://www.seal-search.com/news/new-item/shinjuku-marui-annex-3rd-reservation-20260825/"
+wpPostId: 16422
+posted: true
 imageGenerated: true
 type: lottery
 status: draft

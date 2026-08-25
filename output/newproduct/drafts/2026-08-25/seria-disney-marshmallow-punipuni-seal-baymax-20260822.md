@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-08-25T02:35:27.722Z"
+wpPostUrl: "https://www.seal-search.com/character/seria-disney-marshmallow-punipuni-seal-baymax-20260822/"
+wpPostId: 16420
+posted: true
 type: newproduct
 status: draft
 title: "セリア ディズニーぷにぷにシール新作110円"

@@ -1,4 +1,9 @@
 ---
+postedAt: "2026-08-25T02:36:18.855Z"
+wpPostUrl: "https://www.seal-search.com/mejirushi/codegeass-mejirushi-20260825/"
+wpPostId: 16425
+posted: true
+imageGenerated: true
 type: mejirushi
 status: draft
 title: "【8/25発売】コードギアス めじるしアクセサリー"

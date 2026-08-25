@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-08-25T02:34:56.064Z"
+wpPostUrl: "https://www.seal-search.com/news/reservation/bondoro-suizokukan-present-20260830/"
+wpPostId: 16417
+posted: true
 imageGenerated: true
 type: lottery
 status: draft

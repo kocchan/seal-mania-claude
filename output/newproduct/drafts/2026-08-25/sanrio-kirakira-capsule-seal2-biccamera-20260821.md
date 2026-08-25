@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-08-25T02:35:10.671Z"
+wpPostUrl: "https://www.seal-search.com/character/sanrio-kirakira-capsule-seal2-biccamera-20260821/"
+wpPostId: 16419
+posted: true
 type: newproduct
 status: draft
 title: "【528円】サンリオ キラキラカプセルシール2登場"
