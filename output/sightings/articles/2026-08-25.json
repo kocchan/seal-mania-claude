@@ -1,7 +1,7 @@
 {
   "date": "2026-08-25",
-  "updatedAt": "2026-08-25T21:55:53.779+09:00",
-  "count": 15,
+  "updatedAt": "2026-08-26T06:23:26.027+09:00",
+  "count": 16,
   "articles": [
     {
       "isSighting": true,
@@ -287,6 +287,25 @@
       "wpPostId": 16437,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-ehime-matsuyama-2026-08-25/",
       "postedAt": "2026-08-25T21:55:59.936+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "青森県",
+      "city": "八戸市",
+      "shopName": "八戸市水産科学館マリエント",
+      "shopAddress": "青森県八戸市大字鮫町字下盲久保25-2",
+      "productName": "ボンボンドロップシール",
+      "sightingTime": "2026-08-26 13:24頃",
+      "statusText": "在庫あり（たくさん売っていた）",
+      "confidenceMemo": "具体的な施設名と地域ハッシュタグ（#ベガサポ八戸遠征）が含まれており、情報の信頼性が高い。",
+      "sourceUrl": "https://x.com/Hachii_sendai/status/2092241745660772796",
+      "sourceTweetId": "2092241745660772796",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2092241745660772796.png",
+      "isPosted": true,
+      "wpPostId": 16439,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-aomori-unknown-2026-08-26/",
+      "postedAt": "2026-08-26T06:23:32.392+09:00"
     }
   ]
 }
