@@ -1,7 +1,7 @@
 {
   "date": "2026-08-25",
-  "updatedAt": "2026-08-25T18:31:13.893+09:00",
-  "count": 14,
+  "updatedAt": "2026-08-25T21:55:53.779+09:00",
+  "count": 15,
   "articles": [
     {
       "isSighting": true,
@@ -268,6 +268,25 @@
       "wpPostId": 16435,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-aichi-unknown-2026-08-25/",
       "postedAt": "2026-08-25T18:31:19.623+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "愛媛県",
+      "city": "松山市",
+      "shopName": "メロンブックス 松山店",
+      "shopAddress": "愛媛県松山市湊町3丁目5-1 湊町3丁目ビル2F",
+      "productName": "獅白ぼたん ドット柄ぷっくりシール",
+      "sightingTime": "2026-08-25 10:20頃",
+      "statusText": "在庫あり（大好評発売中）",
+      "confidenceMemo": "店舗公式アカウントによる商品入荷・販売告知のため信頼性が高い",
+      "sourceUrl": "https://x.com/melon_matsuyama/status/2092195278808117430",
+      "sourceTweetId": "2092195278808117430",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2092195278808117430.png",
+      "isPosted": true,
+      "wpPostId": 16437,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-ehime-matsuyama-2026-08-25/",
+      "postedAt": "2026-08-25T21:55:59.936+09:00"
     }
   ]
 }
