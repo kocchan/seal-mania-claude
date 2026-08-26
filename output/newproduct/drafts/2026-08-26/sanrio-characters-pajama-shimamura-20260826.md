@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-08-26T02:43:26.590Z"
+wpPostUrl: "https://www.seal-search.com/character/sanrio-characters-pajama-shimamura-20260826/"
+wpPostId: 16477
+posted: true
 type: newproduct
 status: draft
 title: "【8/26発売】サンリオパジャマ - しまむら限定新作"

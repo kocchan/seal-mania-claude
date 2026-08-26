@@ -1,4 +1,9 @@
 ---
+postedAt: "2026-08-26T02:44:19.642Z"
+wpPostUrl: "https://www.seal-search.com/mejirushi/sutopuri-mejirushi-202611/"
+wpPostId: 16487
+posted: true
+imageGenerated: true
 type: mejirushi
 status: draft
 title: "【11月発売】すとぷり めじるしアクセサリー"

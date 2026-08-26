@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-08-26T02:42:57.481Z"
+wpPostUrl: "https://www.seal-search.com/news/reservation/gashapon-mochinyami-mejirushi-20260924/"
+wpPostId: 16473
+posted: true
 imageGenerated: true
 type: lottery
 status: draft

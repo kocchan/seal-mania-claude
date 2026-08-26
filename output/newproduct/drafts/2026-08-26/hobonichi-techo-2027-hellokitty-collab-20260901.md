@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-08-26T02:43:19.457Z"
+wpPostUrl: "https://www.seal-search.com/character/hobonichi-techo-2027-hellokitty-collab-20260901/"
+wpPostId: 16476
+posted: true
 type: newproduct
 status: draft
 title: "【9/1発売】ほぼ日手帳2027 - ハローキティ新作コラボ"

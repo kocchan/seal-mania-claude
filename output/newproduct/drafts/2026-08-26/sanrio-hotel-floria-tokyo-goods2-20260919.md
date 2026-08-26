@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-08-26T02:43:33.693Z"
+wpPostUrl: "https://www.seal-search.com/character/sanrio-hotel-floria-tokyo-goods2-20260919/"
+wpPostId: 16478
+posted: true
 type: newproduct
 status: draft
 title: "【9/19発売】ホテルフローリア - サンリオ限定新作"

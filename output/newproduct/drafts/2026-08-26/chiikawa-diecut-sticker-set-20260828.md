@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-08-26T02:43:05.341Z"
+wpPostUrl: "https://www.seal-search.com/character/chiikawa-diecut-sticker-set-20260828/"
+wpPostId: 16474
+posted: true
 type: newproduct
 status: draft
 title: "【8/28発売】ダイカットステッカー - ちいかわ新作"

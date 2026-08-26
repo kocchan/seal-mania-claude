@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-08-26T02:43:11.978Z"
+wpPostUrl: "https://www.seal-search.com/character/chiikawa-tenugui-basketball-wear-20260821/"
+wpPostId: 16475
+posted: true
 type: newproduct
 status: draft
 title: "【8/21発売】ちいかわ手ぬぐい - 新柄3種登場"

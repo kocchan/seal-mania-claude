@@ -1,4 +1,9 @@
 ---
+postedAt: "2026-08-26T02:43:53.351Z"
+wpPostUrl: "https://www.seal-search.com/mejirushi/gunpla-kun-mejirushi2-202609/"
+wpPostId: 16481
+posted: true
+imageGenerated: true
 type: mejirushi
 status: draft
 title: "【9月発売】ガンプラくん めじるしアクセサリーII"

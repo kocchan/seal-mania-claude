@@ -1,4 +1,9 @@
 ---
+postedAt: "2026-08-26T02:44:29.758Z"
+wpPostUrl: "https://www.seal-search.com/mejirushi/whippy-rappy-mejirushi-202608/"
+wpPostId: 16490
+posted: true
+imageGenerated: true
 type: mejirushi
 status: draft
 title: "【8月発売】ホイッピ＆ラッピ めじるしアクセサリー"
