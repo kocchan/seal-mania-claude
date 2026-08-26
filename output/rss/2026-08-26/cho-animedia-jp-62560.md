@@ -1,0 +1,20 @@
+---
+source: rss
+url: "https://cho-animedia.jp/article/2026/08/24/62560.html"
+title: "秋アニメ「東京リベンジャーズ」三天戦争編、ディズニープラスで独占配信！タケミチの最後のリベンジが始まる【10月3日より】 | 超！アニメディア"
+siteName: "超！アニメディア"
+publishedAt: "2026-08-24T21:38:08Z"
+fetchedAt: "2026-08-26T00:30:59.739Z"
+fetchMethod: axios
+ogImage: "https://cho-animedia.jp/imgs/ogp_f/1339792.jpg"
+description: "TVアニメ『東京リベンジャーズ』三天戦争編が、2026年10月3日（土）よりディズニープラスで世界独占配信されることが決定。あわせて、本作のキービジュアル（KV）と最新PV映像も公開となった。"
+---
+
+## RSS要約
+
+あわせて、本作のキービジュアル（KV）と最新PV映像も公開となった。 ニュース アニメ. 注目記事. 「 ボンボンドロップシール 」ほか限定シールが300種類以上も!?
+
+## 本文HTML（サニタイズ済み）
+
+<html><head></head><body><p>TVアニメ『東京リベンジャーズ』三天戦争編が、2026年10月3日（土）よりディズニープラスで世界独占配信されることが決定。あわせて、本作のキービジュアル（KV）と最新PV映像も公開となった。</p><p>『東京リベンジャーズ』は、2017年から2022年にかけて「週刊少年マガジン」で連載され「第44回講談社漫画賞」の少年部門を受賞した、和久井健によるタイムリープサスペンスマンガ『東京卍リベンジャーズ』を原作とするTVアニメだ。「中学生までが全盛期」な元不良のタケミチこと花垣武道が、中学時代に付き合っていた人生唯一の恋人の死をきっかけに12年前の中学時代にタイムリープし、人生のリベンジに挑む姿を描く。</p><p>“8・3抗争編”および“血のハロウィン編”までが映像化された第1期が2021年4月から9月まで放送されたのを皮切りに、2023年1月から4月まで放送された第2期“聖夜決戦編”、同年10月から12月まで放送された第3期“天竺編”と続いてきた。そのほか実写映画化や舞台化など、マルチなコンテンツ展開が行われている。</p><figure class="ctms-editor-youtube"></figure><p>最新作となる「三天戦争編」では、東京卍會と天竺（てんじく）の抗争が幕を閉じ、それぞれが悲しみを抱えながら次の道へ進む中、花垣武道（タケミチ）は死亡した稀咲鉄太に畏怖の念を抱く。一方、タケミチからタイムリープでの一部始終を聞いた佐野万次郎（マイキー）は、ある決断をする。</p><p>やがて戦いを終えて過去を離れたタケミチは、ついに恋人・橘日向（ヒナタ）が生きている最高の未来に辿り着く。しかし、そこに“彼”の姿はなかった。3チームが覇権を争う“三天時代”となった世界で、タケミチの最後のリベンジが始まる。</p><figure class="ctms-editor-image"><img src="/imgs/zoom/1339796.jpg" class="inline-article-image" width="640" height="927"><figcaption>『東京リベンジャーズ』三天戦争編</figcaption></figure><p>『東京リベンジャーズ』三天戦争編は、ディズニープラスで10月3日より世界定額制動画配信（SVOD）独占配信。</p><br><div class="af_box"><div class="af_list"><div class="af_box_left"><a href="https://www.amazon.co.jp/dp/B0DYJMLRJQ?tag=cho-animedia-22&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank"><img src="/imgs/zoom/1339797.jpg" class="af_box_image"></a></div><div class="af_box_right"><b><a href="https://www.amazon.co.jp/dp/B0DYJMLRJQ?tag=cho-animedia-22&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank">東京リベンジャーズ</a></b><br><b></b><br><span>(価格・在庫状況は記事公開時点のものです)</span><br><div class="af_box_link_amazon"><a href="https://www.amazon.co.jp/dp/B0DYJMLRJQ?tag=cho-animedia-22&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank">Amazon</a></div><div class="af_box_link_rakuten"><a href="https://hb.afl.rakuten.co.jp/hgc/1451ad24.f444fd34.1451ad25.ae6493d0/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E6%259D%25B1%25E4%25BA%25AC%25E3%2583%25AA%25E3%2583%2599%25E3%2583%25B3%25E3%2582%25B8%25E3%2583%25A3%25E3%2583%25BC%25E3%2582%25BA%2F" target="_blank">楽天市場</a></div></div></div></div><div class="af_box"><div class="af_list"><div class="af_box_left"><a href="https://www.amazon.co.jp/dp/B0CH99W46D?tag=cho-animedia-22&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank"><img src="/imgs/zoom/1339798.jpg" class="af_box_image"></a></div><div class="af_box_right"><b><a href="https://www.amazon.co.jp/dp/B0CH99W46D?tag=cho-animedia-22&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank">「東京リベンジャーズ」天竺編</a></b><br><b>￥1,860</b><br><span>(価格・在庫状況は記事公開時点のものです)</span><br><div class="af_box_link_amazon"><a href="https://www.amazon.co.jp/dp/B0CH99W46D?tag=cho-animedia-22&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank">Amazon</a></div><div class="af_box_link_rakuten"><a href="https://hb.afl.rakuten.co.jp/hgc/1451ad24.f444fd34.1451ad25.ae6493d0/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E6%259D%25B1%25E4%25BA%25AC%25E3%2583%25AA%25E3%2583%2599%25E3%2583%25B3%25E3%2582%25B8%25E3%2583%25A3%25E3%2583%25BC%25E3%2582%25BA%2F" target="_blank">楽天市場</a></div></div></div></div><br><div class="enclosure"><p>『東京リベンジャーズ』三天戦争編<br>原作：和久井健「東京卍リベンジャーズ」（講談社「週刊少年マガジン」）<br>監督：小平麻紀<br>シリーズ構成：むとうやすゆき<br>シリーズ構成協力：初見浩一<br>三天戦争編オープニング主題歌：「IGNITE」JO1<br>三天戦争編エンディング主題歌：「トリックスター」go!go!vanillas<br>アニメーション制作：ライデンフィルム<br>■配信情報<br>ディズニープラスで 10 月 3 日より世界定額制動画配信（SVOD）独占配信*（＊中国本土を除く）<br>■放送情報<br>2026 年 10 月 2 日から毎週金曜深夜、<br>MBS・TBS・CBC“アニメイズム”枠、AT-X ほかにて放送開始</p></div><p>(C)和久井健・講談社／アニメ「東京リベンジャーズ」製作委員会</p>
+</body></html>
