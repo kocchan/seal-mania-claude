@@ -1,7 +1,7 @@
 {
   "date": "2026-08-26",
-  "updatedAt": "2026-08-26T10:25:23.527+09:00",
-  "count": 16,
+  "updatedAt": "2026-08-26T12:49:13.690+09:00",
+  "count": 17,
   "articles": [
     {
       "isSighting": true,
@@ -306,6 +306,25 @@
       "wpPostId": 16471,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-tokyo-unknown-2026-08-24-3/",
       "postedAt": "2026-08-26T10:27:16.213+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "神奈川県",
+      "city": "大和市",
+      "shopName": "ぐるぐる大帝国 大和店",
+      "shopAddress": "神奈川県大和市渋谷1丁目6-1",
+      "productName": "ボンボンドロップシール",
+      "sightingTime": "2026-08-26 02:18頃",
+      "statusText": "買取情報更新（在庫の出入りがある可能性あり）",
+      "confidenceMemo": "店舗公式アカウントによる買取価格の情報。販売用在庫が確保されている可能性があるため抽出",
+      "sourceUrl": "https://x.com/gr2yamato/status/2092436406341935216",
+      "sourceTweetId": "2092436406341935216",
+      "isPrediction": true,
+      "imagePath": "output/sightings/images/2092436406341935216.png",
+      "isPosted": true,
+      "wpPostId": 16492,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-kanagawa-unknown-2026-08-26/",
+      "postedAt": "2026-08-26T12:49:20.784+09:00"
     }
   ]
 }
