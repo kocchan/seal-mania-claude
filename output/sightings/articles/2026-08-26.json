@@ -1,7 +1,7 @@
 {
   "date": "2026-08-26",
-  "updatedAt": "2026-08-26T15:58:18.383+09:00",
-  "count": 22,
+  "updatedAt": "2026-08-26T22:00:36.079+09:00",
+  "count": 24,
   "articles": [
     {
       "isSighting": true,
@@ -420,6 +420,44 @@
       "wpPostId": 16502,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-fukuoka-unknown-2026-08-26/",
       "postedAt": "2026-08-26T15:58:48.968+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "千葉県",
+      "city": "船橋市",
+      "shopName": "ふなっしーLAND船橋本店",
+      "shopAddress": "千葉県船橋市浜町2-1-1 ららぽーとTOKYO-BAY 北館1F",
+      "productName": "ふなっしー ボンボンドロップシール",
+      "sightingTime": "2026-08-26 11:23頃",
+      "statusText": "予約販売開始（10月末順次お届け）",
+      "confidenceMemo": "店舗公式アカウントによる予約開始告知および購入報告",
+      "sourceUrl": "https://x.com/uzecbt/status/2092573645801701501",
+      "sourceTweetId": "2092573645801701501",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2092573645801701501.png",
+      "isPosted": true,
+      "wpPostId": 16504,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-chiba-unknown-2026-08-26/",
+      "postedAt": "2026-08-26T22:00:42.594+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "大分県",
+      "city": "大分市",
+      "shopName": "アニメイトアミュプラザおおいた",
+      "shopAddress": "大分県大分市要町1-14 アミュプラザおおいた4F",
+      "productName": "ケロロ軍曹のうるちゅるポップシール",
+      "sightingTime": "2026-08-26 11:13頃",
+      "statusText": "入荷（在庫あり）",
+      "confidenceMemo": "店舗公式アカウントによる入荷情報の投稿であり、信頼性が極めて高い",
+      "sourceUrl": "https://x.com/animateooita/status/2092571224895631575",
+      "sourceTweetId": "2092571224895631575",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2092571224895631575.png",
+      "isPosted": true,
+      "wpPostId": 16506,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-oita-oita-2026-08-26/",
+      "postedAt": "2026-08-26T22:00:49.447+09:00"
     }
   ]
 }
