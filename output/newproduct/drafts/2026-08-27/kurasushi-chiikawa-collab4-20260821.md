@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-08-27T11:39:33.545Z"
+wpPostUrl: "https://www.seal-search.com/character/kurasushi-chiikawa-collab4-20260821/"
+wpPostId: 16569
+posted: true
 type: newproduct
 status: draft
 title: "【8/21開始】くら寿司×ちいかわ第4弾 - 限定グッズ登場"

@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-08-27T11:39:28.366Z"
+wpPostUrl: "https://www.seal-search.com/character/itajaga-dragonball-vol11-20261200/"
+wpPostId: 16568
+posted: true
 type: newproduct
 status: draft
 title: "【26年12月発売】イタジャガDB11弾 - メタリックカード"

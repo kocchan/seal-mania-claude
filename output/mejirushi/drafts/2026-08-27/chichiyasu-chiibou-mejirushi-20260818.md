@@ -1,4 +1,9 @@
 ---
+postedAt: "2026-08-27T11:40:01.956Z"
+wpPostUrl: "https://www.seal-search.com/mejirushi/chichiyasu-chiibou-mejirushi-20260818/"
+wpPostId: 16574
+posted: true
+imageGenerated: true
 type: mejirushi
 status: draft
 title: "【8/18発売】チチヤス チー坊 めじるしアクセサリー"

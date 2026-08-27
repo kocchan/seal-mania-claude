@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-08-27T11:39:44.381Z"
+wpPostUrl: "https://www.seal-search.com/character/sanrio-charapaki-ichigo-rubamas-20270100/"
+wpPostId: 16571
+posted: true
 type: newproduct
 status: draft
 title: "【27年1月発売】キャラパキいちご - サンリオ×バンダイ新作"

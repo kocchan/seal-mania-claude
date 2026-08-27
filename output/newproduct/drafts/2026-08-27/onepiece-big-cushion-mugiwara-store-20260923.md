@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-08-27T11:39:39.010Z"
+wpPostUrl: "https://www.seal-search.com/character/onepiece-big-cushion-mugiwara-store-20260923/"
+wpPostId: 16570
+posted: true
 type: newproduct
 status: draft
 title: "【9/23予約締切】ONE PIECEどデカクッション新作"

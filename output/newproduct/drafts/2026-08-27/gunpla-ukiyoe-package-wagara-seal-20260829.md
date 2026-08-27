@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-08-27T11:39:22.627Z"
+wpPostUrl: "https://www.seal-search.com/character/gunpla-ukiyoe-package-wagara-seal-20260829/"
+wpPostId: 16567
+posted: true
 type: newproduct
 status: draft
 title: "【8/29発売】ガンプラ浮世絵Ver. - 和柄シール付き新作"
