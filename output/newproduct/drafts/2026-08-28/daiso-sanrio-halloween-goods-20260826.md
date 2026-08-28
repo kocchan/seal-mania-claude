@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-08-28T13:03:52.545Z"
+wpPostUrl: "https://www.seal-search.com/character/daiso-sanrio-halloween-goods-20260826/"
+wpPostId: 16666
+posted: true
 type: newproduct
 status: draft
 title: "【110円】ダイソー サンリオハロウィングッズ新作"

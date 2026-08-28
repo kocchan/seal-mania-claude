@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-08-28T13:04:13.982Z"
+wpPostUrl: "https://www.seal-search.com/character/ribbon-hero-bromide-sticker-entameprint-20260826/"
+wpPostId: 16669
+posted: true
 type: newproduct
 status: draft
 title: "【8/26発売】リボンヒーロー ブロマイド＆ステッカー"

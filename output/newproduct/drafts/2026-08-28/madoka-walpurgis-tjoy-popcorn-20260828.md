@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-08-28T13:04:00.342Z"
+wpPostUrl: "https://www.seal-search.com/character/madoka-walpurgis-tjoy-popcorn-20260828/"
+wpPostId: 16667
+posted: true
 type: newproduct
 status: draft
 title: "【8/28発売】まどマギ ポップコーンBOX - T・ジョイ限定"

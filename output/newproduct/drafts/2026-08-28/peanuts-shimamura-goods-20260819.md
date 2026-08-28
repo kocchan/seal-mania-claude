@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-08-28T13:04:06.488Z"
+wpPostUrl: "https://www.seal-search.com/character/peanuts-shimamura-goods-20260819/"
+wpPostId: 16668
+posted: true
 type: newproduct
 status: draft
 title: "【8/19発売】スヌーピー しまむら新作 - インナー＆バッグ"

@@ -1,4 +1,9 @@
 ---
+postedAt: "2026-08-28T13:04:49.880Z"
+wpPostUrl: "https://www.seal-search.com/mejirushi/mochinyami-mejirushi-resale-20261200/"
+wpPostId: 16677
+posted: true
+imageGenerated: true
 type: mejirushi
 status: draft
 title: "【12月再販】もちにゃみ めじるしアクセサリー"

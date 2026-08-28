@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-08-28T13:04:23.049Z"
+wpPostUrl: "https://www.seal-search.com/news/new-item/shinjuku-marui-annex-popup-open-20260828/"
+wpPostId: 16671
+posted: true
 imageGenerated: true
 type: lottery
 status: draft

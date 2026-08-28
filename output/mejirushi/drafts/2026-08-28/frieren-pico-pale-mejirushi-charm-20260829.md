@@ -1,4 +1,9 @@
 ---
+postedAt: "2026-08-28T13:04:38.644Z"
+wpPostUrl: "https://www.seal-search.com/mejirushi/frieren-pico-pale-mejirushi-charm-20260829/"
+wpPostId: 16674
+posted: true
+imageGenerated: true
 type: mejirushi
 status: draft
 title: "【8/29発売】フリーレン ぴこぱれメタルチャームマーカー"

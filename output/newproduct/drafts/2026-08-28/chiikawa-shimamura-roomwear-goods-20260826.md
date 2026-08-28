@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-08-28T13:03:45.752Z"
+wpPostUrl: "https://www.seal-search.com/character/chiikawa-shimamura-roomwear-goods-20260826/"
+wpPostId: 16665
+posted: true
 type: newproduct
 status: draft
 title: "【8/26発売】ちいかわ しまむら新作 - ルームウェア等"
