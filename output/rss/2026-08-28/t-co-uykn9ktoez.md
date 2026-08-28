@@ -1,0 +1,20 @@
+---
+source: rss
+url: "https://t.co/uyKN9KtOez"
+title: "「マクドナルド」ハッピーセットで「パペットスンスン」「パンどろぼう」のシールグッズが8月28日より提供開始！「ポケモン生態図鑑ミニ」も用意 | インサイド"
+siteName: "インサイド"
+publishedAt: "2026-08-27T11:43:17Z"
+fetchedAt: "2026-08-28T07:16:40.542Z"
+fetchMethod: axios
+ogImage: "https://www.inside-games.jp/imgs/ogp_f/1770109.jpg"
+description: "マクドナルドの次回ハッピーセットに「パペットスンスン」と「パンどろぼう」が登場！ハッピーセット本には「ポケモン生態図鑑ミニ」も。"
+---
+
+## RSS要約
+
+グッズアクセスランキング. 「デジモンアドベンチャー」 めじるしアクセサリー 第3弾&nbsp;...
+
+## 本文HTML（サニタイズ済み）
+
+<html><head></head><body><figure class="ctms-editor-twitter"><blockquote class="twitter-tweet" data-conversation=""><a href="https://twitter.com/McDonaldsJapan/status/2090634998688682273"></a></blockquote></figure><p>マクドナルドは、<b>「パペットスンスン」と「パンどろぼう」</b>のハッピーセットを8月28日より提供します。</p><h2>◆次回のハッピーセットは「パペットスンスン」「パンどろぼう」！さらに「ポケモン生態図鑑ミニ」も</h2><p>ハッピーセットに「パペットスンスン」と「パンどろぼう」のシールが登場。「パペットスンスン」はスンスン、ノンノン、ゾンゾンの3人とマクドナルドのモチーフを掛け合わせたオリジナルデザインのシールセット全4種をラインナップ。</p><p>「パンどろぼう」は、シールを使った間違い探しや迷路、シルエットクイズなどを楽しめるシールブック全4種をラインナップしています。</p><p>また、ハッピーセット本には<b>「ポケモン生態図鑑ミニ」と「アナクイ」</b>が登場。こちらもシール付きとなっています。</p><figure class="ctms-editor-image"><img src="https://www.inside-games.jp/imgs/zoom/1770112.jpg" class="inline-article-image" width="640" height="197"></figure><figure class="ctms-editor-image"><img src="https://www.inside-games.jp/imgs/zoom/1770113.jpg" class="inline-article-image" width="640" height="197"></figure><figure class="ctms-editor-image"><img src="https://www.inside-games.jp/imgs/zoom/1770111.jpg" class="inline-article-image" width="640" height="360"></figure><figure class="ctms-editor-image"><img src="https://www.inside-games.jp/imgs/zoom/1770110.jpg" class="inline-article-image" width="640" height="360"></figure><p>この他にも公式アプリ「Myマクドナルド リワード」に、期間限定で「パペットスンスン」のオリジナル壁紙が登場。ハッピーセットのモチーフからスンスンたちが顔を出しているデザインで、ここでしか手に入らない限定壁紙です。</p><hr><p>各ハッピーセットは2026年8月28日より提供予定です。詳細は<a target="_blank" rel="noopener noreferrer" href="https://www.mcdonalds.co.jp/family/happyset/new01/">マクドナルド公式サイト</a>をご確認ください。</p><div class="af_box"><!-- start --><div class="af_list"><div class="af_box_left"><a href="https://www.amazon.co.jp/dp/B0GK6GCPBW?tag=insidegames-22&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank"><img src="https://m.media-amazon.com/images/I/31jxg2ASQSL._SL160_.jpg" class="af_box_image"></a></div><div class="af_box_right"><b><a href="https://www.amazon.co.jp/dp/B0GK6GCPBW?tag=insidegames-22&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank">ティーズファクトリー パペットスンスンキャラバスケット スンスンノンノン 約H130ｘＷ249ｘＤ180mm PS-5545417SN</a></b><br><b>￥968</b><br><span>(価格・在庫状況は記事公開時点のものです)</span><br><div class="af_box_link_amazon"><a href="https://www.amazon.co.jp/dp/B0GK6GCPBW?tag=insidegames-22&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank">Amazon</a></div><div class="af_box_link_rakuten"><a href="https://hb.afl.rakuten.co.jp/hgc/0dfd5e9c.cb53a4b8.132b5a79.c657d846/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2583%2591%25E3%2583%259A%25E3%2583%2583%25E3%2583%2588%25E3%2582%25B9%25E3%2583%25B3%25E3%2582%25B9%25E3%2583%25B3%2F" target="_blank">楽天市場</a></div></div></div><!-- //end --></div><div class="af_box"><!-- start --><div class="af_list"><div class="af_box_left"><a href="https://www.amazon.co.jp/dp/B0H1BK4V8L?tag=insidegames-22&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank"><img src="https://m.media-amazon.com/images/I/41hoUi0Y7yL._SL160_.jpg" class="af_box_image"></a></div><div class="af_box_right"><b><a href="https://www.amazon.co.jp/dp/B0H1BK4V8L?tag=insidegames-22&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank">パペットスンスン メモパッド MARKET</a></b><br><b>￥550</b><br><span>(価格・在庫状況は記事公開時点のものです)</span><br><div class="af_box_link_amazon"><a href="https://www.amazon.co.jp/dp/B0H1BK4V8L?tag=insidegames-22&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank">Amazon</a></div><div class="af_box_link_rakuten"><a href="https://hb.afl.rakuten.co.jp/hgc/0dfd5e9c.cb53a4b8.132b5a79.c657d846/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2583%2591%25E3%2583%259A%25E3%2583%2583%25E3%2583%2588%25E3%2582%25B9%25E3%2583%25B3%25E3%2582%25B9%25E3%2583%25B3%2F" target="_blank">楽天市場</a></div></div></div><!-- //end --></div>
+</body></html>
