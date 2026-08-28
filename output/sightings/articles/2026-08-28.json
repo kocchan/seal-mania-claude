@@ -1,7 +1,7 @@
 {
   "date": "2026-08-28",
-  "updatedAt": "2026-08-28T19:08:27.199+09:00",
-  "count": 34,
+  "updatedAt": "2026-08-28T23:51:55.309+09:00",
+  "count": 37,
   "articles": [
     {
       "isSighting": true,
@@ -648,6 +648,63 @@
       "wpPostId": 16664,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-osaka-suita-2026-08-28/",
       "postedAt": "2026-08-28T19:09:58.139+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "三重県",
+      "city": "伊賀市",
+      "shopName": "岡森書店白鳳店・TSUTAYA上野店",
+      "shopAddress": "三重県伊賀市平野西町71",
+      "productName": "ボンボンドロップシール サンリオ",
+      "sightingTime": "2026-08-28 06:27頃",
+      "statusText": "完売（次回入荷未定）",
+      "confidenceMemo": "店舗公式アカウントによる在庫状況の告知。10:38時点で在庫僅少だったものが、06:27のツイートで完売報告されている。",
+      "sourceUrl": "https://x.com/TSUTAYA46606627/status/2093287221361004732",
+      "sourceTweetId": "2093287221361004732",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2093287221361004732.png",
+      "isPosted": true,
+      "wpPostId": 16679,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-mie-iga-2026-08-28/",
+      "postedAt": "2026-08-28T23:52:00.814+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "北海道",
+      "city": "千歳市",
+      "shopName": "ダイナム千歳店",
+      "shopAddress": "北海道千歳市信濃3丁目5-1",
+      "productName": "ダイキチ ぷっくりシール",
+      "sightingTime": "2026-08-29 入荷予定（投稿: 2026-08-28 10:55）",
+      "statusText": "8月29日(土)に入荷予定。カウンターまたは従業員へ確認が必要。",
+      "confidenceMemo": "店舗公式アカウントによる入荷告知のため信頼性が高い",
+      "sourceUrl": "https://x.com/dynam_00044/status/2093291273142591876",
+      "sourceTweetId": "2093291273142591876",
+      "isPrediction": true,
+      "imagePath": "output/sightings/images/2093291273142591876.png",
+      "isPosted": true,
+      "wpPostId": 16681,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-hokkaido-chitose-2026-08-29/",
+      "postedAt": "2026-08-28T23:52:06.713+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "鹿児島県",
+      "city": "鹿児島市",
+      "shopName": "未来屋書店 KAGOSHIMA BAY店",
+      "shopAddress": "鹿児島県鹿児島市東開町7 イオンモール鹿児島 2F",
+      "productName": "ちゅるぷくしーる（名探偵コナン、ブルーロック、怪獣8号）、うるちゅる POP SEAL（わんぱく！刀剣乱舞）",
+      "sightingTime": "2026-08-28 12:53",
+      "statusText": "入荷直後、在庫あり。多様な種類が入荷中。",
+      "confidenceMemo": "店舗公式アカウントによる写真付き入荷案内",
+      "sourceUrl": "https://x.com/ms_kagoshima/status/2093321131465818215",
+      "sourceTweetId": "2093321131465818215",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2093321131465818215.png",
+      "isPosted": true,
+      "wpPostId": 16683,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-kagoshima-kagoshima-2026-08-28/",
+      "postedAt": "2026-08-28T23:52:12.904+09:00"
     }
   ]
 }
