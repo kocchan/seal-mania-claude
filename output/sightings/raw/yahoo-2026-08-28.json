@@ -1,8 +1,8 @@
 {
-  "timestamp": "2026-08-28T20:37:40.728Z",
+  "timestamp": "2026-08-28T21:58:50.739Z",
   "source": "yahoo_realtime",
   "platform": "x",
-  "count": 171,
+  "count": 173,
   "data": [
     {
       "tweetId": "2093199234606698836",
@@ -2940,6 +2940,36 @@
       "hashtags": [],
       "images": [
         "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i5e72TLbER0xQeK1l8ZZ0OLaoEvsfjcOpBFvyqCU2-0t8uCngeLJYZA4KSnzrRXyxBJrcktHcA_4gNfRan6Wz-bcmtT9yJHe5Iu5OOj3ys7cKAUiRUsDCPvwUzHnP0e7G3aXWCZjGefCQRt-Irc5NMh5dtRLVvv5OZYpAHiBhMQsEThsv7bvfa2XPh7mrlsSJfCcle4gDzXkZIvZ5aonScc"
+      ],
+      "isProcessed": true,
+      "_filepath": "output/sightings/raw/yahoo-2026-08-28.json"
+    },
+    {
+      "tweetId": "2093447284503810170",
+      "userId": "youriru_tya",
+      "text": "モルカーのぷっくりシール通販申し込みしてあるけど8月中の発売なのにまだ支払い請求の連絡すらないわねえ。お店で商品確保後にご連絡しますって発売日より後という解釈で良いのかしら。YOURIRU@youriru_tya44分前",
+      "user": "YOURIRU",
+      "time": "2026-08-29T06:14:50.739+09:00",
+      "timeRaw": "44分前",
+      "url": "https://x.com/youriru_tya/status/2093447284503810170",
+      "hashtags": [],
+      "images": [
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i5e72TLbER0xQeK1l8ZZ0OLrR8KkdSMF70QIWhdCFmMv0khC0iCBxE4BWqcTfV9Gz4lVaFlHUyZwkfL-jWUXCFBuy5WAgKFT1GDNK_CX8lY_Y3WUcC3g15B4sYz_0VuMdrA2PYOMNHHzui-6aamVnuWBwmV9tbiReNSpZvo_Jrfz6aRzSUJ66M7em_oKrfFyzPa_KtUMRNdfYfYCEEZAkwj"
+      ],
+      "isProcessed": true,
+      "_filepath": "output/sightings/raw/yahoo-2026-08-28.json"
+    },
+    {
+      "tweetId": "2093443161024819701",
+      "userId": "a1_o311",
+      "text": "返信先:@pteachii_1229厚塗りが全くもってできないんやけどどうしたらいいですか？ りんちゃんはアニメ塗りもうるちゅるでLoveなんやけど💕a1@a1_o31120:58",
+      "user": "a1",
+      "time": "2026-08-29T20:58:00.000+09:00",
+      "timeRaw": "20:58",
+      "url": "https://x.com/a1_o311/status/2093443161024819701",
+      "hashtags": [],
+      "images": [
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i5e72TLbER0xQeK1l8ZZ0OL_PTL89Q927DxNhOX4PDXjUpi_GseTqwt5MAbcICvCm-63zj0NUxH_rJv3FWcN0Dm3SiuCvWzFGyAm0mOzv8R03SBmEshDbV3ZTbd2GUTN2UxizBMXVCaBH9oDtVuoPsnr3Qt5AuTgZ1ZtZdjazC0GMKrkkIgYQGRHTkdpMXW_whj0kJj2-IRMiveXv3gmscM"
       ],
       "isProcessed": true,
       "_filepath": "output/sightings/raw/yahoo-2026-08-28.json"
