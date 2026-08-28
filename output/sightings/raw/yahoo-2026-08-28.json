@@ -1,8 +1,8 @@
 {
-  "timestamp": "2026-08-28T14:51:09.014Z",
+  "timestamp": "2026-08-28T18:26:55.321Z",
   "source": "yahoo_realtime",
   "platform": "x",
-  "count": 166,
+  "count": 170,
   "data": [
     {
       "tweetId": "2093199234606698836",
@@ -2856,6 +2856,75 @@
       "images": [
         "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i5e72TLbER0xQeK1l8ZZ0OL2jSm1JMkKhd1tOJIF6FLwb6qQG_G1JisZsVjZXVcli05MpkRH4080pN-Q1AX8LRtwAQ4n3lCXug085Ag5egxom3MHPQyVZy3eBYXX3IDXbXa4feO98iiJ96e3LQaXhCxjEQ1aMn_Fh6VGZXsRpIYwOZMY1ulI03P-AkujGgh1aijGsb0GJ9ZAtqDjSF28U7w",
         "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i6hjVpND1OjWZ7RVcmujne-AT8s_CTM-eo-Kp600nfKU9C4v4PDA09CypmgJdqfR2EAJzMk5yrGkNlNvZDF1VpBFItPE8oY5Dbh5K1W-JqJivU9f3na3Qgeazxv3mSicuX0gwAb7w2o7xhf22apKT_ymKWDYTzpY6lfgTHBg4rJYA=="
+      ],
+      "isProcessed": true,
+      "_filepath": "output/sightings/raw/yahoo-2026-08-28.json"
+    },
+    {
+      "tweetId": "2093398888762019857",
+      "userId": "pyonchan_pvw",
+      "text": "ボンボンドロップへのときめきがとまらない〜飽きないな〜 pic.x.com/2SzirBwAocぴょん@pyonchan_pvw24分前",
+      "user": "ぴょん",
+      "time": "2026-08-29T03:02:55.321+09:00",
+      "timeRaw": "24分前",
+      "url": "https://x.com/pyonchan_pvw/status/2093398888762019857",
+      "hashtags": [],
+      "images": [
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i5e72TLbER0xQeK1l8ZZ0OLPsOWrzuelPcdwkOQIM7zHeObuIqERRWDmsU9kgX9aWrINqll8xXc0vN2J4Nqs59Q53K9p3iSzuBef-eK5B8GKPnBn4pLXQpqga8LfxB_5TyTAjMpumty2MrYEex1CPJVxo8KhYm0-7XlgUMAVRUxaRYp_OeJypw47cyc-hJDjgvaMj9GY4vG9dR66OElJT3X",
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i6hjVpND1OjWZ7RVcmujne-y6jVwu9HsjHttMTVhYVR89qjBx8agMKFcenlgV5YRkCeWX2094euqp6yHrdw7202H3QFnnW9_FVqejMEQ1zbZtshF-3PSGnH7jxajccpPQWvB5htfhp4uKPiQg9mMpfLnEsyLHRW_C1evJFM76icyg=="
+      ],
+      "isProcessed": true,
+      "_filepath": "output/sightings/raw/yahoo-2026-08-28.json"
+    },
+    {
+      "tweetId": "2093366431291424854",
+      "userId": "hecoloveChris",
+      "text": "2026年Ver #人生の中で一度どんなもんか食べてみたい物リスト の更新  お気に入りの猫配膳ロボのシールくれた＾＾かき氷どうでも良くなった ← ボンボンドロップシール？とかではないのね、ぷっくりシール  ・ガリガリじゃない氷のかき氷  感想：アドカフェドリンクの味  x.com/hecoloveChris/… pic.x.com/5llT1n2IFH凹(heco)@hecoloveChris2026年5月14日2026年Ver #人生の中で一度どんなもんか食べてみたい物リスト 順不同 ・ロシア料理 ・鯛ラーメン ・タルト的ケーキの食べ放題 ・ケンタ食べ放題 ・からすみ ・辛くない一蘭(消すかも) ・ガリガリじゃない氷のかき氷 ・パリパリのクレープ ・トンカ豆のチョコ ・カスドース🆕 ・鳥貴族🆕  人生楽しく♪ x.com/hecoloveChris/…凹(heco)@hecoloveChris15:53",
+      "user": "凹(heco)",
+      "time": "2026-05-14T00:00:00.000+09:00",
+      "timeRaw": "2026年5月14日",
+      "url": "https://x.com/hecoloveChris/status/2093366431291424854",
+      "hashtags": [
+        "#人生の中で一度どんなもんか食べてみたい物リスト",
+        "#人生の中で一度どんなもんか食べてみたい物リスト"
+      ],
+      "images": [
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i5e72TLbER0xQeK1l8ZZ0OLDOQ6iO8FN5dUI4ci5lCRDhg_W2RcsBGFZFQowvrrJ1Qoso4pWolXfAAUxKvVlitZ9BCEuEPmX-upsJTTrCVtINW_bGolmLG9ibS0E8z3RUih-Vt_SGE_vIVPqk0OKghRGd307eyj1NNDloXduAN0LMhZekRUZzv-3leLaIGVljvTXuNkZ90xZlFamZjFb5zs",
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i6hjVpND1OjWZ7RVcmujne-bn0dgXZz79O8rfV2H1dzlEVC5x54hu1FbEWEWDnj8jKjvLA5Nt1YjY3bi5lDtxZKe_lKUFfnd_LRYgLhZyojusyTGg__hBU-L306sWgHt61QZ99kq4WBQea8JqZBR5TkAzHgJEV53yd1ZJzeRxOgGQ==",
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i6hjVpND1OjWZ7RVcmujne-sr7cTwGKYH0ch9tTPG2UTsh0M-2wPMm5H4WkMxaO1uVsooJfQB2VINfaUAuJeZMvaWqKOG74T9ghkOdnFpS9LEHJBrWWrEmJALcGQsjjS0nlaqXmWDjwACjHDz7bQXLyx0eiqWE8kdzo8IeijHCBcw==",
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i6hjVpND1OjWZ7RVcmujne-mfZJvgqboioCcROcDlItIlZ8Z2Yx3dhXFLiSW3nrTYgUIJ7FSlFE6p4WXzewqJvDGC3yYxBvGZFs7QyhJ3wjpouvo2VmLkOsGRCwJ1d5PkOJsTzYYi9-NdxBzDcG2Vw-OlVC-mFvmaa8Nvw4cZL1cw==",
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i5e72TLbER0xQeK1l8ZZ0OLDOQ6iO8FN5dUI4ci5lCRDhg_W2RcsBGFZFQowvrrJ1Qoso4pWolXfAAUxKvVlitZ9BCEuEPmX-upsJTTrCVtINW_bGolmLG9ibS0E8z3RUih-Vt_SGE_vIVPqk0OKghRGd307eyj1NNDloXduAN0LMhZekRUZzv-3leLaIGVljvTXuNkZ90xZlFamZjFb5zs"
+      ],
+      "isProcessed": true,
+      "_filepath": "output/sightings/raw/yahoo-2026-08-28.json"
+    },
+    {
+      "tweetId": "2093352642072441077",
+      "userId": "hokuhoku_ho_ku_",
+      "text": "AmBitiousとBoys beのぷっくりシールをどうにかしようと思って、どうにかしてみたけど違う😭しっくりこない😭 サンリオのジュエルキーホルダーはれお用に白買ってみたけど顔の形の問題で入らなくてオレンジのこうちゃんと交代˚ 🦢₊✧ 水色はどこにもない🩵 アンビの方がちょっと大きいから難しい🥺💭 pic.x.com/2J8xwIZtpG💎🦅くろねこ🖤😻@hokuhoku_ho_ku_14:58",
+      "user": "💎🦅くろねこ🖤😻",
+      "time": "2026-08-29T14:58:00.000+09:00",
+      "timeRaw": "14:58",
+      "url": "https://x.com/hokuhoku_ho_ku_/status/2093352642072441077",
+      "hashtags": [],
+      "images": [
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i5e72TLbER0xQeK1l8ZZ0OL5OClngtx96IlPY_lX6O3Il4UKgAX2fFvIOxDSObh_l_3rvK-rdh0fQ4xp8julbgDZQypKPxtbO7iVlRRJg9_BzG_RcdweurbK08IidwhonnLNhGXhDn2iM7L0I5b4pNKLLof-q1cb7w5PUXS6qs-xHQsaxXNilQiazsVuimIsMZKb387X2kD9xTKnFR9Ev5G",
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i6hjVpND1OjWZ7RVcmujne-CC4MWDUPqt9M26-r9HVaUX3lTEhD0y2DX5NcrTu06K0dJlIUTt3uaHLTDgP-78EmvTELsSkj-uPoTMUvAg6kxq65WDaja1W1P3r6at_j14EFW0sCNM_rrn3F0Aoh2AWgWjex3MPG6m2ucI18SxLs0A=="
+      ],
+      "isProcessed": true,
+      "_filepath": "output/sightings/raw/yahoo-2026-08-28.json"
+    },
+    {
+      "tweetId": "2093367980856148154",
+      "userId": "kurumilk_piyo",
+      "text": "親睦会の受付開始まで時間があったから近くのお店に入ったら、大量のうるちゅるとプチドロップを売ってて買おうかめっちゃ悩んだ〜！キキララとセサミで悩んだけど 即決できない値段だから一旦持ち帰り😌 どっちか携帯に貼ってかわいくしたいなぁ📱くるみ🎀@kurumilk_piyo15:59",
+      "user": "くるみ🎀",
+      "time": "2026-08-29T15:59:00.000+09:00",
+      "timeRaw": "15:59",
+      "url": "https://x.com/kurumilk_piyo/status/2093367980856148154",
+      "hashtags": [],
+      "images": [
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i5e72TLbER0xQeK1l8ZZ0OLPf09Gu_D8D-nWOZmDwgDdWLV5wnLr1ja39zRfJUZkKjy7vA9OZzKR5fdBP0Wkjv96HfXxFWI2ONyK5fv7T_oKuCoWLKFSyaRdk0CGLBB0MdmoFeSnEWiPjjzmfiu55iDnt2UctJNccFRIjnrIRup5qUgvZcBiUItag3BMp3y4NaeTO4UYKzIo71Scnnrj8S4"
       ],
       "isProcessed": true,
       "_filepath": "output/sightings/raw/yahoo-2026-08-28.json"
