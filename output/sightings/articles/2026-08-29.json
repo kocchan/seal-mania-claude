@@ -1,7 +1,7 @@
 {
   "date": "2026-08-29",
-  "updatedAt": "2026-08-29T21:34:11.267+09:00",
-  "count": 80,
+  "updatedAt": "2026-08-29T23:08:15.351+09:00",
+  "count": 81,
   "articles": [
     {
       "isSighting": true,
@@ -1522,6 +1522,25 @@
       "wpPostId": 17016,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-tokyo-shibuya-2026-08-29-6/",
       "postedAt": "2026-08-29T21:34:38.645+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "神奈川県",
+      "city": "川崎市多摩区",
+      "shopName": "川崎市 藤子・F・不二雄ミュージアム",
+      "shopAddress": "神奈川県川崎市多摩区長尾2丁目8-1",
+      "productName": "ミュージアム限定 ボンボンドロップシール (ドラえもん)",
+      "sightingTime": "2026-08-29 12:55頃",
+      "statusText": "在庫あり（普通に売っていた）",
+      "confidenceMemo": "施設名が明記されており、購入報告と写真付き（URL内言及）の投稿であるため信頼性が高い。",
+      "sourceUrl": "https://x.com/eriiin320/status/2093683997117485074",
+      "sourceTweetId": "2093683997117485074",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2093683997117485074.png",
+      "isPosted": true,
+      "wpPostId": 17018,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-kanagawa-tama-kawasaki-2026-08-29/",
+      "postedAt": "2026-08-29T23:08:21.501+09:00"
     }
   ]
 }
