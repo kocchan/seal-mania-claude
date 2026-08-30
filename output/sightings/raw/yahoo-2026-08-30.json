@@ -1,8 +1,8 @@
 {
-  "timestamp": "2026-08-30T14:14:15.061Z",
+  "timestamp": "2026-08-30T16:22:55.370Z",
   "source": "yahoo_realtime",
   "platform": "x",
-  "count": 175,
+  "count": 177,
   "data": [
     {
       "tweetId": "2093683997117485074",
@@ -3130,6 +3130,40 @@
         "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i5e72TLbER0xQeK1l8ZZ0OLa0o67F_wws7ukqRN_baVgiupyjwtgNvsf591wBtZf9S0E5RAMeTjaL1YYWuOffwM_BVBrdTiodc7llR6bxk--YmHL1ZXennBc1OiAZFHGILXpOH1lXtj8hp1q7OKMyeFl6BLhI_Lcg0INbMoxehKICy_mOctdfzgpvgjUzAShWA90uuwvBxv30wrapxS5q-f",
         "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i6hjVpND1OjWZ7RVcmujne-dG8u-DVhYFQLnHIzHHQYHqbBBzmuzNhQJ2F905T0WJA27XoTmMarh7AXUdBER4RBMpyJOn7JJShHvFkgSNrBQxBQXMPe8o9uFBo6QRqjPkJp5EXVNNTdQ49QnwSGiUBHnfbc3n7kVOWpjJOuup2DvQ==",
         "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i6hjVpND1OjWZ7RVcmujne-OpQi_IotRQGKNjMVyPj7xMKFHa_8kiU6J4rWRNIfLDukjs6RhX8hqJYwE6IDWlCmZ6nNp2Fs9fim4djwjhnghWvW9pB2tlyHGEbvEqmNZszJI6w5EEeZISe6aEbe57t7VThH2gOI8djehwdX4re4Ew=="
+      ],
+      "isProcessed": true,
+      "_filepath": "output/sightings/raw/yahoo-2026-08-30.json"
+    },
+    {
+      "tweetId": "2094085449778380831",
+      "userId": "satapepe",
+      "text": "返信先:@m_DTP06そこの臓器はまだ見てない！とか言ったらｼｮｺﾁｬﾝに叩かれちゃうよ…さてはレントゲン🩻は持ってるな…？ ウキウキになる一級wwwチャーの次はぷっくりシールが貼られ、胸ポケットからはプルバックが出てくる🤣佐田ぺ@satapepe52分前",
+      "user": "佐田ぺ",
+      "time": "2026-08-31T00:30:55.370+09:00",
+      "timeRaw": "52分前",
+      "url": "https://x.com/satapepe/status/2094085449778380831",
+      "hashtags": [],
+      "images": [
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i5e72TLbER0xQeK1l8ZZ0OLO2nevFMc-5QwHb411KQrJmv_bV5tN6iivhMwte81X_LbsLYSoOyWLk8V69MF4gI3G6hofr2Aovhto_I319XcDspVKxZwF1G5m5iK8dGtZ5Mdis7sQklHe0uvz07MbMWgXhh7DaaygyhW-Pl1rpG4EIOTZ64MpQd_cSwUeOOVGQN5ynPEIpqPWJViKjW3GJa5"
+      ],
+      "isProcessed": true,
+      "_filepath": "output/sightings/raw/yahoo-2026-08-30.json"
+    },
+    {
+      "tweetId": "2094067054123102254",
+      "userId": "love_hawaii1816",
+      "text": "箱入りきみまろ、絶対取れないって思ったのに奇跡的に（？）一発で取ってもらいまちた🐥✨ わんころビスケットは、ほぼパグで、これはこれで面白可愛いでちゅ😂 うるちゅるシールのガチャも見つけて1回だけ回しまちた！ pic.x.com/gKDJQXWrVUOP2@love_hawaii181614:17",
+      "user": "OP2",
+      "time": "2026-08-31T14:17:00.000+09:00",
+      "timeRaw": "14:17",
+      "url": "https://x.com/love_hawaii1816/status/2094067054123102254",
+      "hashtags": [],
+      "images": [
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i5e72TLbER0xQeK1l8ZZ0OLyLnDRZy-PW6lAtquCAda6JDiU_WVdrNaV36uubRVeO3zY1bifEqEOPB1c_cSrMNqtWpfzjySCLvn2ReSXRlcT-1mtMjymmhUoex2CQ4bfZukcNWVj9QTc7qNhKdeeHr9TrjKdFrkb00085zLWEKYk5gGXJ0EOT-V1sm9YkyOHJ-ixJdIhfjTtYUWJJwpKtT1",
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i6hjVpND1OjWZ7RVcmujne-YKe-mrmNrr3j7ZyPBrtFOKv2M54t4qyzeMu8KV_KvxfcGUqvpFuilPA2ZULwdGq8SczAWaolpYR_EsgkNbO9I6kBiphFjd5WPdWGsKGNqD6mB_bK8MXY4R0YS-D19X90jPevIGPM8P4uEBT78jbNnA==",
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i6hjVpND1OjWZ7RVcmujne-DpYNZXLwFnqsJLHIvgD9MPiaMgTr_JGjoPXY0MP98r6Tud5dFhrqirAvDzRV-_Nww47-n7S_CLqNPKkNX1saAsqiKL_UbboyS4XCQ2KW2N9MmDNMo6FpDaqvqqZNY_-6teHJuvWkBWoaG498qic2DA==",
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i6hjVpND1OjWZ7RVcmujne-Lj5XzFbfTwPdRNmByvMgEeNmvxWwqcHBnSaEXFeGn1-OrS-7RdErZ3scPTZkXahu3H79_lcXoADwfuTCmwfdiMRCaDEF9t4kVOPZXtAxP7z6xgLL_5sqhvDK6_BmzHbWCq8UqAC1OpXmFKpLpNwiBQ==",
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i6hjVpND1OjWZ7RVcmujne-7mCI63djTSfazGS8pMelIEbQ3ALoiJxSMqal_wL1aQ6rEAP4yRjn_wLh0K-IpQs58tHJ6SLsG-LpbFYXEhxCxNthHN358dG4CyR2JgpHMaP7CuUXcofMky-At-uq4qYYEtx2jqZiBunVDDE3kEcPAw=="
       ],
       "isProcessed": true,
       "_filepath": "output/sightings/raw/yahoo-2026-08-30.json"
