@@ -32,7 +32,7 @@ products:
   - name: "ボンボンドロップシール ベイマックス"
     price: 550
 featuredImage: ""
-imageGenerated: false
+imageGenerated: true
 createdAt: "2026-08-23T10:03:00+09:00"
 updatedAt: "2026-08-23T10:03:00+09:00"
 ---
