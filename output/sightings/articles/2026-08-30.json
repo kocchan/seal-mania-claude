@@ -1,7 +1,7 @@
 {
   "date": "2026-08-30",
-  "updatedAt": "2026-08-30T20:41:53.535+09:00",
-  "count": 44,
+  "updatedAt": "2026-08-30T23:14:51.023+09:00",
+  "count": 45,
   "articles": [
     {
       "isSighting": true,
@@ -838,6 +838,25 @@
       "wpPostId": 17108,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-fukuoka-kokura-kita-kitakyushu-2026-08-30/",
       "postedAt": "2026-08-30T20:41:59.162+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "宮城県",
+      "city": "仙台市青葉区",
+      "shopName": "ナガノマーケット POP UP SHOP (JR仙台駅)",
+      "shopAddress": "宮城県仙台市青葉区中央1-1-1 JR仙台駅内",
+      "productName": "ボンボンドロップシール(カラーなくま)",
+      "sightingTime": "2026-08-30 12:28頃",
+      "statusText": "完売（再入荷未定）",
+      "confidenceMemo": "公式イベント情報アカウントによる在庫欠品報告のため、信頼性が非常に高い。",
+      "sourceUrl": "https://x.com/Juice_inc_event/status/2094039473168523331",
+      "sourceTweetId": "2094039473168523331",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2094039473168523331.png",
+      "isPosted": true,
+      "wpPostId": 17110,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-miyagi-aoba-sendai-2026-08-30-2/",
+      "postedAt": "2026-08-30T23:14:57.390+09:00"
     }
   ]
 }
