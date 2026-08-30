@@ -1,7 +1,7 @@
 {
   "date": "2026-08-30",
-  "updatedAt": "2026-08-30T17:50:48.577+09:00",
-  "count": 43,
+  "updatedAt": "2026-08-30T20:41:53.535+09:00",
+  "count": 44,
   "articles": [
     {
       "isSighting": true,
@@ -819,6 +819,25 @@
       "wpPostId": 17106,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-fukuoka-fukuoka-higashi-2026-08-30/",
       "postedAt": "2026-08-30T17:52:13.875+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "福岡県",
+      "city": "北九州市小倉北区",
+      "shopName": "C-pla アミュプラザ小倉店",
+      "shopAddress": "福岡県北九州市小倉北区浅野1-1-1 アミュプラザ小倉",
+      "productName": "サンリオキャラクターズ ボンボンドロップミニチュアチャーム",
+      "sightingTime": "2026-08-30 08:54",
+      "statusText": "入荷（在庫あり、お一人様1個まで）",
+      "confidenceMemo": "公式店舗アカウントによる具体的な入荷告知。商品はステッカーではなく同ブランドのミニチュアチャーム。",
+      "sourceUrl": "https://x.com/cpla_amukokura/status/2093985717445943600",
+      "sourceTweetId": "2093985717445943600",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2093985717445943600.png",
+      "isPosted": true,
+      "wpPostId": 17108,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-fukuoka-kokura-kita-kitakyushu-2026-08-30/",
+      "postedAt": "2026-08-30T20:41:59.162+09:00"
     }
   ]
 }
