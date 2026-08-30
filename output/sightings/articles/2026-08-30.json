@@ -1,7 +1,7 @@
 {
   "date": "2026-08-30",
-  "updatedAt": "2026-08-30T23:14:51.023+09:00",
-  "count": 45,
+  "updatedAt": "2026-08-31T08:06:50.764+09:00",
+  "count": 46,
   "articles": [
     {
       "isSighting": true,
@@ -857,6 +857,25 @@
       "wpPostId": 17110,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-miyagi-aoba-sendai-2026-08-30-2/",
       "postedAt": "2026-08-30T23:14:57.390+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "東京都",
+      "city": "渋谷区",
+      "shopName": "竹下通り内の店舗",
+      "shopAddress": "東京都渋谷区神宮前1丁目",
+      "productName": "ボンボンドロップシール（新作）",
+      "sightingTime": "2026-08-30 15:00頃",
+      "statusText": "在庫あり（購入報告あり）",
+      "confidenceMemo": "具体的な店舗名は不明だが、竹下通りという非常に限定されたエリアでの購入報告。投稿日時と「大会前」という記述から、基準日前後の目撃情報と判断。",
+      "sourceUrl": "https://x.com/mkk_slow/status/2094195285887275335",
+      "sourceTweetId": "2094195285887275335",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2094195285887275335.png",
+      "isPosted": true,
+      "wpPostId": 17112,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-tokyo-shibuya-2026-08-30/",
+      "postedAt": "2026-08-31T08:06:57.537+09:00"
     }
   ]
 }
