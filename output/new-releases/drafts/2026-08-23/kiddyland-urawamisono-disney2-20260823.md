@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-08-30T06:56:52.944Z"
+wpPostUrl: "https://www.seal-search.com/news/new-item/kiddyland-urawamisono-disney2-20260823/"
+wpPostId: 17082
+posted: true
 type: lottery
 status: draft
 title: "【8/23締切】ディズニーボンドロ第2弾抽選@キデイランド浦和美園"
