@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-08-31T07:13:18.097Z"
+wpPostUrl: "https://www.seal-search.com/news/new-item/bonbondrop-hair-clip-new-202608/"
+wpPostId: 17166
+posted: true
 type: new-release
 status: draft
 title: "ボンボンドロップ前髪クリップ新柄が登場！全12種・660円でどこで買える？"
