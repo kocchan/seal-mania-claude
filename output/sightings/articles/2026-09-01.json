@@ -1,7 +1,7 @@
 {
   "date": "2026-09-01",
-  "updatedAt": "2026-09-01T09:23:07.355+09:00",
-  "count": 19,
+  "updatedAt": "2026-09-01T13:04:27.197+09:00",
+  "count": 20,
   "articles": [
     {
       "isSighting": true,
@@ -363,6 +363,25 @@
       "wpPostId": 17218,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-tokyo-shibuya-2026-08-31-2/",
       "postedAt": "2026-09-01T09:25:20.506+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "兵庫県",
+      "city": "尼崎市",
+      "shopName": "カードボックスあまがさきキューズモール店",
+      "shopAddress": "兵庫県尼崎市潮江1丁目3-1 あまがさきキューズモール 2F",
+      "productName": "ボンボンドロップシール（ハローキティ、はちみつ等）",
+      "sightingTime": "2026-09-01 01:49頃",
+      "statusText": "在庫あり（少量買取入荷）",
+      "confidenceMemo": "店舗公式アカウントによる写真付きの入荷情報であり、信頼性が非常に高い。",
+      "sourceUrl": "https://x.com/CB_amagasaki/status/2094603470859124754",
+      "sourceTweetId": "2094603470859124754",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2094603470859124754.png",
+      "isPosted": true,
+      "wpPostId": 17220,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-hyogo-unknown-2026-09-01/",
+      "postedAt": "2026-09-01T13:04:34.625+09:00"
     }
   ]
 }
