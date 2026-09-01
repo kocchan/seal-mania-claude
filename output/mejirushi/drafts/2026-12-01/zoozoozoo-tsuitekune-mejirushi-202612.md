@@ -1,4 +1,9 @@
 ---
+postedAt: "2026-09-01T06:25:20.894Z"
+wpPostUrl: "https://www.seal-search.com/mejirushi/zoozoozoo-tsuitekune-mejirushi-202612/"
+wpPostId: 17241
+posted: true
+imageGenerated: true
 type: mejirushi
 status: draft
 title: "【12月発売】ZOO ZOO ZOO ついてく寝 めじるしガチャ"

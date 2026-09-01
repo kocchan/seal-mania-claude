@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-09-01T06:23:54.441Z"
+wpPostUrl: "https://www.seal-search.com/news/reservation/sunstar-st-ec-preregister-bonbondrop-20261031/"
+wpPostId: 17224
+posted: true
 imageGenerated: true
 type: lottery
 status: draft

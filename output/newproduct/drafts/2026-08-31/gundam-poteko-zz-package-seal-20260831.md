@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-09-01T06:24:02.789Z"
+wpPostUrl: "https://www.seal-search.com/character/gundam-poteko-zz-package-seal-20260831/"
+wpPostId: 17225
+posted: true
 type: newproduct
 status: draft
 title: "【8/31発売】ガンダムポテコZZ - 描き下ろしシール新作"

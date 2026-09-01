@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-09-01T06:24:10.539Z"
+wpPostUrl: "https://www.seal-search.com/character/sd-kamenrider-snack-seal-20260831/"
+wpPostId: 17226
+posted: true
 type: newproduct
 status: draft
 title: "【8/31発売】SD仮面ライダー - メタリックシール新作"

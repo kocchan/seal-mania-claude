@@ -1,4 +1,9 @@
 ---
+postedAt: "2026-09-01T06:24:57.826Z"
+wpPostUrl: "https://www.seal-search.com/mejirushi/gachapin-mukku-tsunagaring-mejirushi-202611/"
+wpPostId: 17235
+posted: true
+imageGenerated: true
 type: mejirushi
 status: draft
 title: "【11月発売】つながりんぐチャーム ガチャピン・ムック"

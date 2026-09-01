@@ -1,4 +1,9 @@
 ---
+postedAt: "2026-09-01T06:24:32.793Z"
+wpPostUrl: "https://www.seal-search.com/mejirushi/anpanman-mejirushi-accessory-202609/"
+wpPostId: 17229
+posted: true
+imageGenerated: true
 type: mejirushi
 status: draft
 title: "【9月発売】アンパンマン めじるしアクセサリー"

@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-09-01T06:23:46.534Z"
+wpPostUrl: "https://www.seal-search.com/news/reservation/lalaport-mission-mejirushi-charm-present-20260917/"
+wpPostId: 17222
+posted: true
 imageGenerated: true
 type: lottery
 status: draft
