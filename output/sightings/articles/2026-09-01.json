@@ -1,7 +1,7 @@
 {
   "date": "2026-09-01",
-  "updatedAt": "2026-09-01T20:28:15.729+09:00",
-  "count": 36,
+  "updatedAt": "2026-09-01T22:53:48.830+09:00",
+  "count": 37,
   "articles": [
     {
       "isSighting": true,
@@ -686,6 +686,25 @@
       "wpPostId": 17273,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-okinawa-ishigaki-2026-09-01/",
       "postedAt": "2026-09-01T20:28:58.488+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "大阪府",
+      "city": "和泉市",
+      "shopName": "CAPSULE POP 和泉中央駅店",
+      "shopAddress": "大阪府和泉市いぶき野5丁目1-1",
+      "productName": "おぱんちゅうさぎうるちゅるPOPシールプチキーホルダー",
+      "sightingTime": "2026-09-01 12:34頃",
+      "statusText": "入荷中",
+      "confidenceMemo": "店舗公式アカウントによる入荷情報。製品名が「うるちゅるシール」系列の商品であることに留意。",
+      "sourceUrl": "https://x.com/capsulepop/status/2094765931633467648",
+      "sourceTweetId": "2094765931633467648",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2094765931633467648.png",
+      "isPosted": true,
+      "wpPostId": 17275,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-osaka-izumi-2026-09-01/",
+      "postedAt": "2026-09-01T22:53:55.312+09:00"
     }
   ]
 }
