@@ -1,0 +1,20 @@
+---
+source: rss
+url: "https://www.inside-games.jp/article/2026/09/01/187076.html"
+title: "「ズートピア2」めじるしアクセサリー第2弾！一緒に揃えたい“ペアポーズ”のジュディとニックなど全5種 | インサイド"
+siteName: "インサイド"
+publishedAt: "2026-09-01T17:35:03Z"
+fetchedAt: "2026-09-02T01:36:58.610Z"
+fetchMethod: axios
+ogImage: "https://www.inside-games.jp/imgs/ogp_f/1774692.jpg"
+description: "ガシャポン「ズートピア2 めじるしアクセサリー2」が2026年9月第3週より発売！初回発売後には複数回の出荷を予定。"
+---
+
+## RSS要約
+
+ガシャポン「ズートピア2 めじるしアクセサリー 2」が2026年9月第3週より発売！初回発売後には複数回の出荷を予定。
+
+## 本文HTML（サニタイズ済み）
+
+<html><head></head><body><figure class="ctms-editor-image"><img src="https://www.inside-games.jp/imgs/zoom/1774689.jpg" class="inline-article-image" width="640" height="640"></figure><p>バンダイは、ガシャポン<b>「ズートピア2 めじるしアクセサリー2」</b>を9月第3週より発売します。</p><h2>◆「ズートピア2」のめじるしアクセサリー第2弾！</h2><p>「ズートピア2」のめじるしアクセサリーに第2弾が登場。クリア素材を使用しているほか、傘の取っ手やペンなどいろいろな持ち物に“めじるし”をつけられる便利なカニカン付きチャームです。</p><p>ラインナップは「ジュディ・ホップス」「ニック・ワイルドA」「ニック・ワイルドB」「パウバート」「ゲイリー・ダ・スネーク」の全5種。ジュディとニックAは、お互いに目線を寄せてフィスト・バンプする、ペアで持ちたくなる“ペアポーズ”となっています。</p><h3>■ジュディ・ホップス</h3><figure class="ctms-editor-image"><img src="https://www.inside-games.jp/imgs/zoom/1774690.jpg" class="inline-article-image" width="560" height="560"></figure><h3>■ニック・ワイルドA</h3><figure class="ctms-editor-image"><img src="https://www.inside-games.jp/imgs/zoom/1774691.jpg" class="inline-article-image" width="560" height="560"></figure><h3>■ニック・ワイルドB</h3><figure class="ctms-editor-image"><img src="https://www.inside-games.jp/imgs/zoom/1774692.jpg" class="inline-article-image" width="560" height="560"></figure><h3>■パウバート</h3><figure class="ctms-editor-image"><img src="https://www.inside-games.jp/imgs/zoom/1774693.jpg" class="inline-article-image" width="560" height="560"></figure><h3>■ゲイリー・ダ・スネーク</h3><figure class="ctms-editor-image"><img src="https://www.inside-games.jp/imgs/zoom/1774694.jpg" class="inline-article-image" width="560" height="560"></figure><hr><p><a target="_blank" rel="noopener noreferrer" href="https://gashapon.jp/products/detail.php?jan_code=4582770068306000">「ズートピア2 めじるしアクセサリー2」</a>の価格は1回300円（税込）。2026年9月第3週より発売予定です。なお、本商品は初回発売後、複数回の出荷を予定しています。</p><div class="af_box"><!-- start --><div class="af_list"><div class="af_box_left"><a href="https://www.amazon.co.jp/dp/B0GGLT27HM?tag=insidegames-22&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank"><img src="https://m.media-amazon.com/images/I/51nVFbpOEyL._SL160_.jpg" class="af_box_image"></a></div><div class="af_box_right"><b><a href="https://www.amazon.co.jp/dp/B0GGLT27HM?tag=insidegames-22&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank">ズートピア２ (日本語版) (字幕/吹替)</a></b><br><b>￥2,000</b><br><span>(価格・在庫状況は記事公開時点のものです)</span><br><div class="af_box_link_amazon"><a href="https://www.amazon.co.jp/dp/B0GGLT27HM?tag=insidegames-22&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank">Amazon</a></div><div class="af_box_link_rakuten"><a href="https://hb.afl.rakuten.co.jp/hgc/09af142d.3ed07ccc.09af142e.da82fa9e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2582%25BA%25E3%2583%25BC%25E3%2583%2588%25E3%2583%2594%25E3%2582%25A22%2F" target="_blank">楽天市場</a></div></div></div><!-- //end --></div><div class="af_box"><!-- start --><div class="af_list"><div class="af_box_left"><a href="https://www.amazon.co.jp/dp/B0GRB2XMJW?tag=insidegames-22&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank"><img src="https://m.media-amazon.com/images/I/51psEHqz5PL._SL160_.jpg" class="af_box_image"></a></div><div class="af_box_right"><b><a href="https://www.amazon.co.jp/dp/B0GRB2XMJW?tag=insidegames-22&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank">ズートピア２　ブルーレイ ＋ ＤＶＤ セット [Blu-ray]</a></b><br><b>￥4,336</b><br><span>(価格・在庫状況は記事公開時点のものです)</span><br><div class="af_box_link_amazon"><a href="https://www.amazon.co.jp/dp/B0GRB2XMJW?tag=insidegames-22&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank">Amazon</a></div><div class="af_box_link_rakuten"><a href="https://hb.afl.rakuten.co.jp/hgc/09af142d.3ed07ccc.09af142e.da82fa9e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2582%25BA%25E3%2583%25BC%25E3%2583%2588%25E3%2583%2594%25E3%2582%25A22%2F" target="_blank">楽天市場</a></div></div></div><!-- //end --></div>
+</body></html>
