@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-09-02T06:03:49.480Z"
+wpPostUrl: "https://www.seal-search.com/news/reservation/pokemonpan-30th-sealholder-present-20261204/"
+wpPostId: 17329
+posted: true
 imageGenerated: true
 type: lottery
 status: draft

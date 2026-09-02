@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-09-02T06:03:57.758Z"
+wpPostUrl: "https://www.seal-search.com/news/reservation/sevennet-bluelock-mejirushi-charm-20260930/"
+wpPostId: 17331
+posted: true
 imageGenerated: true
 type: lottery
 status: draft

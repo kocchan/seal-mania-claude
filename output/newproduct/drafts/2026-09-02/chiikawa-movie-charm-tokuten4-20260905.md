@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-09-02T06:04:04.961Z"
+wpPostUrl: "https://www.seal-search.com/character/chiikawa-movie-charm-tokuten4-20260905/"
+wpPostId: 17332
+posted: true
 type: newproduct
 status: draft
 title: "【9/5配布開始】映画ちいかわ第4弾はチャームミニフィギュア"

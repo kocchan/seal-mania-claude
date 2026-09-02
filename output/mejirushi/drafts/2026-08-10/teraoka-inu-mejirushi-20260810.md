@@ -1,4 +1,9 @@
 ---
+postedAt: "2026-09-02T06:04:35.210Z"
+wpPostUrl: "https://www.seal-search.com/mejirushi/teraoka-inu-mejirushi-20260810/"
+wpPostId: 17338
+posted: true
+imageGenerated: true
 type: mejirushi
 status: draft
 title: "【8月第2週発売】いろんないぬ めじるしアクセサリー"

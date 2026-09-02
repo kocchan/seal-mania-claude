@@ -1,4 +1,9 @@
 ---
+postedAt: "2026-09-02T06:04:46.567Z"
+wpPostUrl: "https://www.seal-search.com/mejirushi/flavors-mejirushi2-20260824/"
+wpPostId: 17341
+posted: true
+imageGenerated: true
 type: mejirushi
 status: draft
 title: "【8月第4週発売】FLAVORS めじるしアクセサリー2"
