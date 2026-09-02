@@ -1,4 +1,5 @@
 ---
+imageGenerated: true
 type: lottery
 status: draft
 title: "【12/4締切】ポケモンパンシールホルダー抽選@第一パン"

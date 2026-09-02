@@ -1,4 +1,5 @@
 ---
+imageGenerated: true
 type: lottery
 status: draft
 title: "【9/30締切】めじるしチャーム予約@セブンネット"
