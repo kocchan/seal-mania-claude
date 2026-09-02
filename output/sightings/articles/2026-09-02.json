@@ -1,7 +1,7 @@
 {
   "date": "2026-09-02",
-  "updatedAt": "2026-09-02T20:01:23.010+09:00",
-  "count": 39,
+  "updatedAt": "2026-09-02T22:11:32.438+09:00",
+  "count": 40,
   "articles": [
     {
       "isSighting": true,
@@ -743,6 +743,25 @@
       "wpPostId": 17367,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-hokkaido-obihiro-2026-09-02-2/",
       "postedAt": "2026-09-02T20:02:45.084+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "大阪府",
+      "city": "大阪市中央区",
+      "shopName": "いちびり庵 道頓堀店",
+      "shopAddress": "大阪府大阪市中央区道頓堀1-7-21 中座くいだおれビル1F",
+      "productName": "ぷっくりシール（フエキくん、ラッキー等）",
+      "sightingTime": "2026-09-02 11:23頃",
+      "statusText": "在庫あり（たくさん入荷）",
+      "confidenceMemo": "店舗公式アカウントによる写真付きの入荷情報であり、信頼性が非常に高い。",
+      "sourceUrl": "https://x.com/doutonbori728/status/2095110278287659032",
+      "sourceTweetId": "2095110278287659032",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2095110278287659032.png",
+      "isPosted": true,
+      "wpPostId": 17369,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-osaka-unknown-2026-09-02/",
+      "postedAt": "2026-09-02T22:11:39.068+09:00"
     }
   ]
 }
