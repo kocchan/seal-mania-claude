@@ -1,7 +1,7 @@
 {
   "date": "2026-09-03",
-  "updatedAt": "2026-09-03T20:00:42.637+09:00",
-  "count": 34,
+  "updatedAt": "2026-09-03T22:12:17.285+09:00",
+  "count": 35,
   "articles": [
     {
       "isSighting": true,
@@ -648,6 +648,25 @@
       "wpPostId": 17441,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-gifu-kakamigahara-2026-08-29-2/",
       "postedAt": "2026-09-03T20:00:55.616+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "東京都",
+      "city": "渋谷区",
+      "shopName": "東急プラザ表参道原宿",
+      "shopAddress": "東京都渋谷区神宮前4-30-3",
+      "productName": "ボンボンドロップシール（ハローキティ、マイメロディ）",
+      "sightingTime": "2026-09-03 21:26頃",
+      "statusText": "在庫あり（ハローキティ、マイメロディ購入可）",
+      "confidenceMemo": "具体的な店舗名とキャラクター名の購入報告があり、信頼性が高い。平日で混雑もなかったとの情報あり。",
+      "sourceUrl": "https://x.com/__nenecoco/status/2095488600339370062",
+      "sourceTweetId": "2095488600339370062",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2095488600339370062.png",
+      "isPosted": true,
+      "wpPostId": 17443,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-tokyo-unknown-2026-09-03/",
+      "postedAt": "2026-09-03T22:12:24.334+09:00"
     }
   ]
 }
