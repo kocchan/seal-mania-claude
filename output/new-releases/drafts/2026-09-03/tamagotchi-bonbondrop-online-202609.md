@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-09-03T06:01:37.619Z"
+wpPostUrl: "https://www.seal-search.com/news/new-item/tamagotchi-bonbondrop-online-202609/"
+wpPostId: 17425
+posted: true
 imageGenerated: true
 type: lottery
 status: draft
