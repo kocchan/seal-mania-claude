@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-09-04T06:14:02.776Z"
+wpPostUrl: "https://www.seal-search.com/news/new-item/loftnetstore-chiikawa-sanriomoji-202609/"
+wpPostId: 17475
+posted: true
 imageGenerated: true
 type: lottery
 status: draft
