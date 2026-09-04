@@ -1,7 +1,7 @@
 {
   "date": "2026-09-04",
-  "updatedAt": "2026-09-04T16:44:21.782+09:00",
-  "count": 20,
+  "updatedAt": "2026-09-04T20:05:47.925+09:00",
+  "count": 21,
   "articles": [
     {
       "isSighting": true,
@@ -382,6 +382,25 @@
       "wpPostId": 17485,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-kagawa-takamatsu-2026-09-04/",
       "postedAt": "2026-09-04T16:44:51.485+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "大阪府",
+      "city": "大阪市北区",
+      "shopName": "ふなっしーLAND大阪梅田店",
+      "shopAddress": "大阪府大阪市北区芝田1-1-3 阪急三番街北館内",
+      "productName": "ふなっしーボンボンドロップシール",
+      "sightingTime": "2026-09-04 08:46頃",
+      "statusText": "完売（次回入荷未定）",
+      "confidenceMemo": "店舗公式アカウントによる在庫状況の告知",
+      "sourceUrl": "https://x.com/funassyiland_u/status/2095795744775245891",
+      "sourceTweetId": "2095795744775245891",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2095795744775245891.png",
+      "isPosted": true,
+      "wpPostId": 17487,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-osaka-unknown-2026-09-04/",
+      "postedAt": "2026-09-04T20:05:55.428+09:00"
     }
   ]
 }
