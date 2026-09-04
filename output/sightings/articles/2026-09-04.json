@@ -1,7 +1,7 @@
 {
   "date": "2026-09-04",
-  "updatedAt": "2026-09-04T20:05:47.925+09:00",
-  "count": 21,
+  "updatedAt": "2026-09-05T01:04:23.870+09:00",
+  "count": 22,
   "articles": [
     {
       "isSighting": true,
@@ -401,6 +401,25 @@
       "wpPostId": 17487,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-osaka-unknown-2026-09-04/",
       "postedAt": "2026-09-04T20:05:55.428+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "愛知県",
+      "city": "名古屋市",
+      "shopName": "ちいかわランド 名古屋パルコ店",
+      "shopAddress": "愛知県名古屋市中区栄3-29-1 名古屋パルコ東館B1F",
+      "productName": "ボンボンドロップシール",
+      "sightingTime": "2026-09-05 14:58頃",
+      "statusText": "在庫あり（トートバッグのみ本日再入荷）",
+      "confidenceMemo": "名古屋パルコ店の再入荷リストに記載。トートバッグの再入荷が主目的だが、商品はリストに含まれる。",
+      "sourceUrl": "https://x.com/59_aleyna/status/2095889125576519740",
+      "sourceTweetId": "2095889125576519740",
+      "isPrediction": true,
+      "imagePath": "output/sightings/images/2095889125576519740.png",
+      "isPosted": true,
+      "wpPostId": 17489,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-aichi-unknown-2026-09-05/",
+      "postedAt": "2026-09-05T01:04:30.091+09:00"
     }
   ]
 }
