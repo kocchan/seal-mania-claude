@@ -1,0 +1,20 @@
+---
+source: rss
+url: "https://www.inside-games.jp/article/2026/09/03/187194.html"
+title: "平成懐かしい“ガラケー”デザイン！ガシャポン「サンリオキャラクターズ」ミラーチャームに、小悪魔デザインのハローキティなど全5種 | インサイド"
+siteName: "インサイド"
+publishedAt: "2026-09-03T10:32:02Z"
+fetchedAt: "2026-09-04T01:38:20.462Z"
+fetchMethod: axios
+ogImage: "https://www.inside-games.jp/imgs/ogp_f/1775770.jpg"
+description: "ガシャポン「サンリオキャラクターズ ガラケー風ミラーチャーム」が9月第2週より発売！"
+---
+
+## RSS要約
+
+バンダイは、ガシャポン「サンリオキャラクターズ ガラケー風ミラーチャーム」を9月第2週より発売します。 ... めじるしアクセサリー Halloween！」が9月第&nbsp;...
+
+## 本文HTML（サニタイズ済み）
+
+<html><head></head><body><figure class="ctms-editor-image"><img src="https://www.inside-games.jp/imgs/zoom/1775775.jpg" class="inline-article-image" width="640" height="640"></figure><p>バンダイは、ガシャポン「サンリオキャラクターズ ガラケー風ミラーチャーム」を9月第2週より発売します。</p><h2>◆平成懐かしい“ガラケー”デザインのミラーチャーム！</h2><p>「サンリオキャラクターズ」より、平成懐かしい“ガラケー”デザインのミラーチャームが登場。ガラケーを開くとボタンまでしっかり再現、画面のかわりにミニミラーとなった便利なアイテムです。ラインナップは「ハローキティ」通常と小悪魔デザイン、「マイメロディ」「シナモロール」「クロミ」の全5種。ボールチェーン付きでさまざまな場所につけて持ち歩きできます。</p><h3>■ハローキティ</h3><figure class="ctms-editor-image"><img src="https://www.inside-games.jp/imgs/zoom/1775770.jpg" class="inline-article-image" width="560" height="560"></figure><h3>■マイメロディ</h3><figure class="ctms-editor-image"><img src="https://www.inside-games.jp/imgs/zoom/1775771.jpg" class="inline-article-image" width="560" height="560"></figure><h3>■シナモロール</h3><figure class="ctms-editor-image"><img src="https://www.inside-games.jp/imgs/zoom/1775772.jpg" class="inline-article-image" width="560" height="560"></figure><h3>■クロミ</h3><figure class="ctms-editor-image"><img src="https://www.inside-games.jp/imgs/zoom/1775773.jpg" class="inline-article-image" width="560" height="560"></figure><h3>■ハローキティ 小悪魔デザイン</h3><figure class="ctms-editor-image"><img src="https://www.inside-games.jp/imgs/zoom/1775774.jpg" class="inline-article-image" width="560" height="560"></figure><hr><p>「サンリオキャラクターズ ガラケー風ミラーチャーム」の価格は1回400円（税込）で、9月第2週より発売します。詳細は<a target="_blank" rel="noopener noreferrer" href="https://gashapon.jp/products/detail.php?jan_code=4582770068405000">ガシャポン商品ページ</a>をご確認ください。</p><div class="af_box"><!-- start --><div class="af_list"><div class="af_box_left"><a href="https://www.amazon.co.jp/dp/B0HF89VZWC?tag=insidegames-22&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank"><img src="https://m.media-amazon.com/images/I/31tDzl-2U-L._SL160_.jpg" class="af_box_image"></a></div><div class="af_box_right"><b><a href="https://www.amazon.co.jp/dp/B0HF89VZWC?tag=insidegames-22&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank">サンリオ(SANRIO) フェイス形クリアミニポーチ（きらめきサマープール） ハローキティ 467693</a></b><br><b>￥1,496</b><br><span>(価格・在庫状況は記事公開時点のものです)</span><br><div class="af_box_link_amazon"><a href="https://www.amazon.co.jp/dp/B0HF89VZWC?tag=insidegames-22&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank">Amazon</a></div><div class="af_box_link_rakuten"><a href="https://hb.afl.rakuten.co.jp/hgc/09af142d.3ed07ccc.09af142e.da82fa9e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2582%25B5%25E3%2583%25B3%25E3%2583%25AA%25E3%2582%25AA%2F" target="_blank">楽天市場</a></div></div></div><!-- //end --></div><div class="af_box"><!-- start --><div class="af_list"><div class="af_box_left"><a href="https://www.amazon.co.jp/dp/B0H8DCMRV7?tag=insidegames-22&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank"><img src="https://m.media-amazon.com/images/I/41Olg6GMK+L._SL160_.jpg" class="af_box_image"></a></div><div class="af_box_right"><b><a href="https://www.amazon.co.jp/dp/B0H8DCMRV7?tag=insidegames-22&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank">サンリオ(SANRIO) 金箔ぷっくりシール クロミ 対象年齢3才以上 226301</a></b><br><b>￥440</b><br><span>(価格・在庫状況は記事公開時点のものです)</span><br><div class="af_box_link_amazon"><a href="https://www.amazon.co.jp/dp/B0H8DCMRV7?tag=insidegames-22&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank">Amazon</a></div><div class="af_box_link_rakuten"><a href="https://hb.afl.rakuten.co.jp/hgc/09af142d.3ed07ccc.09af142e.da82fa9e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2582%25B5%25E3%2583%25B3%25E3%2583%25AA%25E3%2582%25AA%2F" target="_blank">楽天市場</a></div></div></div><!-- //end --></div>
+</body></html>
