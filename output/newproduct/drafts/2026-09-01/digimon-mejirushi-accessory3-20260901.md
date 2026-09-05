@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-09-05T05:59:26.480Z"
+wpPostUrl: "https://www.seal-search.com/character/digimon-mejirushi-accessory3-20260901/"
+wpPostId: 17677
+posted: true
 type: newproduct
 status: draft
 title: "【9/1発売】デジモンめじるし3新作レビュー"

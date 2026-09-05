@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-09-05T06:00:23.134Z"
+wpPostUrl: "https://www.seal-search.com/character/shimamura-disney-seal-20260902/"
+wpPostId: 17688
+posted: true
 type: newproduct
 status: draft
 title: "【9/2発売】しまむらディズニーシール新作"

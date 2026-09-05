@@ -1,4 +1,9 @@
 ---
+postedAt: "2026-09-05T06:01:32.261Z"
+wpPostUrl: "https://www.seal-search.com/mejirushi/kumanogakko-sanrio-mejirushi-20260914/"
+wpPostId: 17704
+posted: true
+imageGenerated: true
 type: mejirushi
 status: draft
 title: "【9月第3週発売】くまのがっこう×サンリオ めじるしアクセサリー"

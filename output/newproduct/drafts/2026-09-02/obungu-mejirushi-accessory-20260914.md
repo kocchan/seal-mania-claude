@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-09-05T05:59:46.319Z"
+wpPostUrl: "https://www.seal-search.com/character/obungu-mejirushi-accessory-20260914/"
+wpPostId: 17681
+posted: true
 type: newproduct
 status: draft
 title: "【9/14発売】お文具といっしょめじるし新作"

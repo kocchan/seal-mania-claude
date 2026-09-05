@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-09-05T05:59:56.822Z"
+wpPostUrl: "https://www.seal-search.com/character/tomie-assort-mejirushi-20260901/"
+wpPostId: 17683
+posted: true
 type: newproduct
 status: draft
 title: "【9月発売】富江アソートガシャポン新作"

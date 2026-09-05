@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-09-05T05:59:36.681Z"
+wpPostUrl: "https://www.seal-search.com/character/stpr-mejirushi-accessory-20261101/"
+wpPostId: 17679
+posted: true
 type: newproduct
 status: draft
 title: "【11月発売】すとぷり めじるし新作レビュー"

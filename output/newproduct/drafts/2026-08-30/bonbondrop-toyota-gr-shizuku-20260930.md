@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-09-05T05:58:48.962Z"
+wpPostUrl: "https://www.seal-search.com/character/bonbondrop-toyota-gr-shizuku-20260930-2/"
+wpPostId: 17670
+posted: true
 type: newproduct
 status: draft
 title: "【9/30発売】ボンドロ×トヨタGR新作レビュー"

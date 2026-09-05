@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-09-05T05:59:21.022Z"
+wpPostUrl: "https://www.seal-search.com/character/crayon-shinchan-bonbondrop-20260920/"
+wpPostId: 17676
+posted: true
 type: newproduct
 status: draft
 title: "【9/20発売】クレヨンしんちゃんボンドロ新作"

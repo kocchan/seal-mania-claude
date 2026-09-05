@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-09-05T06:00:17.869Z"
+wpPostUrl: "https://www.seal-search.com/character/sanrio-mejirushi-halloween-20260907/"
+wpPostId: 17687
+posted: true
 type: newproduct
 status: draft
 title: "【9/7発売】サンリオめじるしハロウィン新作"

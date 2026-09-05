@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-09-05T06:00:58.592Z"
+wpPostUrl: "https://www.seal-search.com/news/new-item/yabaton-bonbondrop-online-202609/"
+wpPostId: 17695
+posted: true
 type: new-release
 status: draft
 title: "矢場とんボンボンドロップシール通販開始！全2種購入方法まとめ"

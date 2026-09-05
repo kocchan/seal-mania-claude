@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-09-05T05:59:10.513Z"
+wpPostUrl: "https://www.seal-search.com/character/bluelock-sevennet-goods-20261225/"
+wpPostId: 17674
+posted: true
 type: newproduct
 status: draft
 title: "【12月発売】ブルーロック×セブン新作めじるし"

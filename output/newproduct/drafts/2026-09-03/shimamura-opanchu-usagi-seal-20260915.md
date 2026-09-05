@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-09-05T06:00:28.619Z"
+wpPostUrl: "https://www.seal-search.com/character/shimamura-opanchu-usagi-seal-20260915/"
+wpPostId: 17689
+posted: true
 type: newproduct
 status: draft
 title: "【9月発送】おぱんちゅうさぎ立体シール新作"

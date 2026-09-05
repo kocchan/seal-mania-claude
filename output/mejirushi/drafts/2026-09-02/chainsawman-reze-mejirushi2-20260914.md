@@ -1,4 +1,9 @@
 ---
+postedAt: "2026-09-05T06:01:14.620Z"
+wpPostUrl: "https://www.seal-search.com/mejirushi/chainsawman-reze-mejirushi2-20260914/"
+wpPostId: 17698
+posted: true
+imageGenerated: true
 type: mejirushi
 status: draft
 title: "【9月第3週発売】チェンソーマン めじるしアクセサリー2"

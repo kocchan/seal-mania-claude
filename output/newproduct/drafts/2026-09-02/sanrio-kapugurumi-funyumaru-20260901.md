@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-09-05T05:59:51.503Z"
+wpPostUrl: "https://www.seal-search.com/character/sanrio-kapugurumi-funyumaru-20260901/"
+wpPostId: 17682
+posted: true
 type: newproduct
 status: draft
 title: "【9月再販】サンリオふにゅまるマスコット"

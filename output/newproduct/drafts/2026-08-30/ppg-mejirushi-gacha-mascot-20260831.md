@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-09-05T05:59:05.243Z"
+wpPostUrl: "https://www.seal-search.com/character/ppg-mejirushi-gacha-mascot-20260831/"
+wpPostId: 17673
+posted: true
 type: newproduct
 status: draft
 title: "【8月発売】パワーパフガールズ めじるし新作"

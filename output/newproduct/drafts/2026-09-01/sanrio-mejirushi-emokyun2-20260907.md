@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-09-05T05:59:31.508Z"
+wpPostUrl: "https://www.seal-search.com/character/sanrio-mejirushi-emokyun2-20260907/"
+wpPostId: 17678
+posted: true
 type: newproduct
 status: draft
 title: "【9/7発売】サンリオ めじるしエモきゅん2新作"

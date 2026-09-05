@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-09-05T05:58:42.706Z"
+wpPostUrl: "https://www.seal-search.com/news/reservation/loft-netstore-chiikawa-moji-20260906/"
+wpPostId: 17669
+posted: true
 imageGenerated: true
 type: lottery
 status: draft

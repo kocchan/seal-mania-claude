@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-09-05T05:58:59.999Z"
+wpPostUrl: "https://www.seal-search.com/character/gachapin-muku-katazun-tsunagaring-20260901/"
+wpPostId: 17672
+posted: true
 type: newproduct
 status: draft
 title: "【9月発売】ガチャピン・ムック新作めじるし系"

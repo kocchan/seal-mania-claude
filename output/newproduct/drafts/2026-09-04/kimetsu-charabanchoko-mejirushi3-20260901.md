@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-09-05T06:00:45.182Z"
+wpPostUrl: "https://www.seal-search.com/character/kimetsu-charabanchoko-mejirushi3-20260901/"
+wpPostId: 17692
+posted: true
 type: newproduct
 status: draft
 title: "【9月発売】鬼滅の刃めじるしマスコット参"

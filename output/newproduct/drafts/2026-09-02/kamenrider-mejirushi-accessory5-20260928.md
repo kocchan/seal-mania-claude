@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-09-05T05:59:41.821Z"
+wpPostUrl: "https://www.seal-search.com/character/kamenrider-mejirushi-accessory5-20260928/"
+wpPostId: 17680
+posted: true
 type: newproduct
 status: draft
 title: "【9/28発売】仮面ライダーめじるし5新作"

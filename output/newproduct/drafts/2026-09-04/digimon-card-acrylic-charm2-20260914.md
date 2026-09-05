@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-09-05T06:00:34.092Z"
+wpPostUrl: "https://www.seal-search.com/character/digimon-card-acrylic-charm2-20260914/"
+wpPostId: 17690
+posted: true
 type: newproduct
 status: draft
 title: "【9/14発売】デジモンカードチャーム02新作"

@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-09-05T06:00:07.534Z"
+wpPostUrl: "https://www.seal-search.com/character/dokodemo-issho-mejirushi-20260907/"
+wpPostId: 17685
+posted: true
 type: newproduct
 status: draft
 title: "【9/7再販】どこでもいっしょめじるし新作"

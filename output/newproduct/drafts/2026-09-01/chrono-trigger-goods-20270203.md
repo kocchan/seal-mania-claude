@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-09-05T05:59:16.276Z"
+wpPostUrl: "https://www.seal-search.com/character/chrono-trigger-goods-20270203/"
+wpPostId: 17675
+posted: true
 type: newproduct
 status: draft
 title: "【27/2/3発売】クロノトリガー新作グッズ"

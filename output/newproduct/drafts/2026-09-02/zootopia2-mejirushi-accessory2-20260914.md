@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-09-05T06:00:01.972Z"
+wpPostUrl: "https://www.seal-search.com/character/zootopia2-mejirushi-accessory2-20260914/"
+wpPostId: 17684
+posted: true
 type: newproduct
 status: draft
 title: "【9/14発売】ズートピア2めじるし第2弾"

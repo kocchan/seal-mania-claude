@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-09-05T06:00:39.739Z"
+wpPostUrl: "https://www.seal-search.com/character/eva-piyorin-nagoya-goods-20260904/"
+wpPostId: 17691
+posted: true
 type: newproduct
 status: draft
 title: "【9/4開始】エヴァ×ぴよりん名古屋限定グッズ"
