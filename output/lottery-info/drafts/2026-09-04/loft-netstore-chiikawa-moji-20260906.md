@@ -1,4 +1,5 @@
 ---
+imageGenerated: true
 type: lottery
 status: draft
 title: "【9/6締切】ボンボンドロップシール ちいかわ・もじ抽選@ロフト"
