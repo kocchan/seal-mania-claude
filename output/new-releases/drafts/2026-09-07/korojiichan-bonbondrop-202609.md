@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-09-07T06:17:57.019Z"
+wpPostUrl: "https://www.seal-search.com/news/new-item/korojiichan-bonbondrop-202609/"
+wpPostId: 17808
+posted: true
 type: new-release
 status: draft
 title: "ころじいちゃんボンボンドロップシール2026年9月発売！種類・デザインまとめ"
