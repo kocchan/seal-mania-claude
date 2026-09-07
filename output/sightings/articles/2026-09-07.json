@@ -1,7 +1,7 @@
 {
   "date": "2026-09-07",
-  "updatedAt": "2026-09-07T16:48:18.337+09:00",
-  "count": 22,
+  "updatedAt": "2026-09-07T21:07:38.301+09:00",
+  "count": 25,
   "articles": [
     {
       "isSighting": true,
@@ -420,6 +420,63 @@
       "wpPostId": 17822,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-ishikawa-kanazawa-2026-09-07/",
       "postedAt": "2026-09-07T16:49:01.885+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "兵庫県",
+      "city": "伊丹市",
+      "shopName": "伊丹空港（大阪国際空港）",
+      "shopAddress": "兵庫県伊丹市小阪田3-555",
+      "productName": "ボンボンドロップシール",
+      "sightingTime": "2026-09-07 09:13頃",
+      "statusText": "在庫あり（売り場展開中）",
+      "confidenceMemo": "具体的な施設名と売り場の存在が明記されているため信頼性が高い",
+      "sourceUrl": "https://x.com/n25713741/status/2096889572395532656",
+      "sourceTweetId": "2096889572395532656",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2096889572395532656.png",
+      "isPosted": true,
+      "wpPostId": 17824,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-hyogo-unknown-2026-09-07/",
+      "postedAt": "2026-09-07T21:07:45.311+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "愛知県",
+      "city": "一宮市",
+      "shopName": "C-pla ミュープラット一宮店",
+      "shopAddress": "愛知県一宮市新生1-1-1 ミュープラット一宮",
+      "productName": "んぽちゃむ/おぱんちゅうさぎ うるちゅるPOPシールプチキーホルダー",
+      "sightingTime": "2026-09-07 09:02",
+      "statusText": "入荷（在庫あり）",
+      "confidenceMemo": "店舗公式アカウントによる入荷情報で信頼性が高い",
+      "sourceUrl": "https://x.com/Cpladayo0502/status/2096886874426187947",
+      "sourceTweetId": "2096886874426187947",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2096886874426187947.png",
+      "isPosted": true,
+      "wpPostId": 17826,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-aichi-ichinomiya-2026-09-07/",
+      "postedAt": "2026-09-07T21:07:51.997+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "静岡県",
+      "city": "静岡市葵区",
+      "shopName": "ガチャかぷ 新静岡駅前店",
+      "shopAddress": "静岡県静岡市葵区伝馬町（新静岡駅周辺）",
+      "productName": "おぱんちゅうさぎ/んぽちゃむ うるちゅるPOPシールプチキーホルダー",
+      "sightingTime": "2026-09-07 08:46",
+      "statusText": "入荷（数に限りあり）",
+      "confidenceMemo": "店舗公式アカウントによる入荷情報で信頼性が高い",
+      "sourceUrl": "https://x.com/gacha_cap_SZOK/status/2096882748963303843",
+      "sourceTweetId": "2096882748963303843",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2096882748963303843.png",
+      "isPosted": true,
+      "wpPostId": 17828,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-shizuoka-aoi-shizuoka-2026-09-07/",
+      "postedAt": "2026-09-07T21:07:58.832+09:00"
     }
   ]
 }
