@@ -1,8 +1,8 @@
 {
-  "timestamp": "2026-09-07T17:34:44.756Z",
+  "timestamp": "2026-09-07T23:15:27.796Z",
   "source": "yahoo_realtime",
   "platform": "x",
-  "count": 168,
+  "count": 170,
   "data": [
     {
       "tweetId": "2095708481210994876",
@@ -2812,6 +2812,39 @@
       "hashtags": [],
       "images": [
         "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i5e72TLbER0xQeK1l8ZZ0OLMiTYnXOrpAVU8MNpLe_N8kVvxKP4kUZbT1km-2wJ9eHvomSx5y_c38dnqlyhrR1d8VtEjP69_csZzF23V_6DDomLaARfV0dbBnemgnDXRA9n2PDFc84fjQOXbC7KjXDaGYvYCCT_TavgP8Yuq6LWNIyN8Ah2y9ygSJIe6R03LEtrLU45SFCOGRcnyJqVlU-Y"
+      ],
+      "isProcessed": true,
+      "_filepath": "output/sightings/raw/yahoo-2026-09-07.json"
+    },
+    {
+      "tweetId": "2097083002840830265",
+      "userId": "dynam_00309",
+      "text": "9月8日(火)は！ 🔥≪追求~全てのお客様の為に・・・新景品入荷🎁 ✔️ダイキチ アクリルスタンド ✔️ダイキチ ぬいぐるみSS ✔️ダイキチ ぷっくりシール  皆様のご来店お待ちしております🙇‍♂️  🎯入場抽選 朝8時50分 🎯開店時間 朝9時00分  是非‼️本日も抽選から #ダイナム へ！ pic.x.com/K4akupEIeGダイナム茨城高萩店@dynam_00309422:02",
+      "user": "ダイナム茨城高萩店",
+      "time": "2026-09-08T22:02:00.000+09:00",
+      "timeRaw": "22:02",
+      "url": "https://x.com/dynam_00309/status/2097083002840830265",
+      "hashtags": [
+        "#ダイナム"
+      ],
+      "images": [
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i5e72TLbER0xQeK1l8ZZ0OLOYT1bteFCi4jySczQmFaXlIu1ClBhCjQyiW4yzYc2-o7A1YJz88G6JN19uGafDIrkwaztg6vjWibL5BAEW4hKfBmDqAONJQ_sSuHjWtdWhTwxFup_5Oq6Oe2xK-NKo0LhyklGRCjP9Ar6uPsfR-kC5Bia7VI3ft9qeArtju8cJ7JfpUTl4pNlIAvZpQErT4y",
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i6hjVpND1OjWZ7RVcmujne-Z8OcO9Rb-R7sR9YbsVTzOIcttHL1WBaaKjOLYFQh6U89YQW-AAZ4waFYoF5_d6uQ6PIVexxGXwwGED_jfGCYvk7Lfj8QcetirJ-mOCxEUf1zuZv1kvbJS0sQu7xq8l4sXmxq4jiTSDDuUXfI2aZQVw=="
+      ],
+      "isProcessed": true,
+      "_filepath": "output/sightings/raw/yahoo-2026-09-07.json"
+    },
+    {
+      "tweetId": "2097062291695165871",
+      "userId": "g3sjpd",
+      "text": "鳩サブレのぷっくりシール欲しい。豊島屋さんグッズ化してくんないかな水@g3sjpd20:39",
+      "user": "水",
+      "time": "2026-09-08T20:39:00.000+09:00",
+      "timeRaw": "20:39",
+      "url": "https://x.com/g3sjpd/status/2097062291695165871",
+      "hashtags": [],
+      "images": [
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i5e72TLbER0xQeK1l8ZZ0OLMxsb0SkoqjQHZ9BilPvd6ag_a_bpG5v_9LWKgzQIMptjmphdBX7RWxo7UO8hRTUgTixIA_yReSHixadSIc_5smUXgAtKx9YPKF_Wmil20G198Hq6tYCYGFsPnazTWLixSmDbYgrah5DvWGK-kZBw_WypbqwnfXcc2RG3V7NppQXvlikEjv23EIfoyIXmL99m"
       ],
       "isProcessed": true,
       "_filepath": "output/sightings/raw/yahoo-2026-09-07.json"
