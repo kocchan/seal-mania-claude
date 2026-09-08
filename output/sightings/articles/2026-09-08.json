@@ -1,7 +1,7 @@
 {
   "date": "2026-09-08",
-  "updatedAt": "2026-09-08T16:42:09.234+09:00",
-  "count": 22,
+  "updatedAt": "2026-09-08T20:01:40.660+09:00",
+  "count": 25,
   "articles": [
     {
       "isSighting": true,
@@ -420,6 +420,63 @@
       "wpPostId": 17884,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-nara-nara-2026-09-08/",
       "postedAt": "2026-09-08T16:42:15.973+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "沖縄県",
+      "city": "那覇市",
+      "shopName": "国際通りの土産物店",
+      "shopAddress": "沖縄県那覇市牧志 国際通り周辺",
+      "productName": "沖縄限定キティのボンボンドロップシール",
+      "sightingTime": "2026-09-08 09:22頃",
+      "statusText": "在庫あり（数百個、価格880円）",
+      "confidenceMemo": "具体的な在庫数と価格の言及あり。店舗名は不明だが、国際通りの店舗と特定可能。",
+      "sourceUrl": "https://x.com/miyumiho/status/2097254235910091215",
+      "sourceTweetId": "2097254235910091215",
+      "isPrediction": true,
+      "imagePath": "output/sightings/images/2097254235910091215.png",
+      "isPosted": true,
+      "wpPostId": 17886,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-okinawa-naha-2026-09-08/",
+      "postedAt": "2026-09-08T20:01:47.803+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "沖縄県",
+      "city": "宮古島市",
+      "shopName": "宮古島内の店舗",
+      "shopAddress": "沖縄県宮古島市",
+      "productName": "沖縄限定のボンボンドロップシール",
+      "sightingTime": "2026-09-06 10:34頃",
+      "statusText": "在庫あり（購入制限：各種おひとり2枚まで）",
+      "confidenceMemo": "宮古島での購入報告。具体的な購入制限情報の記載あり。引用元の投稿日時から算出。",
+      "sourceUrl": "https://x.com/irabu_jima/status/2097256629326733552",
+      "sourceTweetId": "2097256629326733552",
+      "isPrediction": true,
+      "imagePath": "output/sightings/images/2097256629326733552.png",
+      "isPosted": true,
+      "wpPostId": 17888,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-okinawa-miyakojima-2026-09-06/",
+      "postedAt": "2026-09-08T20:01:54.654+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "滋賀県",
+      "city": "長浜市",
+      "shopName": "スペースプラネット長浜",
+      "shopAddress": "滋賀県長浜市山階町271-1",
+      "productName": "EXPO ミャクミャク ぷっくりシール",
+      "sightingTime": "2026-09-08 09:25頃",
+      "statusText": "在庫あり（景品入荷情報）",
+      "confidenceMemo": "店舗公式アカウントによる入荷情報。ボンボンドロップと同系統のぷっくりシールの目撃情報。",
+      "sourceUrl": "https://x.com/spnagahama/status/2097254920252715087",
+      "sourceTweetId": "2097254920252715087",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2097254920252715087.png",
+      "isPosted": true,
+      "wpPostId": 17890,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-shiga-nagahama-2026-09-08/",
+      "postedAt": "2026-09-08T20:02:01.103+09:00"
     }
   ]
 }
