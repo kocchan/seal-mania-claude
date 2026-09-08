@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-09-08T06:07:58.874Z"
+wpPostUrl: "https://www.seal-search.com/character/sanrio-capsule-toy-september-20260904/"
+wpPostId: 17873
+posted: true
 type: newproduct
 status: draft
 title: "【9月発売】サンリオ新作カプセルトイまとめ"

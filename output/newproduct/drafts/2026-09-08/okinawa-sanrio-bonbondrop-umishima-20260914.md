@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-09-08T06:07:52.857Z"
+wpPostUrl: "https://www.seal-search.com/character/okinawa-sanrio-bonbondrop-umishima-20260914/"
+wpPostId: 17872
+posted: true
 type: newproduct
 status: draft
 title: "【9/14再販】沖縄限定サンリオ ボンボンドロップシール"

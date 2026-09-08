@@ -1,4 +1,9 @@
 ---
+postedAt: "2026-09-08T06:08:33.883Z"
+wpPostUrl: "https://www.seal-search.com/mejirushi/gundam-plakun2-mejirushi-20260908/"
+wpPostId: 17879
+posted: true
+imageGenerated: true
 type: mejirushi
 status: draft
 title: "【9月第2週発売】めじるしアクセサリー ガンプラくんII"

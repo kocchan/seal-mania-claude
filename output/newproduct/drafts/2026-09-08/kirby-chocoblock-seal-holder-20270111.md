@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-09-08T06:07:46.940Z"
+wpPostUrl: "https://www.seal-search.com/character/kirby-chocoblock-seal-holder-20270111/"
+wpPostId: 17871
+posted: true
 type: newproduct
 status: draft
 title: "【2027/1/11発売】星のカービィ ちょこぶろっくしーる"

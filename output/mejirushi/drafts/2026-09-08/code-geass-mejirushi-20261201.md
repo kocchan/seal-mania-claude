@@ -1,4 +1,9 @@
 ---
+postedAt: "2026-09-08T06:08:21.838Z"
+wpPostUrl: "https://www.seal-search.com/mejirushi/code-geass-mejirushi-20261201/"
+wpPostId: 17876
+posted: true
+imageGenerated: true
 type: mejirushi
 status: draft
 title: "【12月発売】コードギアス めじるしアクセサリー"
