@@ -1,7 +1,7 @@
 {
   "date": "2026-09-08",
-  "updatedAt": "2026-09-08T12:35:16.000+09:00",
-  "count": 21,
+  "updatedAt": "2026-09-08T16:42:09.234+09:00",
+  "count": 22,
   "articles": [
     {
       "isSighting": true,
@@ -401,6 +401,25 @@
       "wpPostId": 17870,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-niigata-joetsu-2026-09-07-2/",
       "postedAt": "2026-09-08T12:38:18.762+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "奈良県",
+      "city": "奈良市",
+      "shopName": "アニメイト奈良",
+      "shopAddress": "奈良県奈良市三条町484-1 猿沢池ビル 2F",
+      "productName": "スヌーピー ボンボンドロップシール churukira",
+      "sightingTime": "2026-09-08 05:48頃",
+      "statusText": "本日入荷（在庫あり、数に限りあり）",
+      "confidenceMemo": "店舗公式アカウントによる入荷情報",
+      "sourceUrl": "https://x.com/animatenara/status/2097200354589073691",
+      "sourceTweetId": "2097200354589073691",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2097200354589073691.png",
+      "isPosted": true,
+      "wpPostId": 17884,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-nara-nara-2026-09-08/",
+      "postedAt": "2026-09-08T16:42:15.973+09:00"
     }
   ]
 }
