@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-09-09T06:12:50.766Z"
+wpPostUrl: "https://www.seal-search.com/news/new-item/bonbondrop-characters-202609/"
+wpPostId: 17944
+posted: true
 imageGenerated: true
 type: new-release
 status: draft

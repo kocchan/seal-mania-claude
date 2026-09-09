@@ -1,4 +1,9 @@
 ---
+postedAt: "2026-09-09T06:13:15.107Z"
+wpPostUrl: "https://www.seal-search.com/mejirushi/dkomusu-dokousa-mejirushi-20260901/"
+wpPostId: 17949
+posted: true
+imageGenerated: true
 type: mejirushi
 status: draft
 title: "【9月上旬発売】ドコむすチャンネル どこうさめじるしチャーム"

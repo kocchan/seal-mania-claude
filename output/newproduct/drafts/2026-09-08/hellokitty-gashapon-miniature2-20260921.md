@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-09-09T06:12:33.073Z"
+wpPostUrl: "https://www.seal-search.com/character/hellokitty-gashapon-miniature2-20260921/"
+wpPostId: 17940
+posted: true
 type: newproduct
 status: draft
 title: "【9月第3週】ハローキティ ガシャポン新作全6種"

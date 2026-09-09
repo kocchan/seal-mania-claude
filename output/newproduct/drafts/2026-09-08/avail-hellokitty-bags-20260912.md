@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-09-09T06:12:28.027Z"
+wpPostUrl: "https://www.seal-search.com/character/avail-hellokitty-bags-20260912/"
+wpPostId: 17939
+posted: true
 type: newproduct
 status: draft
 title: "【9/12発売】アベイル ハローキティグッズ新作"

@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-09-09T06:12:43.356Z"
+wpPostUrl: "https://www.seal-search.com/character/sanrio-autumn-apple-20260909/"
+wpPostId: 17942
+posted: true
 type: newproduct
 status: draft
 title: "【9/9発売】サンリオ秋めくりんごデザインシリーズ登場"

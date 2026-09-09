@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-09-09T06:12:38.464Z"
+wpPostUrl: "https://www.seal-search.com/character/mrsgreenapple-ichibankuji-20261219/"
+wpPostId: 17941
+posted: true
 type: newproduct
 status: draft
 title: "【12/19発売】Mrs.GREEN APPLE一番くじ登場"

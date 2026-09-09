@@ -1,4 +1,9 @@
 ---
+postedAt: "2026-09-09T06:13:25.539Z"
+wpPostUrl: "https://www.seal-search.com/mejirushi/gankochan-mejirushi-20260921/"
+wpPostId: 17952
+posted: true
+imageGenerated: true
 type: mejirushi
 status: draft
 title: "【9月第3週】ざわざわ森のがんこちゃんめじるし登場"

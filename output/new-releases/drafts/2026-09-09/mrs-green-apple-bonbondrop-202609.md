@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-09-09T06:12:57.999Z"
+wpPostUrl: "https://www.seal-search.com/news/new-item/mrs-green-apple-bonbondrop-202609/"
+wpPostId: 17946
+posted: true
 imageGenerated: true
 type: new-release
 status: draft
