@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-09-10T06:12:23.466Z"
+wpPostUrl: "https://www.seal-search.com/news/reservation/gashapon-keion-mejirushi-20260913/"
+wpPostId: 18006
+posted: true
 imageGenerated: true
 type: lottery
 status: draft

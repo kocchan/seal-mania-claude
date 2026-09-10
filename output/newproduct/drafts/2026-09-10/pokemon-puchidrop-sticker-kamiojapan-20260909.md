@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-09-10T06:12:48.453Z"
+wpPostUrl: "https://www.seal-search.com/character/pokemon-puchidrop-sticker-kamiojapan-20260909/"
+wpPostId: 18011
+posted: true
 type: newproduct
 status: draft
 title: "【9月発売】プチドロップ全14種 - ポケモン新作シール"

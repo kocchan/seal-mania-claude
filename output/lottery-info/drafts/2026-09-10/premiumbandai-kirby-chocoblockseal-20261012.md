@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-09-10T06:12:41.299Z"
+wpPostUrl: "https://www.seal-search.com/news/reservation/premiumbandai-kirby-chocoblockseal-20261012/"
+wpPostId: 18010
+posted: true
 imageGenerated: true
 type: lottery
 status: draft

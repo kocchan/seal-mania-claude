@@ -1,4 +1,9 @@
 ---
+postedAt: "2026-09-10T06:13:22.310Z"
+wpPostUrl: "https://www.seal-search.com/mejirushi/mofusand-mejirushi2-20260900/"
+wpPostId: 18017
+posted: true
+imageGenerated: true
 type: mejirushi
 status: draft
 title: "【9月第3週発売】mofusandめじるしアクセサリー2再販"

@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-09-10T06:12:33.139Z"
+wpPostUrl: "https://www.seal-search.com/news/reservation/gigo-loveeeeeeeeeeez-seal-repost-20260930/"
+wpPostId: 18008
+posted: true
 imageGenerated: true
 type: lottery
 status: draft
