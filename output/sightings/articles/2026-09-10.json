@@ -1,7 +1,7 @@
 {
   "date": "2026-09-10",
-  "updatedAt": "2026-09-10T16:46:47.720+09:00",
-  "count": 25,
+  "updatedAt": "2026-09-10T20:01:13.410+09:00",
+  "count": 28,
   "articles": [
     {
       "isSighting": true,
@@ -477,6 +477,63 @@
       "wpPostId": 18032,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-kagawa-takamatsu-2026-09-10-2/",
       "postedAt": "2026-09-10T16:47:29.408+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "東京都",
+      "city": "立川市",
+      "shopName": "らしんばん立川店",
+      "shopAddress": "東京都立川市曙町2丁目13-1 TKビル5F",
+      "productName": "映画 ちいかわ 人魚の島のひみつ ボンボンドロップシール",
+      "sightingTime": "2026-09-10 19:06頃",
+      "statusText": "在庫あり（入荷・順次品出し中）",
+      "confidenceMemo": "店舗公式アカウントによる入荷・品出し情報のため信頼性が極めて高い",
+      "sourceUrl": "https://x.com/lashin_tatikawa/status/2097990036608446559",
+      "sourceTweetId": "2097990036608446559",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2097990036608446559.png",
+      "isPosted": true,
+      "wpPostId": 18034,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-tokyo-tachikawa-2026-09-10/",
+      "postedAt": "2026-09-10T20:01:20.608+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "熊本県",
+      "city": "熊本市",
+      "shopName": "#C-pla ゆめタウンサンピアン店",
+      "shopAddress": "熊本県熊本市東区上南部2-2-2 ゆめタウンサンピアン 3階",
+      "productName": "平成メモリーうるちゅるシール プチキーホルダー",
+      "sightingTime": "2026-09-10 08:46頃",
+      "statusText": "在庫あり（新商品入荷）",
+      "confidenceMemo": "カプセルトイ専門店公式アカウントによる入荷告知",
+      "sourceUrl": "https://x.com/Cpla470164/status/2097969957376315650",
+      "sourceTweetId": "2097969957376315650",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2097969957376315650.png",
+      "isPosted": true,
+      "wpPostId": 18036,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-kumamoto-kumamoto-2026-09-10/",
+      "postedAt": "2026-09-10T20:01:27.191+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "千葉県",
+      "city": "千葉市",
+      "shopName": "BE POP アリオ蘇我店",
+      "shopAddress": "千葉県千葉市中央区川崎町52-7 アリオ蘇我",
+      "productName": "サンリオウォーターシール、ディズニーのうるちゅるシール",
+      "sightingTime": "2026-09-10 08:04頃",
+      "statusText": "在庫あり（少量入荷・完売注意）",
+      "confidenceMemo": "店舗公式アカウントによる入荷告知。サンリオウォーターシールはボンボンドロップシールの別称または類似品",
+      "sourceUrl": "https://x.com/ario_bepop/status/2097959475160510876",
+      "sourceTweetId": "2097959475160510876",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2097959475160510876.png",
+      "isPosted": true,
+      "wpPostId": 18038,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-chiba-chiba-2026-09-10/",
+      "postedAt": "2026-09-10T20:01:34.682+09:00"
     }
   ]
 }
