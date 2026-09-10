@@ -1,8 +1,8 @@
 {
-  "timestamp": "2026-09-10T16:06:59.044Z",
+  "timestamp": "2026-09-10T22:54:48.591Z",
   "source": "yahoo_realtime",
   "platform": "x",
-  "count": 182,
+  "count": 187,
   "data": [
     {
       "tweetId": "2097294273641357425",
@@ -3050,6 +3050,82 @@
         "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i6hjVpND1OjWZ7RVcmujne-eX3Nxpy6ny6DC7HBB1ixVwdMkqABfNQq4-tguxhPz3IZAv2yqLyJqYt-YdH90NZ_NqQUp77Ety2Gx1AUAlgtoESxxuSUCdTGbkIFqfremh4DQxlrQ8q0n2VYJzvvOXxqlgNKEBHTwcr4EtO-393gsw==",
         "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i5e72TLbER0xQeK1l8ZZ0OLX3GQ5LBHUHqQ1iJwoQBkbBEOSMmgmKGjkn3ZdZj9z9cEpG-LndP66vEy0mkyUapAdmez5wXAXLlbgi-Pxr-WeIWKGwsPihfYYmUDCUIJuQy_LPNP94DEVudSayVGXqKmAY5slgQBRSBj2KkR5ocoa00LJVMHVrAnQN5e--afvM8AaEL7eZ9LIaYt-NPq4rjn",
         "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i6hjVpND1OjWZ7RVcmujne-3IpgqUzR6klkO_YxaxWraedbUtlcSx2IsNVJkMCXKN_8oXay99nwD71c7bkgaWDmuvmmcAtBbE3Hz0ud796WjB7K_sjSo81PmPWR9OdqI8z1_w5eNraJFocG9TJ74dr6xXwccvGn8H9ngNnCEp84gw=="
+      ],
+      "isProcessed": true,
+      "_filepath": "output/sightings/raw/yahoo-2026-09-10.json"
+    },
+    {
+      "tweetId": "2098177640448594305",
+      "userId": "678yunnpi_hitou",
+      "text": "おはようございます⛅️ 昨夜寄ったコンビニで1つだけ売っていたボンボンドロップシールを購入しました😊  他にもシリーズがあったみたいですが（パン、スイーツ等）これ１つがポツネンと置いてあって…  めちゃくちゃかわいい！と思って見ていたら、一緒にいた子供（成人）が買ってくれました pic.x.com/3osRyyNkPw氷灯ゆんぴ@678yunnpi_hitou23分前",
+      "user": "氷灯ゆんぴ",
+      "time": "2026-09-11T07:31:48.591+09:00",
+      "timeRaw": "23分前",
+      "url": "https://x.com/678yunnpi_hitou/status/2098177640448594305",
+      "hashtags": [],
+      "images": [
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i5e72TLbER0xQeK1l8ZZ0OLLxSR2xJZh3XTcmqkUVbwJM5LYllrLP0wdC3sfhKggY3kdFvSIKvxVOWICIs4xgR8mQfVOlaANzGnWwbXG_LYszdd_cPT8XgE6NDk2jYIVan57jjlSzkYQ_Tam8UTBwVztDX77ZqjzQ0WJj_ZXASf0xZ46sEnsuI0e8Nw_qUPijwl5czs8c3-yCp8kkkOc9Ox",
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i6hjVpND1OjWZ7RVcmujne-EQMFJVpZ-iD9OtW5tm3GJ0zrHinaJiwoWKdmpHwPAMhvVTZfT6_ez8SjBHjsXTzTDAt1P6IiKGifa4H7K5fh4R1VTotBer7jH3oASU8XQh6A14mD0va_44Uu6nP-7qqqNBrIjRGnQR2jhSgyoFQ2Dg=="
+      ],
+      "isProcessed": true,
+      "_filepath": "output/sightings/raw/yahoo-2026-09-10.json"
+    },
+    {
+      "tweetId": "2098156928979583416",
+      "userId": "chiyoooco",
+      "text": "コンビニにめちゃくちゃボンボンドロップシールあったんだけどちよ@chiyoooco21:09",
+      "user": "ちよ",
+      "time": "2026-09-11T21:09:00.000+09:00",
+      "timeRaw": "21:09",
+      "url": "https://x.com/chiyoooco/status/2098156928979583416",
+      "hashtags": [],
+      "images": [
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i5e72TLbER0xQeK1l8ZZ0OL7VMXz_cpgKg-VzUYd5DMRs-Tnjc89OmHsaPDi-3oTAO84itqffdx9VNj8pfhYtSPcGVplBkrdMkBOt3ZbmxxIN0p_sMw85ZNOXtMtu_1WRWanexxnBhk8bAqTYfPJA1hg0w3rjHahEL3tS5RhyVGXLvmNS6MD5hD75qgMWCT-9NarjrMX9vDRTH_yZyH6EDx"
+      ],
+      "isProcessed": true,
+      "_filepath": "output/sightings/raw/yahoo-2026-09-10.json"
+    },
+    {
+      "tweetId": "2098148191497572647",
+      "userId": "bdzzar6uaz16856",
+      "text": "【広告】在庫情報を再案内 09/11 04:34に在庫を確認した商品です 【3種セット】 クラックス うるちゅるポップシール サンリオ 11 amazon.co.jp/dp/B0HGWPFPH5?… ※最新状況はリンク先でご確認くださいちよ@bdzzar6uaz1685620:34",
+      "user": "ちよ",
+      "time": "2026-09-11T20:34:00.000+09:00",
+      "timeRaw": "20:34",
+      "url": "https://x.com/bdzzar6uaz16856/status/2098148191497572647",
+      "hashtags": [],
+      "images": [
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i5e72TLbER0xQeK1l8ZZ0OL3DoYV4e0nbJ-Ua3vpleWlp5xCrbToVE7448-Bv1R1sQdDU63U081pqLpzqzajlnlDb95XosSImV20KHwI8S070qbhT2aQaiPFiz-WM7N11EJnzL3K1IB7bhIy9lDLPbbKOiVmyhk9rpWEVdAHl3i8RapBCJP-ZVlf3Ycp8rQKUiJDFuPSAZvOmbRWsf6AaRt"
+      ],
+      "isProcessed": true,
+      "_filepath": "output/sightings/raw/yahoo-2026-09-10.json"
+    },
+    {
+      "tweetId": "2098147940162240516",
+      "userId": "fora70852978",
+      "text": "【広告】在庫情報を再案内 09/11 04:33に在庫を確認した商品です 【3種セット】 クラックス うるちゅるポップシール サンリオ 11 amazon.co.jp/dp/B0HGWPFPH5?… ※最新状況はリンク先でご確認くださいきほ@fora7085297820:33",
+      "user": "きほ",
+      "time": "2026-09-11T20:33:00.000+09:00",
+      "timeRaw": "20:33",
+      "url": "https://x.com/fora70852978/status/2098147940162240516",
+      "hashtags": [],
+      "images": [
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i5e72TLbER0xQeK1l8ZZ0OLlhhpMP9crOL0I4r6wCh1JEDOKsSoVF4hRIa1lx3UNsJWhRPR6t6Tu8SLy_nRO1wL68ieOwaGUvBAXJ8htgZcjFhqLnek_33175szUnWDth1RTFGINnNON8SGzGizR25uVApETG6T32G2cvla90JXm2kLzibf9iKnQCsPoMGr0JGyxng24yEenbOYzrwx4i5W"
+      ],
+      "isProcessed": true,
+      "_filepath": "output/sightings/raw/yahoo-2026-09-10.json"
+    },
+    {
+      "tweetId": "2098147688025821559",
+      "userId": "ffe9dkwis26780",
+      "text": "【広告】在庫情報を再案内 09/11 04:32に在庫を確認した商品です 【3種セット】 クラックス うるちゅるポップシール サンリオ 11 amazon.co.jp/dp/B0HGWPFPH5?… ※最新状況はリンク先でご確認くださいいお@ffe9dkwis2678020:32",
+      "user": "いお",
+      "time": "2026-09-11T20:32:00.000+09:00",
+      "timeRaw": "20:32",
+      "url": "https://x.com/ffe9dkwis26780/status/2098147688025821559",
+      "hashtags": [],
+      "images": [
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i5e72TLbER0xQeK1l8ZZ0OLFMqBZcInK25NP_LMAPpix_wIQHO-2W_s3F_hNJPCKRDX0NhOUhFf5LNGNG40RUs8eJCzn6he5jmSyzqx2R5H_o3Iy9wTlGkFLyArPrDRWvc3RFy0S9f0oNgwjXhBJikq30JSLsnQKgkV5kPp79zHa1Kfcl-B4vy5fMGXlGa-4XM62NHkv8CHQkuGHRUs_xUt"
       ],
       "isProcessed": true,
       "_filepath": "output/sightings/raw/yahoo-2026-09-10.json"
