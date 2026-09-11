@@ -1,4 +1,9 @@
 ---
+postedAt: "2026-09-11T06:16:20.827Z"
+wpPostUrl: "https://www.seal-search.com/mejirushi/animalyokocho-mejirushi-20260900/"
+wpPostId: 18098
+posted: true
+imageGenerated: true
 type: mejirushi
 status: draft
 title: "【9月第2週】アニマル横町 めじるしアクセサリー再登場"

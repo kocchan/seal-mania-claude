@@ -1,4 +1,9 @@
 ---
+postedAt: "2026-09-11T06:16:29.883Z"
+wpPostUrl: "https://www.seal-search.com/mejirushi/bt21-mejirushi-angel-20260900/"
+wpPostId: 18101
+posted: true
+imageGenerated: true
 type: mejirushi
 status: draft
 title: "【9月第2週】BT21 めじるしアクセサリー天使ver再登場"

@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-09-11T06:15:37.761Z"
+wpPostUrl: "https://www.seal-search.com/character/daiso-kusuriya-vol2-goods-20260900/"
+wpPostId: 18089
+posted: true
 type: newproduct
 status: draft
 title: "ダイソー『薬屋のひとりごと』グッズ第2弾に反響"

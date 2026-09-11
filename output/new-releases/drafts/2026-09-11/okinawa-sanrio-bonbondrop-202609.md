@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-09-11T06:15:52.606Z"
+wpPostUrl: "https://www.seal-search.com/news/new-item/okinawa-sanrio-bonbondrop-202609/"
+wpPostId: 18093
+posted: true
 imageGenerated: true
 type: new-release
 status: draft

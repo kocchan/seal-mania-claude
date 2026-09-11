@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-09-11T06:15:59.622Z"
+wpPostUrl: "https://www.seal-search.com/news/new-item/wagara-hellokitty-bonbondrop-202609/"
+wpPostId: 18095
+posted: true
 imageGenerated: true
 type: new-release
 status: draft
