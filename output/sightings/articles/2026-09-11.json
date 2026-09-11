@@ -1,7 +1,7 @@
 {
   "date": "2026-09-11",
-  "updatedAt": "2026-09-11T19:59:54.270+09:00",
-  "count": 30,
+  "updatedAt": "2026-09-12T01:11:48.046+09:00",
+  "count": 31,
   "articles": [
     {
       "isSighting": true,
@@ -572,6 +572,25 @@
       "wpPostId": 18113,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-kanagawa-totsuka-yokohama-2026-09-11/",
       "postedAt": "2026-09-11T20:00:06.400+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "大阪府",
+      "city": "大阪市中央区",
+      "shopName": "文具のコンパス なんばウォーク店",
+      "shopAddress": "大阪府大阪市中央区難波2丁目1-10 なんばウォーク内",
+      "productName": "ボンボンドロップシール",
+      "sightingTime": "2026-09-12 13:27頃",
+      "statusText": "在庫あり（久しぶりの入荷）",
+      "confidenceMemo": "「地下のCOMPASS」という記述から、関西圏で店舗展開する「文具のコンパス」の地下街店舗（なんばウォーク店など）である可能性が高いと推測。他店舗では見かけなかったとの記述から在庫の希少性がうかがえる。",
+      "sourceUrl": "https://x.com/2019Tike/status/2098403049995907297",
+      "sourceTweetId": "2098403049995907297",
+      "isPrediction": true,
+      "imagePath": "output/sightings/images/2098403049995907297.png",
+      "isPosted": true,
+      "wpPostId": 18115,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-osaka-chuo-osaka-2026-09-12/",
+      "postedAt": "2026-09-12T01:11:54.120+09:00"
     }
   ]
 }
