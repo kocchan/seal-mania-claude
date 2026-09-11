@@ -1,7 +1,7 @@
 {
   "date": "2026-09-11",
-  "updatedAt": "2026-09-11T16:41:06.317+09:00",
-  "count": 28,
+  "updatedAt": "2026-09-11T19:59:54.270+09:00",
+  "count": 30,
   "articles": [
     {
       "isSighting": true,
@@ -534,6 +534,44 @@
       "wpPostId": 18109,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-mie-tsu-2026-09-11/",
       "postedAt": "2026-09-11T16:41:34.040+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "富山県",
+      "city": "富山市",
+      "shopName": "コンプオフ マリエとやま店",
+      "shopAddress": "富山県富山市桜町1丁目1-61 マリエとやま 2F",
+      "productName": "ちいかわ ボンボンドロップシール",
+      "sightingTime": "2026-09-11 08:39頃",
+      "statusText": "在庫あり（ショーケース内）",
+      "confidenceMemo": "店舗公式アカウント（ホビー・キャラグッズ専用）による入荷報告であり、写真も添付されているため非常に信頼性が高い。",
+      "sourceUrl": "https://x.com/compoff_marier/status/2098330631252111797",
+      "sourceTweetId": "2098330631252111797",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2098330631252111797.png",
+      "isPosted": true,
+      "wpPostId": 18111,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-toyama-toyama-2026-09-11/",
+      "postedAt": "2026-09-11T20:00:00.222+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "神奈川県",
+      "city": "横浜市戸塚区",
+      "shopName": "ヴィレッジヴァンガード西武東戸塚店",
+      "shopAddress": "神奈川県横浜市戸塚区品濃町537-1 西武東戸塚S.C. 4F",
+      "productName": "いちご新聞（ぷっくりシール付き）",
+      "sightingTime": "2026-09-11 07:59頃",
+      "statusText": "入荷（在庫あり、柄選び放題）",
+      "confidenceMemo": "店舗公式アカウントによる写真付き入荷案内。付録のぷっくりシールに関する情報。",
+      "sourceUrl": "https://x.com/vvseibu573/status/2098320632555643173",
+      "sourceTweetId": "2098320632555643173",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2098320632555643173.png",
+      "isPosted": true,
+      "wpPostId": 18113,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-kanagawa-totsuka-yokohama-2026-09-11/",
+      "postedAt": "2026-09-11T20:00:06.400+09:00"
     }
   ]
 }
