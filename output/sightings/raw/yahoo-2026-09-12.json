@@ -1,8 +1,8 @@
 {
-  "timestamp": "2026-09-12T15:17:59.900Z",
+  "timestamp": "2026-09-12T22:47:48.966Z",
   "source": "yahoo_realtime",
   "platform": "x",
-  "count": 182,
+  "count": 185,
   "data": [
     {
       "tweetId": "2098607535221571717",
@@ -3109,6 +3109,55 @@
         "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i5e72TLbER0xQeK1l8ZZ0OL0KBoiHdFN4QNmTvHl9NiXceRnFPfUfIwXtbj0vQ7EJdrwGrU-n4QTOfN9oBflC2Klf3PZ0xDvT8K3cR_T41LyQcsbAGeIT8pJRmj-_6-xuujVYX9fAT7-7cS-E6bV996CxTGtiUULX7wCwRADlsryqvMkeqmC7Ns1L8syfzURkoBPl3ZL6jfVfPg2uYkci7x",
         "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i6hjVpND1OjWZ7RVcmujne-n5Nu46T46ibT83HNEg7m1btkxMmWoUnpRIumwsH4Ls8LgWYMNvphAPtXZv_Msx52JIGSIuBQwr6AeAKZ5p5c_S5IbTHjeiOVJW7ro6b7hpOGwaiX_2aStg04UD_741Lpo6pbW-IyvNrz6yxbsOoBrQ==",
         "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i6hjVpND1OjWZ7RVcmujne-MDjYRbXZ22nO3JW2OmCYdiaZp1yWlPwBHhihlZVWYaeOvIekyudCoXZl-SF-N4pLFZBdwnMhywgGiWirqdy5h3xJLc-0KegKO2QQ_YDeN5Tsf5fg0gyEmHaHnL7lzVtWfOj7xb1N7eRfhilnHk_PvA=="
+      ],
+      "isProcessed": true,
+      "_filepath": "output/sightings/raw/yahoo-2026-09-12.json"
+    },
+    {
+      "tweetId": "2098877404639027458",
+      "userId": "oekaki222aka",
+      "text": "単純に子供に楽しんで欲しいんだったら映画の特典のボンボンドロップシール？ の海の底にヒトハとフタバを配置しない あれって復讐完遂してあの2人は拷問を受けてるってことだよね  子供はまだ理解できないから可愛い！で終わるけどさ…  あれ明らかにそれが理解できる大人向けに作ってるおちび@oekaki222aka20:52",
+      "user": "おちび",
+      "time": "2026-09-13T20:52:00.000+09:00",
+      "timeRaw": "20:52",
+      "url": "https://x.com/oekaki222aka/status/2098877404639027458",
+      "hashtags": [],
+      "images": [
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i5e72TLbER0xQeK1l8ZZ0OLzSTu0qL19-EGzmk2p5qxdYCqO9j9QObk3GK6Bi_hRn06KZcN0pXkXjmHfHl2EbR6CLAED-ECwAtgLQDfoRxpUljumUHcGRuXPNeCjmuTz7axqBOclsfNYEIIfZPLSxTzS5ZrogQKUUpoidFjRbYpDftLRVQ9_Srx9SQVWvA1ry7z6x_cw2yGglIbdypEm2wB"
+      ],
+      "isProcessed": true,
+      "_filepath": "output/sightings/raw/yahoo-2026-09-12.json"
+    },
+    {
+      "tweetId": "2098827538416214141",
+      "userId": "riru_zyuri",
+      "text": "昨日ボンボンドロップシール買ったところにまた行った。  今日行ったら1枚もなかった😂  昨日買った時に店員さんに 「さっき入荷したばかりなんですよ」 って言われたのに、すごいw pic.x.com/edopkFYYzcりる@アプリ恋活@riru_zyuri17:34",
+      "user": "りる@アプリ恋活",
+      "time": "2026-09-13T17:34:00.000+09:00",
+      "timeRaw": "17:34",
+      "url": "https://x.com/riru_zyuri/status/2098827538416214141",
+      "hashtags": [],
+      "images": [
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i5e72TLbER0xQeK1l8ZZ0OLefIBHWdf83ubwYnvaVoinsF-01tq39s6w7oQgPEryKS_jA5H0gA5N1_G3u6pMazuPoDbCboz33CPdc9r6Z4nERdCoJYa7NBkbzWWIcOeW9H1A9XKzaRQXGbae1eXlmYxhDatWpvxS3GLO6rYvu8m4qEFWCtlZgjiqAYf1Y_yuWV2iyGM3RLqrwJEG00zbHwh",
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i6hjVpND1OjWZ7RVcmujne-qXde29Oc2X_-hGRR5ntNqzcedxjHyvA7T355Oc6VT7la9bA3uEOf27nWONw4wPlbDwaZfSS8OMAtghc-Jze72Yi2H_OJMiH9aaYq0zuiqlzHqdxovUV8p51wttWueW23KnUJDAE-XRfapEHiSR2Evw==",
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i6hjVpND1OjWZ7RVcmujne-NtkrIHP9tTtBoPclxRuSieHw3NKYHwgyGQSes-LRIlChltS1OeiSg5fOGVAzUrWbcGECfEv8hoeNP5Yjk6iV4DfOglAMjRt0P5CNrW6MSjslSVm4jo22eG0j9JOCTt8OSEbX2fJcAa6IDqu6ZD27XA=="
+      ],
+      "isProcessed": true,
+      "_filepath": "output/sightings/raw/yahoo-2026-09-12.json"
+    },
+    {
+      "tweetId": "2098823103971524983",
+      "userId": "_1980128",
+      "text": "餃子とプリンを交互に食べてタバコ吸ってセックスしてメロジョイをもみもみしてボンボンドロップシールをペタペタして欲しいガチャガチャ出るまで回してサンリオの新作のなんかかわいいやつ買ってネイルをもっと長くしてまつ毛をバサバサにしてこの犬を手に入れなきゃ元気出ない x.com/id90dyrx/statu…ほっとみるくわらび@id90dyrx6:15またまたZARAキッズで可愛いの見つけた（ ;  ; ）♡ 紐のサイズが大人でも合うなら欲しい☆* 27くらぶ@_198012817:16",
+      "user": "27くらぶ",
+      "time": "2026-09-13T06:15:00.000+09:00",
+      "timeRaw": "6:15",
+      "url": "https://x.com/_1980128/status/2098823103971524983",
+      "hashtags": [],
+      "images": [
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i5e72TLbER0xQeK1l8ZZ0OLWh2T6dabiS0pf5XvZkaZQJ2ydFnTuw2nO98_LOlYyIKk2-gXiP1cdfoWF2KVnd1-_Dx86ts6n4Qyjg5LnjmtjWyB6VzkCG4GPak0a8ooAat9cma8aeOb7KMgtDR8urFXQgdxSxGeD0LRl07gK0KSPgb4jgUdDXfskC9ywMxDq7pXlGPmWMvvP_FbAd1D1tx-",
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i5e72TLbER0xQeK1l8ZZ0OLJV7Golyr25iJBVmJnKlXmi4LU5oojKxskkiwH3pPNhPTM2pf2kXjPe3AP36R8rrufZ6h0oD_25t17AaphUChLjY41kIcLQvi-iOEA7Rz-du7gKSilgYdjlx-2n_Qs90bzovG9HfPE7TCkywLMiVKT-igPZfi-kmvONdxbqZoNQljddu0klCnvC0w4oRnensQ",
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i6hjVpND1OjWZ7RVcmujne-mnIH-PNWCyZ1HjOQC9lECZAoO3fJIQPN8zREHxiYZuQRCWXsCklbmJpB4k9qYvCpF5_-82WWAA8qj29-mPASQXUo-1AmTSDH1Qg0OTIp89qKkGYzOwpZifUX0Rcl0_z60ncureTxFzfMjG9cLVGRXA=="
       ],
       "isProcessed": true,
       "_filepath": "output/sightings/raw/yahoo-2026-09-12.json"
