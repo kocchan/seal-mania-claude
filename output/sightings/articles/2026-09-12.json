@@ -1,7 +1,7 @@
 {
   "date": "2026-09-12",
-  "updatedAt": "2026-09-12T16:36:24.399+09:00",
-  "count": 43,
+  "updatedAt": "2026-09-12T19:27:20.531+09:00",
+  "count": 46,
   "articles": [
     {
       "isSighting": true,
@@ -819,6 +819,63 @@
       "wpPostId": 18340,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-tottori-tottori-2026-09-12/",
       "postedAt": "2026-09-12T16:38:50.191+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "茨城県",
+      "city": "古河市",
+      "shopName": "BIG ONE BOOK STORE 古河店",
+      "shopAddress": "茨城県古河市松並2-18-10",
+      "productName": "ボンボンドロップシール マイメロディ",
+      "sightingTime": "2026-09-12 08:32",
+      "statusText": "在庫あり（緊急入荷・極少量）、おひとり様1個まで",
+      "confidenceMemo": "店舗公式アカウントによる入荷案内で信頼性が高い",
+      "sourceUrl": "https://x.com/BBS_koga/status/2098691112512991586",
+      "sourceTweetId": "2098691112512991586",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2098691112512991586.png",
+      "isPosted": true,
+      "wpPostId": 18342,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-ibaraki-koga-2026-09-12/",
+      "postedAt": "2026-09-12T19:27:26.436+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "東京都",
+      "city": "北区",
+      "shopName": "ガシャポンのデパート 王子サンスクエア店",
+      "shopAddress": "東京都北区王子1丁目4-1 王子サンスクエア 2F",
+      "productName": "mojojojo うるちゅるPOPシール プチキーホルダー",
+      "sightingTime": "2026-09-12 08:02頃",
+      "statusText": "在庫あり（新商品入荷）",
+      "confidenceMemo": "店舗公式アカウントによる写真付きの入荷情報",
+      "sourceUrl": "https://x.com/gasha_ouji/status/2098683536165531965",
+      "sourceTweetId": "2098683536165531965",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2098683536165531965.png",
+      "isPosted": true,
+      "wpPostId": 18344,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-tokyo-kita-2026-09-12/",
+      "postedAt": "2026-09-12T19:27:32.460+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "千葉県",
+      "city": "柏市",
+      "shopName": "ガシャポンのデパート 駿河屋 柏青葉台店",
+      "shopAddress": "千葉県柏市青葉台2-17-31 駿河屋柏青葉台店内",
+      "productName": "mojojojoうるちゅるPOPシールプチキーホルダー",
+      "sightingTime": "2026-09-12 07:45頃",
+      "statusText": "在庫あり（販売中）",
+      "confidenceMemo": "店舗公式アカウントによる写真付きの入荷情報",
+      "sourceUrl": "https://x.com/gasha_kaobadai/status/2098679358953271772",
+      "sourceTweetId": "2098679358953271772",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2098679358953271772.png",
+      "isPosted": true,
+      "wpPostId": 18346,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-chiba-kashiwa-2026-09-12/",
+      "postedAt": "2026-09-12T19:27:38.608+09:00"
     }
   ]
 }
