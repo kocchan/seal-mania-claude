@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-09-12T06:02:32.079Z"
+wpPostUrl: "https://www.seal-search.com/news/new-item/bonbonnavi-wagara-kitty-present-20260916/"
+wpPostId: 18286
+posted: true
 imageGenerated: true
 type: new-release
 status: draft

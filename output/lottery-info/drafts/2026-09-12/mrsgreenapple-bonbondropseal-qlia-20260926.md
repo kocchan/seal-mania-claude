@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-09-12T06:02:13.183Z"
+wpPostUrl: "https://www.seal-search.com/news/reservation/mrsgreenapple-bonbondropseal-qlia-20260926/"
+wpPostId: 18282
+posted: true
 imageGenerated: true
 type: lottery
 status: draft

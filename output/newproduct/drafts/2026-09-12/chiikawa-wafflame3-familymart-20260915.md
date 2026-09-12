@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-09-12T06:02:19.115Z"
+wpPostUrl: "https://www.seal-search.com/character/chiikawa-wafflame3-familymart-20260915/"
+wpPostId: 18283
+posted: true
 type: newproduct
 status: draft
 title: "【9/15発売】ちいかわわっふれ～む3@ファミマ"

@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-09-12T06:02:24.587Z"
+wpPostUrl: "https://www.seal-search.com/character/haikyu-natsu-goods-maw-20261100/"
+wpPostId: 18284
+posted: true
 type: newproduct
 status: draft
 title: "【11月発売】ハイキュー!!夏デザイン新作グッズ"

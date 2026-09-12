@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-09-12T06:02:07.167Z"
+wpPostUrl: "https://www.seal-search.com/news/reservation/digimon-acrylic-charm3-gashapon-20260924/"
+wpPostId: 18280
+posted: true
 imageGenerated: true
 type: lottery
 status: draft

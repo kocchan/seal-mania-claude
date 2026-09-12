@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-09-12T06:02:38.284Z"
+wpPostUrl: "https://www.seal-search.com/news/new-item/chiikawa-bonbondrop-new3types-20260925/"
+wpPostId: 18288
+posted: true
 imageGenerated: true
 type: new-release
 status: draft

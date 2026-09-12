@@ -1,4 +1,9 @@
 ---
+postedAt: "2026-09-12T06:03:07.140Z"
+wpPostUrl: "https://www.seal-search.com/mejirushi/lisagaspard-mejirushi-accessory2-20260900/"
+wpPostId: 18294
+posted: true
+imageGenerated: true
 type: mejirushi
 status: draft
 title: "【9月第3週】リサとガスパール めじるしアクセサリー2"
