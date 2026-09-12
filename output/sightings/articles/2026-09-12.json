@@ -1,7 +1,7 @@
 {
   "date": "2026-09-12",
-  "updatedAt": "2026-09-12T21:35:42.862+09:00",
-  "count": 47,
+  "updatedAt": "2026-09-13T00:18:31.231+09:00",
+  "count": 48,
   "articles": [
     {
       "isSighting": true,
@@ -895,6 +895,25 @@
       "wpPostId": 18348,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-osaka-chuo-osaka-2026-09-12-2/",
       "postedAt": "2026-09-12T21:35:49.287+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "京都府",
+      "city": "京都市南区",
+      "shopName": "セブンイレブン京都西九条菅田町店",
+      "shopAddress": "京都府京都市南区西九条菅田町4-1",
+      "productName": "ボンボンドロップシール 和柄キティ",
+      "sightingTime": "2026-09-13 00:11頃",
+      "statusText": "入荷中（在庫あり）",
+      "confidenceMemo": "店舗関係者または公式に近いアカウントによる入荷報告のため信頼性が高い",
+      "sourceUrl": "https://x.com/_berryge/status/2098791853281923220",
+      "sourceTweetId": "2098791853281923220",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2098791853281923220.png",
+      "isPosted": true,
+      "wpPostId": 18350,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-kyoto-minami-kyoto-2026-09-13/",
+      "postedAt": "2026-09-13T00:18:37.065+09:00"
     }
   ]
 }
