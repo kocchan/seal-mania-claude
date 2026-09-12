@@ -1,7 +1,7 @@
 {
   "date": "2026-09-12",
-  "updatedAt": "2026-09-12T19:27:20.531+09:00",
-  "count": 46,
+  "updatedAt": "2026-09-12T21:35:42.862+09:00",
+  "count": 47,
   "articles": [
     {
       "isSighting": true,
@@ -876,6 +876,25 @@
       "wpPostId": 18346,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-chiba-kashiwa-2026-09-12/",
       "postedAt": "2026-09-12T19:27:38.608+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "大阪府",
+      "city": "大阪市中央区",
+      "shopName": "スヌーピータウンショップ 心斎橋パルコ店",
+      "shopAddress": "大阪府大阪市中央区心斎橋筋1丁目8-3 心斎橋パルコ 5F",
+      "productName": "スヌーピー ボンボンドロップシール（新作）",
+      "sightingTime": "2026-09-12 05:46頃",
+      "statusText": "在庫あり（個数制限なしで販売中）",
+      "confidenceMemo": "店舗名が明確で、現地の在庫状況と写真への言及があり信頼性が高い",
+      "sourceUrl": "https://x.com/sanohabit/status/2098726562019570006",
+      "sourceTweetId": "2098726562019570006",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2098726562019570006.png",
+      "isPosted": true,
+      "wpPostId": 18348,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-osaka-chuo-osaka-2026-09-12-2/",
+      "postedAt": "2026-09-12T21:35:49.287+09:00"
     }
   ]
 }
