@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-09-13T06:26:17.646Z"
+wpPostUrl: "https://www.seal-search.com/news/new-item/tsutaya-tosu-snoopy-bonbondrop-20260913/"
+wpPostId: 18382
+posted: true
 type: new-release
 status: draft
 title: "【本日22時締切】スヌーピーボンドロ抽選＠TSUTAYA鳥栖店"

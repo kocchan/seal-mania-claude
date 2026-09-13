@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-09-13T06:26:11.077Z"
+wpPostUrl: "https://www.seal-search.com/news/new-item/disney-churukira-bonbondrop-202610/"
+wpPostId: 18380
+posted: true
 imageGenerated: true
 type: new-release
 status: draft
