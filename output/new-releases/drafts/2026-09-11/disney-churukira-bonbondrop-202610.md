@@ -1,4 +1,5 @@
 ---
+imageGenerated: true
 type: new-release
 status: draft
 title: "【10月発売】ディズニー「ちゅるきら」ボンドロ全8種！スティッチ・プーさん"
