@@ -1,7 +1,7 @@
 {
   "date": "2026-09-14",
-  "updatedAt": "2026-09-14T21:23:30.207+09:00",
-  "count": 36,
+  "updatedAt": "2026-09-15T08:41:08.330+09:00",
+  "count": 37,
   "articles": [
     {
       "isSighting": true,
@@ -686,6 +686,25 @@
       "wpPostId": 18486,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-miyagi-rifu-miyagi-district-2026-09-14/",
       "postedAt": "2026-09-14T21:23:48.578+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "山形県",
+      "city": "西村山郡大江町",
+      "shopName": "道の駅おおえ",
+      "shopAddress": "山形県西村山郡大江町大字藤田218-1",
+      "productName": "やまがたなかま ぷっくりシール",
+      "sightingTime": "2026-09-15 21:15頃",
+      "statusText": "在庫あり",
+      "confidenceMemo": "具体的な店舗名が記載されており、写真付きの投稿であるため情報の信頼性が高い。商品は『ボンボンドロップシール』と同ジャンルの地域限定ぷっくりシールである。",
+      "sourceUrl": "https://x.com/chabane_goki/status/2099607996099916159",
+      "sourceTweetId": "2099607996099916159",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2099607996099916159.png",
+      "isPosted": true,
+      "wpPostId": 18488,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-yamagata-oe-nishimurayama-district-2026-09-15/",
+      "postedAt": "2026-09-15T08:41:14.915+09:00"
     }
   ]
 }
