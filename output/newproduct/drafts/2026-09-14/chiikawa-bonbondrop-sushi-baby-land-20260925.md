@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-09-14T06:36:03.039Z"
+wpPostUrl: "https://www.seal-search.com/character/chiikawa-bonbondrop-sushi-baby-land-20260925/"
+wpPostId: 18453
+posted: true
 type: newproduct
 status: draft
 title: "【9/25発売】ちいかわ ボンボンドロップシール新作3種"

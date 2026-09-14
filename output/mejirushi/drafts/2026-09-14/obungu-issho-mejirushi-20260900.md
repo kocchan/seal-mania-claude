@@ -1,4 +1,9 @@
 ---
+postedAt: "2026-09-14T06:36:38.085Z"
+wpPostUrl: "https://www.seal-search.com/mejirushi/obungu-issho-mejirushi-20260900/"
+wpPostId: 18460
+posted: true
+imageGenerated: true
 type: mejirushi
 status: draft
 title: "【9月第3週発売】お文具といっしょ めじるしアクセサリー"

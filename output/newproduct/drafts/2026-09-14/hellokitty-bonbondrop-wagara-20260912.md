@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-09-14T06:36:08.928Z"
+wpPostUrl: "https://www.seal-search.com/character/hellokitty-bonbondrop-wagara-20260912/"
+wpPostId: 18454
+posted: true
 type: newproduct
 status: draft
 title: "【9月発売中】ハローキティ ボンボンドロップ和柄新作"

@@ -1,4 +1,9 @@
 ---
+postedAt: "2026-09-14T06:36:27.752Z"
+wpPostUrl: "https://www.seal-search.com/mejirushi/dokodemo-issho-mejirushi-20260900/"
+wpPostId: 18457
+posted: true
+imageGenerated: true
 type: mejirushi
 status: draft
 title: "【9月第3週】どこでもいっしょ めじるしアクセサリー再販"
