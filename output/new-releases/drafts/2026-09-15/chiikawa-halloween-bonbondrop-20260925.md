@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-09-15T06:18:56.425Z"
+wpPostUrl: "https://www.seal-search.com/news/new-item/chiikawa-halloween-bonbondrop-20260925/"
+wpPostId: 18526
+posted: true
 type: new-release
 status: draft
 title: "【9/25発売】ちいかわハロウィンマスコット＆ボンドロ新作"

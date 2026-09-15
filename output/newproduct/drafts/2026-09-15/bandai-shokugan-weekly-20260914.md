@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-09-15T06:18:43.828Z"
+wpPostUrl: "https://www.seal-search.com/character/bandai-shokugan-weekly-20260914/"
+wpPostId: 18523
+posted: true
 type: newproduct
 status: draft
 title: "【9/14発売】バンダイ食玩新作まとめ8種"

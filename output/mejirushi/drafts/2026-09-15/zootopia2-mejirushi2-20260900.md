@@ -1,4 +1,9 @@
 ---
+postedAt: "2026-09-15T06:19:09.884Z"
+wpPostUrl: "https://www.seal-search.com/mejirushi/zootopia2-mejirushi2-20260900/"
+wpPostId: 18529
+posted: true
+imageGenerated: true
 type: mejirushi
 status: draft
 title: "【9月第3週発売】ズートピア2 めじるしアクセサリー第2弾"

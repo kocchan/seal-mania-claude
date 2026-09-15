@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-09-15T06:18:49.128Z"
+wpPostUrl: "https://www.seal-search.com/character/daiso-makura-aroma-seal-20260900/"
+wpPostId: 18524
+posted: true
 type: newproduct
 status: draft
 title: "ダイソー『枕アロマシール』にSNSで反響"
