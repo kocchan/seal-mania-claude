@@ -1,7 +1,7 @@
 {
   "date": "2026-09-15",
-  "updatedAt": "2026-09-15T17:18:56.627+09:00",
-  "count": 19,
+  "updatedAt": "2026-09-15T20:29:19.342+09:00",
+  "count": 22,
   "articles": [
     {
       "isSighting": true,
@@ -363,6 +363,63 @@
       "wpPostId": 18533,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-tokyo-chiyoda-2026-09-15/",
       "postedAt": "2026-09-15T17:19:09.838+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "茨城県",
+      "city": "日立市",
+      "shopName": "丸善 日立店",
+      "shopAddress": "茨城県日立市幸町1-16-1",
+      "productName": "新作うるちゅるシール",
+      "sightingTime": "2026-09-15 08:30頃",
+      "statusText": "在庫あり（多数入荷）",
+      "confidenceMemo": "店舗公式アカウントによる新作入荷情報",
+      "sourceUrl": "https://x.com/maruzenhitachi/status/2099777938355011754",
+      "sourceTweetId": "2099777938355011754",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2099777938355011754.png",
+      "isPosted": true,
+      "wpPostId": 18535,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-ibaraki-hitachi-2026-09-15/",
+      "postedAt": "2026-09-15T20:29:25.726+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "大阪府",
+      "city": "守口市",
+      "shopName": "ガシャポンのデパートイオンモール大日店",
+      "shopAddress": "大阪府守口市大日東町1-18 イオンモール大日内",
+      "productName": "mojojojo うるちゅるPOPシール プチキーホルダー",
+      "sightingTime": "2026-09-15 09:04頃",
+      "statusText": "完売（再入荷未定）",
+      "confidenceMemo": "店舗公式アカウントによる完売告知",
+      "sourceUrl": "https://x.com/gasha_dainichi/status/2099786398115185042",
+      "sourceTweetId": "2099786398115185042",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2099786398115185042.png",
+      "isPosted": true,
+      "wpPostId": 18537,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-osaka-moriguchi-2026-09-15/",
+      "postedAt": "2026-09-15T20:29:32.647+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "埼玉県",
+      "city": "久喜市",
+      "shopName": "ZACCANIA モラージュ菖蒲",
+      "shopAddress": "埼玉県久喜市菖蒲町菖蒲6005-1 モラージュ菖蒲内",
+      "productName": "うるちゅるPOPのニコイチキーホルダー",
+      "sightingTime": "2026-09-15 09:34頃",
+      "statusText": "在庫あり（入荷情報）",
+      "confidenceMemo": "店舗公式アカウントによる入荷情報",
+      "sourceUrl": "https://x.com/ZACCANIA_shobu/status/2099793894875529638",
+      "sourceTweetId": "2099793894875529638",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2099793894875529638.png",
+      "isPosted": true,
+      "wpPostId": 18539,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-saitama-kuki-2026-09-15/",
+      "postedAt": "2026-09-15T20:29:39.657+09:00"
     }
   ]
 }
