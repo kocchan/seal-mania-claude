@@ -1,7 +1,7 @@
 {
   "date": "2026-09-15",
-  "updatedAt": "2026-09-15T20:29:19.342+09:00",
-  "count": 22,
+  "updatedAt": "2026-09-16T01:38:31.901+09:00",
+  "count": 23,
   "articles": [
     {
       "isSighting": true,
@@ -420,6 +420,25 @@
       "wpPostId": 18539,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-saitama-kuki-2026-09-15/",
       "postedAt": "2026-09-15T20:29:39.657+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "大阪府",
+      "city": "交野市",
+      "shopName": "books交野駅前店",
+      "shopAddress": "大阪府交野市私部3丁目18-1",
+      "productName": "ボンボンドロップ前髪クリップ",
+      "sightingTime": "2026-09-16 15:31頃",
+      "statusText": "入荷（在庫あり）",
+      "confidenceMemo": "店舗の公式アカウントによる入荷案内ツイートであり信頼性が高い。シールではなく同シリーズの前髪クリップの情報。",
+      "sourceUrl": "https://x.com/books_katano/status/2099883829741969420",
+      "sourceTweetId": "2099883829741969420",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2099883829741969420.png",
+      "isPosted": true,
+      "wpPostId": 18541,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-osaka-katano-2026-09-16/",
+      "postedAt": "2026-09-16T01:38:38.731+09:00"
     }
   ]
 }
