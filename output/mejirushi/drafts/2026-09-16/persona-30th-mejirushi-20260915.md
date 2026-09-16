@@ -1,4 +1,9 @@
 ---
+postedAt: "2026-09-16T06:18:06.520Z"
+wpPostUrl: "https://www.seal-search.com/mejirushi/persona-30th-mejirushi-20260915/"
+wpPostId: 18585
+posted: true
+imageGenerated: true
 type: mejirushi
 status: draft
 title: "【9/15発売】ペルソナ30周年めじるしアクセサリー"

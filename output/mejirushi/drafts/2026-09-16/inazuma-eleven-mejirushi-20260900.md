@@ -1,4 +1,9 @@
 ---
+postedAt: "2026-09-16T06:17:33.255Z"
+wpPostUrl: "https://www.seal-search.com/mejirushi/inazuma-eleven-mejirushi-20260900/"
+wpPostId: 18576
+posted: true
+imageGenerated: true
 type: mejirushi
 status: draft
 title: "【9月第3週発売】イナズマイレブン めじるしアクセサリー"

@@ -1,4 +1,9 @@
 ---
+postedAt: "2026-09-16T06:17:53.993Z"
+wpPostUrl: "https://www.seal-search.com/mejirushi/pandorobo-number-mejirushi-charm-20260916/"
+wpPostId: 18582
+posted: true
+imageGenerated: true
 type: mejirushi
 status: draft
 title: "【9/16発売】パンどろぼう ナンバーめじるしチャーム"
