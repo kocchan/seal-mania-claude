@@ -1,7 +1,7 @@
 {
   "date": "2026-09-16",
-  "updatedAt": "2026-09-16T20:15:44.513+09:00",
-  "count": 27,
+  "updatedAt": "2026-09-16T23:00:27.603+09:00",
+  "count": 29,
   "articles": [
     {
       "isSighting": true,
@@ -515,6 +515,44 @@
       "wpPostId": 18610,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-miyazaki-miyazaki-2026-09-16/",
       "postedAt": "2026-09-16T20:16:08.257+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "石川県",
+      "city": "金沢市",
+      "shopName": "金沢市内の店舗（複数）",
+      "shopAddress": "石川県金沢市",
+      "productName": "和柄キティのボンボンドロップシール",
+      "sightingTime": "2026-09-16 22:16頃",
+      "statusText": "在庫あり（どこででも見かける状態）",
+      "confidenceMemo": "地域情報はあるが、具体的な1店舗の名称は特定されていない",
+      "sourceUrl": "https://x.com/270Ch/status/2100212038199025887",
+      "sourceTweetId": "2100212038199025887",
+      "isPrediction": true,
+      "imagePath": "output/sightings/images/2100212038199025887.png",
+      "isPosted": true,
+      "wpPostId": 18612,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-ishikawa-kanazawa-2026-09-16/",
+      "postedAt": "2026-09-16T23:00:33.882+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "北海道",
+      "city": "旭川市",
+      "shopName": "ソユーゲームフィールド旭川駅前店",
+      "shopAddress": "北海道旭川市宮下通7丁目2-5 イオンモール旭川駅前 4F",
+      "productName": "mojojojo うるちゅるPOPシールMEGA",
+      "sightingTime": "2026-09-16 12:16頃",
+      "statusText": "景品入荷（在庫あり）",
+      "confidenceMemo": "店舗公式アカウントによる入荷情報で、信頼性が非常に高い",
+      "sourceUrl": "https://x.com/soyu_asahikawa2/status/2100197008162357603",
+      "sourceTweetId": "2100197008162357603",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2100197008162357603.png",
+      "isPosted": true,
+      "wpPostId": 18614,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-hokkaido-asahikawa-2026-09-16/",
+      "postedAt": "2026-09-16T23:00:39.966+09:00"
     }
   ]
 }
