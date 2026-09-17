@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-09-17T06:18:48.079Z"
+wpPostUrl: "https://www.seal-search.com/character/jalux-bonbondrop-reservation-20260916/"
+wpPostId: 18649
+posted: true
 type: newproduct
 status: draft
 title: "【9/16予約開始】JALオリジナルボンドロ - 空の新作レビュー"

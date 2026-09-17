@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-09-17T06:19:05.246Z"
+wpPostUrl: "https://www.seal-search.com/news/new-item/pokemon-puchidrop-14types-202609/"
+wpPostId: 18653
+posted: true
 imageGenerated: true
 type: new-release
 status: draft

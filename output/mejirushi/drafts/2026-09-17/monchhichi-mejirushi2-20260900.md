@@ -1,4 +1,9 @@
 ---
+postedAt: "2026-09-17T06:19:42.063Z"
+wpPostUrl: "https://www.seal-search.com/mejirushi/monchhichi-mejirushi2-20260900/"
+wpPostId: 18660
+posted: true
+imageGenerated: true
 type: mejirushi
 status: draft
 title: "【9月第3週発売】モンチッチ めじるしアクセサリー2再登場"

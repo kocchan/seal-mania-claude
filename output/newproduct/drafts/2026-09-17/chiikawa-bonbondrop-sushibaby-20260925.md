@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-09-17T06:18:37.236Z"
+wpPostUrl: "https://www.seal-search.com/character/chiikawa-bonbondrop-sushibaby-20260925/"
+wpPostId: 18647
+posted: true
 type: newproduct
 status: draft
 title: "【9/25発売】ちいかわボンドロ新作3種 - 寿司レビュー"

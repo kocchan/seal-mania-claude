@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-09-17T06:18:57.147Z"
+wpPostUrl: "https://www.seal-search.com/news/new-item/loftnetstore-churukira-sanrio-snoopy-20260917/"
+wpPostId: 18651
+posted: true
 imageGenerated: true
 type: lottery
 status: draft

@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-09-17T06:19:13.823Z"
+wpPostUrl: "https://www.seal-search.com/news/new-item/puchidrop-new5-gremlins-casper-20260916/"
+wpPostId: 18655
+posted: true
 imageGenerated: true
 type: new-release
 status: draft

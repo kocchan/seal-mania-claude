@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-09-17T06:19:21.956Z"
+wpPostUrl: "https://www.seal-search.com/news/new-item/rilakkuma-qlia-lottery-20260917/"
+wpPostId: 18657
+posted: true
 imageGenerated: true
 type: lottery
 status: draft

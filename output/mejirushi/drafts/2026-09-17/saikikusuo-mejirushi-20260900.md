@@ -1,4 +1,9 @@
 ---
+postedAt: "2026-09-17T06:19:53.260Z"
+wpPostUrl: "https://www.seal-search.com/mejirushi/saikikusuo-mejirushi-20260900/"
+wpPostId: 18663
+posted: true
+imageGenerated: true
 type: mejirushi
 status: draft
 title: "【9月第3週発売】斉木楠雄のΨ難 めじるしアクセサリー"
