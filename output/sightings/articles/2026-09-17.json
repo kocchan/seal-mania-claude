@@ -1,7 +1,7 @@
 {
   "date": "2026-09-17",
-  "updatedAt": "2026-09-17T20:25:15.969+09:00",
-  "count": 36,
+  "updatedAt": "2026-09-17T23:05:31.480+09:00",
+  "count": 39,
   "articles": [
     {
       "isSighting": true,
@@ -686,6 +686,63 @@
       "wpPostId": 18706,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-oita-oita-2026-09-17/",
       "postedAt": "2026-09-17T20:26:11.041+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "長野県",
+      "city": "伊那市",
+      "shopName": "ドン・キホーテ 伊那店",
+      "shopAddress": "長野県伊那市西町5245-1",
+      "productName": "ボンボンドロップシール（白黒、柴犬、猫）",
+      "sightingTime": "2026-09-17 12:45頃",
+      "statusText": "在庫あり（白黒、柴犬、猫のデザインを購入）",
+      "confidenceMemo": "「伊奈のドンキ（伊那店）」と具体的な店舗名が特定されており、実際に購入した情報であるため信頼性が高い。同ツイート内の飛騨高山の土産屋については店名が不明なため除外。",
+      "sourceUrl": "https://x.com/0KtOBPA7beGxsUS/status/2100566766971699709",
+      "sourceTweetId": "2100566766971699709",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2100566766971699709.png",
+      "isPosted": true,
+      "wpPostId": 18708,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-nagano-unknown-2026-09-17/",
+      "postedAt": "2026-09-17T23:05:37.852+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "東京都",
+      "city": "新宿区",
+      "shopName": "紀伊國屋書店 新宿本店",
+      "shopAddress": "東京都新宿区新宿3-17-7",
+      "productName": "十二国記 ぷっくりシール",
+      "sightingTime": "2026-09-16 21:00頃",
+      "statusText": "在庫あり（新刊発売記念の配布を確認）",
+      "confidenceMemo": "「新宿で十二国記祭りに参戦」との記述から、メイン会場である新宿本店での入手と特定。閉店間際での獲得情報。",
+      "sourceUrl": "https://x.com/marizomw/status/2100565010619699224",
+      "sourceTweetId": "2100565010619699224",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2100565010619699224.png",
+      "isPosted": true,
+      "wpPostId": 18710,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-tokyo-unknown-2026-09-16-2/",
+      "postedAt": "2026-09-17T23:05:44.406+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "千葉県",
+      "city": "船橋市",
+      "shopName": "くまざわ書店 下総中山店",
+      "shopAddress": "千葉県船橋市本中山2-10-1 ミレニティ中山4F",
+      "productName": "十二国記 ぷっくりシール",
+      "sightingTime": "2026-09-17 12:43頃",
+      "statusText": "在庫あり（カウンター配布および新刊への封入）",
+      "confidenceMemo": "「なかましんぶん」名義の店舗公式アカウントによる、売り場作成と配布開始の具体的告知。",
+      "sourceUrl": "https://x.com/NAKAMAshinbun/status/2100566349475144130",
+      "sourceTweetId": "2100566349475144130",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2100566349475144130.png",
+      "isPosted": true,
+      "wpPostId": 18712,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-chiba-unknown-2026-09-17-2/",
+      "postedAt": "2026-09-17T23:05:50.847+09:00"
     }
   ]
 }
