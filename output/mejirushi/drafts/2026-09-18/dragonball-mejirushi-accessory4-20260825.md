@@ -1,4 +1,9 @@
 ---
+postedAt: "2026-09-18T06:10:39.585Z"
+wpPostUrl: "https://www.seal-search.com/mejirushi/dragonball-mejirushi-accessory4-20260825/"
+wpPostId: 18772
+posted: true
+imageGenerated: true
 type: mejirushi
 status: draft
 title: "【8月発売】ドラゴンボール めじるしアクセサリー4"

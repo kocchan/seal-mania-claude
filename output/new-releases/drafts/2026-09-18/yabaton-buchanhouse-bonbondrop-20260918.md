@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-09-18T06:09:51.320Z"
+wpPostUrl: "https://www.seal-search.com/news/new-item/yabaton-buchanhouse-bonbondrop-20260918/"
+wpPostId: 18763
+posted: true
 type: new-item
 status: draft
 title: "【9/18開店】矢場とん「ぶーちゃんハウス」でボンボンドロップシール販売"

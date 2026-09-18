@@ -1,4 +1,9 @@
 ---
+postedAt: "2026-09-18T06:11:02.248Z"
+wpPostUrl: "https://www.seal-search.com/mejirushi/ganpurakun-mejirushi-accessory2-20260908/"
+wpPostId: 18778
+posted: true
+imageGenerated: true
 type: mejirushi
 status: draft
 title: "【9月発売】めじるしアクセサリー ガンプラくんⅡ"

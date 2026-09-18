@@ -1,4 +1,9 @@
 ---
+postedAt: "2026-09-18T06:10:28.242Z"
+wpPostUrl: "https://www.seal-search.com/mejirushi/disney-mejirushi-accessory-halloween-20260908/"
+wpPostId: 18769
+posted: true
+imageGenerated: true
 type: mejirushi
 status: draft
 title: "【9月発売】ディズニー めじるしアクセサリーHalloween"

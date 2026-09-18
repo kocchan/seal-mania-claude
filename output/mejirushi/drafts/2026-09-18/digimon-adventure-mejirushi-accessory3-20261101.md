@@ -1,4 +1,9 @@
 ---
+postedAt: "2026-09-18T06:10:17.795Z"
+wpPostUrl: "https://www.seal-search.com/mejirushi/digimon-adventure-mejirushi-accessory3-20261101/"
+wpPostId: 18766
+posted: true
+imageGenerated: true
 type: mejirushi
 status: draft
 title: "【11月発売】デジモンアドベンチャー めじるしアクセサリー3"

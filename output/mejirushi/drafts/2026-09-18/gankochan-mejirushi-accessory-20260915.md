@@ -1,4 +1,9 @@
 ---
+postedAt: "2026-09-18T06:10:50.520Z"
+wpPostUrl: "https://www.seal-search.com/mejirushi/gankochan-mejirushi-accessory-20260915/"
+wpPostId: 18775
+posted: true
+imageGenerated: true
 type: mejirushi
 status: draft
 title: "【9月第3週】ざわざわ森のがんこちゃん めじるしアクセサリー"

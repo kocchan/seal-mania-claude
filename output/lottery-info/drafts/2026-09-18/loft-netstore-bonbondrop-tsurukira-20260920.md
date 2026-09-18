@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-09-18T06:09:36.145Z"
+wpPostUrl: "https://www.seal-search.com/news/reservation/loft-netstore-bonbondrop-tsurukira-20260920/"
+wpPostId: 18760
+posted: true
 imageGenerated: true
 type: lottery
 status: draft

@@ -1,4 +1,9 @@
 ---
+postedAt: "2026-09-18T06:11:36.112Z"
+wpPostUrl: "https://www.seal-search.com/mejirushi/odorudaisousasen-mejirushi-gachamascot-20260921/"
+wpPostId: 18787
+posted: true
+imageGenerated: true
 type: mejirushi
 status: draft
 title: "【9月下旬発売】踊る大捜査線 めじるしガチャマスコット"
