@@ -1,7 +1,7 @@
 {
   "date": "2026-09-18",
-  "updatedAt": "2026-09-18T19:57:48.281+09:00",
-  "count": 40,
+  "updatedAt": "2026-09-18T22:20:43.941+09:00",
+  "count": 42,
   "articles": [
     {
       "isSighting": true,
@@ -762,6 +762,44 @@
       "wpPostId": 18827,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-saitama-omiya-saitama-2026-09-18/",
       "postedAt": "2026-09-18T19:59:07.061+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "東京都",
+      "city": "新宿区",
+      "shopName": "紀伊國屋書店 新宿本店",
+      "shopAddress": "東京都新宿区新宿3-17-7",
+      "productName": "十二国記 ぷっくりシール（購入特典）",
+      "sightingTime": "2026-09-18 11:20頃",
+      "statusText": "在庫あり（レジ行列ができるほどの勢い）",
+      "confidenceMemo": "具体的な店舗名（本店）と混雑状況の記載があり、信頼性が高い。",
+      "sourceUrl": "https://x.com/kei_FRR/status/2100907903435911538",
+      "sourceTweetId": "2100907903435911538",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2100907903435911538.png",
+      "isPosted": true,
+      "wpPostId": 18829,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-tokyo-shinjuku-2026-09-18-2/",
+      "postedAt": "2026-09-18T22:20:50.837+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "宮崎県",
+      "city": "西都市",
+      "shopName": "ダイナム宮崎西都店",
+      "shopAddress": "宮崎県西都市大字右松2550番地1",
+      "productName": "ダイキチぷっくりシール",
+      "sightingTime": "2026-09-19 10:10頃（入荷予定）",
+      "statusText": "2026年9月19日より新景品として入荷予定",
+      "confidenceMemo": "店舗公式アカウントによる発信。未来の入荷情報のため、予測フラグをtrueに設定。",
+      "sourceUrl": "https://x.com/dynam_00235/status/2100902854001098840",
+      "sourceTweetId": "2100902854001098840",
+      "isPrediction": true,
+      "imagePath": "output/sightings/images/2100902854001098840.png",
+      "isPosted": true,
+      "wpPostId": 18831,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-miyazaki-west-2026-09-19/",
+      "postedAt": "2026-09-18T22:20:57.012+09:00"
     }
   ]
 }
