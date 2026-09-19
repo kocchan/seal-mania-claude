@@ -1,4 +1,9 @@
 ---
+postedAt: "2026-09-19T06:09:03.149Z"
+wpPostUrl: "https://www.seal-search.com/mejirushi/fisherprice-mejirushi-accessory-20260922/"
+wpPostId: 19025
+posted: true
+imageGenerated: true
 type: mejirushi
 status: draft
 title: "【9月発売】フィッシャープライス めじるしアクセサリー"

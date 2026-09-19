@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-09-19T06:08:40.627Z"
+wpPostUrl: "https://www.seal-search.com/news/new-item/chiikawa-land-line-lottery-20260920/"
+wpPostId: 19020
+posted: true
 type: lottery
 status: draft
 title: "【9/20締切】ちいかわらんどでボンボンドロップシール新作3種の入店抽選！LINE申込方法まとめ"

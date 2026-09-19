@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-09-19T06:08:32.368Z"
+wpPostUrl: "https://www.seal-search.com/character/kyoto-aquarium-bonbondrop-20260919/"
+wpPostId: 19018
+posted: true
 type: newproduct
 status: draft
 title: "【9/19発売】京都水族館ボンボンドロップシール"

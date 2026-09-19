@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-09-19T06:08:47.934Z"
+wpPostUrl: "https://www.seal-search.com/news/new-item/kyoto-aquarium-bonbondrop-online-20260919/"
+wpPostId: 19022
+posted: true
 type: new-release
 status: draft
 title: "【9/19 12時〜】京都水族館ボンボンドロップシールがオンラインで初販売！購入方法まとめ"
