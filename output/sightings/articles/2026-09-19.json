@@ -1,7 +1,7 @@
 {
   "date": "2026-09-19",
-  "updatedAt": "2026-09-19T19:42:00.686+09:00",
-  "count": 32,
+  "updatedAt": "2026-09-19T21:51:39.598+09:00",
+  "count": 33,
   "articles": [
     {
       "isSighting": true,
@@ -610,6 +610,25 @@
       "wpPostId": 19047,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-tochigi-yaita-2026-09-19/",
       "postedAt": "2026-09-19T19:42:26.962+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "香川県",
+      "city": "綾歌郡宇多津町",
+      "shopName": "四国水族館",
+      "shopAddress": "香川県綾歌郡宇多津町浜一番丁4",
+      "productName": "四国水族館限定 ボンボンドロップシール",
+      "sightingTime": "2026-09-19 21:40頃",
+      "statusText": "在庫あり（譲渡・交換募集が出る程度には流通）",
+      "confidenceMemo": "施設限定商品の所有および譲渡情報により、当該店舗での取り扱いを確認",
+      "sourceUrl": "https://x.com/NTlnVmhwcULtkD1/status/2101290321200165296",
+      "sourceTweetId": "2101290321200165296",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2101290321200165296.png",
+      "isPosted": true,
+      "wpPostId": 19049,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-kagawa-utazu-ayaka-district-2026-09-19/",
+      "postedAt": "2026-09-19T21:51:47.136+09:00"
     }
   ]
 }
