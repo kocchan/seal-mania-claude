@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-09-20T06:32:54.872Z"
+wpPostUrl: "https://www.seal-search.com/character/lilalamode-bonbondrop-202612/"
+wpPostId: 19096
+posted: true
 type: newproduct
 status: draft
 title: "【12月発売】Lil ala mode ボンドロ新作"

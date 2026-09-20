@@ -1,4 +1,9 @@
 ---
+postedAt: "2026-09-20T06:33:11.229Z"
+wpPostUrl: "https://www.seal-search.com/mejirushi/nintama-mejirushi-20260918/"
+wpPostId: 19099
+posted: true
+imageGenerated: true
 type: mejirushi
 status: draft
 title: "【9/24締切】忍たま乱太郎めじるしアクセサリー予約"
