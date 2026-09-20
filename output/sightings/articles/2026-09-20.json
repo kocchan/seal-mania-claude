@@ -1,7 +1,7 @@
 {
   "date": "2026-09-20",
-  "updatedAt": "2026-09-20T17:12:47.348+09:00",
-  "count": 29,
+  "updatedAt": "2026-09-20T20:05:01.731+09:00",
+  "count": 31,
   "articles": [
     {
       "isSighting": true,
@@ -553,6 +553,44 @@
       "wpPostId": 19111,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-toyama-imizu-2026-09-20/",
       "postedAt": "2026-09-20T17:13:35.727+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "兵庫県",
+      "city": "神戸市北区",
+      "shopName": "島村楽器 イオンモール神戸北店",
+      "shopAddress": "兵庫県神戸市北区上津台8-1-1 イオンモール神戸北 3F",
+      "productName": "ちいかわのキラキラぷっくりシール",
+      "sightingTime": "2026-09-20 19:50頃",
+      "statusText": "入荷・在庫あり",
+      "confidenceMemo": "店舗公式アカウントによる写真付き入荷告知。ちいかわ、しんちゃん、ディズニープリンセス等の種類に言及あり。商品名は「ぷっくりシール」表記だがボンボンドロップシールと同種の製品カテゴリとして抽出。",
+      "sourceUrl": "https://x.com/shima_kobek/status/2101625044728504597",
+      "sourceTweetId": "2101625044728504597",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2101625044728504597.png",
+      "isPosted": true,
+      "wpPostId": 19113,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-hyogo-unknown-2026-09-20/",
+      "postedAt": "2026-09-20T20:05:07.769+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "愛媛県",
+      "city": "松山市",
+      "shopName": "ガシャポンのデパート フジグラン松山店",
+      "shopAddress": "愛媛県松山市宮西1丁目2-1 フジグラン松山 4F",
+      "productName": "mojojojoうるちゅるPOPシール プチキーホルダー",
+      "sightingTime": "2026-09-12 06:33頃",
+      "statusText": "完売（再入荷未定）",
+      "confidenceMemo": "店舗公式アカウントによる完売情報の告知。具体的な店舗名と入荷履歴が含まれている。",
+      "sourceUrl": "https://x.com/gasha_matuyama/status/2101605110354993642",
+      "sourceTweetId": "2101605110354993642",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2101605110354993642.png",
+      "isPosted": true,
+      "wpPostId": 19115,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-ehime-matsuyama-2026-09-12-2/",
+      "postedAt": "2026-09-20T20:05:14.135+09:00"
     }
   ]
 }
