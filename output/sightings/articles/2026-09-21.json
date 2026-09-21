@@ -1,7 +1,7 @@
 {
   "date": "2026-09-21",
-  "updatedAt": "2026-09-21T21:31:58.296+09:00",
-  "count": 37,
+  "updatedAt": "2026-09-22T00:36:11.618+09:00",
+  "count": 38,
   "articles": [
     {
       "isSighting": true,
@@ -705,6 +705,25 @@
       "wpPostId": 19214,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-hokkaido-kita-sapporo-2026-09-25/",
       "postedAt": "2026-09-21T21:32:59.953+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "北海道",
+      "city": "旭川市",
+      "shopName": "アモールショッピングセンター",
+      "shopAddress": "北海道旭川市豊岡3条2丁目2-19",
+      "productName": "ボンボンドロップシール（サンリオキャラクターズ：エモきゅん、くろうさ、しろうさ、ポムポムプリン）",
+      "sightingTime": "2026-09-21 23:30頃",
+      "statusText": "在庫あり（入荷情報あり、実際に3回購入）",
+      "confidenceMemo": "投稿内の「アルティモール」と「アモール」の名称から、北海道旭川市および東神楽町に隣接する商業施設と特定。購入の事実が明確。",
+      "sourceUrl": "https://x.com/pe_pp6/status/2102044686479495469",
+      "sourceTweetId": "2102044686479495469",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2102044686479495469.png",
+      "isPosted": true,
+      "wpPostId": 19216,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-hokkaido-unknown-2026-09-21/",
+      "postedAt": "2026-09-22T00:36:18.819+09:00"
     }
   ]
 }
