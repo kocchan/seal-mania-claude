@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-09-21T06:39:39.626Z"
+wpPostUrl: "https://www.seal-search.com/news/reservation/gashapon-nintama-mejirushi-20260924/"
+wpPostId: 19145
+posted: true
 imageGenerated: true
 type: lottery
 status: draft

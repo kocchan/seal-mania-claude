@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-09-21T06:39:55.933Z"
+wpPostUrl: "https://www.seal-search.com/news/new-item/nameko-bonbondrop-popup-20261002/"
+wpPostId: 19148
+posted: true
 imageGenerated: true
 type: new-release
 status: draft

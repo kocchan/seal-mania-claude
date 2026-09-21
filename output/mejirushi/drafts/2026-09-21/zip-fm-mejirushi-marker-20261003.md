@@ -1,4 +1,9 @@
 ---
+postedAt: "2026-09-21T06:40:48.965Z"
+wpPostUrl: "https://www.seal-search.com/mejirushi/zip-fm-mejirushi-marker-20261003/"
+wpPostId: 19160
+posted: true
+imageGenerated: true
 type: mejirushi
 status: draft
 title: "【10/3発売】ZIP-FM 番組ロゴめじるしマーカー"

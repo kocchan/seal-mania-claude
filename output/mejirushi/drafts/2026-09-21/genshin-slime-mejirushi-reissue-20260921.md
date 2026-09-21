@@ -1,4 +1,9 @@
 ---
+postedAt: "2026-09-21T06:40:16.445Z"
+wpPostUrl: "https://www.seal-search.com/mejirushi/genshin-slime-mejirushi-reissue-20260921/"
+wpPostId: 19151
+posted: true
+imageGenerated: true
 type: mejirushi
 status: draft
 title: "【9月第4週再販】原神 スライム めじるしアクセサリー"

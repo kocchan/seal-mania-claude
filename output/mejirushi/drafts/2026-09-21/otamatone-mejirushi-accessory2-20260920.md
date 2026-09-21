@@ -1,4 +1,9 @@
 ---
+postedAt: "2026-09-21T06:40:38.349Z"
+wpPostUrl: "https://www.seal-search.com/mejirushi/otamatone-mejirushi-accessory2-20260920/"
+wpPostId: 19157
+posted: true
+imageGenerated: true
 type: mejirushi
 status: draft
 title: "【新色登場】オタマトーン めじるしアクセサリー2"

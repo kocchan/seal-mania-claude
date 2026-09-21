@@ -1,4 +1,9 @@
 ---
+postedAt: "2026-09-21T06:40:28.561Z"
+wpPostUrl: "https://www.seal-search.com/mejirushi/himeji-centralpark-asiazou-mejirushi-20260919/"
+wpPostId: 19154
+posted: true
+imageGenerated: true
 type: mejirushi
 status: draft
 title: "【9/19発売】アジアゾウ親子 傘めじるしチャーム"

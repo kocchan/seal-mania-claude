@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-09-21T06:39:46.959Z"
+wpPostUrl: "https://www.seal-search.com/character/malatang-apiru-charm-20260909/"
+wpPostId: 19146
+posted: true
 type: newproduct
 status: draft
 title: "【9/9発売】麻辣湯アピるチャーム - ターリン新作レビュー"
