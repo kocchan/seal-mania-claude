@@ -1,7 +1,7 @@
 {
   "date": "2026-09-21",
-  "updatedAt": "2026-09-22T00:36:11.618+09:00",
-  "count": 38,
+  "updatedAt": "2026-09-22T03:05:07.330+09:00",
+  "count": 39,
   "articles": [
     {
       "isSighting": true,
@@ -724,6 +724,25 @@
       "wpPostId": 19216,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-hokkaido-unknown-2026-09-21/",
       "postedAt": "2026-09-22T00:36:18.819+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "大阪府",
+      "city": "吹田市",
+      "shopName": "吹田サービスエリア",
+      "shopAddress": "大阪府吹田市岸部北",
+      "productName": "ボンボンドロップ",
+      "sightingTime": "2026-09-22 16:36頃",
+      "statusText": "在庫あり（購入報告あり）",
+      "confidenceMemo": "「吹田のSA」という具体的な場所指定と、写真付きの購入報告があるため信頼性が高い。",
+      "sourceUrl": "https://x.com/nikoniko_pote2/status/2102074605410324794",
+      "sourceTweetId": "2102074605410324794",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2102074605410324794.png",
+      "isPosted": true,
+      "wpPostId": 19218,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-osaka-unknown-2026-09-22/",
+      "postedAt": "2026-09-22T03:05:14.724+09:00"
     }
   ]
 }
