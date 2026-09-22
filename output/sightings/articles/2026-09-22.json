@@ -1,7 +1,7 @@
 {
   "date": "2026-09-22",
-  "updatedAt": "2026-09-22T20:21:52.082+09:00",
-  "count": 47,
+  "updatedAt": "2026-09-23T01:38:16.285+09:00",
+  "count": 48,
   "articles": [
     {
       "isSighting": true,
@@ -895,6 +895,25 @@
       "wpPostId": 19316,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-saitama-kawagoe-2026-09-22/",
       "postedAt": "2026-09-22T20:22:03.532+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "東京都",
+      "city": "品川区",
+      "shopName": "フジ薬局",
+      "shopAddress": "東京都品川区小山3-24-7",
+      "productName": "ボンボンドロップシール（ハローキティ）",
+      "sightingTime": "2026-09-23 14:43頃",
+      "statusText": "在庫あり",
+      "confidenceMemo": "具体的な店名と写真付きの投稿。付近の飲食店（晩杯屋）への言及から武蔵小山駅前の店舗と特定。",
+      "sourceUrl": "https://x.com/mimiwosumaseya/status/2102408528891875404",
+      "sourceTweetId": "2102408528891875404",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2102408528891875404.png",
+      "isPosted": true,
+      "wpPostId": 19318,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-tokyo-shinagawa-2026-09-23/",
+      "postedAt": "2026-09-23T01:38:26.408+09:00"
     }
   ]
 }
