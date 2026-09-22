@@ -1,7 +1,7 @@
 {
   "date": "2026-09-22",
-  "updatedAt": "2026-09-22T17:11:00.707+09:00",
-  "count": 45,
+  "updatedAt": "2026-09-22T20:21:52.082+09:00",
+  "count": 47,
   "articles": [
     {
       "isSighting": true,
@@ -857,6 +857,44 @@
       "wpPostId": 19312,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-gifu-ogaki-2026-09-22/",
       "postedAt": "2026-09-22T17:11:53.894+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "岡山県",
+      "city": "岡山市",
+      "shopName": "丸善 岡山シンフォニービル店",
+      "shopAddress": "岡山県岡山市北区表町1-5-1 岡山シンフォニービル内",
+      "productName": "プチドロップ、うるちゅる",
+      "sightingTime": "2026-09-22 19:23頃",
+      "statusText": "入荷・在庫あり",
+      "confidenceMemo": "店舗公式アカウントによる入荷報告。写真付きで信頼性が高い",
+      "sourceUrl": "https://x.com/maruzen_okayama/status/2102342979159740861",
+      "sourceTweetId": "2102342979159740861",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2102342979159740861.png",
+      "isPosted": true,
+      "wpPostId": 19314,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-okayama-okayama-2026-09-22/",
+      "postedAt": "2026-09-22T20:21:57.463+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "埼玉県",
+      "city": "川越市",
+      "shopName": "丸善 川越丸広店",
+      "shopAddress": "埼玉県川越市新富町2-6-1 丸広百貨店川越店別館",
+      "productName": "プチドロップステッカー、うるちゅるPOPシール、みにちゅあポップシール",
+      "sightingTime": "2026-09-22 09:56頃",
+      "statusText": "入荷・在庫あり（サンリオ、ディズニー等）",
+      "confidenceMemo": "店舗公式アカウントによる入荷報告。具体的なブランド名（サンリオ等）の言及があり、写真付きで信頼性が高い",
+      "sourceUrl": "https://x.com/maruzenkawagoe/status/2102336222194762137",
+      "sourceTweetId": "2102336222194762137",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2102336222194762137.png",
+      "isPosted": true,
+      "wpPostId": 19316,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-saitama-kawagoe-2026-09-22/",
+      "postedAt": "2026-09-22T20:22:03.532+09:00"
     }
   ]
 }
