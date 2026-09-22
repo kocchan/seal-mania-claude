@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-09-22T06:27:46.551Z"
+wpPostUrl: "https://www.seal-search.com/character/anehime-vol21-nandemo-ikimono-sticker-20260925/"
+wpPostId: 19293
+posted: true
 type: newproduct
 status: draft
 title: "【9/25発売】なんでもいきものシール帳 - Ane♡ひめ付録"
