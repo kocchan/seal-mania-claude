@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-09-23T06:11:59.870Z"
+wpPostUrl: "https://www.seal-search.com/news/new-item/mofusand-bonbondrop2-202609/"
+wpPostId: 19362
+posted: true
 imageGenerated: true
 type: new-release
 status: draft
