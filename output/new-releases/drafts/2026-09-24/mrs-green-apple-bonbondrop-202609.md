@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-09-24T06:22:02.312Z"
+wpPostUrl: "https://www.seal-search.com/news/new-item/mrs-green-apple-bonbondrop-202609-2/"
+wpPostId: 19419
+posted: true
 type: new-release
 status: draft
 title: "【9/26締切】Mrs. GREEN APPLEボンボンドロップシール先行抽選！全4種セット"

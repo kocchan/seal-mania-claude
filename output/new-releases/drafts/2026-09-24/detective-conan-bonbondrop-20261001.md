@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-09-24T06:21:53.685Z"
+wpPostUrl: "https://www.seal-search.com/news/new-item/detective-conan-bonbondrop-20261001/"
+wpPostId: 19417
+posted: true
 type: new-release
 status: draft
 title: "【速報】名探偵コナンのボンボンドロップシール登場！価格550円・発売日近日公開"
