@@ -1,7 +1,7 @@
 {
   "date": "2026-09-24",
-  "updatedAt": "2026-09-24T20:29:36.652+09:00",
-  "count": 26,
+  "updatedAt": "2026-09-24T23:00:29.369+09:00",
+  "count": 29,
   "articles": [
     {
       "isSighting": true,
@@ -496,6 +496,63 @@
       "wpPostId": 19451,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-aomori-hachinohe-2026-09-24/",
       "postedAt": "2026-09-24T20:30:56.803+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "神奈川県",
+      "city": "海老名市",
+      "shopName": "アニメイト海老名マルイ",
+      "shopAddress": "神奈川県海老名市中央1-6-1 マルイファミリー海老名 5F",
+      "productName": "「エスターバニー」×「マイメロディ」のぷっくりシール",
+      "sightingTime": "2026-09-24 12:13頃",
+      "statusText": "入荷（在庫あり）",
+      "confidenceMemo": "店舗公式アカウントによる入荷情報。当該コラボのぷっくりシールはボンボンドロップシールシリーズで展開されているため抽出。",
+      "sourceUrl": "https://x.com/animateebina/status/2103095466779111876",
+      "sourceTweetId": "2103095466779111876",
+      "isPrediction": true,
+      "imagePath": "output/sightings/images/2103095466779111876.png",
+      "isPosted": true,
+      "wpPostId": 19453,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-kanagawa-ebina-2026-09-24/",
+      "postedAt": "2026-09-24T23:00:36.645+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "神奈川県",
+      "city": "横浜市",
+      "shopName": "アニメイト横浜ビブレ",
+      "shopAddress": "神奈川県横浜市西区南幸2-15-13 横浜ビブレ 8F",
+      "productName": "「エスターバニー」×「マイメロディ」のぷっくりシール",
+      "sightingTime": "2026-09-24 11:47頃",
+      "statusText": "入荷（在庫あり）",
+      "confidenceMemo": "店舗公式アカウントによる入荷情報。横浜ビブレ内の特定店舗であり信頼性が高い。",
+      "sourceUrl": "https://x.com/ani_yokohama/status/2103088973430325264",
+      "sourceTweetId": "2103088973430325264",
+      "isPrediction": true,
+      "imagePath": "output/sightings/images/2103088973430325264.png",
+      "isPosted": true,
+      "wpPostId": 19455,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-kanagawa-yokohama-2026-09-24/",
+      "postedAt": "2026-09-24T23:00:42.812+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "東京都",
+      "city": "渋谷区",
+      "shopName": "ハンズ新宿店",
+      "shopAddress": "東京都渋谷区千駄ヶ谷5-24-2 タイムズスクエアビル",
+      "productName": "立体シール（ドラえもん、ボンボンドロップシール）",
+      "sightingTime": "2026-09-24 12:29頃",
+      "statusText": "在庫あり（在庫豊富）",
+      "confidenceMemo": "具体的な店舗名（新宿のハンズ）と購入報告があり、在庫が山の様にあるとの記述から信頼性が高い。ドラえもんの立体シールはボンボンドロップシリーズの主要ラインナップに含まれる。",
+      "sourceUrl": "https://x.com/new_yadoroku/status/2103099463233585439",
+      "sourceTweetId": "2103099463233585439",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2103099463233585439.png",
+      "isPosted": true,
+      "wpPostId": 19457,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-tokyo-shibuya-2026-09-24/",
+      "postedAt": "2026-09-24T23:00:48.738+09:00"
     }
   ]
 }
