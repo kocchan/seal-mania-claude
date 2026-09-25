@@ -1,0 +1,20 @@
+---
+source: rss
+url: "https://www.inside-games.jp/article/2026/09/25/188212.html"
+title: "「ボンボンドロップシール」ちいかわの新作が発売！寿司モチーフや“Chiikawa Baby”など全3種 | インサイド"
+siteName: "インサイド"
+publishedAt: "2026-09-24T15:12:55Z"
+fetchedAt: "2026-09-25T02:06:16.422Z"
+fetchMethod: axios
+ogImage: "https://www.inside-games.jp/imgs/ogp_f/1779405.jpg"
+description: "「ボンボンドロップシール ちいかわ」の新デザインが登場！「ちいかわ寿司」「Chiikawa Baby」「ちいかわらんど」の3種類。"
+---
+
+## RSS要約
+
+ボンボンドロップシール 公式X（旧Twitter）は、「 ボンボンドロップシール ちいかわ」の新作を9月25日に発売します。
+
+## 本文HTML（サニタイズ済み）
+
+<html><head></head><body><figure class="ctms-editor-twitter"><blockquote class="twitter-tweet" data-conversation=""><a href="https://twitter.com/bonbon_drop/status/2098335744691458342"></a></blockquote></figure><p>ボンボンドロップシール公式X（旧Twitter）は、<b>「ボンボンドロップシール ちいかわ」</b>の新作を9月25日に発売します。</p><h2>◆「ボンボンドロップシール ちいかわ」の新デザイン全3種！</h2><p>人気の「ボンボンドロップシール ちいかわ」より新デザインが登場。ラインナップは「ちいかわ寿司」「Chiikawa Baby」「ちいかわらんど」の3種類です。</p><h3>■ちいかわ寿司 ボンボンドロップシール</h3><figure class="ctms-editor-image"><img src="https://www.inside-games.jp/imgs/zoom/1779406.jpg" class="inline-article-image" width="640" height="639"></figure><figure class="ctms-editor-image"><img src="https://www.inside-games.jp/imgs/zoom/1779407.jpg" class="inline-article-image" width="640" height="639"></figure><h3>■Chiikawa Baby ボンボンドロップシール</h3><figure class="ctms-editor-image"><img src="https://www.inside-games.jp/imgs/zoom/1779408.jpg" class="inline-article-image" width="640" height="639"></figure><figure class="ctms-editor-image"><img src="https://www.inside-games.jp/imgs/zoom/1779409.jpg" class="inline-article-image" width="640" height="639"></figure><h3>■ちいかわらんど ボンボンドロップシール</h3><figure class="ctms-editor-image"><img src="https://www.inside-games.jp/imgs/zoom/1779410.jpg" class="inline-article-image" width="640" height="639"></figure><figure class="ctms-editor-image"><img src="https://www.inside-games.jp/imgs/zoom/1779411.jpg" class="inline-article-image" width="640" height="639"></figure><hr><p>「ボンボンドロップシール ちいかわ」の新作はちいかわマーケット（オンライン）、ちいかわらんど、ちいかわPOP UP SHOPにて2026年9月25日より発売予定。クーリア公式通販での販売は後日お知らせされます。</p><div class="af_box"><!-- start --><div class="af_list"><div class="af_box_left"><a href="https://www.amazon.co.jp/dp/B0H8DC9X13?tag=insidegames-22&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank"><img src="https://m.media-amazon.com/images/I/41V-lJW5mrL._SL160_.jpg" class="af_box_image"></a></div><div class="af_box_right"><b><a href="https://www.amazon.co.jp/dp/B0H8DC9X13?tag=insidegames-22&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank">サンリオ(SANRIO) ビーズ入りぷっくりシール シナモロール 対象年齢3才以上 226629</a></b><br><b>￥396</b><br><span>(価格・在庫状況は記事公開時点のものです)</span><br><div class="af_box_link_amazon"><a href="https://www.amazon.co.jp/dp/B0H8DC9X13?tag=insidegames-22&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank">Amazon</a></div><div class="af_box_link_rakuten"><a href="https://hb.afl.rakuten.co.jp/hgc/09af142d.3ed07ccc.09af142e.da82fa9e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2582%25B7%25E3%2583%25BC%25E3%2583%25AB%2F" target="_blank">楽天市場</a></div></div></div><!-- //end --></div><div class="af_box"><!-- start --><div class="af_list"><div class="af_box_left"><a href="https://www.amazon.co.jp/dp/B0H7GYH1S1?tag=insidegames-22&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank"><img src="https://m.media-amazon.com/images/I/41ONB6vraGL._SL160_.jpg" class="af_box_image"></a></div><div class="af_box_right"><b><a href="https://www.amazon.co.jp/dp/B0H7GYH1S1?tag=insidegames-22&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank">グリーティングライフ ぷっくり シール ＵＭＡ GLCK-81</a></b><br><b>￥498</b><br><span>(価格・在庫状況は記事公開時点のものです)</span><br><div class="af_box_link_amazon"><a href="https://www.amazon.co.jp/dp/B0H7GYH1S1?tag=insidegames-22&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank">Amazon</a></div><div class="af_box_link_rakuten"><a href="https://hb.afl.rakuten.co.jp/hgc/09af142d.3ed07ccc.09af142e.da82fa9e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2582%25B7%25E3%2583%25BC%25E3%2583%25AB%2F" target="_blank">楽天市場</a></div></div></div><!-- //end --></div>
+</body></html>
