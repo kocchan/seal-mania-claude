@@ -1,7 +1,7 @@
 {
   "date": "2026-09-25",
-  "updatedAt": "2026-09-25T20:34:47.465+09:00",
-  "count": 52,
+  "updatedAt": "2026-09-26T08:46:37.194+09:00",
+  "count": 53,
   "articles": [
     {
       "isSighting": true,
@@ -990,6 +990,25 @@
       "wpPostId": 19579,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-kanagawa-chuo-sagamihara-2026-09-25/",
       "postedAt": "2026-09-25T20:35:36.380+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "富山県",
+      "city": "富山市",
+      "shopName": "ファボーレ（ちいかわポップアップストア）",
+      "shopAddress": "富山県富山市婦中町下轡田165-1",
+      "productName": "ちいかわ ボンボンドロップシール",
+      "sightingTime": "2026-09-25 20:00頃",
+      "statusText": "完売（売り場が他の商品に変更されており、再入荷の見込み薄）",
+      "confidenceMemo": "店舗名が具体的で、現地の写真に基づいた在庫状況の報告であるため信頼性が高い。",
+      "sourceUrl": "https://x.com/CING79zc1b1lP0D/status/2103599132132999605",
+      "sourceTweetId": "2103599132132999605",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2103599132132999605.png",
+      "isPosted": true,
+      "wpPostId": 19581,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-toyama-toyama-2026-09-25-4/",
+      "postedAt": "2026-09-26T08:46:44.282+09:00"
     }
   ]
 }
