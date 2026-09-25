@@ -1,4 +1,9 @@
 ---
+postedAt: "2026-09-25T06:18:17.128Z"
+wpPostUrl: "https://www.seal-search.com/mejirushi/yuyuhakusho-mejirushi-accessory-20260918/"
+wpPostId: 19513
+posted: true
+imageGenerated: true
 type: mejirushi
 status: draft
 title: "【9月第3週発売】幽☆遊☆白書 めじるしアクセサリー"

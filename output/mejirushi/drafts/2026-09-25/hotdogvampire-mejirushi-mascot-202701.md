@@ -1,4 +1,9 @@
 ---
+postedAt: "2026-09-25T06:17:52.498Z"
+wpPostUrl: "https://www.seal-search.com/mejirushi/hotdogvampire-mejirushi-mascot-202701/"
+wpPostId: 19507
+posted: true
+imageGenerated: true
 type: mejirushi
 status: draft
 title: "【2027年1月発売】ホットドッグ・ヴァンパイア 目印マスコット"

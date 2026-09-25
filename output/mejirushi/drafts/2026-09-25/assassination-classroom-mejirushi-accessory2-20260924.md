@@ -1,4 +1,9 @@
 ---
+postedAt: "2026-09-25T06:17:40.939Z"
+wpPostUrl: "https://www.seal-search.com/mejirushi/assassination-classroom-mejirushi-accessory2-20260924/"
+wpPostId: 19504
+posted: true
+imageGenerated: true
 type: mejirushi
 status: draft
 title: "【9月第4週発売】暗殺教室 めじるしアクセサリー2"

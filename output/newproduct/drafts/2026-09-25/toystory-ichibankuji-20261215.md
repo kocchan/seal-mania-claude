@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-09-25T06:17:06.354Z"
+wpPostUrl: "https://www.seal-search.com/character/toystory-ichibankuji-20261215/"
+wpPostId: 19497
+posted: true
 type: newproduct
 status: draft
 title: "【12月中旬発売】一番くじ「トイ・ストーリー」新作"

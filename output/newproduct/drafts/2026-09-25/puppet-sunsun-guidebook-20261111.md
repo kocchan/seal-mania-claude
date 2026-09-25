@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-09-25T06:17:00.505Z"
+wpPostUrl: "https://www.seal-search.com/character/puppet-sunsun-guidebook-20261111/"
+wpPostId: 19496
+posted: true
 type: newproduct
 status: draft
 title: "【11/11発売】パペットスンスン - 初ガイドブックレビュー"

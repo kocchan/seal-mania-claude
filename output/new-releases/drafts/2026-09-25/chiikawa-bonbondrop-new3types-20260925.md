@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-09-25T06:17:15.102Z"
+wpPostUrl: "https://www.seal-search.com/news/new-item/chiikawa-bonbondrop-new3types-20260925-2/"
+wpPostId: 19499
+posted: true
 type: new-release
 status: draft
 title: "【9/25発売】ちいかわボンボンドロップシール新作3種！寿司・Baby・らんど登場"

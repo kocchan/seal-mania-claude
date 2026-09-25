@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-09-25T06:17:22.462Z"
+wpPostUrl: "https://www.seal-search.com/news/new-item/sunstar-online-store-snoopy-churukira-lottery-20260925/"
+wpPostId: 19501
+posted: true
 type: new-release
 status: draft
 title: "【9/27締切】サンスター文具公式通販でスヌーピーchurukiraボンボンドロップシール4点セット抽選"

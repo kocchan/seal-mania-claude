@@ -1,4 +1,9 @@
 ---
+postedAt: "2026-09-25T06:18:04.892Z"
+wpPostUrl: "https://www.seal-search.com/mejirushi/petitcure-mejirushi-accessory2-20260919/"
+wpPostId: 19510
+posted: true
+imageGenerated: true
 type: mejirushi
 status: draft
 title: "【9月第3週発売】ぷちきゅあ めじるしアクセサリー2"
