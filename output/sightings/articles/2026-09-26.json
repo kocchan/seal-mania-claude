@@ -1,7 +1,7 @@
 {
   "date": "2026-09-26",
-  "updatedAt": "2026-09-27T01:06:16.480+09:00",
-  "count": 33,
+  "updatedAt": "2026-09-27T08:22:30.847+09:00",
+  "count": 34,
   "articles": [
     {
       "isSighting": true,
@@ -629,6 +629,25 @@
       "wpPostId": 19839,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-ehime-niihama-2026-09-27/",
       "postedAt": "2026-09-27T01:06:23.342+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "福岡県",
+      "city": "田川市",
+      "shopName": "ダイナム福岡田川店",
+      "shopAddress": "福岡県田川市大字伊加利1818-12",
+      "productName": "ぷっくりシール(くまモンバージョン)",
+      "sightingTime": "2026-09-27 07:25頃",
+      "statusText": "新景品入荷（整理券配布・抽選あり）",
+      "confidenceMemo": "店舗公式アカウントによる入荷情報。商品名が『ぷっくりシール』であり、ボンボンドロップシールと同カテゴリの商品であるため抽出。",
+      "sourceUrl": "https://x.com/dynam_00385/status/2103974161764778434",
+      "sourceTweetId": "2103974161764778434",
+      "isPrediction": true,
+      "imagePath": "output/sightings/images/2103974161764778434.png",
+      "isPosted": true,
+      "wpPostId": 19841,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-fukuoka-tagawa-2026-09-27/",
+      "postedAt": "2026-09-27T08:22:38.589+09:00"
     }
   ]
 }
