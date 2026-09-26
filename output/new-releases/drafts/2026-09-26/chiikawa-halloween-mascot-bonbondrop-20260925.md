@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-09-26T06:16:53.881Z"
+wpPostUrl: "https://www.seal-search.com/news/new-item/chiikawa-halloween-mascot-bonbondrop-20260925/"
+wpPostId: 19707
+posted: true
 type: new-release
 status: draft
 title: "【9/25発売】ちいかわハロウィンマスコット全8種＆ボンボンドロップシール3種！コンプリートセットも"
