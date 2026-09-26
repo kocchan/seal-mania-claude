@@ -1,7 +1,7 @@
 {
   "date": "2026-09-26",
-  "updatedAt": "2026-09-26T20:09:18.931+09:00",
-  "count": 32,
+  "updatedAt": "2026-09-27T01:06:16.480+09:00",
+  "count": 33,
   "articles": [
     {
       "isSighting": true,
@@ -610,6 +610,25 @@
       "wpPostId": 19837,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-osaka-chuo-osaka-2026-09-26/",
       "postedAt": "2026-09-26T20:09:25.775+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "愛媛県",
+      "city": "新居浜市",
+      "shopName": "イオンモール新居浜（ちいかわポップアップストア）",
+      "shopAddress": "愛媛県新居浜市前田町8-8",
+      "productName": "ボンボンドロップシール",
+      "sightingTime": "2026-09-27 14:30頃",
+      "statusText": "売り切れ（再入荷なし）",
+      "confidenceMemo": "特定の商業施設（イオンモール新居浜）内のポップアップストアにおける具体的な完売情報のため信頼性が高い。",
+      "sourceUrl": "https://x.com/hama5517/status/2103855262193053730",
+      "sourceTweetId": "2103855262193053730",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2103855262193053730.png",
+      "isPosted": true,
+      "wpPostId": 19839,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-ehime-niihama-2026-09-27/",
+      "postedAt": "2026-09-27T01:06:23.342+09:00"
     }
   ]
 }
