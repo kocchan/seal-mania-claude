@@ -1,7 +1,7 @@
 {
   "date": "2026-09-27",
-  "updatedAt": "2026-09-27T13:18:08.788+09:00",
-  "count": 13,
+  "updatedAt": "2026-09-27T17:51:22.424+09:00",
+  "count": 16,
   "articles": [
     {
       "isSighting": true,
@@ -249,6 +249,63 @@
       "wpPostId": 19867,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-kochi-kochi-2026-09-26-2/",
       "postedAt": "2026-09-27T13:19:37.268+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "東京都",
+      "city": "墨田区",
+      "shopName": "ちいかわらんど 東京スカイツリータウン・ソラマチ店",
+      "shopAddress": "東京都墨田区押上1-1-2 東京スカイツリータウン・ソラマチ イーストヤード3階",
+      "productName": "ボンボンドロップシール",
+      "sightingTime": "2026-09-26 15:00頃",
+      "statusText": "在庫あり（大量、店員が補充中）",
+      "confidenceMemo": "具体的な店舗状況と時間帯の記載があり、信頼性が高い",
+      "sourceUrl": "https://x.com/ykr79c/status/2104099819069620614",
+      "sourceTweetId": "2104099819069620614",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2104099819069620614.png",
+      "isPosted": true,
+      "wpPostId": 19871,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-tokyo-sumida-2026-09-26/",
+      "postedAt": "2026-09-27T17:51:30.424+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "東京都",
+      "city": "新宿区",
+      "shopName": "ちいかわらんど 新宿マルイ店",
+      "shopAddress": "東京都新宿区新宿3-30-13 新宿マルイ本館 1階",
+      "productName": "ボンボンドロップシール",
+      "sightingTime": "2026-09-27 05:10頃",
+      "statusText": "在庫あり（売り切れなし）",
+      "confidenceMemo": "早朝時点での在庫維持情報を報告",
+      "sourceUrl": "https://x.com/kumatan_sa_v/status/2104076293369463118",
+      "sourceTweetId": "2104076293369463118",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2104076293369463118.png",
+      "isPosted": true,
+      "wpPostId": 19873,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-tokyo-shinjuku-2026-09-27/",
+      "postedAt": "2026-09-27T17:51:37.320+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "北海道",
+      "city": "札幌市中央区",
+      "shopName": "ハンズ 札幌店",
+      "shopAddress": "北海道札幌市中央区北4条西2丁目 さっぽろ東急百貨店 8・9階",
+      "productName": "ボンボンドロップシール 和柄キティ（4種）",
+      "sightingTime": "2026-09-27 04:53頃",
+      "statusText": "在庫あり（特定の4種類を確認）",
+      "confidenceMemo": "商品バリエーションの具体的な記載があり、信頼性が高い",
+      "sourceUrl": "https://x.com/maamocchi/status/2104071910334279769",
+      "sourceTweetId": "2104071910334279769",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2104071910334279769.png",
+      "isPosted": true,
+      "wpPostId": 19875,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-hokkaido-chuo-sapporo-2026-09-27/",
+      "postedAt": "2026-09-27T17:51:44.590+09:00"
     }
   ]
 }
