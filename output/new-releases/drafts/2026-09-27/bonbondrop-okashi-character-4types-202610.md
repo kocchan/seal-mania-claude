@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-09-27T06:45:11.144Z"
+wpPostUrl: "https://www.seal-search.com/news/new-item/bonbondrop-okashi-character-4types-202610/"
+wpPostId: 19869
+posted: true
 type: new-release
 status: draft
 title: "【10月上旬発売】ボンボンドロップシールにお菓子キャラ登場！コアラのマーチ・ペコ・じゃがりこ・クッピーラムネ全4種"
