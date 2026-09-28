@@ -1,7 +1,7 @@
 {
   "date": "2026-09-28",
-  "updatedAt": "2026-09-28T18:16:26.732+09:00",
-  "count": 16,
+  "updatedAt": "2026-09-28T22:30:44.854+09:00",
+  "count": 19,
   "articles": [
     {
       "isSighting": true,
@@ -306,6 +306,63 @@
       "wpPostId": 19907,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-nara-yamatotakada-2026-09-28/",
       "postedAt": "2026-09-28T18:16:40.927+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "島根県",
+      "city": "松江市",
+      "shopName": "アニメイトイオン松江",
+      "shopAddress": "島根県松江市東朝日町151 イオン松江ショッピングセンター3F",
+      "productName": "ボンボンドロップ前髪クリップ",
+      "sightingTime": "2026-09-28 11:16頃",
+      "statusText": "在庫あり（入荷）",
+      "confidenceMemo": "店舗公式アカウントによる入荷情報。商品は「ボンボンドロップ」シリーズの前髪クリップ。",
+      "sourceUrl": "https://x.com/animateimte/status/2104530630059184296",
+      "sourceTweetId": "2104530630059184296",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2104530630059184296.png",
+      "isPosted": true,
+      "wpPostId": 19909,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-shimane-unknown-2026-09-28/",
+      "postedAt": "2026-09-28T22:30:51.139+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "大阪府",
+      "city": "大阪市北区",
+      "shopName": "アニメイト梅田",
+      "shopAddress": "大阪府大阪市北区茶屋町12-9 日本生命茶屋町ビルB1F",
+      "productName": "ボンボンドロップ前髪クリップ",
+      "sightingTime": "2026-09-28 11:08頃",
+      "statusText": "在庫あり（入荷）",
+      "confidenceMemo": "店舗公式アカウントによる入荷情報。商品は「ボンボンドロップ」シリーズの前髪クリップ。",
+      "sourceUrl": "https://x.com/animateumeda/status/2104528732904141100",
+      "sourceTweetId": "2104528732904141100",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2104528732904141100.png",
+      "isPosted": true,
+      "wpPostId": 19911,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-osaka-unknown-2026-09-28/",
+      "postedAt": "2026-09-28T22:30:57.155+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "高知県",
+      "city": "四万十市",
+      "shopName": "ダイナム高知中村店",
+      "shopAddress": "高知県四万十市右山五反地5-35",
+      "productName": "ぷっくりシール",
+      "sightingTime": "2026-09-29 09:00頃",
+      "statusText": "2026-09-29 入荷予定（8:45抽選、9:00開店）",
+      "confidenceMemo": "店舗公式アカウントによる翌日の入荷告知。具体的なブランド名は未記載だが、商品種別（ぷっくりシール）が一致しており、可能性が高い。",
+      "sourceUrl": "https://x.com/doraten181/status/2104517752316641631",
+      "sourceTweetId": "2104517752316641631",
+      "isPrediction": true,
+      "imagePath": "output/sightings/images/2104517752316641631.png",
+      "isPosted": true,
+      "wpPostId": 19913,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-kochi-unknown-2026-09-29/",
+      "postedAt": "2026-09-28T22:31:03.779+09:00"
     }
   ]
 }
