@@ -1,7 +1,7 @@
 {
   "date": "2026-09-29",
-  "updatedAt": "2026-09-29T18:24:36.057+09:00",
-  "count": 22,
+  "updatedAt": "2026-09-29T21:32:35.758+09:00",
+  "count": 25,
   "articles": [
     {
       "isSighting": true,
@@ -420,6 +420,63 @@
       "wpPostId": 19983,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-hyogo-chuo-kobe-2026-09-30/",
       "postedAt": "2026-09-29T18:24:50.528+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "石川県",
+      "city": "小松市",
+      "shopName": "ドリームカプセルイオンモール新小松",
+      "shopAddress": "石川県小松市清六町315番地 イオンモール新小松",
+      "productName": "魔法のコンパクトシールメーカーマスコット メイクプリズム",
+      "sightingTime": "2026-09-29 20:47頃",
+      "statusText": "新入荷（在庫あり）",
+      "confidenceMemo": "店舗公式アカウントによる入荷情報。ボンボンドロップシール風の玩具（ガチャ）商品。",
+      "sourceUrl": "https://x.com/drecap_komatsu/status/2104900876813107528",
+      "sourceTweetId": "2104900876813107528",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2104900876813107528.png",
+      "isPosted": true,
+      "wpPostId": 19985,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-ishikawa-unknown-2026-09-29/",
+      "postedAt": "2026-09-29T21:32:42.701+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "富山県",
+      "city": "砺波市",
+      "shopName": "ドリームカプセル@イオンモールとなみ",
+      "shopAddress": "富山県砺波市中神1丁目174 イオンモールとなみ",
+      "productName": "魔法のコンパクトシールメーカーマスコット メイクプリズム",
+      "sightingTime": "2026-09-29 10:09頃",
+      "statusText": "新入荷（在庫あり）",
+      "confidenceMemo": "店舗公式アカウントによる入荷情報。ボンボンドロップシールに関連するミニチュア玩具。",
+      "sourceUrl": "https://x.com/drecap_tonami/status/2104876313597407469",
+      "sourceTweetId": "2104876313597407469",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2104876313597407469.png",
+      "isPosted": true,
+      "wpPostId": 19987,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-toyama-tonami-2026-09-29/",
+      "postedAt": "2026-09-29T21:32:49.198+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "沖縄県",
+      "city": "中頭郡北谷町",
+      "shopName": "カプセルジャングルMihama/ドラパレガチャ",
+      "shopAddress": "沖縄県中頭郡北谷町美浜15-67 ドラゴンパレス内",
+      "productName": "おぱんちゅうさぎ/んぽちゃむ うるちゅるPOPシール プチキーホルダー",
+      "sightingTime": "2026-09-29 21:19頃",
+      "statusText": "入荷（在庫あり）",
+      "confidenceMemo": "店舗公式による入荷情報。ボンボンドロップシールと同様の「うるちゅる」属性を持つシール商品。",
+      "sourceUrl": "https://x.com/jjmihamagacha/status/2104908888252498212",
+      "sourceTweetId": "2104908888252498212",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2104908888252498212.png",
+      "isPosted": true,
+      "wpPostId": 19989,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-okinawa-chatan-nakagami-district-2026-09-29/",
+      "postedAt": "2026-09-29T21:32:55.609+09:00"
     }
   ]
 }
