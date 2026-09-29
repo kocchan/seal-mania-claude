@@ -1,7 +1,7 @@
 {
   "date": "2026-09-29",
-  "updatedAt": "2026-09-29T09:51:42.269+09:00",
-  "count": 19,
+  "updatedAt": "2026-09-29T13:48:25.140+09:00",
+  "count": 20,
   "articles": [
     {
       "isSighting": true,
@@ -363,6 +363,25 @@
       "wpPostId": 19951,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-hiroshima-kaita-aki-district-2026-09-26-3/",
       "postedAt": "2026-09-29T09:53:46.460+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "愛知県",
+      "city": "尾張旭市",
+      "shopName": "水野書店",
+      "shopAddress": "愛知県尾張旭市東大道町原田2506-1",
+      "productName": "矢場とん ボンボンドロップシール",
+      "sightingTime": "2026-09-29 02:01頃",
+      "statusText": "在庫あり（お1人様1枚までの購入制限あり）",
+      "confidenceMemo": "書店公式アカウントによる入荷および個数制限の告知であり、信頼性が非常に高い",
+      "sourceUrl": "https://x.com/mizuno_hon6244/status/2104753460331909507",
+      "sourceTweetId": "2104753460331909507",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2104753460331909507.png",
+      "isPosted": true,
+      "wpPostId": 19953,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-aichi-owariasahi-2026-09-29/",
+      "postedAt": "2026-09-29T13:48:33.093+09:00"
     }
   ]
 }
