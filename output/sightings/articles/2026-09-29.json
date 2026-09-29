@@ -1,7 +1,7 @@
 {
   "date": "2026-09-29",
-  "updatedAt": "2026-09-29T13:48:25.140+09:00",
-  "count": 20,
+  "updatedAt": "2026-09-29T18:24:36.057+09:00",
+  "count": 22,
   "articles": [
     {
       "isSighting": true,
@@ -382,6 +382,44 @@
       "wpPostId": 19953,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-aichi-owariasahi-2026-09-29/",
       "postedAt": "2026-09-29T13:48:33.093+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "東京都",
+      "city": "府中市",
+      "shopName": "京王アートマン 府中店",
+      "shopAddress": "東京都府中市宮町1-1-10 京王府中ショッピングセンター",
+      "productName": "ボンボンドロップミニ",
+      "sightingTime": "2026-09-29 06:00頃",
+      "statusText": "3F文具売り場にて在庫あり",
+      "confidenceMemo": "店舗公式アカウントによる商品を使用した作例紹介の投稿。3F文具コーナーでの取り扱いが明記されている。",
+      "sourceUrl": "https://x.com/keioatmanfuchu/status/2104813426774294680",
+      "sourceTweetId": "2104813426774294680",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2104813426774294680.png",
+      "isPosted": true,
+      "wpPostId": 19981,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-tokyo-fuchu-2026-09-29/",
+      "postedAt": "2026-09-29T18:24:43.357+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "兵庫県",
+      "city": "神戸市中央区",
+      "shopName": "CAPSULEPOP元町パルパローレ店",
+      "shopAddress": "兵庫県神戸市中央区元町通3丁目9-8 パルパローレ内",
+      "productName": "mojojojoうるちゅるPOPチャームキーホルダー / その他多数入荷予定",
+      "sightingTime": "2026-09-30 入荷予定",
+      "statusText": "入荷予定（多数入荷）",
+      "confidenceMemo": "店舗公式アカウントによる入荷告知。該当シリーズ（うるちゅる）のキーホルダーの他、多数の入荷が予告されている。未来の情報のたisPredictionをtrueとした。",
+      "sourceUrl": "https://x.com/cpop_motomachi_/status/2104795938409844766",
+      "sourceTweetId": "2104795938409844766",
+      "isPrediction": true,
+      "imagePath": "output/sightings/images/2104795938409844766.png",
+      "isPosted": true,
+      "wpPostId": 19983,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-hyogo-chuo-kobe-2026-09-30/",
+      "postedAt": "2026-09-29T18:24:50.528+09:00"
     }
   ]
 }
