@@ -1,4 +1,9 @@
 ---
+postedAt: "2026-09-29T07:09:12.733Z"
+wpPostUrl: "https://www.seal-search.com/mejirushi/monchhichi-mejirushi-mugcup-charm-202610/"
+wpPostId: 19973
+posted: true
+imageGenerated: true
 type: mejirushi
 status: draft
 title: "【10月発売】モンチッチ めじるしマグカップチャーム"

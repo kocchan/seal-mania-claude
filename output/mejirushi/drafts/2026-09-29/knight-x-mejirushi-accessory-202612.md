@@ -1,4 +1,9 @@
 ---
+postedAt: "2026-09-29T07:08:49.834Z"
+wpPostUrl: "https://www.seal-search.com/mejirushi/knight-x-mejirushi-accessory-202612/"
+wpPostId: 19967
+posted: true
+imageGenerated: true
 type: mejirushi
 status: draft
 title: "【12月発売】騎士X めじるしアクセサリー 全4種"

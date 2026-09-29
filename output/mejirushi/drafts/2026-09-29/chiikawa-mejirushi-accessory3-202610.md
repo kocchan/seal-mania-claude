@@ -1,4 +1,9 @@
 ---
+postedAt: "2026-09-29T07:08:39.858Z"
+wpPostUrl: "https://www.seal-search.com/mejirushi/chiikawa-mejirushi-accessory3-202610/"
+wpPostId: 19965
+posted: true
+imageGenerated: true
 type: mejirushi
 status: draft
 title: "【10月再販】ちいかわ めじるしアクセサリー3"

@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-09-29T07:07:54.565Z"
+wpPostUrl: "https://www.seal-search.com/news/new-item/atoa-kobe-bonbondrop-202610/"
+wpPostId: 19957
+posted: true
 type: new-release
 status: draft
 title: "【10月限定】アトア（神戸）オリジナルボンボンドロップシールが登場！入場券とセットで購入権付き"

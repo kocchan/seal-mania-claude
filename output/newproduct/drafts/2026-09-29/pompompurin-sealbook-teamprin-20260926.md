@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-09-29T07:07:46.724Z"
+wpPostUrl: "https://www.seal-search.com/character/pompompurin-sealbook-teamprin-20260926/"
+wpPostId: 19955
+posted: true
 type: newproduct
 status: draft
 title: "【9/26発売】ポムポムプリン シールブック ず～っと！チームプリン"

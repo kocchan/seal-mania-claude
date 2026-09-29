@@ -1,4 +1,9 @@
 ---
+postedAt: "2026-09-29T07:08:18.225Z"
+wpPostUrl: "https://www.seal-search.com/mejirushi/among-us-mejirushi-accessory-20260928/"
+wpPostId: 19960
+posted: true
+imageGenerated: true
 type: mejirushi
 status: draft
 title: "【9/28予約開始】Among Us めじるしアクセサリー"

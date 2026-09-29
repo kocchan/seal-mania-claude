@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-09-29T07:07:41.464Z"
+wpPostUrl: "https://www.seal-search.com/character/bonbondrop-okashi-characters-20261001/"
+wpPostId: 19954
+posted: true
 type: newproduct
 status: draft
 title: "【10月上旬発売】ボンボンドロップシール お菓子キャラ新作"

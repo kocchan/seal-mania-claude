@@ -1,4 +1,9 @@
 ---
+postedAt: "2026-09-29T07:08:28.922Z"
+wpPostUrl: "https://www.seal-search.com/mejirushi/bokujo-monogatari-mejirushi-ushisan-202701/"
+wpPostId: 19963
+posted: true
+imageGenerated: true
 type: mejirushi
 status: draft
 title: "【予約受付】牧場物語 歴代ウシさんめじるし"

@@ -1,4 +1,9 @@
 ---
+postedAt: "2026-09-29T07:09:34.232Z"
+wpPostUrl: "https://www.seal-search.com/mejirushi/plave-mejirushi-accessory-202610/"
+wpPostId: 19979
+posted: true
+imageGenerated: true
 type: mejirushi
 status: draft
 title: "【10月発売】PLAVE めじるしアクセサリー"

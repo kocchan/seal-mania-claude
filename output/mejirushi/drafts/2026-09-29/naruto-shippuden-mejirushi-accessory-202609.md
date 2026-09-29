@@ -1,4 +1,9 @@
 ---
+postedAt: "2026-09-29T07:09:23.571Z"
+wpPostUrl: "https://www.seal-search.com/mejirushi/naruto-shippuden-mejirushi-accessory-202609/"
+wpPostId: 19976
+posted: true
+imageGenerated: true
 type: mejirushi
 status: draft
 title: "【9月第5週】NARUTO疾風伝 めじるしアクセサリー"

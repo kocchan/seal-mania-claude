@@ -1,4 +1,9 @@
 ---
+postedAt: "2026-09-29T07:09:00.347Z"
+wpPostUrl: "https://www.seal-search.com/mejirushi/minecraft-mejirushi-standard-202609/"
+wpPostId: 19970
+posted: true
+imageGenerated: true
 type: mejirushi
 status: draft
 title: "【9月第5週再販】MINECRAFT めじるしアクセサリー"
