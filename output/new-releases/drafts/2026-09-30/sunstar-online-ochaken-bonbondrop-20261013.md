@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-09-30T06:58:15.510Z"
+wpPostUrl: "https://www.seal-search.com/news/new-item/sunstar-online-ochaken-bonbondrop-20261013/"
+wpPostId: 20021
+posted: true
 type: new-release
 status: draft
 title: "【10/13先着】サンスター文具公式ストアでお茶犬 ボンボンドロップシール2点セット発売！"

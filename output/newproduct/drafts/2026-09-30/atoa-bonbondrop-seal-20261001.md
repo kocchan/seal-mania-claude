@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-09-30T06:57:56.782Z"
+wpPostUrl: "https://www.seal-search.com/character/atoa-bonbondrop-seal-20261001/"
+wpPostId: 20016
+posted: true
 type: newproduct
 status: draft
 title: "【10/1発売開始】アトア限定ボンボンドロップシール"

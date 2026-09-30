@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-09-30T06:58:01.468Z"
+wpPostUrl: "https://www.seal-search.com/character/sumikkogurashi-seria-eikoh-202609/"
+wpPostId: 20017
+posted: true
 type: newproduct
 status: draft
 title: "【Seria発売】すみっコぐらし新作雑貨 全16商品110円"

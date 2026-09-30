@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-09-30T06:58:09.001Z"
+wpPostUrl: "https://www.seal-search.com/news/new-item/sunstar-online-nontan-bonbondrop-20261005/"
+wpPostId: 20019
+posted: true
 type: new-release
 status: draft
 title: "【10/5先着】サンスター文具公式ストアでノンタン ボンボンドロップシール2点セット発売！"
