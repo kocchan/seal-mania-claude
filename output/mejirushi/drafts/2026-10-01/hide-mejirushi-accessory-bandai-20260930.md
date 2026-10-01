@@ -1,4 +1,9 @@
 ---
+postedAt: "2026-10-01T07:24:03.209Z"
+wpPostUrl: "https://www.seal-search.com/mejirushi/hide-mejirushi-accessory-bandai-20260930/"
+wpPostId: 20139
+posted: true
+imageGenerated: true
 type: mejirushi
 status: draft
 title: "【9/30受付開始】hide めじるしアクセサリー全5種"

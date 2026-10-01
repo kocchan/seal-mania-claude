@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-10-01T07:22:44.229Z"
+wpPostUrl: "https://www.seal-search.com/character/sanrio-pukkuri-seal-book-kodansha-20261007/"
+wpPostId: 20136
+posted: true
 type: newproduct
 status: draft
 title: "【10/7発売】サンリオキャラクターズ ぷっくりシールいっぱいBOOK"

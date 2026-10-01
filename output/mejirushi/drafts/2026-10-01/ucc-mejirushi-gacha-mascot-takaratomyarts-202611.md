@@ -1,4 +1,9 @@
 ---
+postedAt: "2026-10-01T07:24:22.535Z"
+wpPostUrl: "https://www.seal-search.com/mejirushi/ucc-mejirushi-gacha-mascot-takaratomyarts-202611/"
+wpPostId: 20142
+posted: true
+imageGenerated: true
 type: mejirushi
 status: draft
 title: "【11月発売】UCC上島珈琲 めじるしガチャマスコット"
