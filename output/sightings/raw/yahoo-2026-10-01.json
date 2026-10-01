@@ -1,8 +1,8 @@
 {
-  "timestamp": "2026-10-01T15:56:07.225Z",
+  "timestamp": "2026-10-01T18:15:42.918Z",
   "source": "yahoo_realtime",
   "platform": "x",
-  "count": 260,
+  "count": 261,
   "data": [
     {
       "tweetId": "2105449085688029291",
@@ -4862,6 +4862,21 @@
       "hashtags": [],
       "images": [
         "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i5e72TLbER0xQeK1l8ZZ0OLjO9H0lYbWquwb0kkNqCT01mp-kYyl8-eCI2dCKRhUNtCU5viwLJeOG3sGXfdsuCfCqnZZudnor3MlkB_xJhdyNr6RNyeTsBvOpDyX41ScPgCsjt7Mpb209brhmKEMOAplnCaWYxHXEfFAIbTo2HcsVh6gIwjUpg92kWGMdOvQbuBVyzLjnE6eiLVaT8dDvKY"
+      ],
+      "isProcessed": true,
+      "_filepath": "output/sightings/raw/yahoo-2026-10-01.json"
+    },
+    {
+      "tweetId": "2105689183302087146",
+      "userId": "ike_hachi8",
+      "text": "返信先:@Serene_Nihongoちなみに大人気のボンボンドロップシールは、発売日から2日ぐらいは在庫があったようです。ぶんしゃか@ike_hachi815:59",
+      "user": "ぶんしゃか",
+      "time": "2026-10-02T15:59:00.000+09:00",
+      "timeRaw": "15:59",
+      "url": "https://x.com/ike_hachi8/status/2105689183302087146",
+      "hashtags": [],
+      "images": [
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i5e72TLbER0xQeK1l8ZZ0OLGrFXMwimlFF4NrclyIsNI3BJNLKtsGIFTbS9JQnZbMiELECUuhLx5lm_YhJxoV1ad40T0A5UaylwRDislZTXIBk9kgctmy_pQ_aq6g-QohsruxfvzawE_R9f_0OHAuDICoG7mFkpKhWyyM8Zf1gNoQ4rnwaXrj1IAdmuO8QB9JyoT4gs5yIzRQUy5UYThhrs"
       ],
       "isProcessed": true,
       "_filepath": "output/sightings/raw/yahoo-2026-10-01.json"
