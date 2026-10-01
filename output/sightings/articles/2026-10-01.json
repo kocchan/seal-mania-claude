@@ -1,7 +1,7 @@
 {
   "date": "2026-10-01",
-  "updatedAt": "2026-10-01T18:44:23.497+09:00",
-  "count": 50,
+  "updatedAt": "2026-10-01T21:52:37.821+09:00",
+  "count": 51,
   "articles": [
     {
       "isSighting": true,
@@ -952,6 +952,25 @@
       "wpPostId": 20162,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-tokyo-adachi-2026-10-01/",
       "postedAt": "2026-10-01T18:45:26.509+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "静岡県",
+      "city": "沼津市",
+      "shopName": "伊豆・三津シーパラダイス",
+      "shopAddress": "静岡県沼津市内浦重寺3-1",
+      "productName": "ボンボンドロップシール",
+      "sightingTime": "2026-10-01 11:07頃",
+      "statusText": "在庫あり",
+      "confidenceMemo": "写真付きの投稿で、具体的な施設名とお土産コーナーでの在庫状況が明記されているため信頼性が高い。",
+      "sourceUrl": "https://x.com/n_bagi/status/2105615568590328137",
+      "sourceTweetId": "2105615568590328137",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2105615568590328137.png",
+      "isPosted": true,
+      "wpPostId": 20164,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-shizuoka-numazu-2026-10-01/",
+      "postedAt": "2026-10-01T21:52:45.521+09:00"
     }
   ]
 }
