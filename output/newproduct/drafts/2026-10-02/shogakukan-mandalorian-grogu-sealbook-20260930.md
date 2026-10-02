@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-10-02T07:10:44.752Z"
+wpPostUrl: "https://www.seal-search.com/character/shogakukan-mandalorian-grogu-sealbook-20260930/"
+wpPostId: 20189
+posted: true
 type: newproduct
 status: draft
 title: "【9/30発売】マンダロリアン・アンド・グローグー キラキラシールブック"

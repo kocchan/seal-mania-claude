@@ -1,4 +1,9 @@
 ---
+postedAt: "2026-10-02T07:11:49.459Z"
+wpPostUrl: "https://www.seal-search.com/mejirushi/bandai-mejirushi-sarugetchu2-202610w5/"
+wpPostId: 20202
+posted: true
+imageGenerated: true
 type: mejirushi
 status: draft
 title: "【10月第5週発売】サルゲッチュ めじるしアクセサリー2"

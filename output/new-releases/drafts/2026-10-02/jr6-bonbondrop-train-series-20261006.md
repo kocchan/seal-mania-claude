@@ -1,8 +1,8 @@
 ---
-postedAt: null
-wpPostUrl: null
-wpPostId: null
-posted: false
+postedAt: "2026-10-02T07:10:55.429Z"
+wpPostUrl: "https://www.seal-search.com/news/new-item/jr6-bonbondrop-train-series-20261006/"
+wpPostId: 20191
+posted: true
 type: new-release
 status: draft
 title: "【10/6発売】JRグループ6社コラボ！BONBON DROPシール「JR GROUP TRAIN SERIES」全18種登場"

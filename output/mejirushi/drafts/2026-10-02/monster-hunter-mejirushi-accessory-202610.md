@@ -1,4 +1,9 @@
 ---
+postedAt: "2026-10-02T07:12:13.605Z"
+wpPostUrl: "https://www.seal-search.com/mejirushi/monster-hunter-mejirushi-accessory-202610/"
+wpPostId: 20208
+posted: true
+imageGenerated: true
 type: mejirushi
 status: draft
 title: "【10月中旬発売】モンハン めじるしアクセサリー初登場"

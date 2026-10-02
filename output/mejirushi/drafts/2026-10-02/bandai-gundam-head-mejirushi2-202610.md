@@ -1,4 +1,9 @@
 ---
+postedAt: "2026-10-02T07:11:25.712Z"
+wpPostUrl: "https://www.seal-search.com/mejirushi/bandai-gundam-head-mejirushi2-202610/"
+wpPostId: 20196
+posted: true
+imageGenerated: true
 type: mejirushi
 status: draft
 title: "【10月下旬発売】ガンダムヘッド めじるしアクセサリー第2弾"

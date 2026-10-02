@@ -1,4 +1,9 @@
 ---
+postedAt: "2026-10-02T07:11:38.078Z"
+wpPostUrl: "https://www.seal-search.com/mejirushi/bandai-jojo-mejirushi-sexpistols-202610/"
+wpPostId: 20199
+posted: true
+imageGenerated: true
 type: mejirushi
 status: draft
 title: "【10月中旬発売】ジョジョ5部 S・P めじるしアクセサリー"

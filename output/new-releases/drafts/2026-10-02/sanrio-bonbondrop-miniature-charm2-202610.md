@@ -1,8 +1,8 @@
 ---
-postedAt: null
-wpPostUrl: null
-wpPostId: null
-posted: false
+postedAt: "2026-10-02T07:11:03.988Z"
+wpPostUrl: "https://www.seal-search.com/news/new-item/sanrio-bonbondrop-miniature-charm2-202610/"
+wpPostId: 20193
+posted: true
 type: new-release
 status: draft
 title: "【10月第2週発売】サンリオキャラクターズ「ボンボンドロップミニチュアチャーム2」全5種がガシャポンに登場！"

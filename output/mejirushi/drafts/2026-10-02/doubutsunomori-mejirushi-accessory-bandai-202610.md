@@ -1,4 +1,9 @@
 ---
+postedAt: "2026-10-02T07:12:01.748Z"
+wpPostUrl: "https://www.seal-search.com/mejirushi/doubutsunomori-mejirushi-accessory-bandai-202610/"
+wpPostId: 20205
+posted: true
+imageGenerated: true
 type: mejirushi
 status: draft
 title: "【10月第5週発売】どうぶつの森 めじるしアクセサリー"
