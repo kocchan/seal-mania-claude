@@ -1,7 +1,7 @@
 {
   "date": "2026-10-02",
-  "updatedAt": "2026-10-02T21:16:02.061+09:00",
-  "count": 39,
+  "updatedAt": "2026-10-03T00:18:28.633+09:00",
+  "count": 41,
   "articles": [
     {
       "isSighting": true,
@@ -743,6 +743,44 @@
       "wpPostId": 20262,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-tokyo-taito-2026-10-02-2/",
       "postedAt": "2026-10-02T21:16:55.658+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "大阪府",
+      "city": "豊中市",
+      "shopName": "伊丹空港（大阪国際空港）",
+      "shopAddress": "大阪府豊中市蛍池西町3丁目555",
+      "productName": "ボンボンドロップシール",
+      "sightingTime": "2026-10-03 14:17頃",
+      "statusText": "在庫あり（遭遇・購入報告）",
+      "confidenceMemo": "実際に購入したという写真付きの目撃情報",
+      "sourceUrl": "https://x.com/Ta8kx2t/status/2106025865297715668",
+      "sourceTweetId": "2106025865297715668",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2106025865297715668.png",
+      "isPosted": true,
+      "wpPostId": 20264,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-osaka-toyonaka-2026-10-03/",
+      "postedAt": "2026-10-03T00:18:34.632+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "東京都",
+      "city": "千代田区",
+      "shopName": "なめこ栽培キット15周年記念POPUPSTORE（東京キャラクターストリート いちばんプラザ）",
+      "shopAddress": "東京都千代田区丸の内1丁目9-1 東京駅一番街 B1",
+      "productName": "ボンボンドロップシール（キュート/初代なめこ）",
+      "sightingTime": "2026-10-03 13:26頃",
+      "statusText": "完売（再入荷未定）",
+      "confidenceMemo": "イベント公式アカウントによる欠品情報",
+      "sourceUrl": "https://x.com/Juice_inc_event/status/2106012874930008522",
+      "sourceTweetId": "2106012874930008522",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2106012874930008522.png",
+      "isPosted": true,
+      "wpPostId": 20266,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-tokyo-chiyoda-2026-10-03/",
+      "postedAt": "2026-10-03T00:18:41.244+09:00"
     }
   ]
 }
