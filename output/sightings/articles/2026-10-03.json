@@ -1,7 +1,7 @@
 {
   "date": "2026-10-03",
-  "updatedAt": "2026-10-03T17:48:55.215+09:00",
-  "count": 54,
+  "updatedAt": "2026-10-03T20:26:23.054+09:00",
+  "count": 56,
   "articles": [
     {
       "isSighting": true,
@@ -1028,6 +1028,44 @@
       "wpPostId": 20538,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-hokkaido-nishi-sapporo-2026-10-03/",
       "postedAt": "2026-10-03T17:50:56.238+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "島根県",
+      "city": "出雲市",
+      "shopName": "ABCパレード ゆめタウン出雲店",
+      "shopAddress": "島根県出雲市大塚町650-1 ゆめタウン出雲内",
+      "productName": "ボンボンドロップシール",
+      "sightingTime": "2026-10-03 10:15",
+      "statusText": "在庫あり（続々と入荷中）",
+      "confidenceMemo": "店舗公式アカウントによる入荷案内で信頼性が高い",
+      "sourceUrl": "https://x.com/SP_ABCP_izumo/status/2106327147887440318",
+      "sourceTweetId": "2106327147887440318",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2106327147887440318.png",
+      "isPosted": true,
+      "wpPostId": 20540,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-shimane-unknown-2026-10-03/",
+      "postedAt": "2026-10-03T20:26:29.755+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "大阪府",
+      "city": "堺市",
+      "shopName": "キディランド 堺鉄砲町店",
+      "shopAddress": "大阪府堺市堺区鉄砲町1番地 イオンモール堺鉄砲町内",
+      "productName": "うるちゅるシール（ボンボンドロップシール）",
+      "sightingTime": "2026-10-03 20:19頃",
+      "statusText": "在庫あり（BOXで購入可能）",
+      "confidenceMemo": "「堺のイオンのキディランド」という具体的な場所と「うるちゅるシール（通称）」の購入報告があるため",
+      "sourceUrl": "https://x.com/gunzi_0x0/status/2106343592638009548",
+      "sourceTweetId": "2106343592638009548",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2106343592638009548.png",
+      "isPosted": true,
+      "wpPostId": 20542,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-osaka-unknown-2026-10-03-2/",
+      "postedAt": "2026-10-03T20:26:36.392+09:00"
     }
   ]
 }
