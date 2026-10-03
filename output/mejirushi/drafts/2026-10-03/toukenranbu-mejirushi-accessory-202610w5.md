@@ -1,4 +1,9 @@
 ---
+postedAt: "2026-10-03T06:44:22.321Z"
+wpPostUrl: "https://www.seal-search.com/mejirushi/toukenranbu-mejirushi-accessory-202610w5/"
+wpPostId: 20502
+posted: true
+imageGenerated: true
 type: mejirushi
 status: draft
 title: "【10月第5週】刀剣乱舞ONLINE めじるしアクセサリー"

@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-10-03T06:43:38.725Z"
+wpPostUrl: "https://www.seal-search.com/character/jr-group-bonbondrop-train-seal-20261006/"
+wpPostId: 20493
+posted: true
 type: newproduct
 status: draft
 title: "【10/6発売】JR6社ボンドロシール＆鉄シール2026"

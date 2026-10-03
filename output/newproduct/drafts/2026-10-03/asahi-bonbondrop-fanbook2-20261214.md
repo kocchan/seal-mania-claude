@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-10-03T06:43:33.003Z"
+wpPostUrl: "https://www.seal-search.com/character/asahi-bonbondrop-fanbook2-20261214/"
+wpPostId: 20492
+posted: true
 type: newproduct
 status: draft
 title: "【12/14発売】ボンドロ公式ファンブック2 限定シール付き"

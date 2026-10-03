@@ -1,4 +1,9 @@
 ---
+postedAt: "2026-10-03T06:44:09.666Z"
+wpPostUrl: "https://www.seal-search.com/mejirushi/sanrio-mejirushi-allstars3-202610w5/"
+wpPostId: 20499
+posted: true
+imageGenerated: true
 type: mejirushi
 status: draft
 title: "【10月第5週】サンリオめじるしアクセサリー第3弾"
