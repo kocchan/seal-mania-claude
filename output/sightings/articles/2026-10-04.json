@@ -1,7 +1,7 @@
 {
   "date": "2026-10-04",
-  "updatedAt": "2026-10-04T13:52:37.226+09:00",
-  "count": 21,
+  "updatedAt": "2026-10-04T18:15:34.345+09:00",
+  "count": 23,
   "articles": [
     {
       "isSighting": true,
@@ -401,6 +401,44 @@
       "wpPostId": 20586,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-fukuoka-fukuoka-higashi-2026-10-03-2/",
       "postedAt": "2026-10-04T13:54:56.472+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "愛知県",
+      "city": "名古屋市中区",
+      "shopName": "キデイランド名古屋パルコ店",
+      "shopAddress": "愛知県名古屋市中区栄3-29-1 名古屋パルコ西館B1F",
+      "productName": "矢場とん ボンボンドロップシール",
+      "sightingTime": "2026-10-04 05:03頃",
+      "statusText": "再入荷（在庫あり）",
+      "confidenceMemo": "店舗公式アカウントによる入荷情報",
+      "sourceUrl": "https://x.com/np_kiddyland/status/2106611106534003039",
+      "sourceTweetId": "2106611106534003039",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2106611106534003039.png",
+      "isPosted": true,
+      "wpPostId": 20602,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-aichi-naka-nagoya-2026-10-04/",
+      "postedAt": "2026-10-04T18:15:41.044+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "長野県",
+      "city": "岡谷市",
+      "shopName": "笠原書店レイクウォーク店",
+      "shopAddress": "長野県岡谷市銀座1丁目1-5 レイクウォーク岡谷2F",
+      "productName": "ボンボンドロップシール",
+      "sightingTime": "2026-10-04 05:33頃",
+      "statusText": "在庫あり（お一人様1種につき1枚の購入制限あり）",
+      "confidenceMemo": "店舗公式アカウントによる入荷情報、購入制限あり",
+      "sourceUrl": "https://x.com/kasahara_lake/status/2106618628351422919",
+      "sourceTweetId": "2106618628351422919",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2106618628351422919.png",
+      "isPosted": true,
+      "wpPostId": 20604,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-nagano-okaya-2026-10-04/",
+      "postedAt": "2026-10-04T18:15:47.537+09:00"
     }
   ]
 }
