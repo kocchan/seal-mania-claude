@@ -1,0 +1,20 @@
+---
+source: rss
+url: "https://s.inside-games.jp/article/2026/10/04/188715.html"
+title: "サンリオ「ボンボンドロップシール」のミニチュアチャーム第2弾が発売！ハローキティやマイメロディなど全5種 | インサイド"
+siteName: "インサイド"
+publishedAt: "2026-10-04T01:25:01Z"
+fetchedAt: "2026-10-04T03:01:58.701Z"
+fetchMethod: axios
+ogImage: "https://www.inside-games.jp/imgs/ogp_f/1788609.jpg"
+description: "「サンリオキャラクターズ ボンボンドロップミニチュアチャーム2」が10月第2週より発売！"
+---
+
+## RSS要約
+
+「サンリオキャラクターズ ボンボンドロップ ミニチュアチャーム2」が10月第2週より発売！
+
+## 本文HTML（サニタイズ済み）
+
+<html><head></head><body><figure class="ctms-editor-image"><img src="https://www.inside-games.jp/imgs/zoom/1788614.jpg" class="inline-article-image" width="640" height="640"></figure><p>バンダイは、ガシャポン「サンリオキャラクターズ ボンボンドロップミニチュアチャーム2」を10月第2週より発売します。</p><h2>◆サンリオ「ボンボンドロップシール」のミニチュアチャーム第2弾！</h2><p>本商品は、ぷっくりとした立体感と高い透明感がある大人気シール「ボンボンドロップシール」の「サンリオキャラクターズ」ミニチュアチャーム第2弾。約5.5cmサイズにパッケージまで再現しています。ラインナップは「ハローキティ」「マイメロディ」「はぴだんぶい」「ポムポムプリン」「シナモロール」の全5種。上部にカラーに合わせたボールチェーンがついています。</p><h3>■ハローキティ</h3><figure class="ctms-editor-image"><img src="https://www.inside-games.jp/imgs/zoom/1788609.jpg" class="inline-article-image" width="560" height="560"></figure><h3>■マイメロディ</h3><figure class="ctms-editor-image"><img src="https://www.inside-games.jp/imgs/zoom/1788610.jpg" class="inline-article-image" width="560" height="560"></figure><h3>■はぴだんぶい</h3><figure class="ctms-editor-image"><img src="https://www.inside-games.jp/imgs/zoom/1788611.jpg" class="inline-article-image" width="560" height="560"></figure><h3>■ポムポムプリン</h3><figure class="ctms-editor-image"><img src="https://www.inside-games.jp/imgs/zoom/1788612.jpg" class="inline-article-image" width="560" height="560"></figure><h3>■シナモロール</h3><figure class="ctms-editor-image"><img src="https://www.inside-games.jp/imgs/zoom/1788613.jpg" class="inline-article-image" width="560" height="560"></figure><hr><p>「サンリオキャラクターズ ボンボンドロップミニチュアチャーム2」の価格は300円（税込）で、10月第2週より発売します。なお、本商品は初回発売後、複数回の出荷を予定しています。詳細は<a target="_blank" rel="noopener noreferrer" href="https://gashapon.jp/products/detail.php?jan_code=4582770027020000">ガシャポン商品ページ</a>をご確認ください。</p><div class="af_box"><!-- start --><div class="af_list"><div class="af_box_left"><a href="https://www.amazon.co.jp/dp/B0HJHRC5F3?tag=insidegames-22&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank"><img src="https://m.media-amazon.com/images/I/317wypWutbL._SL160_.jpg" class="af_box_image"></a></div><div class="af_box_right"><b><a href="https://www.amazon.co.jp/dp/B0HJHRC5F3?tag=insidegames-22&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank">サンリオ(SANRIO) ミニチュアパッケージチャーム（お店やさん） マイメロディ 648922</a></b><br><b>￥990</b><br><span>(価格・在庫状況は記事公開時点のものです)</span><br><div class="af_box_link_amazon"><a href="https://www.amazon.co.jp/dp/B0HJHRC5F3?tag=insidegames-22&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank">Amazon</a></div><div class="af_box_link_rakuten"><a href="https://hb.afl.rakuten.co.jp/hgc/09af142d.3ed07ccc.09af142e.da82fa9e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2582%25B5%25E3%2583%25B3%25E3%2583%25AA%25E3%2582%25AA%2F" target="_blank">楽天市場</a></div></div></div><!-- //end --></div><div class="af_box"><!-- start --><div class="af_list"><div class="af_box_left"><a href="https://www.amazon.co.jp/dp/B0FLQKSYTC?tag=insidegames-22&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank"><img src="https://m.media-amazon.com/images/I/31wSYI5iJEL._SL160_.jpg" class="af_box_image"></a></div><div class="af_box_right"><b><a href="https://www.amazon.co.jp/dp/B0FLQKSYTC?tag=insidegames-22&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank">サンリオ(SANRIO) ミニチュアパッケージチャーム（ミニチュアトイ） ポチャッコ PVC・AS樹脂・紙 059315</a></b><br><b>￥990</b><br><span>(価格・在庫状況は記事公開時点のものです)</span><br><div class="af_box_link_amazon"><a href="https://www.amazon.co.jp/dp/B0FLQKSYTC?tag=insidegames-22&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank">Amazon</a></div><div class="af_box_link_rakuten"><a href="https://hb.afl.rakuten.co.jp/hgc/09af142d.3ed07ccc.09af142e.da82fa9e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2582%25B5%25E3%2583%25B3%25E3%2583%25AA%25E3%2582%25AA%2F" target="_blank">楽天市場</a></div></div></div><!-- //end --></div>
+    </body></html>
