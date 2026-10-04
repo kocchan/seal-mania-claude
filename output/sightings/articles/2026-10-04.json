@@ -1,7 +1,7 @@
 {
   "date": "2026-10-04",
-  "updatedAt": "2026-10-04T18:15:34.345+09:00",
-  "count": 23,
+  "updatedAt": "2026-10-04T21:07:22.147+09:00",
+  "count": 24,
   "articles": [
     {
       "isSighting": true,
@@ -439,6 +439,25 @@
       "wpPostId": 20604,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-nagano-okaya-2026-10-04/",
       "postedAt": "2026-10-04T18:15:47.537+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "静岡県",
+      "city": "静岡市葵区",
+      "shopName": "オオイシ文具店",
+      "shopAddress": "静岡県静岡市葵区沓谷5-8-1",
+      "productName": "ボンボンドロップシール（クッピーラムネ、じゃがりこ、コアラのマーチ、ミルキー）",
+      "sightingTime": "2026-10-04 閉店時",
+      "statusText": "クッピーラムネは残り僅か。じゃがりこ、コアラのマーチ、ミルキーは在庫あり。",
+      "confidenceMemo": "店舗公式アカウントによる2026年10月4日時点の正確な在庫報告",
+      "sourceUrl": "https://x.com/ooishibungu/status/2106713431986626965",
+      "sourceTweetId": "2106713431986626965",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2106713431986626965.png",
+      "isPosted": true,
+      "wpPostId": 20606,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-shizuoka-aoi-shizuoka-2026-10-04/",
+      "postedAt": "2026-10-04T21:07:28.248+09:00"
     }
   ]
 }
