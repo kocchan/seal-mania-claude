@@ -1,4 +1,9 @@
 ---
+postedAt: "2026-10-04T07:07:03.870Z"
+wpPostUrl: "https://www.seal-search.com/mejirushi/pandorobou-mejirushi-reissue-202610w3/"
+wpPostId: 20597
+posted: true
+imageGenerated: true
 type: mejirushi
 status: draft
 title: "【10月第3週】パンどろぼう めじるし再販"

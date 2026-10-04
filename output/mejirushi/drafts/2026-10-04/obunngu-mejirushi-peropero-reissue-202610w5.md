@@ -1,4 +1,9 @@
 ---
+postedAt: "2026-10-04T07:06:51.120Z"
+wpPostUrl: "https://www.seal-search.com/mejirushi/obunngu-mejirushi-peropero-reissue-202610w5/"
+wpPostId: 20594
+posted: true
+imageGenerated: true
 type: mejirushi
 status: draft
 title: "【10月第5週】お文具といっしょ めじるし再販"

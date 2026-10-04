@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-10-04T07:06:24.025Z"
+wpPostUrl: "https://www.seal-search.com/news/new-item/bonbondrop-new6types-diner-awawa-202611/"
+wpPostId: 20589
+posted: true
 type: new-release
 status: draft
 title: "【11月上旬発売】ボンボンドロップシール新作全6柄！だいなー・あわあわ・えんぜるなど440円"

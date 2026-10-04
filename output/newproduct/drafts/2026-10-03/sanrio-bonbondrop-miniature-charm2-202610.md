@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-10-04T07:06:13.395Z"
+wpPostUrl: "https://www.seal-search.com/character/sanrio-bonbondrop-miniature-charm2-202610-2/"
+wpPostId: 20587
+posted: true
 type: newproduct
 status: draft
 title: "【10月第2週発売】ボンドロ ミニチュアチャーム2 サンリオ"

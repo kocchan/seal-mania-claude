@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-10-04T07:06:32.457Z"
+wpPostUrl: "https://www.seal-search.com/news/new-item/chiikawa-land-line-lottery-20261009/"
+wpPostId: 20591
+posted: true
 type: new-release
 status: draft
 title: "【10/4締切】ちいかわらんどで10/9に「ボンドロ」3種！LINE入店抽選の申込方法まとめ"
