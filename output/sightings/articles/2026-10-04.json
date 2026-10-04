@@ -1,7 +1,7 @@
 {
   "date": "2026-10-04",
-  "updatedAt": "2026-10-04T21:07:22.147+09:00",
-  "count": 24,
+  "updatedAt": "2026-10-05T01:41:48.934+09:00",
+  "count": 25,
   "articles": [
     {
       "isSighting": true,
@@ -458,6 +458,25 @@
       "wpPostId": 20606,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-shizuoka-aoi-shizuoka-2026-10-04/",
       "postedAt": "2026-10-04T21:07:28.248+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "埼玉県",
+      "city": "越谷市",
+      "shopName": "イオンレイクタウン kaze・mori",
+      "shopAddress": "埼玉県越谷市レイクタウン",
+      "productName": "ボンボンドロップシール",
+      "sightingTime": "2026-10-05 01:30頃",
+      "statusText": "在庫の可能性あり（取扱店まとめ）",
+      "confidenceMemo": "地域情報アカウントによる取扱店まとめ情報。商品名が明記されているが、「見つかるかも」という表現のため予測情報として扱う。",
+      "sourceUrl": "https://x.com/lakenavi202x/status/2106784038329766141",
+      "sourceTweetId": "2106784038329766141",
+      "isPrediction": true,
+      "imagePath": "output/sightings/images/2106784038329766141.png",
+      "isPosted": true,
+      "wpPostId": 20608,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-saitama-koshigaya-2026-10-05/",
+      "postedAt": "2026-10-05T01:41:54.860+09:00"
     }
   ]
 }
