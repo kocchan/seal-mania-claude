@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-10-05T07:18:39.548Z"
+wpPostUrl: "https://www.seal-search.com/news/new-item/apita-piaggio-lottery-202610/"
+wpPostId: 20634
+posted: true
 type: lottery
 status: draft
 title: "【10/13抽選開始】アピタ・ピアゴでボンボンドロップシール全12柄！和柄・A・Bの3セットが各2,200円"

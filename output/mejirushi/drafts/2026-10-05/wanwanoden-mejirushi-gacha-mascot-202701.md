@@ -1,4 +1,9 @@
 ---
+postedAt: "2026-10-05T07:19:13.539Z"
+wpPostUrl: "https://www.seal-search.com/mejirushi/wanwanoden-mejirushi-gacha-mascot-202701/"
+wpPostId: 20640
+posted: true
+imageGenerated: true
 type: mejirushi
 status: draft
 title: "【2027年1月発売】わんわんおでん めじるしガチャマスコット"

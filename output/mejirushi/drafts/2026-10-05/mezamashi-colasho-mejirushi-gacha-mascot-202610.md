@@ -1,4 +1,9 @@
 ---
+postedAt: "2026-10-05T07:19:00.104Z"
+wpPostUrl: "https://www.seal-search.com/mejirushi/mezamashi-colasho-mejirushi-gacha-mascot-202610/"
+wpPostId: 20637
+posted: true
+imageGenerated: true
 type: mejirushi
 status: draft
 title: "【10月上旬発売】めざましコラショ めじるしガチャマスコット"

@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-10-05T07:18:30.114Z"
+wpPostUrl: "https://www.seal-search.com/news/reservation/apita-piago-bonbondrop-3set-20261018/"
+wpPostId: 20632
+posted: true
 imageGenerated: true
 type: lottery
 status: draft
