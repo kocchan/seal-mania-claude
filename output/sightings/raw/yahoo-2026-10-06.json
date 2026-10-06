@@ -1,8 +1,8 @@
 {
-  "timestamp": "2026-10-06T15:50:03.134Z",
+  "timestamp": "2026-10-06T18:08:23.502Z",
   "source": "yahoo_realtime",
   "platform": "x",
-  "count": 192,
+  "count": 195,
   "data": [
     {
       "tweetId": "2107273436255174824",
@@ -3265,6 +3265,55 @@
       "images": [
         "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i5e72TLbER0xQeK1l8ZZ0OLZbPER1gMtt0ykHDTjHMbgVnYM4XTKbycMV1Je8IEyGzOdP7SSeJpmlkD4hBsbNG0Nwr1Pg8c0Iu-FQpm38_5I6l19L9pnuuRt7mokWGI8cpCKAIm4ORYcsbZ2K1IsrRuZFNrmP9DM_t2JnBGy7h3sx3GkiKtTrM_Gi9kgr8d4pX-kaODYXgb6lrX1wKnBZJl",
         "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i5e72TLbER0xQeK1l8ZZ0OLBobXaCJmtZqnBP5yf9RsiYK5VzGO9TLgNmMoQR3u71RbXeJmyGcxrf4cvHVQi43IdD-p8SQKv11rpvDukLDyDlIgUK4kneWxUxvWlZMO5_qiuXadcRmgiyng9mZcJVsLUC8lDAjfPp8Z4PAVBd9N0w336WdIgr_Hedom0bdsrKtv1IG8yy-U-WRo5qZ-Nc6-"
+      ],
+      "isProcessed": true,
+      "_filepath": "output/sightings/raw/yahoo-2026-10-06.json"
+    },
+    {
+      "tweetId": "2107525904171978777",
+      "userId": "ayanachana",
+      "text": "ボンボンドロップミニチュアチャーム２ 大型店舗から順次入荷が始まってる。 うちの近辺もそろそろか？ソワソワ… pic.x.com/QVwi3mzo4Jあやあや@ayanachana30分前",
+      "user": "あやあや",
+      "time": "2026-10-07T02:38:23.502+09:00",
+      "timeRaw": "30分前",
+      "url": "https://x.com/ayanachana/status/2107525904171978777",
+      "hashtags": [],
+      "images": [
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i5e72TLbER0xQeK1l8ZZ0OLc3PSQ742j-eE_8AGfKYQ5bRuFQBfwrvTIuq5lCp19ZmvZ5-0McVZw4gxkC5l4cEQFDsnzAZfbEENRwE2jDhRBtiTFfuWRgtguq0aYjn3moKGsTv_hz8OF2XkYNsRrxrnDPn5DgiKlFXYtfmUOgAwLuEk-qMOF6_aoUNqbUXrm_4kcVFtFW5Q2Kn9v_Js9JxA",
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i6hjVpND1OjWZ7RVcmujne-CkCfs-KbU1dwhsYGATQbziiCuqWVIeuV4QOs7dcQVXs0SsrNR7L-QXt6I7SiXO8y6Y_czmWmVsEiWluzLURkQRsDRNfevBBXMFJW7IsVu6Q9DGKEB9il-aNXkxoYU_-B__zNEf1mKst8c_dDeffRZA=="
+      ],
+      "isProcessed": true,
+      "_filepath": "output/sightings/raw/yahoo-2026-10-06.json"
+    },
+    {
+      "tweetId": "2107519303914508325",
+      "userId": "chiikawaIando",
+      "text": "送料無料！ MrsGREENAPPLEボンボンドロップシール4種セットは 新品未開封！ 多彩なデザインであなたの日常を彩ります。 心躍る瞬間を楽しんで！ 在庫が少ないのでお早めに！ 詳細はこちら👉 hkt48mio.base.shop/items/161341705 #MrsGREENAPPLE #ボンボンドロップシールちいかわ@chiikawaIando56分前",
+      "user": "ちいかわ",
+      "time": "2026-10-07T02:12:23.502+09:00",
+      "timeRaw": "56分前",
+      "url": "https://x.com/chiikawaIando/status/2107519303914508325",
+      "hashtags": [
+        "#MrsGREENAPPLE",
+        "#ボンボンドロップシールちいかわ"
+      ],
+      "images": [
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i5e72TLbER0xQeK1l8ZZ0OLxzvaGmDqkq6Cv69UMIST-MAohTdT5OS_SNUkci6ony0dwJmXs7UeBbum9g4fx_rjYMucS0iOVcR0x_Mg60V83R057wfJr_v-F3qxvYlA7KzjjGlyV125yFeVfg14Ph-0RXYIrrnABKZKy_9N0QmJs1FkAlxbuaU_jAvveoA49jX5aorbZP-Hz3oGuAxuIRD7"
+      ],
+      "isProcessed": true,
+      "_filepath": "output/sightings/raw/yahoo-2026-10-06.json"
+    },
+    {
+      "tweetId": "2107522878350721207",
+      "userId": "CCorpok",
+      "text": "有野さんの動画を見て欲しくなったもの ✅スライムナイトルームウェア ✅IDケース ✅イヤーマフラー ⭐ぷっくりシール/シール帳 ✅まくらカバー各種 ✅シングル毛布宿屋 △竜王シャツ、下着、がま口、スライムスリッパ、ニット帽、スライム靴下  結局どれも欲しい、でも今は必要はないもの😞🌀😖どらやき@CCorpok42分前",
+      "user": "どらやき",
+      "time": "2026-10-07T02:26:23.502+09:00",
+      "timeRaw": "42分前",
+      "url": "https://x.com/CCorpok/status/2107522878350721207",
+      "hashtags": [],
+      "images": [
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i5e72TLbER0xQeK1l8ZZ0OLPygtM6xBxFOI7LYgxvPZh5hANhjHUygeoEdA0-IrNrNqwjvuTYK9d-XaZvnXA-UYgi8vo7jQ3yrQGL3-na2f9EVOR5lnWRYfveQ5u7gACpbHrabFnDLocMq4OCxypIBYjaJ5FAZti_rPQaY3YQ1pn4_zrzdhx2z0Ky1ePtP5WuPbM87cl1xvvCd5X9jrkpW4"
       ],
       "isProcessed": true,
       "_filepath": "output/sightings/raw/yahoo-2026-10-06.json"
