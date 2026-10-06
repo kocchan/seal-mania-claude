@@ -1,0 +1,20 @@
+---
+source: rss
+url: "https://www.inside-games.jp/article/2026/10/05/188763.html"
+title: "大人気「ちいかわ めじるしアクセサリー3」が10月に再販！雨カッパを着たハチワレ、古本屋など全5種 | インサイド"
+siteName: "インサイド"
+publishedAt: "2026-10-05T12:22:06Z"
+fetchedAt: "2026-10-06T03:29:40.508Z"
+fetchMethod: axios
+ogImage: "https://www.inside-games.jp/imgs/ogp_f/1723434.jpg"
+description: "「ちいかわ めじるしアクセサリー3」が全国のガシャポン自販機にて2026年10月より再販！"
+---
+
+## RSS要約
+
+「ちいかわ めじるしアクセサリー 3」が全国のガシャポン自販機にて2026年10月より再販！ フィギュア・グッズ グッズ. 2026.10.5 Mon 13:10. シェア.
+
+## 本文HTML（サニタイズ済み）
+
+<html><head></head><body><figure class="ctms-editor-image"><img src="https://www.inside-games.jp/imgs/zoom/1723439.jpg" class="inline-article-image" width="640" height="640"></figure><p>バンダイは、ガシャポン<b>「ちいかわ めじるしアクセサリー3」</b>を10月4週に再販します。</p><h2>◆「ちいかわ」めじるしアクセサリー第3弾！</h2><p>本商品は、「ちいかわ」のめじるしアクセサリー第3弾。ラインナップは「ちいかわ」「ハチワレ」「うさぎ」「モモンガ」「古本屋」の全5種で、雨カッパを着た可愛いらしい姿となっています。サイズは約2cmで、カニカン・わっかパーツ付き。チャームや傘の取っ手などに取り付けることができます。</p><h3>■<b>ちいかわ</b></h3><figure class="ctms-editor-image"><img src="https://www.inside-games.jp/imgs/zoom/1723434.jpg" class="inline-article-image" width="560" height="560"></figure><h3><b>■ハチワレ</b></h3><figure class="ctms-editor-image"><img src="https://www.inside-games.jp/imgs/zoom/1723435.jpg" class="inline-article-image" width="560" height="560"></figure><h3><b>■うさぎ</b></h3><figure class="ctms-editor-image"><img src="https://www.inside-games.jp/imgs/zoom/1723436.jpg" class="inline-article-image" width="560" height="560"></figure><h3><b>■モモンガ</b></h3><figure class="ctms-editor-image"><img src="https://www.inside-games.jp/imgs/zoom/1723437.jpg" class="inline-article-image" width="560" height="560"></figure><h3><b>■古本屋</b></h3><figure class="ctms-editor-image"><img src="https://www.inside-games.jp/imgs/zoom/1723438.jpg" class="inline-article-image" width="560" height="560"></figure><hr><p><a target="_blank" rel="noopener noreferrer" href="https://gashapon.jp/products/detail.php?jan_code=4570117984075000">「ちいかわ めじるしアクセサリー3」</a>の価格は1回300円（税込）。全国のガシャポン自販機にて2026年10月4週より<a target="_blank" rel="noopener noreferrer" href="https://x.com/Gashapon_Bandai/status/2064256227652280446">再販予定</a>です。</p><div class="af_box"><!-- start --><div class="af_list"><div class="af_box_left"><a href="https://www.amazon.co.jp/dp/B0G1LL6B5B?tag=insidegames-22&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank"><img src="https://m.media-amazon.com/images/I/41f5VKsHlvL._SL160_.jpg" class="af_box_image"></a></div><div class="af_box_right"><b><a href="https://www.amazon.co.jp/dp/B0G1LL6B5B?tag=insidegames-22&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank">ちいかわ　なんか小さくてかわいいやつ（８） (モーニングコミックス)</a></b><br><b>￥1,375</b><br><span>(価格・在庫状況は記事公開時点のものです)</span><br><div class="af_box_link_amazon"><a href="https://www.amazon.co.jp/dp/B0G1LL6B5B?tag=insidegames-22&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank">Amazon</a></div><div class="af_box_link_rakuten"><a href="https://hb.afl.rakuten.co.jp/hgc/0dfd5e9c.cb53a4b8.132b5a79.c657d846/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2581%25A1%25E3%2581%2584%25E3%2581%258B%25E3%2582%258F%2F" target="_blank">楽天市場</a></div></div></div><!-- //end --></div><div class="af_box"><!-- start --><div class="af_list"><div class="af_box_left"><a href="https://www.amazon.co.jp/dp/B0DP3S7N3Z?tag=insidegames-22&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank"><img src="https://m.media-amazon.com/images/I/31IIvAUgqqL._SL160_.jpg" class="af_box_image"></a></div><div class="af_box_right"><b><a href="https://www.amazon.co.jp/dp/B0DP3S7N3Z?tag=insidegames-22&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank">オールスター ＣＬ ＨＩ ／ ちいかわ うさぎ</a></b><br><b>￥3,598</b><br><span>(価格・在庫状況は記事公開時点のものです)</span><br><div class="af_box_link_amazon"><a href="https://www.amazon.co.jp/dp/B0DP3S7N3Z?tag=insidegames-22&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank">Amazon</a></div><div class="af_box_link_rakuten"><a href="https://hb.afl.rakuten.co.jp/hgc/0dfd5e9c.cb53a4b8.132b5a79.c657d846/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2581%25A1%25E3%2581%2584%25E3%2581%258B%25E3%2582%258F%2F" target="_blank">楽天市場</a></div></div></div><!-- //end --></div>
+</body></html>
