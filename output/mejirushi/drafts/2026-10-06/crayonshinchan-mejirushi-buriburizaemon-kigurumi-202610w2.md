@@ -1,4 +1,9 @@
 ---
+postedAt: "2026-10-06T07:44:44.081Z"
+wpPostUrl: "https://www.seal-search.com/mejirushi/crayonshinchan-mejirushi-buriburizaemon-kigurumi-202610w2/"
+wpPostId: 20695
+posted: true
+imageGenerated: true
 type: mejirushi
 status: draft
 title: "【10月第2週】クレしん ぶりぶりざえもん着ぐるみめじるし"

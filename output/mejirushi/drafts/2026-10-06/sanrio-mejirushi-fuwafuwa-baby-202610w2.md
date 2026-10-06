@@ -1,4 +1,9 @@
 ---
+postedAt: "2026-10-06T07:44:55.935Z"
+wpPostUrl: "https://www.seal-search.com/mejirushi/sanrio-mejirushi-fuwafuwa-baby-202610w2/"
+wpPostId: 20698
+posted: true
+imageGenerated: true
 type: mejirushi
 status: draft
 title: "【10月第2週】サンリオ ふわふわめじるし～Baby～"
