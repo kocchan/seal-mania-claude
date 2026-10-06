@@ -1,7 +1,7 @@
 {
   "date": "2026-10-06",
-  "updatedAt": "2026-10-06T10:41:02.339+09:00",
-  "count": 10,
+  "updatedAt": "2026-10-06T14:24:02.382+09:00",
+  "count": 12,
   "articles": [
     {
       "isSighting": true,
@@ -192,6 +192,44 @@
       "wpPostId": 20688,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-osaka-osaka-2026-10-04/",
       "postedAt": "2026-10-06T10:42:17.444+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "埼玉県",
+      "city": "越谷市",
+      "shopName": "ガシャポンのデパート イオンレイクタウンmori店",
+      "shopAddress": "埼玉県越谷市レイクタウン3丁目1番地1 イオンレイクタウンmori 3F",
+      "productName": "サンリオキャラクターズ ボンボンドロップミニチュアチャーム2",
+      "sightingTime": "2026-10-06 04:04頃",
+      "statusText": "在庫あり（販売開始）",
+      "confidenceMemo": "店舗公式アカウントによる入荷・販売開始の投稿",
+      "sourceUrl": "https://x.com/gasha_laketown/status/2107320989151633439",
+      "sourceTweetId": "2107320989151633439",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2107320989151633439.png",
+      "isPosted": true,
+      "wpPostId": 20690,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-saitama-koshigaya-2026-10-06/",
+      "postedAt": "2026-10-06T14:24:09.013+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "埼玉県",
+      "city": "越谷市",
+      "shopName": "ガシャポンのデパート イオンレイクタウンmori店",
+      "shopAddress": "埼玉県越谷市レイクタウン3丁目1番地1 イオンレイクタウンmori 3F",
+      "productName": "サンリオキャラクターズ ボンボンドロップミニチュアチャーム2",
+      "sightingTime": "2026-10-06 04:04頃",
+      "statusText": "完売（品切れ）",
+      "confidenceMemo": "店舗公式アカウントによる完売報告",
+      "sourceUrl": "https://x.com/gasha_laketown/status/2107328830113464393",
+      "sourceTweetId": "2107328830113464393",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2107328830113464393.png",
+      "isPosted": true,
+      "wpPostId": 20692,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-saitama-koshigaya-2026-10-06-2/",
+      "postedAt": "2026-10-06T14:24:16.022+09:00"
     }
   ]
 }
