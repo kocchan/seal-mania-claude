@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-10-07T07:25:10.645Z"
+wpPostUrl: "https://www.seal-search.com/character/hiroshima-super-logo-seal-collection-20261004/"
+wpPostId: 20804
+posted: true
 type: newproduct
 status: draft
 title: "【10/4発売】広島スーパーロゴ ぷっくりシール548円"

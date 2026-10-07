@@ -1,4 +1,9 @@
 ---
+postedAt: "2026-10-07T07:25:45.985Z"
+wpPostUrl: "https://www.seal-search.com/mejirushi/hide-mejirushi-accessory-2nd-order-20261006/"
+wpPostId: 20812
+posted: true
+imageGenerated: true
 type: mejirushi
 status: draft
 title: "【10/6受付】hide めじるしアクセサリー2次受注"

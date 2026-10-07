@@ -1,4 +1,9 @@
 ---
+postedAt: "2026-10-07T07:25:33.898Z"
+wpPostUrl: "https://www.seal-search.com/mejirushi/harry-potter-mejirushi-plus-reissue-202610w3/"
+wpPostId: 20809
+posted: true
+imageGenerated: true
 type: mejirushi
 status: draft
 title: "【10月第3週】ハリポタ めじるしアクセサリー限定再販"

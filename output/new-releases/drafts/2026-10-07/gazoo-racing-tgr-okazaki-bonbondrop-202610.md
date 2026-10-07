@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-10-07T07:25:18.701Z"
+wpPostUrl: "https://www.seal-search.com/news/new-item/gazoo-racing-tgr-okazaki-bonbondrop-202610/"
+wpPostId: 20806
+posted: true
 type: lottery
 status: draft
 title: "【10/10〜先行抽選】TGRストア岡崎でしずくちゃん×GAZOO Racingボンドロ先行販売！全4柄"
