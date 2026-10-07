@@ -1,8 +1,8 @@
 {
-  "timestamp": "2026-10-07T16:04:55.856Z",
+  "timestamp": "2026-10-07T18:41:34.508Z",
   "source": "yahoo_realtime",
   "platform": "x",
-  "count": 259,
+  "count": 261,
   "data": [
     {
       "tweetId": "2107289930942845404",
@@ -4616,6 +4616,36 @@
       "images": [
         "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i5e72TLbER0xQeK1l8ZZ0OL17RIQIlcVInPTADLOCr4VSyRX3GhcQQ4-IEeLDGtsoExOASgCP4x-YCxOMy48uYsdQeZkpMScOylo__OrHyE-uqjr7KyOIHdErwThONH6y8sRw2u2jC507enL74twwJ0554_DmHq-ouk5ZGVnSPPv2DpBbjmoJHoBJzhrjzzhSClSUh9h4IxWkWH-2Us6-4A",
         "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i6hjVpND1OjWZ7RVcmujne-KeSGPbeUzAq1d1H8tsgHNZci46dvAqWkKSfCnCyTaDlx6BKhpInVoqN-yjqrQz2RFmMPiJyZe0qCTKVj8ZrKSogcfgfCMBrWmTSGYyT2xi9liseX1Lc3wBp4hjgixnMQ5csedCNwgL-twQsoVM5byg=="
+      ],
+      "isProcessed": true,
+      "_filepath": "output/sightings/raw/yahoo-2026-10-07.json"
+    },
+    {
+      "tweetId": "2107901165619069335",
+      "userId": "ery8bit",
+      "text": "モフハロ悩むけど、最近どの界隈でも出がちなぷっくりシールは買っても使わないし、ハロウィンなモンちゃんも今後多分連れ歩くことはなさそうなので、ここは強い心を持ってぬいかちゅだけ買いにいこう、そうしようえりー@ery8bit12分前",
+      "user": "えりー",
+      "time": "2026-10-08T03:29:34.508+09:00",
+      "timeRaw": "12分前",
+      "url": "https://x.com/ery8bit/status/2107901165619069335",
+      "hashtags": [],
+      "images": [
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i5e72TLbER0xQeK1l8ZZ0OL2c76OD6xBFpn3p7KQXKUOVzkfOHdGP_JKrrSlvshwGrBbnNxo2bGKjfobf6FFaBhrjood6dnkMn6nkFtYbT7EyhPsyEbwU7vvOK9lsS5X4CddWbgBgrqran2kmD9qu9VXdM1G4KU_rvCMvlHFbTE4HxX6k2MoFyRpb5PcnKLKcrFb2lmtusQEv0k_GEJmANS"
+      ],
+      "isProcessed": true,
+      "_filepath": "output/sightings/raw/yahoo-2026-10-07.json"
+    },
+    {
+      "tweetId": "2107870767681790339",
+      "userId": "MP_fairy_LATE",
+      "text": "返信先:@HOH_meruこれ！可愛いよね💕 スティッチ欲しくて回したらベイマックスだったよ…… うるちゅるきらでベイマックスでも良くない？って揺らぎかけた💦 ベイマックスいる？らて（キッチンの妖精さん）@MP_fairy_LATE16:28",
+      "user": "らて（キッチンの妖精さん）",
+      "time": "2026-10-08T16:28:00.000+09:00",
+      "timeRaw": "16:28",
+      "url": "https://x.com/MP_fairy_LATE/status/2107870767681790339",
+      "hashtags": [],
+      "images": [
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i5e72TLbER0xQeK1l8ZZ0OLJmxtzCtba_an1HShpxf6vjOWsXN0yV8ymNBbaRVtgMD6Lb6OdHLN3RPN3B6DFj0j8yNcO9KBe8gYetToVRU8IE14nG0R7SfGGAIJBEjpe6GokMTcmY5WkbdYfFqsIDwDqU5vXclRvDAePRu4mOdsrASdc-0lSMgRQek_IhIwHTncw0wG523vl-vYta0YvcYa"
       ],
       "isProcessed": true,
       "_filepath": "output/sightings/raw/yahoo-2026-10-07.json"
