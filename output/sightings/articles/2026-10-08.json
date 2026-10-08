@@ -1,7 +1,7 @@
 {
   "date": "2026-10-08",
-  "updatedAt": "2026-10-08T22:11:01.567+09:00",
-  "count": 80,
+  "updatedAt": "2026-10-09T01:04:45.229+09:00",
+  "count": 81,
   "articles": [
     {
       "isSighting": true,
@@ -1522,6 +1522,25 @@
       "wpPostId": 21044,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-hyogo-itami-2026-10-08/",
       "postedAt": "2026-10-08T22:11:30.370+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "東京都",
+      "city": "武蔵野市",
+      "shopName": "イトーヨーカドー 武蔵境店",
+      "shopAddress": "東京都武蔵野市境南町２丁目２−２０",
+      "productName": "ボンボンドロップシール",
+      "sightingTime": "2026-10-09 14:06頃",
+      "statusText": "在庫あり",
+      "confidenceMemo": "店舗名・住所・商品名が具体的に記載された在庫情報",
+      "sourceUrl": "https://x.com/BonBonGoApp/status/2108197220973457834",
+      "sourceTweetId": "2108197220973457834",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2108197220973457834.png",
+      "isPosted": true,
+      "wpPostId": 21046,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-tokyo-musashino-2026-10-09/",
+      "postedAt": "2026-10-09T01:04:51.808+09:00"
     }
   ]
 }
