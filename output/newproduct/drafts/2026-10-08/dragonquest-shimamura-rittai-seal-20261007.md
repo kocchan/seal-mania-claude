@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-10-08T07:40:40.717Z"
+wpPostUrl: "https://www.seal-search.com/character/shimamura-dragonquest-rittai-seal-20261007/"
+wpPostId: 20971
+posted: true
 type: newproduct
 status: draft
 title: "【10/7発売】しまむら×ドラクエ りったいシール全4種"

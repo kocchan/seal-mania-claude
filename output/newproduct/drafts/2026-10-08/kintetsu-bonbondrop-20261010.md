@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-10-08T07:41:05.827Z"
+wpPostUrl: "https://www.seal-search.com/character/kintetsu-bonbondrop-20261010/"
+wpPostId: 20973
+posted: true
 type: newproduct
 status: draft
 title: "【10/10発売】近鉄ボンドロ全2種 ブルー・ピンク"

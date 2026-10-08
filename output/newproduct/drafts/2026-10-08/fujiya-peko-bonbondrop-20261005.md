@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-10-08T07:40:48.005Z"
+wpPostUrl: "https://www.seal-search.com/character/fujiya-peko-bonbondrop-20261005/"
+wpPostId: 20972
+posted: true
 type: newproduct
 status: draft
 title: "【販売中】ペコちゃんボンドロ550円 不二家公式通販"

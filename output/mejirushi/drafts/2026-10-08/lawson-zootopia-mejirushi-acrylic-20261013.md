@@ -1,4 +1,9 @@
 ---
+postedAt: "2026-10-08T07:41:56.815Z"
+wpPostUrl: "https://www.seal-search.com/mejirushi/lawson-zootopia-mejirushi-acrylic-20261013/"
+wpPostId: 20978
+posted: true
+imageGenerated: true
 type: mejirushi
 status: draft
 title: "【10/13発売】ローソン限定 ズートピア めじるしアクリルチャーム"

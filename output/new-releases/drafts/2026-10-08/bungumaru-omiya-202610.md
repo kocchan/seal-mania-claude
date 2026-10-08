@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-10-08T07:41:28.283Z"
+wpPostUrl: "https://www.seal-search.com/news/new-item/bungumaru-omiya-202610/"
+wpPostId: 20975
+posted: true
 type: lottery
 status: draft
 title: "【10/14締切】まるっとぶんぐ博大宮でボンドロ整理券抽選！10/23〜25開催"
