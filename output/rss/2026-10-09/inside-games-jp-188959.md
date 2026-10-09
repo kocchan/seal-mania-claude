@@ -1,0 +1,20 @@
+---
+source: rss
+url: "https://www.inside-games.jp/article/2026/10/08/188959.html"
+title: "キラキラ感満載のプーさんやスティッチなど全5種！「ディズニーキャラクター」クリスタルめじるしアクセサリーが11月発売 | インサイド"
+siteName: "インサイド"
+publishedAt: "2026-10-08T14:32:23Z"
+fetchedAt: "2026-10-09T03:18:08.274Z"
+fetchMethod: axios
+ogImage: "https://www.inside-games.jp/imgs/ogp_f/1791635.jpg"
+description: "ガシャポン「“ディズニーキャラクター” クリスタルめじるしアクセサリー」が11月より発売予定！"
+---
+
+## RSS要約
+
+ガシャポン「“ディズニーキャラクター” クリスタル めじるしアクセサリー 」が11月より発売予定！
+
+## 本文HTML（サニタイズ済み）
+
+<html><head></head><body><figure class="ctms-editor-image"><img src="https://www.inside-games.jp/imgs/zoom/1791617.jpg" class="inline-article-image" width="560" height="560"></figure><p>バンダイは、ガシャポン「“ディズニーキャラクター” クリスタルめじるしアクセサリー」を11月より発売予定です。</p><h2>◆キラキラ感満載！「ディズニーキャラクター」クリスタルめじるしアクセサリー</h2><p>本商品は、「ディズニーキャラクター」のクリスタルめじるしアクセサリー。全面にダイヤモンドカットを施した、キラキラ感満載のマスコットです。ラインナップは、「くまのプーさん」「ピグレット」「ディズニー スティッチ」「エンジェル」「ダンボ」の全5種。それぞれお座り姿を立体化、カニカン・わっかパーツ付きでさまざまなところにつけることができます。</p><h3>■くまのプーさん</h3><figure class="ctms-editor-image"><img src="https://www.inside-games.jp/imgs/zoom/1791617.jpg" class="inline-article-image" width="560" height="560"></figure><h3>■ピグレット</h3><figure class="ctms-editor-image"><img src="https://www.inside-games.jp/imgs/zoom/1791618.jpg" class="inline-article-image" width="560" height="560"></figure><h3>■ディズニー スティッチ</h3><figure class="ctms-editor-image"><img src="https://www.inside-games.jp/imgs/zoom/1791619.jpg" class="inline-article-image" width="560" height="560"></figure><h3>■エンジェル</h3><figure class="ctms-editor-image"><img src="https://www.inside-games.jp/imgs/zoom/1791620.jpg" class="inline-article-image" width="560" height="560"></figure><h3>■ダンボ</h3><figure class="ctms-editor-image"><img src="https://www.inside-games.jp/imgs/zoom/1791621.jpg" class="inline-article-image" width="560" height="560"></figure><hr><p>「“ディズニーキャラクター” クリスタルめじるしアクセサリー」の価格は1回300円（税込）で、11月より発売予定です。詳細は<a target="_blank" rel="noopener noreferrer" href="https://gashapon.jp/products/detail.php?jan_code=4570118184474000">ガシャポン商品ページ</a>をご確認ください。</p><div class="af_box"><!-- start --><div class="af_list"><div class="af_box_left"><a href="https://www.amazon.co.jp/dp/B0H5NH8VBC?tag=insidegames-22&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank"><img src="https://m.media-amazon.com/images/I/31CJNbG3CBL._SL160_.jpg" class="af_box_image"></a></div><div class="af_box_right"><b><a href="https://www.amazon.co.jp/dp/B0H5NH8VBC?tag=insidegames-22&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank">セキグチ(Sekiguchi) くまのプーさん プーさん100周年 ロゴキーチェーンマスコットころりんぬいぐるみ 641277 H13×W8×D8cm</a></b><br><b>￥3,850</b><br><span>(価格・在庫状況は記事公開時点のものです)</span><br><div class="af_box_link_amazon"><a href="https://www.amazon.co.jp/dp/B0H5NH8VBC?tag=insidegames-22&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank">Amazon</a></div><div class="af_box_link_rakuten"><a href="https://hb.afl.rakuten.co.jp/hgc/09af142d.3ed07ccc.09af142e.da82fa9e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2583%2597%25E3%2583%25BC%25E3%2581%2595%25E3%2582%2593%2F" target="_blank">楽天市場</a></div></div></div><!-- //end --></div><div class="af_box"><!-- start --><div class="af_list"><div class="af_box_left"><a href="https://www.amazon.co.jp/dp/B0GYRVT81S?tag=insidegames-22&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank"><img src="https://m.media-amazon.com/images/I/31133UgnJAL._SL160_.jpg" class="af_box_image"></a></div><div class="af_box_right"><b><a href="https://www.amazon.co.jp/dp/B0GYRVT81S?tag=insidegames-22&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank">ICカード 対応 カード カバー マイナカード 対応 ディズニー くまのプーさん PG-DMY02POO</a></b><br><b>￥480</b><br><span>(価格・在庫状況は記事公開時点のものです)</span><br><div class="af_box_link_amazon"><a href="https://www.amazon.co.jp/dp/B0GYRVT81S?tag=insidegames-22&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank">Amazon</a></div><div class="af_box_link_rakuten"><a href="https://hb.afl.rakuten.co.jp/hgc/09af142d.3ed07ccc.09af142e.da82fa9e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2583%2597%25E3%2583%25BC%25E3%2581%2595%25E3%2582%2593%2F" target="_blank">楽天市場</a></div></div></div><!-- //end --></div>
+</body></html>
