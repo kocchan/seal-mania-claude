@@ -1,4 +1,9 @@
 ---
+postedAt: "2026-10-09T07:37:14.079Z"
+wpPostUrl: "https://www.seal-search.com/mejirushi/aikatsu-mejirushi-cute-collection-20261008/"
+wpPostId: 21151
+posted: true
+imageGenerated: true
 type: mejirushi
 status: draft
 title: "【10/8予約】アイカツ！ めじるしアクセサリー Cute"

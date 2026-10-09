@@ -1,4 +1,9 @@
 ---
+postedAt: "2026-10-09T07:37:26.074Z"
+wpPostUrl: "https://www.seal-search.com/mejirushi/gundam-head-mejirushi3-seed-freedom-20261008/"
+wpPostId: 21154
+posted: true
+imageGenerated: true
 type: mejirushi
 status: draft
 title: "【10/8予約】ガンダムヘッド めじるしアクセ第3弾"

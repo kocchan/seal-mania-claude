@@ -1,4 +1,9 @@
 ---
+postedAt: "2026-10-09T07:37:49.900Z"
+wpPostUrl: "https://www.seal-search.com/mejirushi/super-sentai-mejirushi-accessory-reissue-202610w2/"
+wpPostId: 21160
+posted: true
+imageGenerated: true
 type: mejirushi
 status: draft
 title: "【10月第2週再登場】スーパー戦隊 めじるしアクセサリー"

@@ -1,4 +1,9 @@
 ---
+postedAt: "2026-10-09T07:37:38.643Z"
+wpPostUrl: "https://www.seal-search.com/mejirushi/gyaruneko-mejirushi-accessory-202610w2/"
+wpPostId: 21157
+posted: true
+imageGenerated: true
 type: mejirushi
 status: draft
 title: "【10月第2週】ギャルネコ めじるしアクセサリー"
