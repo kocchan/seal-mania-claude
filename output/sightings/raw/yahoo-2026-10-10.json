@@ -1,8 +1,8 @@
 {
-  "timestamp": "2026-10-10T14:58:47.147Z",
+  "timestamp": "2026-10-10T17:10:16.529Z",
   "source": "yahoo_realtime",
   "platform": "x",
-  "count": 258,
+  "count": 260,
   "data": [
     {
       "tweetId": "2108120229545189470",
@@ -4637,6 +4637,36 @@
       "hashtags": [],
       "images": [
         "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i5e72TLbER0xQeK1l8ZZ0OLcSCP5VurUElA5PvsyoparpUNyOTT6aY8o0WRystaI-xaXqQ7akajMNgTnl4GpcWEW697DSrsGeqsi-eHlnPRw2iAFHbyooe3H94UbGhedjKtAprJeOCWklP0EIsTGybjJEsDQ6K6RaCfAplqmYw95BVZ_pv8DkmB4IbhIVH3Z6iulJL_ePm2QoFnMbISySFd"
+      ],
+      "isProcessed": true,
+      "_filepath": "output/sightings/raw/yahoo-2026-10-10.json"
+    },
+    {
+      "tweetId": "2108935776017010940",
+      "userId": "kogechaaaaa",
+      "text": "自分からラブブとかボンボンドロップシールとかメロジョイとか欲しがるガキ生まれてきたら、そいつの事理解出来なさ過ぎて頭おかしくなりそうだな  だから子供いらないわこげ茶@kogechaaaaa15:00",
+      "user": "こげ茶",
+      "time": "2026-10-11T15:00:00.000+09:00",
+      "timeRaw": "15:00",
+      "url": "https://x.com/kogechaaaaa/status/2108935776017010940",
+      "hashtags": [],
+      "images": [
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i5e72TLbER0xQeK1l8ZZ0OLEIJPwDWXPGIUA307GfUPt9VjHeOwLhAAGXKSCHk84t8IYCc6KwO5sT3gK0lPWipxi1lxiDoXp36Mlx7f3zkUewWdFeaFrP1pV4ZRrVkUSe2G-XvDKtq-oDan9PgpP7W-kuSOiFMquCks9NE_DlTnTlNFSZ-ovL9WhE7KXbBf6yfokRIYLjMljfsMlBr4sSoh"
+      ],
+      "isProcessed": true,
+      "_filepath": "output/sightings/raw/yahoo-2026-10-10.json"
+    },
+    {
+      "tweetId": "2108958195331076263",
+      "userId": "nono_kf",
+      "text": "返信先:@yukikiyamaaメニュー名可愛いですよね🤭 うるちゅるイベント開催するしかないですね。 一緒にイベントメニュー考えましょう。  また来週です!にしやまさんが来た時には初めてのご案内できたらいいなの気持ちお待ちしております♡のの@11/14主催🫧🐢@nono_kf41分前",
+      "user": "のの@11/14主催🫧🐢",
+      "time": "2026-10-11T01:29:16.529+09:00",
+      "timeRaw": "41分前",
+      "url": "https://x.com/nono_kf/status/2108958195331076263",
+      "hashtags": [],
+      "images": [
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i5e72TLbER0xQeK1l8ZZ0OLBN8xNrN4op-D-m7_MjI0eSbbKXaglGymjorbDnZy_mXAHU6UPocFPT7rcw-xFqIPss2mXXPtQkOVzjcFqpBGiFpGER1Y77nGLQTb2hova92H52TlEWYncMveEYwfOyol4NQFNPImICuN9-axm57DEZKbKAHHI8HL6ta5uy3P2v2r3Umms9YXxYdE-p1awbIW"
       ],
       "isProcessed": true,
       "_filepath": "output/sightings/raw/yahoo-2026-10-10.json"
