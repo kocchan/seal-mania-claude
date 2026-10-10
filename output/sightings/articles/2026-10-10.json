@@ -1,7 +1,7 @@
 {
   "date": "2026-10-10",
-  "updatedAt": "2026-10-10T18:19:39.765+09:00",
-  "count": 63,
+  "updatedAt": "2026-10-10T21:14:56.475+09:00",
+  "count": 65,
   "articles": [
     {
       "isSighting": true,
@@ -1199,6 +1199,44 @@
       "wpPostId": 21654,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-chiba-funabashi-2026-10-05/",
       "postedAt": "2026-10-10T18:21:51.660+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "京都府",
+      "city": "京都市下京区",
+      "shopName": "エキマルア・ラ・モード京都mini (PukuPuku Mart)",
+      "shopAddress": "京都府京都市下京区東塩小路町 JR京都駅構内",
+      "productName": "ボンボンドロップシール churukira クロミ",
+      "sightingTime": "2026-10-10 09:22頃",
+      "statusText": "入荷情報あり（10/10入荷、完売の可能性あり）",
+      "confidenceMemo": "店舗公式アカウントによる具体的な入荷告知",
+      "sourceUrl": "https://x.com/Puku2Mart/status/2108850717545107724",
+      "sourceTweetId": "2108850717545107724",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2108850717545107724.png",
+      "isPosted": true,
+      "wpPostId": 21656,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-kyoto-shimogyo-kyoto-2026-10-10/",
+      "postedAt": "2026-10-10T21:15:02.035+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "神奈川県",
+      "city": "大和市",
+      "shopName": "ぐるぐる大帝国 大和店",
+      "shopAddress": "神奈川県大和市代官1-16-10",
+      "productName": "ボンボンドロップシール",
+      "sightingTime": "2026-10-10 09:42頃",
+      "statusText": "在庫・買取情報あり",
+      "confidenceMemo": "店舗公式による買取価格・在庫更新の投稿",
+      "sourceUrl": "https://x.com/gr2yamato/status/2108855639451803750",
+      "sourceTweetId": "2108855639451803750",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2108855639451803750.png",
+      "isPosted": true,
+      "wpPostId": 21658,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-kanagawa-yamato-2026-10-10/",
+      "postedAt": "2026-10-10T21:15:07.970+09:00"
     }
   ]
 }
