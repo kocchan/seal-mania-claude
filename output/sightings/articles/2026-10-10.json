@@ -1,7 +1,7 @@
 {
   "date": "2026-10-10",
-  "updatedAt": "2026-10-10T21:14:56.475+09:00",
-  "count": 65,
+  "updatedAt": "2026-10-10T23:59:56.904+09:00",
+  "count": 66,
   "articles": [
     {
       "isSighting": true,
@@ -1237,6 +1237,25 @@
       "wpPostId": 21658,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-kanagawa-yamato-2026-10-10/",
       "postedAt": "2026-10-10T21:15:07.970+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "北海道",
+      "city": "千歳市",
+      "shopName": "ガシャポンバンダイオフィシャルショップ新千歳空港店",
+      "shopAddress": "北海道千歳市美々 新千歳空港内 国内線旅客ターミナルビル 2F",
+      "productName": "サンリオキャラクターズ ボンボンドロップミニチュアチャーム2",
+      "sightingTime": "2026-10-10 13:32",
+      "statusText": "入荷・発売中",
+      "confidenceMemo": "設置場所および入荷情報として店舗名が具体的に特定されているため信頼性が高い。",
+      "sourceUrl": "https://x.com/chara_goo/status/2108913521219997850",
+      "sourceTweetId": "2108913521219997850",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2108913521219997850.png",
+      "isPosted": true,
+      "wpPostId": 21660,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-hokkaido-chitose-2026-10-10-2/",
+      "postedAt": "2026-10-11T00:00:04.310+09:00"
     }
   ]
 }
