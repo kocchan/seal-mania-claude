@@ -1,4 +1,9 @@
 ---
+postedAt: "2026-10-10T07:25:23.463Z"
+wpPostUrl: "https://www.seal-search.com/mejirushi/twisted-wonderland-mejirushi-magical-pen-202610w4/"
+wpPostId: 21612
+posted: true
+imageGenerated: true
 type: mejirushi
 status: draft
 title: "【10月第4週】ツイステ めじるしアクセサリー 7寮マジカルペン"

@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-10-10T07:23:40.486Z"
+wpPostUrl: "https://www.seal-search.com/character/sushiro-pompompurin-collab-20261007/"
+wpPostId: 21589
+posted: true
 type: newproduct
 status: draft
 title: "【10/7〜】スシロー×ポムポムプリン 初コラボ"

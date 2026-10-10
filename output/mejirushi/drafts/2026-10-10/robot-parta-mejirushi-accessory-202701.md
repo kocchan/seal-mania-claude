@@ -1,4 +1,9 @@
 ---
+postedAt: "2026-10-10T07:24:48.006Z"
+wpPostUrl: "https://www.seal-search.com/mejirushi/robot-parta-mejirushi-accessory-202701/"
+wpPostId: 21603
+posted: true
+imageGenerated: true
 type: mejirushi
 status: draft
 title: "【2027年1月】ロボット パルタ めじるしアクセサリー全5種"

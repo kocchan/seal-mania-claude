@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-10-10T07:23:29.177Z"
+wpPostUrl: "https://www.seal-search.com/character/chiikawa-puku-churu-seal3-prize-20261009/"
+wpPostId: 21587
+posted: true
 type: newproduct
 status: draft
 title: "【10/9〜】ちいかわ PUKU CHURUシール第3弾 全7種"

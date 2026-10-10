@@ -1,4 +1,9 @@
 ---
+postedAt: "2026-10-10T07:24:34.552Z"
+wpPostUrl: "https://www.seal-search.com/mejirushi/pikmin-mejirushi-accessory2-reissue-202611/"
+wpPostId: 21600
+posted: true
+imageGenerated: true
 type: mejirushi
 status: draft
 title: "【11月再販】ピクミン めじるしアクセサリー2 全9種"

@@ -1,4 +1,9 @@
 ---
+postedAt: "2026-10-10T07:24:09.427Z"
+wpPostUrl: "https://www.seal-search.com/mejirushi/disney-crystal-mejirushi-pooh-stitch-202611/"
+wpPostId: 21594
+posted: true
+imageGenerated: true
 type: mejirushi
 status: draft
 title: "【11月発売】ディズニー クリスタルめじるし プーさん他全5種"

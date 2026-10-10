@@ -1,4 +1,9 @@
 ---
+postedAt: "2026-10-10T07:24:21.349Z"
+wpPostUrl: "https://www.seal-search.com/mejirushi/peanuts-mejirushi-funny-reissue-202611/"
+wpPostId: 21597
+posted: true
+imageGenerated: true
 type: mejirushi
 status: draft
 title: "【11月再販】PEANUTS めじるしアクセサリー FUNNY ver."

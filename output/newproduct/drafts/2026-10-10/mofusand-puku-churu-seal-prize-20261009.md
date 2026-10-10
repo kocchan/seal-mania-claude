@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-10-10T07:23:34.533Z"
+wpPostUrl: "https://www.seal-search.com/character/mofusand-puku-churu-seal-prize-20261009/"
+wpPostId: 21588
+posted: true
 type: newproduct
 status: draft
 title: "【10/9〜】mofusand PUKU CHURUシール 全4種プライズ"

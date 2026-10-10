@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-10-10T07:23:49.310Z"
+wpPostUrl: "https://www.seal-search.com/news/new-item/kintetsu-bonbondrop-202610/"
+wpPostId: 21591
+posted: true
 type: new-release
 status: draft
 title: "【10/10発売】近鉄×ボンボンドロップシール2種！鉄道フェスで先行販売"

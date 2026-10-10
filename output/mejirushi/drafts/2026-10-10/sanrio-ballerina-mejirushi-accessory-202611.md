@@ -1,4 +1,9 @@
 ---
+postedAt: "2026-10-10T07:24:58.953Z"
+wpPostUrl: "https://www.seal-search.com/mejirushi/sanrio-ballerina-mejirushi-accessory-202611/"
+wpPostId: 21606
+posted: true
+imageGenerated: true
 type: mejirushi
 status: draft
 title: "【11月発売】サンリオ バレリーナめじるしアクセサリー全6種"
