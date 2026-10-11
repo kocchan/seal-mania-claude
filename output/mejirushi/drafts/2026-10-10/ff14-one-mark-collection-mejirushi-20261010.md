@@ -1,4 +1,9 @@
 ---
+postedAt: "2026-10-11T07:28:56.621Z"
+wpPostUrl: "https://www.seal-search.com/mejirushi/ff14-one-mark-collection-mejirushi-20261010/"
+wpPostId: 21745
+posted: true
+imageGenerated: true
 type: mejirushi
 status: draft
 title: "【10/10発売】FF14 ONE MARK COLLECTION全4商品"
