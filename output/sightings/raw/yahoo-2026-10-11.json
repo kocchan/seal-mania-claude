@@ -1,8 +1,8 @@
 {
-  "timestamp": "2026-10-11T15:17:21.372Z",
+  "timestamp": "2026-10-11T17:33:00.034Z",
   "source": "yahoo_realtime",
   "platform": "x",
-  "count": 218,
+  "count": 220,
   "data": [
     {
       "tweetId": "2108708767487730052",
@@ -3945,6 +3945,38 @@
       "hashtags": [],
       "images": [
         "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i5e72TLbER0xQeK1l8ZZ0OLPIIP3qF-w0WnteIpDv64DfWF_w9Ui6K80dHBthXCydAq0QM1FDMjDcJ1LhEhAoseta06KEwKHNss7IQH9CM2ckcyGHlSwC8ezgbVXxK3o4b820-aQt14POWnrM1OeR-yMbWs3oRJ6i_EJ7K6dACw1MyHyGnogKixAjgTghGNnpg6DKBjoQFu-nin0xPwfTS9"
+      ],
+      "isProcessed": true,
+      "_filepath": "output/sightings/raw/yahoo-2026-10-11.json"
+    },
+    {
+      "tweetId": "2109316974941815170",
+      "userId": "ritomasugoke",
+      "text": "ぷっくりシールは背景不透明の方だったらまだ全然在庫あります😌というかその他諸々割とまだ在庫ある。 【NEW】ぷっくりシール | 2階：木材コーナー #booth_pm ritomasugoke.booth.pm/items/8541333ベニヤ板@ritomasugoke16:15",
+      "user": "ベニヤ板",
+      "time": "2026-10-12T16:15:00.000+09:00",
+      "timeRaw": "16:15",
+      "url": "https://x.com/ritomasugoke/status/2109316974941815170",
+      "hashtags": [
+        "#booth_pm"
+      ],
+      "images": [
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i5e72TLbER0xQeK1l8ZZ0OLBnFhU7q8CS0C57ZjQqO_kTc3FXwbtnKEFGVaease3cIuDkLy0G2cGa72P81MJZclLwIFSqpXjJSuOGycChisVnuDZpNFU1_q6X2moPVQ93-xLMNqL-E4Wvws8J1EQ7hIYf_Zk8rTNRt_1ZY6kn1RFaMBd3Ti9sWPjXmTqj-jGxtFcYb82H14hMuExqWjkKlD"
+      ],
+      "isProcessed": true,
+      "_filepath": "output/sightings/raw/yahoo-2026-10-11.json"
+    },
+    {
+      "tweetId": "2109320510249255253",
+      "userId": "soratako0",
+      "text": "最終話の初回𝑲𝑰𝑺𝑺でたこいさんのうるちゅるまんまるおめめ👀に塩野しか映っていないと聞き、確かめ、発狂し、寝る。そらたこ@soratako016:29",
+      "user": "そらたこ",
+      "time": "2026-10-12T16:29:00.000+09:00",
+      "timeRaw": "16:29",
+      "url": "https://x.com/soratako0/status/2109320510249255253",
+      "hashtags": [],
+      "images": [
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i5e72TLbER0xQeK1l8ZZ0OLsDyW0OXzGkue-x-TUi5w6oFJGIIKZzRFUJF1KCLRhIMmKBwCxEkc1HM89czhFCnPgAavLBGWUfs5eY_5VJCe6k6uHqckuaJlnRHLCyYnrPVbdTPeQViPCZGf1OZHDKaOK6fRfP9UbZCY-t2ut5WQEArXSsmaK8wzMymQaJ5WsxVcpTgEV_YNjsvYf9Gmn2E5"
       ],
       "isProcessed": true,
       "_filepath": "output/sightings/raw/yahoo-2026-10-11.json"
