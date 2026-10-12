@@ -1,0 +1,20 @@
+---
+source: rss
+url: "https://www.inside-games.jp/article/2026/10/12/189132.html"
+title: "「パンどろぼう」めじるしアクセサリーが再販！「へんしん」などの仕草や「にせパンどろぼう」も揃った全5種類 | インサイド"
+siteName: "インサイド"
+publishedAt: "2026-10-12T01:39:14Z"
+fetchedAt: "2026-10-12T02:51:09.839Z"
+fetchMethod: axios
+ogImage: "https://www.inside-games.jp/imgs/ogp_f/1787883.jpg"
+description: "ガシャポン「パンどろぼう めじるしアクセサリー」が2026年10月第5週より再販！"
+---
+
+## RSS要約
+
+ガシャポン「パンどろぼう めじるしアクセサリー 」が2026年10月第5週より再販！
+
+## 本文HTML（サニタイズ済み）
+
+<html><head></head><body><figure class="ctms-editor-image"><img src="https://www.inside-games.jp/imgs/zoom/1787881.jpg" class="inline-article-image" width="640" height="640"></figure><p>バンダイは、ガシャポン<b>「パンどろぼう めじるしアクセサリー」</b>を10月第5週より再販します。</p><h2>◆パンどろぼうの「めじるしアクセサリー」が再販！</h2><p>傘の取っ手やポーチなど、色々なところを可愛くめじるしできる「めじるしアクセサリー」より、「パンどろぼう」が再登場。パンどろぼうの「かくれみのじゅつ」「へんしん」といった仕草や、「にせパンどろぼう」など全5種類がラインナップされています。</p><h3>■パンどろぼう（かくれみのじゅつ）</h3><figure class="ctms-editor-image"><img src="https://www.inside-games.jp/imgs/zoom/1787882.jpg" class="inline-article-image" width="560" height="560"></figure><h3>■パンどろぼう（へんしん）</h3><figure class="ctms-editor-image"><img src="https://www.inside-games.jp/imgs/zoom/1787883.jpg" class="inline-article-image" width="560" height="560"></figure><h3>■パンどろぼう（びっくり）</h3><figure class="ctms-editor-image"><img src="https://www.inside-games.jp/imgs/zoom/1787884.jpg" class="inline-article-image" width="560" height="560"></figure><h3>■パンどろぼう（はやあし）</h3><figure class="ctms-editor-image"><img src="https://www.inside-games.jp/imgs/zoom/1787885.jpg" class="inline-article-image" width="560" height="560"></figure><h3>■にせパンどろぼう（とうじょう）</h3><figure class="ctms-editor-image"><img src="https://www.inside-games.jp/imgs/zoom/1787886.jpg" class="inline-article-image" width="560" height="560"></figure><hr><p><a target="_blank" rel="noopener noreferrer" href="https://gashapon.jp/products/detail.php?jan_code=4549660973492000">「パンどろぼう めじるしアクセサリー」</a>は2026年10月第5週より再販予定。価格は1回300円（税込）です。</p><div class="af_box"><!-- start --><div class="af_list"><div class="af_box_left"><a href="https://www.amazon.co.jp/dp/B0BSGFLKZ8?tag=insidegames-22&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank"><img src="https://m.media-amazon.com/images/I/41R905BL6+L._SL160_.jpg" class="af_box_image"></a></div><div class="af_box_right"><b><a href="https://www.amazon.co.jp/dp/B0BSGFLKZ8?tag=insidegames-22&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank">[ティーズファクトリー] パンどろぼう ぬいぐるみ 巾着</a></b><br><b>￥1,613</b><br><span>(価格・在庫状況は記事公開時点のものです)</span><br><div class="af_box_link_amazon"><a href="https://www.amazon.co.jp/dp/B0BSGFLKZ8?tag=insidegames-22&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank">Amazon</a></div><div class="af_box_link_rakuten"><a href="https://hb.afl.rakuten.co.jp/hgc/09af142d.3ed07ccc.09af142e.da82fa9e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2583%2591%25E3%2583%25B3%25E3%2581%25A9%25E3%2582%258D%25E3%2581%25BC%25E3%2581%2586%2F" target="_blank">楽天市場</a></div></div></div><!-- //end --></div><div class="af_box"><!-- start --><div class="af_list"><div class="af_box_left"><a href="https://www.amazon.co.jp/dp/B0HHKZTRJ8?tag=insidegames-22&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank"><img src="https://m.media-amazon.com/images/I/414XnEVn7ZL._SL160_.jpg" class="af_box_image"></a></div><div class="af_box_right"><b><a href="https://www.amazon.co.jp/dp/B0HHKZTRJ8?tag=insidegames-22&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank">パンどろぼうとさすらいラーメン (角川書店単行本)</a></b><br><b>￥1,650</b><br><span>(価格・在庫状況は記事公開時点のものです)</span><br><div class="af_box_link_amazon"><a href="https://www.amazon.co.jp/dp/B0HHKZTRJ8?tag=insidegames-22&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank">Amazon</a></div><div class="af_box_link_rakuten"><a href="https://hb.afl.rakuten.co.jp/hgc/09af142d.3ed07ccc.09af142e.da82fa9e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2583%2591%25E3%2583%25B3%25E3%2581%25A9%25E3%2582%258D%25E3%2581%25BC%25E3%2581%2586%2F" target="_blank">楽天市場</a></div></div></div><!-- //end --></div>
+</body></html>
