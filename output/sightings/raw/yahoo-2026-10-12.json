@@ -1,8 +1,8 @@
 {
-  "timestamp": "2026-10-12T18:30:41.623Z",
+  "timestamp": "2026-10-12T21:06:33.451Z",
   "source": "yahoo_realtime",
   "platform": "x",
-  "count": 235,
+  "count": 236,
   "data": [
     {
       "tweetId": "2109192908398371206",
@@ -4128,6 +4128,22 @@
         "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i5e72TLbER0xQeK1l8ZZ0OL8snjjnxmaYCcB-0m-Bk_QXyv--KeVHzWK5y_Tlx7XjukExPMJSY4aq7yAkjxG34og5sKlGIhRx9L12nMsHjMSSHD55_t8wxdKYmscumtbvdN6_g44u3oMwdBXooFaoR679JI32O821MDTlVLivhkPwpxxFsfHxeiaegLgHB27EyS_qQMeOF70rusRflw6Yre",
         "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i6hjVpND1OjWZ7RVcmujne-N7eAxlXaVKvJyEoRBje70DqNPr0EX0PEcyH3OLVRsUinWnzY6WdR3WWw3pMqonLlEKT-WJEec8RWzHxp_reLdZySAK73ezRDWFvXHfXyK5IxHW6Iovs4M-5oi4WMSFQu2OJzhnbvR126aLO3-LthIw==",
         "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i6hjVpND1OjWZ7RVcmujne-2cK1jVPqyHCLtfY9TlmzdNrmeXCjLvs-V2dpGIRYzFTjZdGuWDBEMI4fP013rsfbb6jJ6-GNpxqURjhc7uJnu7i4aH_MVJYOPkoTzd_dvp75iVQTISCqaBQhU1ClDo7aR13nVnH6US2BmFkTP63F1w=="
+      ],
+      "isProcessed": true,
+      "_filepath": "output/sightings/raw/yahoo-2026-10-12.json"
+    },
+    {
+      "tweetId": "2109748775304712360",
+      "userId": "s_firind",
+      "text": "しまむらでボンボンドロップシール初めてみた。 けどスヌーピーのだったから買わなかった。 私だって虚無でなんでも買うわけじゃないよ！ 私が買いたいのはサンリオ系とちいかわシリーズなの！ あとはオリジナルで可愛いなって思うのがあったらなの！ pic.x.com/WPx5cFssJeアイラ@s_firind15分前",
+      "user": "アイラ",
+      "time": "2026-10-13T05:51:33.451+09:00",
+      "timeRaw": "15分前",
+      "url": "https://x.com/s_firind/status/2109748775304712360",
+      "hashtags": [],
+      "images": [
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i5e72TLbER0xQeK1l8ZZ0OLIYOhfcClNfHs5BHxAFxzYW1bEEjYAGwgo2v9RzAQb4tdq5dNxOyVg1ZWokbSMZnibJNukX2-qA6rYP9lW6LAbTdDkcXRG8kYXRHSs3X26E7P2uLexgkaJEdmh9xZfKWepj-KzgP-9lHI88zvAWDxB67SKQQAJkKf7-_uNtfoMVRXPxOyARUEiScpBudXKKq6",
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i6hjVpND1OjWZ7RVcmujne-I09WwxviFaydw74-xnZagh-zFqITEGfPDXKSuZeQgxwgBOS8The6qDf0HQbtQvdoEQMv5QDal6ARhzNwioOwFbi6oPXq9gNk4tKv85B1iuLRiWPj19Mx5d6IApeMeyJn5INm5ua6PnmI3SVfaEO2ow=="
       ],
       "isProcessed": true,
       "_filepath": "output/sightings/raw/yahoo-2026-10-12.json"
