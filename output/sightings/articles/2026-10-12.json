@@ -1,7 +1,7 @@
 {
   "date": "2026-10-12",
-  "updatedAt": "2026-10-12T19:07:42.717+09:00",
-  "count": 51,
+  "updatedAt": "2026-10-13T00:02:18.692+09:00",
+  "count": 52,
   "articles": [
     {
       "isSighting": true,
@@ -971,6 +971,25 @@
       "wpPostId": 21907,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-hiroshima-naka-hiroshima-2026-10-12-2/",
       "postedAt": "2026-10-12T19:09:25.712+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "東京都",
+      "city": "渋谷区",
+      "shopName": "ビーポイント クレール原宿店",
+      "shopAddress": "東京都渋谷区神宮前1-16-4 原宿アルタ B1F",
+      "productName": "ボンボンドロップシール「和柄キティ」",
+      "sightingTime": "2026-10-13 12:18頃",
+      "statusText": "在庫あり（在庫数極少）",
+      "confidenceMemo": "店舗公式アカウントによる詳細な入荷・販売告知のため信頼性が非常に高い",
+      "sourceUrl": "https://x.com/RyoBpo/status/2109619775643304377",
+      "sourceTweetId": "2109619775643304377",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2109619775643304377.png",
+      "isPosted": true,
+      "wpPostId": 21909,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-tokyo-unknown-2026-10-13/",
+      "postedAt": "2026-10-13T00:02:25.034+09:00"
     }
   ]
 }
