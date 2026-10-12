@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-10-12T07:36:37.368Z"
+wpPostUrl: "https://www.seal-search.com/character/kids-garden-festa-sticker-present-20261018/"
+wpPostId: 21873
+posted: true
 type: newproduct
 status: draft
 title: "【10/18開催】なんばでボンドロ等シール配布"

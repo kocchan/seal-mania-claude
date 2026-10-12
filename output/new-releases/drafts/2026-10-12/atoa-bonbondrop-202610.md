@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-10-12T07:36:45.317Z"
+wpPostUrl: "https://www.seal-search.com/news/new-item/atoa-bonbondrop-202610/"
+wpPostId: 21875
+posted: true
 type: new-release
 status: draft
 title: "【10/13〜来場】アトア限定ボンボンドロップシール！購入権付き入場券が販売中"

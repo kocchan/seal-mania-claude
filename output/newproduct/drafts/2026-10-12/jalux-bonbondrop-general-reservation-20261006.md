@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-10-12T07:36:31.720Z"
+wpPostUrl: "https://www.seal-search.com/character/jalux-bonbondrop-general-reservation-20261006/"
+wpPostId: 21872
+posted: true
 type: newproduct
 status: draft
 title: "【10/6開始】JALオリジナルボンドロ一般予約販売"
