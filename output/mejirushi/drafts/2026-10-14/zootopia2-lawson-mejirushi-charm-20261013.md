@@ -1,4 +1,9 @@
 ---
+postedAt: "2026-10-14T06:23:22.915Z"
+wpPostUrl: "https://www.seal-search.com/mejirushi/zootopia2-lawson-mejirushi-charm-20261013/"
+wpPostId: 22057
+posted: true
+imageGenerated: true
 type: mejirushi
 status: draft
 title: "【10/13発売】ズートピア2 ローソンめじるしチャーム"

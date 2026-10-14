@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-10-14T06:22:18.962Z"
+wpPostUrl: "https://www.seal-search.com/character/mrs-green-apple-bonbondrop-lawson-20261024/"
+wpPostId: 22043
+posted: true
 type: newproduct
 status: draft
 title: "【10/24発売】ミセスのボンドロ全4種がローソンに"

@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-10-14T06:22:06.257Z"
+wpPostUrl: "https://www.seal-search.com/news/reservation/toyota-gr-bondoro-okazaki-20261108/"
+wpPostId: 22041
+posted: true
 imageGenerated: true
 type: lottery
 status: draft

@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-10-14T06:22:27.830Z"
+wpPostUrl: "https://www.seal-search.com/news/new-item/kobitos-bonbondrop-202610/"
+wpPostId: 22045
+posted: true
 type: new-release
 status: draft
 title: "【10月下旬発売】こびとづかん×ボンボンドロップシールが登場！全国の文具店・書店で販売"

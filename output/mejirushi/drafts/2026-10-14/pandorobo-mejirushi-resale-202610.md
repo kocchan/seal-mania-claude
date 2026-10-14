@@ -1,4 +1,9 @@
 ---
+postedAt: "2026-10-14T06:23:00.232Z"
+wpPostUrl: "https://www.seal-search.com/mejirushi/pandorobo-mejirushi-resale-202610/"
+wpPostId: 22051
+posted: true
+imageGenerated: true
 type: mejirushi
 status: draft
 title: "【10月第5週再販】パンどろぼう めじるしアクセ"

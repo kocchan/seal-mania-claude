@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-10-14T06:22:12.805Z"
+wpPostUrl: "https://www.seal-search.com/character/bonbondrop-disney-churukira-202610/"
+wpPostId: 22042
+posted: true
 type: newproduct
 status: draft
 title: "【10月下旬発売】ボンドロ ディズニーchurukira全8種"
