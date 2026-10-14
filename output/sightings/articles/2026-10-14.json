@@ -1,7 +1,7 @@
 {
   "date": "2026-10-14",
-  "updatedAt": "2026-10-14T20:34:18.489+09:00",
-  "count": 54,
+  "updatedAt": "2026-10-14T23:18:14.044+09:00",
+  "count": 56,
   "articles": [
     {
       "isSighting": true,
@@ -1028,6 +1028,44 @@
       "wpPostId": 22121,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-kanagawa-hadano-2026-10-15/",
       "postedAt": "2026-10-14T20:35:33.296+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "大阪府",
+      "city": "大阪市",
+      "shopName": "ロフト（店舗詳細不明）",
+      "shopAddress": "大阪府大阪市周辺（関西圏のロフト）",
+      "productName": "ボンボンドロップシール（ハチエモン）",
+      "sightingTime": "2026-10-14 18:30頃",
+      "statusText": "在庫あり（購入報告あり）",
+      "confidenceMemo": "関西テレビのキャラクター『ハチエモン』のシールを購入したとの報告。地域性（関西）と店舗ブランド（ロフト）から大阪府内の店舗と推測。",
+      "sourceUrl": "https://x.com/asami96969696/status/2110372401485889950",
+      "sourceTweetId": "2110372401485889950",
+      "isPrediction": true,
+      "imagePath": "output/sightings/images/2110372401485889950.png",
+      "isPosted": true,
+      "wpPostId": 22123,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-osaka-unknown-2026-10-14-2/",
+      "postedAt": "2026-10-14T23:18:21.537+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "愛知県",
+      "city": "名古屋市中川区",
+      "shopName": "大統領中川店",
+      "shopAddress": "愛知県名古屋市中川区法華西町2-1",
+      "productName": "ぷっくりシール（ボンボンドロップシールの可能性が高い）",
+      "sightingTime": "2026-10-15 開店時より",
+      "statusText": "2026-10-15に入荷・販売予定",
+      "confidenceMemo": "店舗公式アカウントによる景品入荷告知。「今話題のぷっくりシール」という表現からボンボンドロップシールである可能性が高いと判断。",
+      "sourceUrl": "https://x.com/isshi_dainaka/status/2110362472611991822",
+      "sourceTweetId": "2110362472611991822",
+      "isPrediction": true,
+      "imagePath": "output/sightings/images/2110362472611991822.png",
+      "isPosted": true,
+      "wpPostId": 22125,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-aichi-nakagawa-nagoya-2026-10-15/",
+      "postedAt": "2026-10-14T23:18:29.059+09:00"
     }
   ]
 }
