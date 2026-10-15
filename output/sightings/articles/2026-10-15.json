@@ -1,7 +1,7 @@
 {
   "date": "2026-10-15",
-  "updatedAt": "2026-10-15T22:53:14.251+09:00",
-  "count": 49,
+  "updatedAt": "2026-10-16T01:40:08.929+09:00",
+  "count": 50,
   "articles": [
     {
       "isSighting": true,
@@ -933,6 +933,25 @@
       "wpPostId": 22239,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-tokyo-shibuya-2026-10-16/",
       "postedAt": "2026-10-15T22:53:29.021+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "神奈川県",
+      "city": "厚木市",
+      "shopName": "ドン・キホーテ / しまむら（本厚木エリア店舗）",
+      "shopAddress": "神奈川県厚木市中町（本厚木駅周辺の店舗）",
+      "productName": "ボンボンドロップシール（2026年最新ミニシリーズ：クロミ＆シナモロール新柄）",
+      "sightingTime": "2026-10-16 01:36頃",
+      "statusText": "順次入荷中（目撃報告あり）",
+      "confidenceMemo": "投稿者の地域情報（本厚木）および具体的な店舗系列の記載があるが、伝聞情報（〜あったとか）のため不確定",
+      "sourceUrl": "https://x.com/elegantklassika/status/2110771940025922022",
+      "sourceTweetId": "2110771940025922022",
+      "isPrediction": true,
+      "imagePath": "output/sightings/images/2110771940025922022.png",
+      "isPosted": true,
+      "wpPostId": 22241,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-kanagawa-unknown-2026-10-16/",
+      "postedAt": "2026-10-16T01:40:15.195+09:00"
     }
   ]
 }

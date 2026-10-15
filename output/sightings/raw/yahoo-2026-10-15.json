@@ -1,8 +1,8 @@
 {
-  "timestamp": "2026-10-15T13:52:29.557Z",
+  "timestamp": "2026-10-15T16:38:51.187Z",
   "source": "yahoo_realtime",
   "platform": "x",
-  "count": 187,
+  "count": 193,
   "data": [
     {
       "tweetId": "2109763348262957192",
@@ -3210,6 +3210,97 @@
         "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i5e72TLbER0xQeK1l8ZZ0OL20dE8lDppgs1r3E9XTgwYsy3oXPX1gUI6YKt5ql6nmBz1H_0zD-_AhKVOvEe-LaX-Mede_4A2DQV_0CgYtBFC0K2Fw0KL1VB7cC0fK8Qdd7dQF8zy0DI8qPVC4MdVhBhn1IVzJih61tetQ0dl22mtJ4qXf-qU1iJE9xCC3WIRuwqfSGIKQJ4GODg1TF6CA4D",
         "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i5e72TLbER0xQeK1l8ZZ0OLVhnAxyu2WxqLbUHSUdPQYtm4_F_UciBVyxJWIidoxhf4rHdcRdGzxwB2Tl_q1E9Kd6JcW2Z5qceRP9NMG7C4h7WyctjTG2WxGpZP7dHDleGFlU3uCbTzGYpFmnhMoWPSrcnuGDDjq2pUhGAtIRRbqVf0rfe5kCsb3HCBxHZ7ucrkYYIRIS5dChF-PkJvZdXk",
         "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i6hjVpND1OjWZ7RVcmujne-vfEUoTHHbiweAUmXf7KHwGx3NFAQEWXU_pB0RT4aC2wrUHopX8Oq08L_l7fDUwvcclulAWI-D_gJz6y6JAzIFyBSzzpji4aj-lMNNqChvhF6TBeBpk-NbNA0zperUqhJtw57EhzOABn2MqkvpdqB-g=="
+      ],
+      "isProcessed": true,
+      "_filepath": "output/sightings/raw/yahoo-2026-10-15.json"
+    },
+    {
+      "tweetId": "2110771940025922022",
+      "userId": "elegantklassika",
+      "text": "2026年最新ミニシリーズが順次入荷してるみたい✨️ クロミ＆シナモロールの新柄が可愛すぎてヤバい💖 ドンキ・しまむらでもちらほら見かけた報告あったとか💫 ボンボンドロップシール 推し活ファイトフィット本厚木 🩷@elegantklassika2分前",
+      "user": "ファイトフィット本厚木 🩷",
+      "time": "2026-10-16T01:36:51.187+09:00",
+      "timeRaw": "2分前",
+      "url": "https://x.com/elegantklassika/status/2110771940025922022",
+      "hashtags": [],
+      "images": [
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i5e72TLbER0xQeK1l8ZZ0OL2P-tNr7I5fPv00FbZybYSQiGDMowCukdq_KbNu0lslON2-O47dzuSxkoEPzY3v-u9Nh2MCjR3yyWvBye8LcA_MBRBsPPVIR4RrxqGYkLVCArizwGo-gfA1JIGLxvnJFpT3pcSUv7KAeBSvzQBprvh5tRDcEmPNt8PWlDmDGB0GVRgbTmjE2dNtNl3iFlbthn"
+      ],
+      "isProcessed": true,
+      "_filepath": "output/sightings/raw/yahoo-2026-10-15.json"
+    },
+    {
+      "tweetId": "2110758427836465657",
+      "userId": "ryochan_de_seno",
+      "text": "ボンドロもジェラピケも当たらなかったけど泣いてなんかないし、たまごっちは当たるし(はずだし)Harmony2も当たる。  (多分略称が良くないですね。ボンボンドロップシールとジェラートピケですね。まずは丁寧な暮らしを(？)🫵🏻)MANAPPLE!!!@ryochan_de_seno56分前",
+      "user": "MANAPPLE!!!",
+      "time": "2026-10-16T00:42:51.187+09:00",
+      "timeRaw": "56分前",
+      "url": "https://x.com/ryochan_de_seno/status/2110758427836465657",
+      "hashtags": [],
+      "images": [
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i5e72TLbER0xQeK1l8ZZ0OLPpT4mN4p1kqZts0cOFWEO_b7QbnF7Lun4MggSaKZgedXf-53jFddoYRW0Kma76llcnjS2_Z4G-1RpULFOBo7llv3YciikodCDyBb14kf4Nx7hXuuIO9vnqr1KE-YpNgjN8JhchrpHdTWZoKT7225V8JDq7ts-sBJq4kwm9cninfFMQyZ3SbnLEnVSMa1qdCL"
+      ],
+      "isProcessed": true,
+      "_filepath": "output/sightings/raw/yahoo-2026-10-15.json"
+    },
+    {
+      "tweetId": "2110752271101288781",
+      "userId": "jungjuhyun81",
+      "text": "【3F カプセルトイ】 ✨新商品入荷情報✨ 『サンリオキャラクターズ ボンボンドロップ ミニチュアチャーム2』 『ディズニーキャラクター カラフルキャンディチャーム2』 『映画ちいかわ 人魚の島のひみつ デスクトップフィギュア』 他にも新商品を多数入荷しております‼️ミズー🎀@jungjuhyun8115:18",
+      "user": "ミズー🎀",
+      "time": "2026-10-16T15:18:00.000+09:00",
+      "timeRaw": "15:18",
+      "url": "https://x.com/jungjuhyun81/status/2110752271101288781",
+      "hashtags": [],
+      "images": [
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i5e72TLbER0xQeK1l8ZZ0OL-A8FoinHOtRBgXVPRf-3xAzgrYVyaVctWRdwUz3YSWRDsOvd4QxI7Xp9eZeQCTxL4NzK5mnLhhV8zIzkcVjv7bgKpyid1gCb6AuY1IpACEZqJ61l39EVuAZB4d9T5_eGgppwIFY11U-P-r-P1tn8nbZTWPQx93LY_JUJj0qFz6jgfWF6vY0CocKI1AYaOaff"
+      ],
+      "isProcessed": true,
+      "_filepath": "output/sightings/raw/yahoo-2026-10-15.json"
+    },
+    {
+      "tweetId": "2110739601241608406",
+      "userId": "xglack",
+      "text": "ボンボンドロップシールの本物と偽物の違いもわかんないんだろうな  え、これ偽物なの😞なんでわかるの😞印刷に特徴があるの😞見た目一緒ならなんでもいいんじゃないの😞おれにはわからないよ😞本物がいいの😞わかったよ😞ゆゆゆ@xglack14:28",
+      "user": "ゆゆゆ",
+      "time": "2026-10-16T14:28:00.000+09:00",
+      "timeRaw": "14:28",
+      "url": "https://x.com/xglack/status/2110739601241608406",
+      "hashtags": [],
+      "images": [
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i5e72TLbER0xQeK1l8ZZ0OLAB0d30z3tJWL44_yJRJH1dzD4zl7IF403UF3VC9xCZGxztZPsFnPzf4MX_BgkoXmzDHojL1DgrwCH03TTGvyVGQ37X_yYDdYFLoshPrWh2FYz__Op92bhQP5RvAdGqEMXZdg1FNWyE7t6I0tVb_RC_4xvGfn93iWVMrqYX3LEvU62Kq659CRQ84r93ySlgWN"
+      ],
+      "isProcessed": true,
+      "_filepath": "output/sightings/raw/yahoo-2026-10-15.json"
+    },
+    {
+      "tweetId": "2110732432957989097",
+      "userId": "kasumin_saita09",
+      "text": "ボンボンドロップシールについて✨️  店舗では、ロフトやハンズ、イオン、キデイランド、文具店・ファンシーショップ、書店などで入荷が確認されてるみたい。  ただし人気の柄はすぐに売り切れることが多いそう😭 多くの店舗が抽選販売で、締切になってる場合もアリかすみん🌸シール@kasumin_saita0914:00",
+      "user": "かすみん🌸シール",
+      "time": "2026-10-16T14:00:00.000+09:00",
+      "timeRaw": "14:00",
+      "url": "https://x.com/kasumin_saita09/status/2110732432957989097",
+      "hashtags": [],
+      "images": [
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i5e72TLbER0xQeK1l8ZZ0OLvgV__ZmMFULWkzE8m46GjGLZR8q3cQMWf2sRrsiHeyinXmTfdbsyMg2mR9sXAZa-UqOuKQROMbXG3zwDLrENakpZQkXCSKF76jzhfsmgpp2HqSXmOfCiPoA1_QtE16qpsrmlQImkhgoXnP1rCIbn764K2PW9s2e5VL1th5FsJ1OH-i2BgOtulU_vVnnzL4zZ"
+      ],
+      "isProcessed": true,
+      "_filepath": "output/sightings/raw/yahoo-2026-10-15.json"
+    },
+    {
+      "tweetId": "2110751035144986884",
+      "userId": "uni_kakaoo",
+      "text": "とある水族館で回したぷっくりシールのメンツが良すぎる！！！！！勿体無くて使えないよ！ pic.x.com/9Nmnd9MjJd主成分カカオ@uni_kakaoo15:13",
+      "user": "主成分カカオ",
+      "time": "2026-10-16T15:13:00.000+09:00",
+      "timeRaw": "15:13",
+      "url": "https://x.com/uni_kakaoo/status/2110751035144986884",
+      "hashtags": [],
+      "images": [
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i5e72TLbER0xQeK1l8ZZ0OLsi_QVr9phiu3ivO4xlL9-8WpXAcYZB3YYDDwm98842ZTfgMRdJdKtB5jBCXp3SOvUN6izhZEqvv0A84EpcQzD5VKwL9BI2sakwmVTP1jGO5HcVwCW4dXWleU6RJYdxK7YwjlD1U19bOJQ3kjhfJ4lRtqUYloXcBBfFi52g3x6a8SEc1rtpK6JgWzdAlgqEpo",
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i6hjVpND1OjWZ7RVcmujne-YJVDVnktfe7K-B3lOskuiXWS6WTaumAyUiWtT4x8kJ5UID3l2hLfmYTY3zSo9H1Y4k_AIbQVQ5qRZIJFF_kwpubdazLBBexCclQcbpLuppaeARcCVHg2xteGGZZ9BSOuHttCFle6UTCTp2KF7LSxkw=="
       ],
       "isProcessed": true,
       "_filepath": "output/sightings/raw/yahoo-2026-10-15.json"
