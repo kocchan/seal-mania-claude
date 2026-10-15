@@ -1,4 +1,9 @@
 ---
+postedAt: "2026-10-15T06:04:21.674Z"
+wpPostUrl: "https://www.seal-search.com/mejirushi/disney-fuwafuwa-mejirushi-pooh-chipdale-202610w5/"
+wpPostId: 22180
+posted: true
+imageGenerated: true
 type: mejirushi
 status: draft
 title: "【10月第5週】ディズニー ふわふわめじるしアクセサリー"

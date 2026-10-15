@@ -1,4 +1,9 @@
 ---
+postedAt: "2026-10-15T06:04:32.520Z"
+wpPostUrl: "https://www.seal-search.com/mejirushi/machiboke-pan-mejirushi-reissue-202610w3/"
+wpPostId: 22183
+posted: true
+imageGenerated: true
 type: mejirushi
 status: draft
 title: "【10月第3週再販】まちぼうけ パンの場合 めじるし"

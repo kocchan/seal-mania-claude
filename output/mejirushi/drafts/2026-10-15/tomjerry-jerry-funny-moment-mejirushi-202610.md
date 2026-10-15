@@ -1,4 +1,9 @@
 ---
+postedAt: "2026-10-15T06:05:04.698Z"
+wpPostUrl: "https://www.seal-search.com/mejirushi/tomjerry-jerry-funny-moment-mejirushi-202610/"
+wpPostId: 22189
+posted: true
+imageGenerated: true
 type: mejirushi
 status: draft
 title: "【10月上旬】トムとジェリー ジェリーのめじるしマスコット"

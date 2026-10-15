@@ -1,4 +1,9 @@
 ---
+postedAt: "2026-10-15T06:04:45.557Z"
+wpPostUrl: "https://www.seal-search.com/mejirushi/tomica-pukkuri-mejirushi-gacha-charm-202610w3/"
+wpPostId: 22186
+posted: true
+imageGenerated: true
 type: mejirushi
 status: draft
 title: "【10月発売】トミカ ぷっくりめじるしガチャチャーム"

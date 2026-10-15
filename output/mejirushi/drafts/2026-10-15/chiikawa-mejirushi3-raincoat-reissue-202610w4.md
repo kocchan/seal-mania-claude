@@ -1,4 +1,9 @@
 ---
+postedAt: "2026-10-15T06:04:12.090Z"
+wpPostUrl: "https://www.seal-search.com/mejirushi/chiikawa-mejirushi3-raincoat-reissue-202610w4/"
+wpPostId: 22177
+posted: true
+imageGenerated: true
 type: mejirushi
 status: draft
 title: "【10月第4週再販】ちいかわ めじるしアクセサリー3"
