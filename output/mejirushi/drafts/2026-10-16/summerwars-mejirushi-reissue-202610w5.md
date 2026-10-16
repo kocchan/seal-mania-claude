@@ -1,4 +1,9 @@
 ---
+postedAt: "2026-10-16T06:01:47.966Z"
+wpPostUrl: "https://www.seal-search.com/mejirushi/summerwars-mejirushi-reissue-202610w5/"
+wpPostId: 22291
+posted: true
+imageGenerated: true
 type: mejirushi
 status: draft
 title: "【10月発売】サマーウォーズ めじるしアクセサリー再販"

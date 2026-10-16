@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-10-16T06:01:24.623Z"
+wpPostUrl: "https://www.seal-search.com/news/new-item/sunstar-sanrio-churukira-lottery-20261016/"
+wpPostId: 22287
+posted: true
 type: lottery
 status: draft
 title: "【10/18締切】サンスター公式通販でサンリオちゅるきら4点セット抽選！"

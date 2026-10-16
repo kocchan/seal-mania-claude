@@ -1,4 +1,9 @@
 ---
+postedAt: "2026-10-16T06:01:39.584Z"
+wpPostUrl: "https://www.seal-search.com/mejirushi/crayon-oukoku-mejirushi-202610w4/"
+wpPostId: 22289
+posted: true
+imageGenerated: true
 type: mejirushi
 status: draft
 title: "【10月発売】夢のクレヨン王国 めじるしアクセサリー"
