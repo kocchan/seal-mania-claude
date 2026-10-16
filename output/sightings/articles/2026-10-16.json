@@ -1,7 +1,7 @@
 {
   "date": "2026-10-16",
-  "updatedAt": "2026-10-16T20:07:21.147+09:00",
-  "count": 50,
+  "updatedAt": "2026-10-16T22:43:35.805+09:00",
+  "count": 51,
   "articles": [
     {
       "isSighting": true,
@@ -952,6 +952,25 @@
       "wpPostId": 22349,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-chiba-midori-chiba-2026-10-11/",
       "postedAt": "2026-10-16T20:08:45.502+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "岩手県",
+      "city": "奥州市",
+      "shopName": "ダイナム岩手前沢店",
+      "shopAddress": "岩手県奥州市前沢向田2-31",
+      "productName": "ぷっくりシール",
+      "sightingTime": "2026-10-16 11:15",
+      "statusText": "2026年10月17日に景品として入荷予定（数量限定）",
+      "confidenceMemo": "店舗公式アカウントによる詳細な入荷告知。地域名が店名に含まれるため住所特定が可能。",
+      "sourceUrl": "https://x.com/dynam_00283/status/2111053317954502926",
+      "sourceTweetId": "2111053317954502926",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2111053317954502926.png",
+      "isPosted": true,
+      "wpPostId": 22351,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-iwate-unknown-2026-10-16/",
+      "postedAt": "2026-10-16T22:43:42.768+09:00"
     }
   ]
 }
