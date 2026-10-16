@@ -1,8 +1,8 @@
 {
-  "timestamp": "2026-10-16T16:22:15.410Z",
+  "timestamp": "2026-10-16T23:13:47.099Z",
   "source": "yahoo_realtime",
   "platform": "x",
-  "count": 195,
+  "count": 200,
   "data": [
     {
       "tweetId": "2109763348262957192",
@@ -3376,6 +3376,84 @@
         "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i6hjVpND1OjWZ7RVcmujne-aneY8-RQxeNianGSp3seu7dMvyj0BDUi-VWDe_SDbFTC2zf--8k0xZ9PKfAyFz-7Kejg6Cn0hWx6XYYN7FiFAeC1SebzeJ_t99K4koM5lWmQUWjRyotHIexa-XbdKn2zQP88U3SUYtj-yY7YfCnC5g==",
         "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i5e72TLbER0xQeK1l8ZZ0OL_PJHQbflJQESBF_FqsWv0Ux27ExpD8AIOwpaLORIAffY_d5LlFXC1WEsxESzT32J_bZO1PZIideCccns-r0b3Ffnr2xuK4ehI8bLuyieCNpgu67HG4cnHdt4ub0oraTu787Gt5-S2ySO8kXeTEQ3DJZOzeEkbkHrOKZkM2nWGbFOTIN4BI2SdgKYySQxEN8S",
         "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i7Arjbp83UXbL2m0nf5umlhIG0sJB53oUJr--HnuTQ3lW5I4Dj2RyUiqo7NbiYicORHeLiuiCx61gMBM8u-Nb6GPBiya9PiKaPCv6TFHhmxGKLxPWOULWhGcC9iir_zWdXn8D6VlBTr6yd7hFFpEh6tNp0Gen3GZ6qZdRLEkE0oW3XuN9rsF24_vKkKR2vMjJpG-srQN6oiJd-drAu85AYJ1XYSXKf5wZNWEVGmg7t5ZQ=="
+      ],
+      "isProcessed": true,
+      "_filepath": "output/sightings/raw/yahoo-2026-10-16.json"
+    },
+    {
+      "tweetId": "2111141908986908839",
+      "userId": "ika_ringo_spla",
+      "text": "キディランド1階がちいかわ映画ぬい再販に湧いている頃、上階ではサンリオのボンボンドロップが潤沢な在庫を見せつけておりました✨ pic.x.com/vgn3r53TYNイカ🍎りんご@ika_ringo_spla17:07",
+      "user": "イカ🍎りんご",
+      "time": "2026-10-17T17:07:00.000+09:00",
+      "timeRaw": "17:07",
+      "url": "https://x.com/ika_ringo_spla/status/2111141908986908839",
+      "hashtags": [],
+      "images": [
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i5e72TLbER0xQeK1l8ZZ0OLDIIN5o04RDe3qmhjsY46frtDcBVl51jVenstVURfkxFr-BBjAgmsNhin87SVDdLhybKsMyB9cAsUs0BEjY5KSs0CJsB2PxZgODl0LeXxEAmXTedYLcgIQmedfq0tsXU5EODom2Q-B4qjNiXyH7L4KBDZGk7IOrwwBrx5dJUEzG1j3tEDwhAPEC0rCWulBxQI",
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i6hjVpND1OjWZ7RVcmujne-g8Qr_eRKsMahb--tIJT5G3NQwTf9u8RJGGGGM65djEonurCdSFfg9Kf8kSh7TAlYnEsBlcGfN82h9zlKgwfyxMEWlGP4ga11TpMxJ9QjhK4GBKb2KSZPSJbDbSejGOqOpXI4Wj5h26mJuXPBHLSipQ=="
+      ],
+      "isProcessed": true,
+      "_filepath": "output/sightings/raw/yahoo-2026-10-16.json"
+    },
+    {
+      "tweetId": "2111134037058421176",
+      "userId": "NinetyAndBeyond",
+      "text": "バーミヤンに入り、ぷっくりシールだったかが付いてるメニューも気になったけど、ドリンクバーは要らないな、と思ってパス。 pic.x.com/LB1ZGQJKgL♡ 猫、ハイタッチ／♡♡@NinetyAndBeyond16:35",
+      "user": "♡ 猫、ハイタッチ／♡♡",
+      "time": "2026-10-17T16:35:00.000+09:00",
+      "timeRaw": "16:35",
+      "url": "https://x.com/NinetyAndBeyond/status/2111134037058421176",
+      "hashtags": [],
+      "images": [
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i5e72TLbER0xQeK1l8ZZ0OLTY8s_fPHimyDBtxr3AVNFhtAsMSJtJN-KbZWrQxZiSD_ozOc_OslJ6YeFVPYOBfADALehPlgkWzUe7VFYSp5IonQXF7OBcTdh0_sd0lxyqLGXjMFSge81bv5ZphbsfvFZnlGqgyqX7gYxer8Zm8_avrD6xRgSCTmwKw2W1TMFj0nYwrKLg0cpWp6bRNXIzfv",
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i6hjVpND1OjWZ7RVcmujne-ymEe_S9pVpeQMNGy5eF_HLEzLSzM1zBpmNKAj85pPaUkbOQSc5wfRMWoBbe4RddQIM8_90S-vyI0oBBBrgoFy6XJuf2gngt-6qgRE8dXFXU_EBjSR6S4vgnkHKYtrecswcfYsur27iJcKaLBLKyQ5Q=="
+      ],
+      "isProcessed": true,
+      "_filepath": "output/sightings/raw/yahoo-2026-10-16.json"
+    },
+    {
+      "tweetId": "2111197900067995770",
+      "userId": "o0o_mee_o0o",
+      "text": "返信先:@mariko00000515ね！ラメ入ってるの他にもいくつかあったしうるちゅる感も可愛かったよ💖🫧mee🫧@o0o_mee_o0o20:49",
+      "user": "🫧mee🫧",
+      "time": "2026-10-17T20:49:00.000+09:00",
+      "timeRaw": "20:49",
+      "url": "https://x.com/o0o_mee_o0o/status/2111197900067995770",
+      "hashtags": [],
+      "images": [
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i5e72TLbER0xQeK1l8ZZ0OLvPPjOrBbopP2tmSV_i-K1Fz9TO4ajOyldVxocq_aAoPhTMMH6coxoz5zP1_n8ywXQIiSkkXyf9U-K6I25oVPZUVI6W7PEJU31yK01bsL7-5rEHspuqOu7XYCIYSjKcpmx5HbzXaaU7zNz_Qn3ttrZ5vWDcm0D24EnVovlSuRALVOGMn6e2U48wJm530q2dEL"
+      ],
+      "isProcessed": true,
+      "_filepath": "output/sightings/raw/yahoo-2026-10-16.json"
+    },
+    {
+      "tweetId": "2111138592449868151",
+      "userId": "mana26620",
+      "text": "最終話の初回𝑲𝑰𝑺𝑺でたこいさんのうるちゅるまんまるおめめ👀に塩野しか映っていないと聞き、確かめ、発狂し、寝る。 pic.x.com/U27q3ovp1Xきくち まなみ@mana2662016:53",
+      "user": "きくち まなみ",
+      "time": "2026-10-17T16:53:00.000+09:00",
+      "timeRaw": "16:53",
+      "url": "https://x.com/mana26620/status/2111138592449868151",
+      "hashtags": [],
+      "images": [
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8P6b-YUbn3oNOitp_cHdw_uJ74V6_SfYweFQS1qwk-_TJcz301WI2Cz5eywMtn22AoNcm-px-tUtzgy1UghJnmv5CSX3nK1QdnMN8PmdZ_qSU_tLrY5bztAawi997k2aD0PQI8bppeqemfjVhU461isgsL7D2Sl1B_zbLtx9WJFDWmsCthWLKZMqqZeAdP0T9uUO7vwCTdJbQvUBaXJxbTinLqNWnhJaG3v165qGUTgw",
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i6hjVpND1OjWZ7RVcmujne-U-0nfLNRIjzswrhh9xhpq1vWkMvF6ghtdO7_LNvasEU06deKLDNfofY7wRrd543tXKi0McXVaTaJmSSapBLgX7Qr2GXozgnb_9RrNgJ-yv_uYSiP5-N9TZI26aVInK7zFq39wJOw7BXepzWQogrQxw=="
+      ],
+      "isProcessed": true,
+      "_filepath": "output/sightings/raw/yahoo-2026-10-16.json"
+    },
+    {
+      "tweetId": "2111137011042267261",
+      "userId": "sasukura_kurage",
+      "text": "今回のはうるちゅるネイルできた🫶🏻 秋っぽくないけど気に入った！くらげᙅ⩬@sasukura_kurage16:47",
+      "user": "くらげᙅ⩬",
+      "time": "2026-10-17T16:47:00.000+09:00",
+      "timeRaw": "16:47",
+      "url": "https://x.com/sasukura_kurage/status/2111137011042267261",
+      "hashtags": [],
+      "images": [
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i5e72TLbER0xQeK1l8ZZ0OLGAaZfOASJgdcB_Nqbh2rcHXanYYT_q5MLlHiUkkl3rZtH8UkmaBk12zGyyb6VbFDHpfmnvGlumUlwbXiVOCG5cFx2qTMPyYpxze1Ty5SjWt9XuIB9nI64hpIv2NYv1WBmSjRF2RsvQc4RvCTk5Fjl79Lw6EeMxuMK0alab8VjoBitnlosz9omRPGGrkrwSsD"
       ],
       "isProcessed": true,
       "_filepath": "output/sightings/raw/yahoo-2026-10-16.json"

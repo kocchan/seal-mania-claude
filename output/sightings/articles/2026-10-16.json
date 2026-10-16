@@ -1,7 +1,7 @@
 {
   "date": "2026-10-16",
-  "updatedAt": "2026-10-16T22:43:35.805+09:00",
-  "count": 51,
+  "updatedAt": "2026-10-17T08:14:17.099+09:00",
+  "count": 52,
   "articles": [
     {
       "isSighting": true,
@@ -971,6 +971,25 @@
       "wpPostId": 22351,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-iwate-unknown-2026-10-16/",
       "postedAt": "2026-10-16T22:43:42.768+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "東京都",
+      "city": "渋谷区",
+      "shopName": "キディランド原宿店",
+      "shopAddress": "東京都渋谷区神宮前6丁目1-9",
+      "productName": "サンリオ ボンボンドロップ",
+      "sightingTime": "2026-10-17 17:07頃",
+      "statusText": "在庫あり（潤沢）",
+      "confidenceMemo": "「キディランド1階がちいかわ映画ぬい再販」という言及から、同イベントを開催している旗艦店の原宿店と特定。写真付きの情報で信頼性が高い。",
+      "sourceUrl": "https://x.com/ika_ringo_spla/status/2111141908986908839",
+      "sourceTweetId": "2111141908986908839",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2111141908986908839.png",
+      "isPosted": true,
+      "wpPostId": 22353,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-tokyo-unknown-2026-10-17/",
+      "postedAt": "2026-10-17T08:14:24.313+09:00"
     }
   ]
 }
