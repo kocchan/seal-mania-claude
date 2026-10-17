@@ -1,8 +1,8 @@
 {
-  "timestamp": "2026-10-17T15:16:49.646Z",
+  "timestamp": "2026-10-17T22:50:17.859Z",
   "source": "yahoo_realtime",
   "platform": "x",
-  "count": 187,
+  "count": 190,
   "data": [
     {
       "tweetId": "2110977221070340452",
@@ -3210,6 +3210,60 @@
       "hashtags": [],
       "images": [
         "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i5e72TLbER0xQeK1l8ZZ0OLC6T2oFjvU9N4ZgDFnKtZZf9VLwYkIHJY9LnUvrXfMCISbNowJ5FLRX1Y1oYvw5g-IAixVmK0QT78V0wpTe0UWExJvqhOyBGprjEaqyN-WNzta3Dz4dHND2S9qSP5lJaCiTM1Q512PA8x8jtOTnwZt-huK1mbOtUxiaNObZV2hs5SBMnzNjkiwBxrLtmIk9-H"
+      ],
+      "isProcessed": true,
+      "_filepath": "output/sightings/raw/yahoo-2026-10-17.json"
+    },
+    {
+      "tweetId": "2111481580166467929",
+      "userId": "ToyHouchi",
+      "text": "それなスタンプを集めて送りあって楽しいか？ ボンボンドロップシールじゃないんだよ豊🔥吉@放置少女@ToyHouchi15:36",
+      "user": "豊🔥吉@放置少女",
+      "time": "2026-10-18T15:36:00.000+09:00",
+      "timeRaw": "15:36",
+      "url": "https://x.com/ToyHouchi/status/2111481580166467929",
+      "hashtags": [],
+      "images": [
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i5e72TLbER0xQeK1l8ZZ0OLQFFc6Q_lZnMLZKAkajmZ9cz4JLETXBuxakStVhu9U6E97umpoMxZ-wzwDHe7LyYtihs3LmJN3uTjAXrzygxow8smbRU3eqCZHb4fWMVulKXHpD_oW6IwYVqePbCzDi9wgoQ0N1owTa8haYpHsLjve4nx0tpCYvsemNqpcXGEhpq8PnbFYvoGclfzdlIxKPjD"
+      ],
+      "isProcessed": true,
+      "_filepath": "output/sightings/raw/yahoo-2026-10-17.json"
+    },
+    {
+      "tweetId": "2111585564860239989",
+      "userId": "dynam_00075",
+      "text": "本日7月18日(日) 【秋田県ダイナム合同ダイキチ賞品入荷】  ダイナム男鹿店では今流行り(遅い？)のぷっくりシールを入荷しております(/・ω・)/ お父さん、お母さん、お友達、お子さん、お孫さん、曾孫さんへいかがでしょうか？ カウンター前に陳列中☆見に来てね☆  #ダイナム　#シール pic.x.com/1OjTORM5QSダイナム男鹿店~SINCE 1999.11.26~@dynam_0007520分前",
+      "user": "ダイナム男鹿店~SINCE 1999.11.26~",
+      "time": "2026-10-18T07:30:17.859+09:00",
+      "timeRaw": "20分前",
+      "url": "https://x.com/dynam_00075/status/2111585564860239989",
+      "hashtags": [
+        "#ダイナム",
+        "#シール"
+      ],
+      "images": [
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i5e72TLbER0xQeK1l8ZZ0OLY35nuTwJ9lQ07xWC3sU5ctb19iOnnBo31QiHoSoxx9h2njf7smeItv5Q6xdk3lftoCkVkM_H1fatLLpbDTKJ6iRu6sYWBRmVNmvHjDN5p9miUjY0QW3idW5f5OHzmuuEUFJN8uFKICW60q7VzgBjsySpC_Wg_BNUNgdztGOE5JhJX81JshEWo0SKvGf_f_Zh",
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i6hjVpND1OjWZ7RVcmujne-cRb_5hUTonA9iT7RFI5tCYqfrCf6i7SIHn9KnKGbIhYAnV4CezvlQqvBnJa-khXBimCOPuHU8R9wi8kKRNJkM6pCEoDu3eQe-aYniJwLMsj0cy6ObGvm5Q9NeFuIi2uZaDSn_0vhO-lwxqYdmXvP0g=="
+      ],
+      "isProcessed": true,
+      "_filepath": "output/sightings/raw/yahoo-2026-10-17.json"
+    },
+    {
+      "tweetId": "2111578033006010582",
+      "userId": "dynam_00298",
+      "text": "🎁ダイキチ賞品入荷で～す♪(人´∀` )  ✨人気のダイキチグッズ✨ 今回は… 🌟ダイキチぬいぐるみSS 🌟ダイキチぷっくりシール  数量限定なので 気になる方はお早めに👍🎶  本宮店でチェックしてね🐶💨  #ダイナム #ダイナムのダイキチ #ぬいぐるみ #シール pic.x.com/uJVwiqfegHダイナム福島本宮店@dynam_0029850分前",
+      "user": "ダイナム福島本宮店",
+      "time": "2026-10-18T07:00:17.859+09:00",
+      "timeRaw": "50分前",
+      "url": "https://x.com/dynam_00298/status/2111578033006010582",
+      "hashtags": [
+        "#ダイナム",
+        "#ダイナムのダイキチ",
+        "#ぬいぐるみ",
+        "#シール"
+      ],
+      "images": [
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i5e72TLbER0xQeK1l8ZZ0OL91riYzzVlr-EcTe0nvpwcf8oOp4JRLzPOZ_wDyWL8RgsVEIRQhegn17cBGTLwz9qZ1WQEmlh5lYf-tKnHV0V9MHN-qRxnT_IcYXPxFXYAIS_nKHxL3RXR7hSztY0sb6cO1ungrLTMLPYKFmTjjaybnINI_w2Hw9x1TZelpiACOH6JteDU3paUtblLA-RWatX"
       ],
       "isProcessed": true,
       "_filepath": "output/sightings/raw/yahoo-2026-10-17.json"
