@@ -1,7 +1,7 @@
 {
   "date": "2026-10-17",
-  "updatedAt": "2026-10-17T21:39:38.991+09:00",
-  "count": 38,
+  "updatedAt": "2026-10-18T00:17:26.916+09:00",
+  "count": 39,
   "articles": [
     {
       "isSighting": true,
@@ -724,6 +724,25 @@
       "wpPostId": 22642,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-tochigi-unknown-2026-10-17/",
       "postedAt": "2026-10-17T21:39:46.640+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "東京都",
+      "city": "大田区",
+      "shopName": "ガシャポンバンダイオフィシャルショップBOOKOFF 西友大森店",
+      "shopAddress": "東京都大田区大森北1丁目6-16 西友大森店",
+      "productName": "サンリオキャラクターズ ボンボンドロップミニチュアチャーム2",
+      "sightingTime": "2026-10-11 12:45頃",
+      "statusText": "在庫あり",
+      "confidenceMemo": "ガチャガチャ入荷速報アカウントによる特定店舗の在庫あり報告（絵文字⭕️による判定）",
+      "sourceUrl": "https://x.com/patrol_yo/status/2111438454882259355",
+      "sourceTweetId": "2111438454882259355",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2111438454882259355.png",
+      "isPosted": true,
+      "wpPostId": 22644,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-tokyo-unknown-2026-10-11/",
+      "postedAt": "2026-10-18T00:17:33.121+09:00"
     }
   ]
 }
