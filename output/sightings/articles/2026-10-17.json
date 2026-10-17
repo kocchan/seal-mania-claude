@@ -1,7 +1,7 @@
 {
   "date": "2026-10-17",
-  "updatedAt": "2026-10-17T16:26:26.910+09:00",
-  "count": 36,
+  "updatedAt": "2026-10-17T19:26:36.021+09:00",
+  "count": 37,
   "articles": [
     {
       "isSighting": true,
@@ -686,6 +686,25 @@
       "wpPostId": 22638,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-nagano-chikuma-2026-10-17/",
       "postedAt": "2026-10-17T16:28:18.759+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "東京都",
+      "city": "渋谷区",
+      "shopName": "ビーポイントクレール原宿店",
+      "shopAddress": "東京都渋谷区神宮前1-16-10",
+      "productName": "ボンボンドロップシール（キティ和柄、コンビニ和柄、サンリオ5種類）",
+      "sightingTime": "2026-10-17 19:18頃",
+      "statusText": "10/18(日)より販売開始（入荷済み）",
+      "confidenceMemo": "店舗公式アカウントによる入荷・販売告知。購入制限あり。",
+      "sourceUrl": "https://x.com/RyoBpo/status/2111401262130593995",
+      "sourceTweetId": "2111401262130593995",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2111401262130593995.png",
+      "isPosted": true,
+      "wpPostId": 22640,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-tokyo-unknown-2026-10-17-2/",
+      "postedAt": "2026-10-17T19:26:43.342+09:00"
     }
   ]
 }
