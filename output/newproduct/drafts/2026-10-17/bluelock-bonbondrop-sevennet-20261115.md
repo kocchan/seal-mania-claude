@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-10-17T05:48:01.003Z"
+wpPostUrl: "https://www.seal-search.com/character/bluelock-bonbondrop-sevennet-20261115/"
+wpPostId: 22603
+posted: true
 type: newproduct
 status: draft
 title: "【11/15まで予約】ブルーロック ボンドロ セブンネット新作"

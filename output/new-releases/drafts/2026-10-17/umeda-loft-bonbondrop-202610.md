@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-10-17T05:48:28.347Z"
+wpPostUrl: "https://www.seal-search.com/news/new-item/umeda-loft-bonbondrop-202610/"
+wpPostId: 22606
+posted: true
 type: lottery
 status: draft
 title: "【10/19締切】梅田ロフトでボンボンドロップシール全20種の抽選！キティ和柄・たまごっち・ちゅるきら"

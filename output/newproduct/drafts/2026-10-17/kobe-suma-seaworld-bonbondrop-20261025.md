@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-10-17T05:48:17.030Z"
+wpPostUrl: "https://www.seal-search.com/character/kobe-suma-seaworld-bonbondrop-20261025/"
+wpPostId: 22604
+posted: true
 type: newproduct
 status: draft
 title: "【10/25】神戸須磨シーワールド ボンドロ4種セット"
