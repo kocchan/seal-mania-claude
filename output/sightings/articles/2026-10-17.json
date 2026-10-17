@@ -1,7 +1,7 @@
 {
   "date": "2026-10-17",
-  "updatedAt": "2026-10-17T19:26:36.021+09:00",
-  "count": 37,
+  "updatedAt": "2026-10-17T21:39:38.991+09:00",
+  "count": 38,
   "articles": [
     {
       "isSighting": true,
@@ -705,6 +705,25 @@
       "wpPostId": 22640,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-tokyo-unknown-2026-10-17-2/",
       "postedAt": "2026-10-17T19:26:43.342+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "栃木県",
+      "city": "宇都宮市",
+      "shopName": "駿河屋 宇都宮テクノ店",
+      "shopAddress": "栃木県宇都宮市ゆいの杜5-27-1",
+      "productName": "映画 ちいかわ 入場特典ボンボンドロップシール",
+      "sightingTime": "2026-10-17 20:53頃",
+      "statusText": "入荷（在庫あり）",
+      "confidenceMemo": "店舗公式アカウントによる写真付きの入荷報告であり、信頼性が高い",
+      "sourceUrl": "https://x.com/suruga_utekuno/status/2111425394318688563",
+      "sourceTweetId": "2111425394318688563",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2111425394318688563.png",
+      "isPosted": true,
+      "wpPostId": 22642,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-tochigi-unknown-2026-10-17/",
+      "postedAt": "2026-10-17T21:39:46.640+09:00"
     }
   ]
 }
