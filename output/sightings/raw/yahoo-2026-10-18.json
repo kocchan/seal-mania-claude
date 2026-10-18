@@ -1,8 +1,8 @@
 {
-  "timestamp": "2026-10-18T15:38:25.600Z",
+  "timestamp": "2026-10-18T22:43:17.020Z",
   "source": "yahoo_realtime",
   "platform": "x",
-  "count": 180,
+  "count": 182,
   "data": [
     {
       "tweetId": "2110977221070340452",
@@ -3109,6 +3109,40 @@
       "hashtags": [],
       "images": [
         "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i5e72TLbER0xQeK1l8ZZ0OL4ZOg8_ngSfZ-O2yoT1lGcUYasohB0dpz2XtKFpybgbPCSnBa6kRzZsQvEZF_GikbEDj0l_GZTU3ldmUCRXFWDMAOcUXA2PFFz1x4iboBqbPmQYfdpVQcmit1moSycgCKYKyO15HYDSSIPuQMa8_Rvccxchm0ssOrnSLJ1XL6m5Rn5GWIh-gg8Hg7-ICUZYwU"
+      ],
+      "isProcessed": true,
+      "_filepath": "output/sightings/raw/yahoo-2026-10-18.json"
+    },
+    {
+      "tweetId": "2111865202996306339",
+      "userId": "pi_sun_2s",
+      "text": "ボンボンドロップシール使ってホイップデコしてみたいけど持ってないからいつかやりたいぷぴ田@pi_sun_2s17:01",
+      "user": "ぷぴ田",
+      "time": "2026-10-19T17:01:00.000+09:00",
+      "timeRaw": "17:01",
+      "url": "https://x.com/pi_sun_2s/status/2111865202996306339",
+      "hashtags": [],
+      "images": [
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i5e72TLbER0xQeK1l8ZZ0OLhiPP7GSzAKCNbXae38JR3tw_bKRMu7mOCb3NPqdcdedjiqIFponkW8A3dBth3RIXcWaTA5jPEpOujC77UDRdYsQAziZbgVjMhpH8rkPnztE_Hri7QV6F7j7FE-yZuEiwB_RZxRAGcZkSS8afQvJ43-3AXqSGiPDTV5mUr4X8Ckl71P0DhUguJDdSuRMDSaEH"
+      ],
+      "isProcessed": true,
+      "_filepath": "output/sightings/raw/yahoo-2026-10-18.json"
+    },
+    {
+      "tweetId": "2111943287385035037",
+      "userId": "buchiko1515",
+      "text": "今日はCDTV！ 明日はいよいよアルバムフラゲ日！  先週のとある平日、大阪に立ち寄る機会があったので三国駅おかわりしてきました☺️ 延長してくれたおかげでまた行けて嬉しかった🥰阪急に感謝😢  お土産に阪急電車のぷっくりシールも買えた🚃✨  今日の夜が待ち遠しいです(*^^*) pic.x.com/7gDgY4gte7ぶっちー@buchiko151532分前",
+      "user": "ぶっちー",
+      "time": "2026-10-19T07:11:17.020+09:00",
+      "timeRaw": "32分前",
+      "url": "https://x.com/buchiko1515/status/2111943287385035037",
+      "hashtags": [],
+      "images": [
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i5e72TLbER0xQeK1l8ZZ0OLYUa6HfXjM2pkcI1KLZ-95Y_PUiDGKwSHeS1VBFPRQjBlVT5skMZYLs33qZnajrqShxCXq55a_i2p0Y6IMF39tUm3hi-k9fEpaDcPomstkk-bdbvSIYotbaP4YixCONjmB5f7IXgOj23EwKwhExQB-QnrOP7sM-liGgIrKf1rnr5GkpRuhheMLKPL7055dOY_",
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i6hjVpND1OjWZ7RVcmujne-c9GAumR4p0ygmkwJvMweDSkt0_isXjue149TbH10-ly2rRTR-1vWmIODNizZavhPeDgszef0N3xQOlZRytmmy_iHS1FktAuU3fO61Sef86H63n7MRkUdguHsTxrpHwzWj1DVQpmkIyQbWfjicCuTDw==",
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i6hjVpND1OjWZ7RVcmujne-6ORYCUd2_pOm1_MZQhz6GWWX9iu7urNIGZNNrcIRcZJUbct8H14wcel0zBesfRCO2Bpb3ncFweNKwa0CoBHXW1SadvaXImUVuAQlRPO-9oG70cLAmTfnUI3k9yTdGyNeTm6JrsYeBQ1rqX_YwBBLnA==",
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i6hjVpND1OjWZ7RVcmujne-cpRqGt9lf_K3OM0QIggoWME2vZEEfqr3O1vI_7Ud2-nrYNlCBukfmQhVbjHdx54HBUefnBm-CnrHued-U8X8G0xFffRq-RDhXzeUpPzcWyQBYaanLZ6m0xiSVV0vvOgB5OzUkod5KSs2cLpY4gIvRA==",
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i6hjVpND1OjWZ7RVcmujne-n2K_NWmUhLCrPc47uZqVLUrN2wpimID66zlTIgQaTI_Z6D49cIi2mAZMVa23pL9u2mIidYtbzTbgby8hCkn9_xJjGHhnX5cHur34pDusFs2BDHGV3GiyWpYcycJv74oCdTG1EN9nG_BorkZyRWZVhQ=="
       ],
       "isProcessed": true,
       "_filepath": "output/sightings/raw/yahoo-2026-10-18.json"
