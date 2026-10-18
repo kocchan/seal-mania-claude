@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-10-18T06:11:45.669Z"
+wpPostUrl: "https://www.seal-search.com/character/sunstar-chiikawa-bondoro-mini-202610/"
+wpPostId: 22695
+posted: true
 type: newproduct
 status: draft
 title: "【10月下旬】ちいかわ ボンドロ「ミニ」全8種新登場"
