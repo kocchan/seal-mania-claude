@@ -1,0 +1,20 @@
+---
+source: rss
+url: "https://www.inside-games.jp/article/2026/10/18/189429.html"
+title: "サングラスをかけたスヌーピーが可愛い！「PEANUTS めじるしアクセサリー SUMMER」が待望の再販 | インサイド"
+siteName: "インサイド"
+publishedAt: "2026-10-18T00:24:56Z"
+fetchedAt: "2026-10-18T01:44:22.306Z"
+fetchMethod: axios
+ogImage: "https://www.inside-games.jp/imgs/ogp_f/1787890.jpg"
+description: "ガシャポン「PEANUTS めじるしアクセサリー SUMMER」が10月第4週より発売！"
+---
+
+## RSS要約
+
+ガシャポン「PEANUTS めじるしアクセサリー SUMMER」が10月第4週より発売！ フィギュア・グッズ グッズ. 2026.10.18 Sun 8:50. シェア.
+
+## 本文HTML（サニタイズ済み）
+
+<html><head></head><body><figure class="ctms-editor-image"><img src="https://www.inside-games.jp/imgs/zoom/1787892.jpg" class="inline-article-image" width="640" height="640"></figure><p>バンダイは、ガシャポン「PEANUTS めじるしアクセサリー SUMMER」を10月第4週より発売します。</p><h2>◆「PEANUTS めじるしアクセサリー SUMMER」が再販！</h2><p>本商品は、「PEANUTS」の“夏”をテーマにしためじるしアクセサリーです。2026年6月に発売した商品が再販となります。</p><p>サングラスをかけたり、ボールの上で休んだりして夏を楽しむ「スヌーピー」3種、「ウッドストック」「オラフ」の計5種がラインナップ。カニカン・わっかパーツ付きで、いろいろなところにつけることができます。</p><h3>■スヌーピーA</h3><figure class="ctms-editor-image"><img src="https://www.inside-games.jp/imgs/zoom/1787887.jpg" class="inline-article-image" width="560" height="560"></figure><h3>■スヌーピーB</h3><figure class="ctms-editor-image"><img src="https://www.inside-games.jp/imgs/zoom/1787888.jpg" class="inline-article-image" width="560" height="560"></figure><h3>■スヌーピーC</h3><figure class="ctms-editor-image"><img src="https://www.inside-games.jp/imgs/zoom/1787889.jpg" class="inline-article-image" width="560" height="560"></figure><h3>■ウッドストック</h3><figure class="ctms-editor-image"><img src="https://www.inside-games.jp/imgs/zoom/1787890.jpg" class="inline-article-image" width="560" height="560"></figure><h3>■オラフ</h3><figure class="ctms-editor-image"><img src="https://www.inside-games.jp/imgs/zoom/1787891.jpg" class="inline-article-image" width="560" height="560"></figure><hr><p>「PEANUTS めじるしアクセサリー SUMMER」の価格は1回300円（税込）で、10月第4週より発売。なお、本商品は初回発売後、複数回の出荷を予定しています。詳細は<a target="_blank" rel="noopener noreferrer" href="https://gashapon.jp/products/detail.php?jan_code=4570118184634000">ガシャポン商品ページ</a>をご確認ください。</p><div class="af_box"><!-- start --><div class="af_list"><div class="af_box_left"><a href="https://www.amazon.co.jp/dp/B0DH7R8J92?tag=insidegames-22&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank"><img src="https://m.media-amazon.com/images/I/41j7nKWuQZL._SL160_.jpg" class="af_box_image"></a></div><div class="af_box_right"><b><a href="https://www.amazon.co.jp/dp/B0DH7R8J92?tag=insidegames-22&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank">SNOOPY(3)　SUNDAY SPECIAL PEANUTS SERIES　どうだいすごいだろ？</a></b><br><b>￥1,563</b><br><span>(価格・在庫状況は記事公開時点のものです)</span><br><div class="af_box_link_amazon"><a href="https://www.amazon.co.jp/dp/B0DH7R8J92?tag=insidegames-22&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank">Amazon</a></div><div class="af_box_link_rakuten"><a href="https://hb.afl.rakuten.co.jp/hgc/09af142d.3ed07ccc.09af142e.da82fa9e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FPEANUTS%2F" target="_blank">楽天市場</a></div></div></div><!-- //end --></div><div class="af_box"><!-- start --><div class="af_list"><div class="af_box_left"><a href="https://www.amazon.co.jp/dp/B0FHP7N319?tag=insidegames-22&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank"><img src="https://m.media-amazon.com/images/I/313y7Q4kACL._SL160_.jpg" class="af_box_image"></a></div><div class="af_box_right"><b><a href="https://www.amazon.co.jp/dp/B0FHP7N319?tag=insidegames-22&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank">[ヘインズ] Tシャツ 半袖 丸首 綿100% 丸胴仕様 タグレス仕様 PEANUTS×BEEFY-T Tシャツ 1P ビーフィー HM1-D002-090-L</a></b><br><b>￥2,829</b><br><span>(価格・在庫状況は記事公開時点のものです)</span><br><div class="af_box_link_amazon"><a href="https://www.amazon.co.jp/dp/B0FHP7N319?tag=insidegames-22&amp;linkCode=osi&amp;th=1&amp;psc=1" target="_blank">Amazon</a></div><div class="af_box_link_rakuten"><a href="https://hb.afl.rakuten.co.jp/hgc/09af142d.3ed07ccc.09af142e.da82fa9e/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FPEANUTS%2F" target="_blank">楽天市場</a></div></div></div><!-- //end --></div>
+</body></html>
