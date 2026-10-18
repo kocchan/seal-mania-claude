@@ -1,7 +1,7 @@
 {
   "date": "2026-10-18",
-  "updatedAt": "2026-10-18T19:46:36.568+09:00",
-  "count": 42,
+  "updatedAt": "2026-10-18T21:57:18.416+09:00",
+  "count": 44,
   "articles": [
     {
       "isSighting": true,
@@ -800,6 +800,44 @@
       "wpPostId": 22731,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-tokyo-tama-2026-10-11/",
       "postedAt": "2026-10-18T19:47:00.878+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "大阪府",
+      "city": "大阪市天王寺区",
+      "shopName": "天王寺公園（イベント会場内・近鉄ブース）",
+      "shopAddress": "大阪府大阪市天王寺区茶屋山町5-55",
+      "productName": "近鉄 ボンボンドロップシール",
+      "sightingTime": "2026-10-18 21:45頃",
+      "statusText": "在庫あり（購入報告あり）",
+      "confidenceMemo": "天王寺公園で開催された鉄道イベントでの購入報告",
+      "sourceUrl": "https://x.com/F7FX6oDQL1XOrt6/status/2111800823194030561",
+      "sourceTweetId": "2111800823194030561",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2111800823194030561.png",
+      "isPosted": true,
+      "wpPostId": 22733,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-osaka-unknown-2026-10-18/",
+      "postedAt": "2026-10-18T21:57:27.007+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "神奈川県",
+      "city": "海老名市",
+      "shopName": "TSUTAYA BOOKSTORE 海老名",
+      "shopAddress": "神奈川県海老名市めぐみ町2-1 ViNA GARDENS PERCH 4階",
+      "productName": "ボンボンドロップシール",
+      "sightingTime": "2026-10-18 04:55頃",
+      "statusText": "完売（次回入荷未定）",
+      "confidenceMemo": "店舗公式アカウントによるリアルタイムの完売告知",
+      "sourceUrl": "https://x.com/TSUTAYA_ebina/status/2111797333608538585",
+      "sourceTweetId": "2111797333608538585",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2111797333608538585.png",
+      "isPosted": true,
+      "wpPostId": 22735,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-kanagawa-ebina-2026-10-18-2/",
+      "postedAt": "2026-10-18T21:57:33.968+09:00"
     }
   ]
 }
