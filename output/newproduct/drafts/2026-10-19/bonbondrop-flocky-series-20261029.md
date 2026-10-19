@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-10-19T06:27:07.539Z"
+wpPostUrl: "https://www.seal-search.com/character/bonbondrop-flocky-series-20261029/"
+wpPostId: 22782
+posted: true
 type: newproduct
 status: draft
 title: "【10/29出荷】ボンボンドロップシール フロッキー全4種"

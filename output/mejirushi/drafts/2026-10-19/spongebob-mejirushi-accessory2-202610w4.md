@@ -1,4 +1,9 @@
 ---
+postedAt: "2026-10-19T06:27:20.691Z"
+wpPostUrl: "https://www.seal-search.com/mejirushi/spongebob-mejirushi-accessory2-202610w4/"
+wpPostId: 22785
+posted: true
+imageGenerated: true
 type: mejirushi
 status: draft
 title: "【10月第4週】スポンジ・ボブ めじるしアクセサリー2"
