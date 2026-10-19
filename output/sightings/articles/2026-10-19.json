@@ -1,7 +1,7 @@
 {
   "date": "2026-10-19",
-  "updatedAt": "2026-10-19T17:24:02.235+09:00",
-  "count": 35,
+  "updatedAt": "2026-10-19T21:45:28.491+09:00",
+  "count": 36,
   "articles": [
     {
       "isSighting": true,
@@ -667,6 +667,25 @@
       "wpPostId": 22811,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-fukushima-iwaki-2026-10-19/",
       "postedAt": "2026-10-19T17:25:31.673+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "兵庫県",
+      "city": "神戸市",
+      "shopName": "須磨シーワールド",
+      "shopAddress": "兵庫県神戸市須磨区若宮町1丁目3-5",
+      "productName": "ボンボンドロップシール",
+      "sightingTime": "2026-10-19 09:58頃",
+      "statusText": "在庫あり（デザインに種類あり）",
+      "confidenceMemo": "施設内での販売と購入が報告されている。シャチ以外のデザインが販売されている旨の記述あり。",
+      "sourceUrl": "https://x.com/sumaseamania/status/2112121134523306238",
+      "sourceTweetId": "2112121134523306238",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2112121134523306238.png",
+      "isPosted": true,
+      "wpPostId": 22813,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-hyogo-unknown-2026-10-19/",
+      "postedAt": "2026-10-19T21:45:35.274+09:00"
     }
   ]
 }
