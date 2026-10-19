@@ -1,8 +1,8 @@
 {
-  "timestamp": "2026-10-19T16:07:42.862Z",
+  "timestamp": "2026-10-19T18:33:33.501Z",
   "source": "yahoo_realtime",
   "platform": "x",
-  "count": 161,
+  "count": 164,
   "data": [
     {
       "tweetId": "2111815160939889054",
@@ -2773,6 +2773,56 @@
       "hashtags": [],
       "images": [
         "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i5e72TLbER0xQeK1l8ZZ0OLLCagw4pi42Mxyb1TlG7hRS1XhNKQ9kH7fm89aVWCQ12UeKs7HKrkABaDdorzZyMLpL96SJnfypge-5h5F_0YSxdYaJKqYFw_E_QR0HDTOjQuuG3vVbwPRmNhWlPZDup9LmOT6_HUorx6upCCRL-yhxzmaGv53RU-zuWPMqmbjmH_S7S_6fqehC53k2okN4MO"
+      ],
+      "isProcessed": true,
+      "_filepath": "output/sightings/raw/yahoo-2026-10-19.json"
+    },
+    {
+      "tweetId": "2112247552603226269",
+      "userId": "SaAya__7201",
+      "text": "クリアファイル欲しくて初日の午前中に思わずファミリーマートさんに行ってお菓子を大量に買っちゃいました🍫😂大好きな原作絵のクリアファイルが貰えるなんてお得でしかないですよね❣️だけど…先日のぷっくりシールのグミもかなりの量でお菓子の消費が追いつかない😭  #明治 #セーラームーン pic.x.com/u8eQq3Pd9wH☆shin♡-ホシノ-@SaAya__720113分前",
+      "user": "H☆shin♡-ホシノ-",
+      "time": "2026-10-20T03:20:33.501+09:00",
+      "timeRaw": "13分前",
+      "url": "https://x.com/SaAya__7201/status/2112247552603226269",
+      "hashtags": [
+        "#明治",
+        "#セーラームーン"
+      ],
+      "images": [
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i5e72TLbER0xQeK1l8ZZ0OL5N78ZI9lv9dPKzB5DI_LqklfEgeD2s60sjJCq5cf9aW54zTAVHg_95xNPdW2gEDBwdfTw6Jo6X2w4uyB48u2EsNZ27f9Z4kR5VvvBo0Y1_4LbCzbEgv1XtCYMk2MmW2KZV7F42gvjx1piOclCiHkgficO5Qu8IStUnRF4j1PL79TBTN39oRYt4A-oWDwI5fM",
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i6hjVpND1OjWZ7RVcmujne-2TnWa7oekLrYkLyiDEo8H1vaDGt_zMdFQTHjujs_qWVCxCh_38B-HDFWaeR3EcMP5L22ZNnmwJtKQfKtfmeO3Z_HQb475KDxP5Njw7K8rP6hUYHleXlNBV1MHsgkJjdNNjaDYLuMx4e2aPYHWxONTw==",
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i6hjVpND1OjWZ7RVcmujne-sHsLcaVVb_hdtJWTQI6x8pj1P3TMnOAva_mj10x8IVto91ulIyny-e8eN6p9Ta8lqdsuPu2Yn8RCp4fSruR_qmxS7dGcR7pnOQVrAalNEF0UGQrJWER3vreps0IQWo9apVtjzMLuopELmo4lthVzag=="
+      ],
+      "isProcessed": true,
+      "_filepath": "output/sightings/raw/yahoo-2026-10-19.json"
+    },
+    {
+      "tweetId": "2112232605131383036",
+      "userId": "3moon_8ruka",
+      "text": "ちょっと見ない間に水光カラコンとかつけるようになっちゃってさ……あれなんか変わるん？と思ってたけど瞳のうるちゅる感が普通のカラコンと全然違うんだね梨愛@3moon_8ruka17:21",
+      "user": "梨愛",
+      "time": "2026-10-20T17:21:00.000+09:00",
+      "timeRaw": "17:21",
+      "url": "https://x.com/3moon_8ruka/status/2112232605131383036",
+      "hashtags": [],
+      "images": [
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i5e72TLbER0xQeK1l8ZZ0OLrHIHRn1rkc0wydfgGr1oTJnsCGY1ao9ntIawfi269YL8-58CmcF8mNSR4BWmQlYbPI_vZsgB-ik-wsAdTWeBqjszN3iEL3u_TimPgm62N7fMigTosTf99lVVZSRGQ3DTPI2f_tTtEe-asIkRONQkgKpmwq5YEprXb6x18hHyE7efCwMhBDyP6C_kF7pY5Gmz"
+      ],
+      "isProcessed": true,
+      "_filepath": "output/sightings/raw/yahoo-2026-10-19.json"
+    },
+    {
+      "tweetId": "2112229724282056841",
+      "userId": "metya_ark",
+      "text": "実際のとこアレクって幾つくらいなんだ おめめとお口うるちゅるだし肌感若くないか結構20後半から30前半と睨んでるんだがアナ博館長@metya_ark17:09",
+      "user": "アナ博館長",
+      "time": "2026-10-20T17:09:00.000+09:00",
+      "timeRaw": "17:09",
+      "url": "https://x.com/metya_ark/status/2112229724282056841",
+      "hashtags": [],
+      "images": [
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i5e72TLbER0xQeK1l8ZZ0OLeT_qGlpDNZPSwc0HktpVg3-CMlgTfK1ZAtZr-RmNCCdoWP1tUJi2M9S03lBU1F6hIju1xFqJihH0aihxArTWCeE5mVqx8Wa-j3JmlBZrBswJpHRFAFjK8EnRMCmYtSLG2t1gGPgNFpU2qW6RjeRCK-MQkQfcXFLTkry6ATohw_C2bx4qzdM6JmdeYR6isU-c"
       ],
       "isProcessed": true,
       "_filepath": "output/sightings/raw/yahoo-2026-10-19.json"
