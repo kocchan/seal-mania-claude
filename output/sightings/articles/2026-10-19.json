@@ -1,7 +1,7 @@
 {
   "date": "2026-10-19",
-  "updatedAt": "2026-10-19T21:45:28.491+09:00",
-  "count": 36,
+  "updatedAt": "2026-10-20T01:08:14.461+09:00",
+  "count": 37,
   "articles": [
     {
       "isSighting": true,
@@ -686,6 +686,25 @@
       "wpPostId": 22813,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-hyogo-unknown-2026-10-19/",
       "postedAt": "2026-10-19T21:45:35.274+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "福岡県",
+      "city": "福岡市中央区",
+      "shopName": "福岡三越（むちゃうま!!ちいかわ寿司 POP UP STORE）",
+      "shopAddress": "福岡県福岡市中央区天神2-1-1 福岡三越 9階 三越ギャラリー",
+      "productName": "ちいかわ寿司 ボンボンドロップシール",
+      "sightingTime": "2026-10-20 13:16頃",
+      "statusText": "完売（再入荷未定）",
+      "confidenceMemo": "公式POP UP STOREアカウントによる在庫欠品報告のため、信頼性が非常に高い",
+      "sourceUrl": "https://x.com/chiikawa_popup/status/2112171036901036522",
+      "sourceTweetId": "2112171036901036522",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2112171036901036522.png",
+      "isPosted": true,
+      "wpPostId": 22815,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-fukuoka-unknown-2026-10-20/",
+      "postedAt": "2026-10-20T01:08:22.938+09:00"
     }
   ]
 }
