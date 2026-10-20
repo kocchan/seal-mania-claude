@@ -1,4 +1,9 @@
 ---
+postedAt: "2026-10-20T06:13:54.723Z"
+wpPostUrl: "https://www.seal-search.com/mejirushi/cardcaptorsakura-mejirushi2-reissue-202610w4/"
+wpPostId: 22836
+posted: true
+imageGenerated: true
 type: mejirushi
 status: draft
 title: "【10月発売】カードキャプターさくら めじるしアクセサリー2再販"

@@ -1,4 +1,9 @@
 ---
+postedAt: "2026-10-20T06:14:04.564Z"
+wpPostUrl: "https://www.seal-search.com/mejirushi/sanrio-emokyun-pastel-mejirushi-reissue-202610w4/"
+wpPostId: 22839
+posted: true
+imageGenerated: true
 type: mejirushi
 status: draft
 title: "【10月発売】サンリオ めじるしアクセサリー エモきゅん パステル再販"
