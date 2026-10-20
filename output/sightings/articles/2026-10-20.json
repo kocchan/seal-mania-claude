@@ -1,7 +1,7 @@
 {
   "date": "2026-10-20",
-  "updatedAt": "2026-10-20T20:16:43.048+09:00",
-  "count": 34,
+  "updatedAt": "2026-10-20T23:04:09.808+09:00",
+  "count": 35,
   "articles": [
     {
       "isSighting": true,
@@ -648,6 +648,25 @@
       "wpPostId": 22889,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-shimane-matsue-2026-10-20/",
       "postedAt": "2026-10-20T20:17:44.044+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "三重県",
+      "city": "津市",
+      "shopName": "KDM 津みなみ店",
+      "shopAddress": "三重県津市栗真小川町582 イオンタウン津みなみ 1F",
+      "productName": "こびとづかん ボンボンドロップシール",
+      "sightingTime": "2026-10-20 11:32頃",
+      "statusText": "完売（本日入荷分・全4柄）",
+      "confidenceMemo": "店舗公式アカウントによる詳細な在庫終了の告知",
+      "sourceUrl": "https://x.com/KDM_Tsuminami/status/2112507252343234740",
+      "sourceTweetId": "2112507252343234740",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2112507252343234740.png",
+      "isPosted": true,
+      "wpPostId": 22891,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-mie-tsu-2026-10-20-2/",
+      "postedAt": "2026-10-20T23:04:17.008+09:00"
     }
   ]
 }
