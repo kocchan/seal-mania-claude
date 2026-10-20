@@ -1,7 +1,7 @@
 {
   "date": "2026-10-20",
-  "updatedAt": "2026-10-20T23:04:09.808+09:00",
-  "count": 35,
+  "updatedAt": "2026-10-21T08:36:37.906+09:00",
+  "count": 36,
   "articles": [
     {
       "isSighting": true,
@@ -667,6 +667,25 @@
       "wpPostId": 22891,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-mie-tsu-2026-10-20-2/",
       "postedAt": "2026-10-20T23:04:17.008+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "愛知県",
+      "city": "岡崎市",
+      "shopName": "文具屋さん きや",
+      "shopAddress": "愛知県岡崎市柱曙3-10-7",
+      "productName": "ボンボンドロップシール",
+      "sightingTime": "2026-10-21 08:30頃",
+      "statusText": "在庫あり（再入荷）",
+      "confidenceMemo": "店舗公式アカウントによる直接の入荷・店頭販売告知",
+      "sourceUrl": "https://x.com/Bunguya_Kiya/status/2112687810499240410",
+      "sourceTweetId": "2112687810499240410",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2112687810499240410.png",
+      "isPosted": true,
+      "wpPostId": 22893,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-aichi-unknown-2026-10-21/",
+      "postedAt": "2026-10-21T08:36:45.074+09:00"
     }
   ]
 }
