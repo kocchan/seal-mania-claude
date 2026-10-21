@@ -1,7 +1,7 @@
 {
   "date": "2026-10-21",
-  "updatedAt": "2026-10-21T20:32:04.356+09:00",
-  "count": 53,
+  "updatedAt": "2026-10-22T08:53:39.401+09:00",
+  "count": 54,
   "articles": [
     {
       "isSighting": true,
@@ -1009,6 +1009,25 @@
       "wpPostId": 23015,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-fukuoka-fukuoka-2026-10-11/",
       "postedAt": "2026-10-21T20:32:38.720+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "東京都",
+      "city": "千代田区",
+      "shopName": "東京駅（駅内店舗）",
+      "shopAddress": "東京都千代田区丸の内１丁目",
+      "productName": "ぴよりんのボンボンドロップシール",
+      "sightingTime": "2026-10-21",
+      "statusText": "在庫あり（購入報告あり）",
+      "confidenceMemo": "「東京駅に寄って買う」という具体的な目的と、実際に購入した報告が含まれるため信頼度が高い。店舗名は駅内の売店（催事やぴよりん関連ショップ）と推測される。",
+      "sourceUrl": "https://x.com/cineraria126/status/2113014113689628805",
+      "sourceTweetId": "2113014113689628805",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2113014113689628805.png",
+      "isPosted": true,
+      "wpPostId": 23017,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-tokyo-unknown-2026-10-21/",
+      "postedAt": "2026-10-22T08:53:47.072+09:00"
     }
   ]
 }
