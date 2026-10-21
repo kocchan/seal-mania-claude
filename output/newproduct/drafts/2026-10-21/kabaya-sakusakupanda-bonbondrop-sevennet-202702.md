@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-10-21T06:12:10.034Z"
+wpPostUrl: "https://www.seal-search.com/character/kabaya-sakusakupanda-bonbondrop-sevennet-202702/"
+wpPostId: 22940
+posted: true
 type: newproduct
 status: draft
 title: "【2027年2月】ボンドロ さくさくぱんだ セブンネット予約"

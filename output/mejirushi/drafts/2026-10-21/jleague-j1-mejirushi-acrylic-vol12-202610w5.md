@@ -1,4 +1,9 @@
 ---
+postedAt: "2026-10-21T06:12:52.417Z"
+wpPostUrl: "https://www.seal-search.com/mejirushi/jleague-j1-mejirushi-acrylic-vol12-202610w5/"
+wpPostId: 22949
+posted: true
+imageGenerated: true
 type: mejirushi
 status: draft
 title: "【10月下旬】Jリーグ J1クラブ めじるしアクリル全20種"

@@ -1,4 +1,9 @@
 ---
+postedAt: "2026-10-21T06:13:12.601Z"
+wpPostUrl: "https://www.seal-search.com/mejirushi/retro-furby-mejirushi-gacha-mascot-202610/"
+wpPostId: 22955
+posted: true
+imageGenerated: true
 type: mejirushi
 status: draft
 title: "【10月中旬】レトロファービー めじるしガチャマスコット"

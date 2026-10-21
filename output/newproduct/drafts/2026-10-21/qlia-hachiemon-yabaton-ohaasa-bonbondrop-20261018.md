@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-10-21T06:12:14.959Z"
+wpPostUrl: "https://www.seal-search.com/character/qlia-hachiemon-yabaton-ohaasa-bonbondrop-20261018/"
+wpPostId: 22941
+posted: true
 type: newproduct
 status: draft
 title: "【10/18販売】ハチエモン・矢場とん・おは朝ボンドロ全6柄"

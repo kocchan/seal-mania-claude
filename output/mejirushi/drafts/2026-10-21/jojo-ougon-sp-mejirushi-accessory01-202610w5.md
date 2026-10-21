@@ -1,4 +1,9 @@
 ---
+postedAt: "2026-10-21T06:13:03.325Z"
+wpPostUrl: "https://www.seal-search.com/mejirushi/jojo-ougon-sp-mejirushi-accessory01-202610w5/"
+wpPostId: 22952
+posted: true
+imageGenerated: true
 type: mejirushi
 status: draft
 title: "【10月下旬】ジョジョ5部 S・P めじるしアクセ01"

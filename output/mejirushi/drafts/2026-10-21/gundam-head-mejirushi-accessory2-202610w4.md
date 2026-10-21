@@ -1,4 +1,9 @@
 ---
+postedAt: "2026-10-21T06:12:40.620Z"
+wpPostUrl: "https://www.seal-search.com/mejirushi/gundam-head-mejirushi-accessory2-202610w4/"
+wpPostId: 22946
+posted: true
+imageGenerated: true
 type: mejirushi
 status: draft
 title: "【10月第4週】ガンダムヘッド めじるしアクセサリー2"
