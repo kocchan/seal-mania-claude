@@ -1,8 +1,8 @@
 {
-  "timestamp": "2026-10-21T14:18:29.749Z",
+  "timestamp": "2026-10-21T16:55:05.922Z",
   "source": "yahoo_realtime",
   "platform": "x",
-  "count": 161,
+  "count": 165,
   "data": [
     {
       "tweetId": "2112378287137624523",
@@ -2784,6 +2784,72 @@
       "images": [
         "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i5e72TLbER0xQeK1l8ZZ0OLHTEqfnh5AfJhv1YYCm6P1byT8DfeYePkKmkJITl8DfbU1539hmY6mj3f2bPx-nTiJFfIswfA3ITJ3VKCyadRFbM1LZXO85C18ftL4htUChBFQ5jvvTv07ORCVFKnuhHXdlWp0xSAujVK7au2XAxErxMQqO59NOIFAysxvXjdiFVu82xzByyvmyMFOU6-mOop",
         "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i6hjVpND1OjWZ7RVcmujne-cJ2G7XorU_ljdmmvzyI11MA_TDALQdwkt-Ys84Kt_unecYkt18X48R-CXAY39YBUix9spGeIdPzflNCptgdEoNk6EpIog0R6W5EaFWfj_dmIN9DVCyISWZ9_md8M4GP6olbRc99ZkCyZAGLQPJ5BoA=="
+      ],
+      "isProcessed": true,
+      "_filepath": "output/sightings/raw/yahoo-2026-10-21.json"
+    },
+    {
+      "tweetId": "2112918537748799675",
+      "userId": "yakusokusiyou",
+      "text": "今日はじめて、野生のボンドロシール見つけた！じゃがりこのやつが1個あった。 買っちゃった！つるつる艶艶で可愛い。コレがボンボンドロップシールか〜✨️ムテキチ@yakusokusiyou14:46",
+      "user": "ムテキチ",
+      "time": "2026-10-22T14:46:00.000+09:00",
+      "timeRaw": "14:46",
+      "url": "https://x.com/yakusokusiyou/status/2112918537748799675",
+      "hashtags": [],
+      "images": [
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i5e72TLbER0xQeK1l8ZZ0OLz6EXs0WIg7rcXLnRFqFdfMYiz4hXXJtm7_w3SEzXUP7-y8LmE6l5QMGjdGbmjj6HOJuOIr5rRK1QPhMTOOQBPjdjuiWUsP2CxMvkckAx8oKL8dSk7GSMStKhQ7FCQEhWNjz-8mAx_wssAHZR-3vUr9tBwc8ERO0NsJUSPswCrMP1kr8hoS_MJAdi0nSlTzvj"
+      ],
+      "isProcessed": true,
+      "_filepath": "output/sightings/raw/yahoo-2026-10-21.json"
+    },
+    {
+      "tweetId": "2112913757727027400",
+      "userId": "omama_0t0",
+      "text": "#こびとづかん ボンボンドロップキーチャーム、星型になってるの可愛すぎ！🌟 めじるしチャームも色々なポーズのカクレモモジリがいて全部欲しくなる🍑今から何に付けるか考えないと🤔💭 x.com/kobitodukan/st…こびとづかん公式📚🌿@kobitodukan8:13【新商品🎁】「ボンボンドロップキーチャーム」「ボンボンドロップマルチめじるしチャーム」「とうめいシールバインダー」を10月中旬〜発売！ by クーリア  ・ボンボンドロップキーチャーム　全4種　各880円（税込） ・ボンボンドロップマルチめじるしチャーム　全6種　各660円（税込） おまま@omama_0t014:27",
+      "user": "おまま",
+      "time": "2026-10-22T08:13:00.000+09:00",
+      "timeRaw": "8:13",
+      "url": "https://x.com/omama_0t0/status/2112913757727027400",
+      "hashtags": [
+        "#こびとづかん"
+      ],
+      "images": [
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i5e72TLbER0xQeK1l8ZZ0OLcczf23iJX95W1S0LM9BjXl1IxatX0J-_h-xuYfG69nVHcGnbJOpVYh6yLZkJWViZDXWRGe3G3IvCspegsrVCvM3Qs7tN9e-Y0cEMqxH0WJ8C3GGw6jylqVyms-U5ycdZf3ZOqnUiOzwNtacQi2sPAhUO5C7q5Kxtd7rfjfa9uhBtC7B_tWZWl6hn28PqMxMz",
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i5e72TLbER0xQeK1l8ZZ0OLNzuTJYNzjTTt4cYRinvJhJFfuaPs5yIc-WwPqI0ObU0KXB9mtDHHpoOLhkXHGDHTnf_xnnnFFEOKbwr2XW6fzNLCrMDmp_RcLYt3OT9Zp6N4krl3oMzRruyc-BHoJauZYhB61YzWvY66ZxrzUMjsTwZwBkkn8DUzG1DlpER27rVaEZJxmpacO9wgUTpxsimE",
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i6hjVpND1OjWZ7RVcmujne-nRFmH7atglZC9sJ7sIx0eqzey9l2Mszwfd9_yzb94cAhELENTsmuI2nNseb9Z5ojkYC87_7eatlzlNAUDn6nS2ZotzjTf7Rc4-MbHLflsCHCv5x1PLrizaJTIW6Ot_nm4kUXT-nhztRDXjK6YxyjVg=="
+      ],
+      "isProcessed": true,
+      "_filepath": "output/sightings/raw/yahoo-2026-10-21.json"
+    },
+    {
+      "tweetId": "2112915828870091157",
+      "userId": "dosukoiden",
+      "text": "やっと買えた⋯！！公式のゾロアのぷっくりシール pic.x.com/balaYdmgDYどすこい@dosukoiden14:36",
+      "user": "どすこい",
+      "time": "2026-10-22T14:36:00.000+09:00",
+      "timeRaw": "14:36",
+      "url": "https://x.com/dosukoiden/status/2112915828870091157",
+      "hashtags": [],
+      "images": [
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i5e72TLbER0xQeK1l8ZZ0OL34UZfzqQeCh4sL58XDzp6A-dHDv3Mo6OXwwG9B4gsXrPCZK64fpOWHHXY_pTust13Yb0qOyibrXZkCUU1_YhOYTv0BNARGu5O1_XOONJfpZSuXjSTlWSGKLzenQVYusSDxrH2hqWXuC37bAWbvMnvAf95SHR_bjDdSjB-fw1iCHNrhd9_SKKCHgAV0UdXSoZ",
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i6hjVpND1OjWZ7RVcmujne-QMUt3VevXrGklhikA59Qy1tykv6DxFctoxkJirNgO6XB7QXdhyVDVunEGWZlKk-GZt_rSOVKnWBbh2pyR1c0u2of6cj27HCGlRCqiQSPFfqrIe7oqO8yEy5kBFr_CKVyMAFQWU9zievR4oSXej7eMw=="
+      ],
+      "isProcessed": true,
+      "_filepath": "output/sightings/raw/yahoo-2026-10-21.json"
+    },
+    {
+      "tweetId": "2112930912879223220",
+      "userId": "na_tty1111",
+      "text": "いつもピッタリ間に合ってないけどうるちゅるboy採用500.00k↑𝙏𝙝𝙖𝙣𝙠 𝙮𝙤𝙪¨̮♡ pixai.art/model/20390362… pic.x.com/OsGzCI5rSiんあ@na_tty111115:36",
+      "user": "んあ",
+      "time": "2026-10-22T15:36:00.000+09:00",
+      "timeRaw": "15:36",
+      "url": "https://x.com/na_tty1111/status/2112930912879223220",
+      "hashtags": [],
+      "images": [
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i5e72TLbER0xQeK1l8ZZ0OLO7bYkp1Ot1Q2n3DbeNk5OzRpgmyCXK00v5Ep_axdjhDvMZ8LW9Df4HbBAinWnB3e9veAl2jfdjijewPZGsrY3jM7TKs5k3tKfgkUjArN_SA709cb8hRaK47_72FgWd7zA7C__0rUGQ5RpZna3Ck99e1eY1lgCvNqYN-z_ajfa4R_Dzxx5pID5IgKxMWFpbZ2",
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i6hjVpND1OjWZ7RVcmujne-q024D-XF49hGDY7wx0BbpBirffZ_WkUfenZd8uzeFRGH56VpIEn9e7wntm_0PFjSUpTIV9rSfCPCr47NrnFeli51dygoSNhhXFzL2kOF3UOcL7aeUMMwdBHQJ3KGq8vGv-VdS6LIqf4lIWjRas196Q=="
       ],
       "isProcessed": true,
       "_filepath": "output/sightings/raw/yahoo-2026-10-21.json"
