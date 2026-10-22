@@ -1,7 +1,7 @@
 {
   "date": "2026-10-22",
-  "updatedAt": "2026-10-22T20:31:45.087+09:00",
-  "count": 41,
+  "updatedAt": "2026-10-22T23:18:36.994+09:00",
+  "count": 42,
   "articles": [
     {
       "isSighting": true,
@@ -781,6 +781,25 @@
       "wpPostId": 23104,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-tokyo-koto-2026-10-22/",
       "postedAt": "2026-10-22T20:31:58.162+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "東京都",
+      "city": "渋谷区",
+      "shopName": "キデイランド原宿店",
+      "shopAddress": "東京都渋谷区神宮前6-1-9",
+      "productName": "こびとづかん ボンボンドロップシール",
+      "sightingTime": "2026-10-22 12:26頃",
+      "statusText": "在庫あり（1会計各1個までの購入制限あり）",
+      "confidenceMemo": "店舗公式アカウントによる入荷・発売情報",
+      "sourceUrl": "https://x.com/h_kiddyland/status/2113245552393719868",
+      "sourceTweetId": "2113245552393719868",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2113245552393719868.png",
+      "isPosted": true,
+      "wpPostId": 23106,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-tokyo-unknown-2026-10-22/",
+      "postedAt": "2026-10-22T23:18:42.821+09:00"
     }
   ]
 }
