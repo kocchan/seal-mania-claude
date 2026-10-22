@@ -1,8 +1,8 @@
 {
-  "timestamp": "2026-10-22T16:54:40.973Z",
+  "timestamp": "2026-10-22T23:50:50.020Z",
   "source": "yahoo_realtime",
   "platform": "x",
-  "count": 144,
+  "count": 148,
   "data": [
     {
       "tweetId": "2112378287137624523",
@@ -2491,6 +2491,72 @@
       "images": [
         "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i5e72TLbER0xQeK1l8ZZ0OLi0epF4kRXW66XzMGqmq9N4nChLac_urFcyKs9giXj0HRFQsiHycOjqwBn2d4mdoW689E8jmvgnToBayHjyOygRIMxx7M2Ldf5j5vswgsMFnTfXvOALKO2vMpp_ZzsOE9rp_tV5qmqRGtQw2axdzNnK8n2qpVDvreAE4ErLwMf9arzB4ulKeTHG5TI6D69yE5",
         "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i6hjVpND1OjWZ7RVcmujne-YjN28vIUZM5iNNfoS1ZchTD78Ay3CxRZqYD35rt0NSAk5PxLaZjEkPbEjTX3-Vuj6_zDIcaNygwBs8XpSmRlZIJNRbXJWN-N1dOhtfZnHflszyqmHFvQK04ZADyfeB_ioj0NMtU8vFVaTED_M49RJg=="
+      ],
+      "isProcessed": true,
+      "_filepath": "output/sightings/raw/yahoo-2026-10-22.json"
+    },
+    {
+      "tweetId": "2113405208781008949",
+      "userId": "mofusand_market",
+      "text": "＼本日このあと11時から⏱／  #mofusand の新商品がいよいよ発売🌲🪵 WOODLAND(ウッドランド)シリーズに ボンボンドロップシールなど！ 注目アイテムがたくさん✨  再入荷商品も📣  🐾10/23(金)11時 新商品 →gps-inc.link/4siukrw  🐾再入荷商品 →gps-inc.link/47vtNZG  ※発売時間に掲載 pic.x.com/AQJNZ90gdVmofusandもふもふマーケット公式@mofusand_market107650分前",
+      "user": "mofusandもふもふマーケット公式",
+      "time": "2026-10-23T08:00:50.020+09:00",
+      "timeRaw": "50分前",
+      "url": "https://x.com/mofusand_market/status/2113405208781008949",
+      "hashtags": [
+        "#mofusand"
+      ],
+      "images": [
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i5e72TLbER0xQeK1l8ZZ0OLL_oKUE8LUvtapJg_BXVmWI403c3j__8HSLeFLCSXZGWNSq58A1qkUmpBew1KKtCw6vzKDcjZFZNWu6dqOPZVSFhE3ut-bJ9AFNhcoGwv_HMb-SzP2MN8JFfCVQXr8IdLc2A9ohuoARdIvLIyuIF_w3xRXm_VZBUQPFvdUdqCpZvnxBo7CbvKNUE3IwgNk_RR",
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i6hjVpND1OjWZ7RVcmujne-HjEsOHhZiRGmFYxywkYZP1SAS61nSrIPYAeQyEjZ5tZTMxgO2GsiysVOjzm4ksqWXtPm7wXYll-D2ptPUN-U_Mleg8edLBZfEbO9q9pLIm_peuCdc323azVaprGzHoGvREj8JT-pfyVRYbi8DTJDCg==",
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i6hjVpND1OjWZ7RVcmujne-Ce1cBOsssCuv3nCuuBv8u3xeqm0hlJ0pX1yeZcAjYuvs8IG7XBSVpzacLY5ryUKvmr2ZK-Z_NTa1rGrBDbj5t2XwHgc9Qc9nuEglIP-LTh4os81NXng0oWrxCui3Ct_WR8jytljN2yHgpd7DwlPzYA==",
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i6hjVpND1OjWZ7RVcmujne-ZVHxwk2bLQ5eskDYOZAma2wBtPwyUzkusXdu35tkqpG9K6iZh-u7cyIIrmzlo-pAEtD4vaCll3vxHBVErmPieDWq1R60RVFQkilyn3UEmOxAdW9Ds9zwTuI0Cye4b82a_ID536IsV87ybpwn9k6oXQ==",
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i6hjVpND1OjWZ7RVcmujne-jYj-34f6TxuO6SzgPodntut5DN11tGSfzJM0_s2IghfRWK535uT97pF3NZh6F4F7bF4tqMj-tSbXwuhGUJTrToiEYDf8CB9tdktv1HQ38U2EidfXbHUS1LPTFKNqE8okCfPGBGME6pBEXb8qdqM-Xw=="
+      ],
+      "isProcessed": true,
+      "_filepath": "output/sightings/raw/yahoo-2026-10-22.json"
+    },
+    {
+      "tweetId": "2113397488015102001",
+      "userId": "kasumin_saita09",
+      "text": "ボンボンドロップシール新作🩷「ちょこみんボンボン」「まじょねこボンボン」が一部店舗で追加入荷したんだね✨ ディズニーシリーズも好評発売中だって😆💫  ボンドロシールかすみん🌸シール@kasumin_saita0922:30",
+      "user": "かすみん🌸シール",
+      "time": "2026-10-23T22:30:00.000+09:00",
+      "timeRaw": "22:30",
+      "url": "https://x.com/kasumin_saita09/status/2113397488015102001",
+      "hashtags": [],
+      "images": [
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i5e72TLbER0xQeK1l8ZZ0OLvgV__ZmMFULWkzE8m46GjGLZR8q3cQMWf2sRrsiHeyinXmTfdbsyMg2mR9sXAZa-UqOuKQROMbXG3zwDLrENakpZQkXCSKF76jzhfsmgpp2HqSXmOfCiPoA1_QtE16qpsrmlQImkhgoXnP1rCIbn764K2PW9s2e5VL1th5FsJ1OH-i2BgOtulU_vVnnzL4zZ"
+      ],
+      "isProcessed": true,
+      "_filepath": "output/sightings/raw/yahoo-2026-10-22.json"
+    },
+    {
+      "tweetId": "2113405121900265798",
+      "userId": "hina_ticke",
+      "text": "ヘタリアもそろそろ世間の流行りに乗ってぷっくりシールやうるちゅるシール出ないかな〜と思ってたら、ヘタミュで証明写真シールが出るとは思わなかったよ。 なんでそうなった。 それはそうとして証明写真シール面白いから、次からも出してくださいお願いします。ひなみ@hina_ticke51分前",
+      "user": "ひなみ",
+      "time": "2026-10-23T07:59:50.020+09:00",
+      "timeRaw": "51分前",
+      "url": "https://x.com/hina_ticke/status/2113405121900265798",
+      "hashtags": [],
+      "images": [
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i5e72TLbER0xQeK1l8ZZ0OLHao9HuI8xGPBO4Zdvgq3dgv0u5dqgUB_l4nxuxRp_klUdYZqpuLvJwvKS2rDXNwVEndo1ALlgewu_SwtJo-tGvKE3cJFDBNS7iu2wE-OfBdSFQ1er3kySBp2zl8Za6QvuQwAUC6NQFu-7G1rK7e5BRJExnFDzvlZkZoqXvye8jepn9i6P85IcMdXu98TYJ6CWZjVc6pUyik5IVNFkirdgg=="
+      ],
+      "isProcessed": true,
+      "_filepath": "output/sightings/raw/yahoo-2026-10-22.json"
+    },
+    {
+      "tweetId": "2113409720094695655",
+      "userId": "ONQlrhPIX79SPoj",
+      "text": "うるちゅるとか他のシールは店舗でもよく見かけるけど、未だにボンドロはなかなか手に入らないよなぁ…のんびり@ONQlrhPIX79SPoj32分前",
+      "user": "のんびり",
+      "time": "2026-10-23T08:18:50.020+09:00",
+      "timeRaw": "32分前",
+      "url": "https://x.com/ONQlrhPIX79SPoj/status/2113409720094695655",
+      "hashtags": [],
+      "images": [
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i5e72TLbER0xQeK1l8ZZ0OLPvYBRt_GFe6ZopMn9MLTTVV_-vZtDqJ9BJBE6KgeHOKTdYAbN8a-GiWZfJ3R6sIjjE2ilqhJFAjG0ZznFP7Oh8ZxXdHf1kenaIfulFoy5O-HkD3eOpvze32x5Ra44U3tjVXH9TXKs3Csdf4064ctBK7GxZoX1ibteGJZy0x-E16_B2Rlys8wDT0lWabScw7v"
       ],
       "isProcessed": true,
       "_filepath": "output/sightings/raw/yahoo-2026-10-22.json"
