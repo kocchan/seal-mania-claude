@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-10-22T06:16:59.894Z"
+wpPostUrl: "https://www.seal-search.com/news/new-item/chiikawa-mini-bonbondrop-202610/"
+wpPostId: 23076
+posted: true
 type: new-release
 status: draft
 title: "【10月下旬発売】ちいかわボンボンドロップシール「mini」全8種！小さくてかわいいminiサイズ新登場"

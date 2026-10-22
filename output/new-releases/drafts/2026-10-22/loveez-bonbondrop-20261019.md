@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-10-22T06:17:08.286Z"
+wpPostUrl: "https://www.seal-search.com/news/new-item/loveez-bonbondrop-20261019-2/"
+wpPostId: 23078
+posted: true
 type: new-release
 status: draft
 title: "【発売中】らぶいーずのボンボンドロップシールが登場！日テレ屋・公式通販で660円"

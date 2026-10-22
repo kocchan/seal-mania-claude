@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-10-22T06:16:50.593Z"
+wpPostUrl: "https://www.seal-search.com/character/loveez-bonbondrop-20261019/"
+wpPostId: 23074
+posted: true
 type: newproduct
 status: draft
 title: "【10/19発売】らぶいーずのボンボンドロップシール660円"
