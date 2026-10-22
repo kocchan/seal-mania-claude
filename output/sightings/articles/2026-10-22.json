@@ -1,7 +1,7 @@
 {
   "date": "2026-10-22",
-  "updatedAt": "2026-10-22T17:14:17.368+09:00",
-  "count": 39,
+  "updatedAt": "2026-10-22T20:31:45.087+09:00",
+  "count": 41,
   "articles": [
     {
       "isSighting": true,
@@ -743,6 +743,44 @@
       "wpPostId": 23100,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-chiba-asahi-2026-10-22/",
       "postedAt": "2026-10-22T17:15:35.023+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "愛知県",
+      "city": "東海市",
+      "shopName": "駿河屋 東海荒尾店",
+      "shopAddress": "愛知県東海市荒尾町別当屋敷150-1",
+      "productName": "しずくちゃん ボンボンドロップシール",
+      "sightingTime": "2026-10-22 20:07頃",
+      "statusText": "多数入荷",
+      "confidenceMemo": "店舗公式アカウントによる入荷・買取案内",
+      "sourceUrl": "https://x.com/surugaya_arao/status/2113225603008840066",
+      "sourceTweetId": "2113225603008840066",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2113225603008840066.png",
+      "isPosted": true,
+      "wpPostId": 23102,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-aichi-unknown-2026-10-22-2/",
+      "postedAt": "2026-10-22T20:31:51.427+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "東京都",
+      "city": "江東区",
+      "shopName": "TSUTAYA BOOKSTORE 亀戸",
+      "shopAddress": "東京都江東区亀戸6丁目31-6 カメイドクロック4F",
+      "productName": "ボンボンドロップシール サンリオ",
+      "sightingTime": "2026-10-22 10:14頃",
+      "statusText": "入荷・在庫あり（お一人様各1点まで、無くなり次第終了）",
+      "confidenceMemo": "店舗公式アカウントによる詳細な入荷告知",
+      "sourceUrl": "https://x.com/TBS2137/status/2113212296684302486",
+      "sourceTweetId": "2113212296684302486",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2113212296684302486.png",
+      "isPosted": true,
+      "wpPostId": 23104,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-tokyo-koto-2026-10-22/",
+      "postedAt": "2026-10-22T20:31:58.162+09:00"
     }
   ]
 }
