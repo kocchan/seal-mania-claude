@@ -1,7 +1,7 @@
 {
   "date": "2026-10-23",
-  "updatedAt": "2026-10-23T20:21:42.042+09:00",
-  "count": 45,
+  "updatedAt": "2026-10-23T23:02:02.012+09:00",
+  "count": 46,
   "articles": [
     {
       "isSighting": true,
@@ -857,6 +857,25 @@
       "wpPostId": 23208,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-saitama-hasuda-2026-10-23/",
       "postedAt": "2026-10-23T20:22:28.758+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "北海道",
+      "city": "札幌市豊平区",
+      "shopName": "ザ·ビッグ豊平店",
+      "shopAddress": "北海道札幌市豊平区豊平4条9丁目3-1",
+      "productName": "ボンボンドロップシール サンリオ",
+      "sightingTime": "2026-10-23 12:49頃",
+      "statusText": "入荷済み（明日2026-10-24より販売開始）",
+      "confidenceMemo": "店舗アカウント（たぬきの星）による公式な入荷・販売告知",
+      "sourceUrl": "https://x.com/tanuki__hoshi/status/2113613783642103973",
+      "sourceTweetId": "2113613783642103973",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2113613783642103973.png",
+      "isPosted": true,
+      "wpPostId": 23210,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-hokkaido-unknown-2026-10-23/",
+      "postedAt": "2026-10-23T23:02:08.796+09:00"
     }
   ]
 }
