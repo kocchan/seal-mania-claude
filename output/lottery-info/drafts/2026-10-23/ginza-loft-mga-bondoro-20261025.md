@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-10-23T06:10:32.275Z"
+wpPostUrl: "https://www.seal-search.com/news/reservation/ginza-loft-mga-bondoro-20261025/"
+wpPostId: 23154
+posted: true
 imageGenerated: true
 type: lottery
 status: draft

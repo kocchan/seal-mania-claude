@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-10-23T06:10:52.578Z"
+wpPostUrl: "https://www.seal-search.com/character/onepiece-choppers-bonbondrop-20261211/"
+wpPostId: 23158
+posted: true
 type: newproduct
 status: draft
 title: "【12/11発売】ボンドロ ONE PIECE CHOPPER's登場"

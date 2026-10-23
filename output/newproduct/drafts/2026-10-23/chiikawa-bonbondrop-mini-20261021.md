@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-10-23T06:10:46.360Z"
+wpPostUrl: "https://www.seal-search.com/character/chiikawa-bonbondrop-mini-20261021/"
+wpPostId: 23157
+posted: true
 type: newproduct
 status: draft
 title: "【10/21〜】ボンドロ ちいかわ ミニ新作全8種"

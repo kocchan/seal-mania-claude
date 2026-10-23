@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-10-23T06:10:39.656Z"
+wpPostUrl: "https://www.seal-search.com/news/reservation/umeda-loft-mga-bondoro-20261025/"
+wpPostId: 23156
+posted: true
 imageGenerated: true
 type: lottery
 status: draft
