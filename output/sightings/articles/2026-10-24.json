@@ -1,7 +1,7 @@
 {
   "date": "2026-10-24",
-  "updatedAt": "2026-10-24T16:50:30.004+09:00",
-  "count": 43,
+  "updatedAt": "2026-10-24T19:41:03.541+09:00",
+  "count": 44,
   "articles": [
     {
       "isSighting": true,
@@ -819,6 +819,25 @@
       "wpPostId": 23513,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-saitama-midori-saitama-2026-10-24-3/",
       "postedAt": "2026-10-24T16:52:11.900+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "和歌山県",
+      "city": "和歌山市",
+      "shopName": "島村楽器 イオンモール和歌山店",
+      "shopAddress": "和歌山県和歌山市中字楠谷573 イオンモール和歌山",
+      "productName": "ちいかわ ボンボンドロップシール",
+      "sightingTime": "2026-10-24 08:39頃",
+      "statusText": "入荷（お一人様各種お一つまで）",
+      "confidenceMemo": "店舗公式アカウントによる具体的な入荷・販売制限の告知",
+      "sourceUrl": "https://x.com/shima_wakayama1/status/2113913371464769906",
+      "sourceTweetId": "2113913371464769906",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2113913371464769906.png",
+      "isPosted": true,
+      "wpPostId": 23515,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-wakayama-unknown-2026-10-24/",
+      "postedAt": "2026-10-24T19:41:10.219+09:00"
     }
   ]
 }
