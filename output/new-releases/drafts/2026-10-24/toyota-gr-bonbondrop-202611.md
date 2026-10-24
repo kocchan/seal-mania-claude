@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-10-24T06:05:54.677Z"
+wpPostUrl: "https://www.seal-search.com/news/new-item/toyota-gr-bonbondrop-202611/"
+wpPostId: 23485
+posted: true
 type: new-release
 status: draft
 title: "トヨタGR×ボンボンドロップシール コラボが11月全国展開！"

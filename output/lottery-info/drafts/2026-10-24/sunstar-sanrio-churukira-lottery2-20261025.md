@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-10-24T06:05:46.971Z"
+wpPostUrl: "https://www.seal-search.com/news/reservation/sunstar-sanrio-churukira-lottery2-20261025/"
+wpPostId: 23483
+posted: true
 imageGenerated: true
 type: lottery
 status: draft
