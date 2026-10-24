@@ -1,7 +1,7 @@
 {
   "date": "2026-10-24",
-  "updatedAt": "2026-10-25T00:40:13.795+09:00",
-  "count": 45,
+  "updatedAt": "2026-10-25T07:51:13.999+09:00",
+  "count": 47,
   "articles": [
     {
       "isSighting": true,
@@ -857,6 +857,44 @@
       "wpPostId": 23517,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-hokkaido-unknown-2026-10-25/",
       "postedAt": "2026-10-25T00:40:20.781+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "東京都",
+      "city": "府中市",
+      "shopName": "東京競馬場",
+      "shopAddress": "東京都府中市日吉町1-1",
+      "productName": "JRA ボンボンドロップシール",
+      "sightingTime": "2026-10-25 07:49頃",
+      "statusText": "在庫あり（当日抽選制・660円）",
+      "confidenceMemo": "販売場所と販売条件（抽選）についての具体的な情報が含まれている",
+      "sourceUrl": "https://x.com/sihkou_A/status/2114127151176044806",
+      "sourceTweetId": "2114127151176044806",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2114127151176044806.png",
+      "isPosted": true,
+      "wpPostId": 23519,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-tokyo-unknown-2026-10-25/",
+      "postedAt": "2026-10-25T07:51:37.427+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "埼玉県",
+      "city": "草加市",
+      "shopName": "本と文房具の一清堂",
+      "shopAddress": "埼玉県草加市栄町3-5-18",
+      "productName": "ちいかわボンボンドロップシールミニ",
+      "sightingTime": "2026-10-25 07:10頃",
+      "statusText": "在庫あり（3種類、1家族1枚までの制限あり）",
+      "confidenceMemo": "書店公式アカウントによる在庫および販売制限の告知であり、信頼性が非常に高い",
+      "sourceUrl": "https://x.com/isseidou/status/2114117419899969571",
+      "sourceTweetId": "2114117419899969571",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2114117419899969571.png",
+      "isPosted": true,
+      "wpPostId": 23521,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-saitama-soka-2026-10-25/",
+      "postedAt": "2026-10-25T07:51:45.325+09:00"
     }
   ]
 }

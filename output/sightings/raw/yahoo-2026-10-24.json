@@ -1,8 +1,8 @@
 {
-  "timestamp": "2026-10-24T15:39:39.852Z",
+  "timestamp": "2026-10-24T22:50:35.429Z",
   "source": "yahoo_realtime",
   "platform": "x",
-  "count": 193,
+  "count": 201,
   "data": [
     {
       "tweetId": "2113556036774732111",
@@ -3240,6 +3240,135 @@
       "images": [
         "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i5e72TLbER0xQeK1l8ZZ0OL_-1B9StsM9GHrhed7fyMLukrquoChfRsglg9gS1rXleN6UpJdosN2JS2nEdE9m3U9OSUsJUlcn1anmlLbriNRPOu0o5xlZoq0cH4Hb6T8oa48radD1Aht5kDbrXZ9gjKrXLpZom3c4L8cdWlVYGcDDqoj1zjuP8J1nEYzZYwGq2leHScPArwIQjQxwKRCmWK",
         "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i6hjVpND1OjWZ7RVcmujne-S7jA4BTMCeeymUeI-h7dJNQXQ7Av8LGt3hW7sfL6mxiOe9UoMSE0ykJk7FIqbaF7FTJ7CPYIhwI4R6X5EFYJGTYN3hbH3LCdCtpMo0LLhMRt0Cb49eQhgWLcccK-zw-3s1GhivwLlQM0PqCOkxUGOg=="
+      ],
+      "isProcessed": true,
+      "_filepath": "output/sightings/raw/yahoo-2026-10-24.json"
+    },
+    {
+      "tweetId": "2114127151176044806",
+      "userId": "sihkou_A",
+      "text": "競馬場で売られる660円のシール、これちょっと面白いかも。  JRAがボンボンドロップシールを発売するらしい。  しかも今回の販売場所は東京競馬場で、抽選に当たらないと買えない。  競馬ファンだけじゃなく、シール好きも気になりそう。  自分が注目したのは、 pic.x.com/Azwekm7XzvトレジャーハンターS (エス) | AI×お宝物販で月30万@sihkou_A11分前",
+      "user": "トレジャーハンターS (エス) | AI×お宝物販で月30万",
+      "time": "2026-10-25T07:49:35.429+09:00",
+      "timeRaw": "1分前",
+      "url": "https://x.com/sihkou_A/status/2114127151176044806",
+      "hashtags": [],
+      "images": [
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i5e72TLbER0xQeK1l8ZZ0OLgxeRd6YI5f7xr1KC4Za0UYRlzPkD0iomciYs-d7CmZ5o9ZmyT94J8RzhAzZZHeoipHDk_AQh_HNQ2rqcARVsWs6ejCkUYCGlzI3wG1ngZQTPWUO-OqhJk2zSPR2qiC9fvF2vc7l_LW9TdGJidpZwoFPtXSMwjeaq0a65f4odT1EAyIHv-bQ1hPzt4_U5nxOo",
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i6hjVpND1OjWZ7RVcmujne--9QWPOw67tmlS8XZ9q5RkwRSdIyqbgrgIhEqlP59M3q2JhVUFCzkrgjE4O5VKovberKvL2Y7OpdfflAEJlnKVR4KvCMi82ctXQyAobdZ4WSMpu_aBYdcUQzpQMr6SJ2MoYl3CqYnhJdZ9SAncxV_Gg=="
+      ],
+      "isProcessed": true,
+      "_filepath": "output/sightings/raw/yahoo-2026-10-24.json"
+    },
+    {
+      "tweetId": "2114117419899969571",
+      "userId": "isseidou",
+      "text": "本日の 「ちいかわボンボンドロップシールミニ」の販売ラインナップは3種類です🎶  ※店内シール棚より1枚購入で、ひと家族様 1枚の販売となります。  入荷枚数に限りがございますので、ご協力よろしくお願いいたします🙇‍♀️   #一清堂  #ちいかわ  #ボンボンドロップシールミニ  #シール販売情報 pic.x.com/vB9L57dMsr本と文房具の一清堂@isseidou40分前",
+      "user": "本と文房具の一清堂",
+      "time": "2026-10-25T07:10:35.429+09:00",
+      "timeRaw": "40分前",
+      "url": "https://x.com/isseidou/status/2114117419899969571",
+      "hashtags": [
+        "#一清堂",
+        "#ちいかわ",
+        "#ボンボンドロップシールミニ",
+        "#シール販売情報"
+      ],
+      "images": [
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i5e72TLbER0xQeK1l8ZZ0OL8zD2xKL50qf6w3NxTfvfLZJtJ1Am4ADn4yHNOIvPzEI-0s3twR9kXLKMkvsygB7ZMD2DOBgr5DdVEX2-c7hl-R51wrnpr_cow9qnz4zjw0FBKJ7cC1BIp87zNOZ0suqE3F4KRpJE4WAhz-8Jsh1kvO5tpkc_3Thgwc3mWin_Hhx_QBvXrCCLbtDAPmb8S8le",
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i6hjVpND1OjWZ7RVcmujne-79bSjGAigv4itZ6Yq6KRGdGmvHUu6sWua8OCkfcYYdE2uYNKcRdgYb34o_ul3V2CKo9fPf7CutacottHWkCsEkIyRTjoRe_MK3ZkKXGaGDEoCWfJ1NMyA-3w_3LdU8IXPoPBzDK3RKPPrHCaZh0RbQ=="
+      ],
+      "isProcessed": true,
+      "_filepath": "output/sightings/raw/yahoo-2026-10-24.json"
+    },
+    {
+      "tweetId": "2114115322357936519",
+      "userId": "ddd_dear",
+      "text": "昨日代車やからタバコ休憩に寄ったローソンにMrs.GREENAPPLEのボンボンドロップシール一個だけ残ってた！店員さんにダメ元で聞いたらあった！彼氏が買ってくれた。ありがたやありがたやｍ(｡≧Д≦｡)ｍ pic.x.com/QYqvHEvQJMYomi↔️요시미@ddd_dear48分前",
+      "user": "Yomi↔️요시미",
+      "time": "2026-10-25T07:02:35.429+09:00",
+      "timeRaw": "48分前",
+      "url": "https://x.com/ddd_dear/status/2114115322357936519",
+      "hashtags": [],
+      "images": [
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i5e72TLbER0xQeK1l8ZZ0OLx1uqxFWoD0Ft1hK52C-AC7HUCWcEQyS-xKpD8reaoKSwidTANilq2WINv65b6U6bwCqc-quAZXb7qEtF726h1MwEWDCs7Tkur1Dn2kT-gdPaIys-tO0UJM3_HDxUE953YO5fuT9pSuSEW5z7HQGtJtzhJkjE8_zSZkpXm82AZerZA_BgvWQcYW4j56xW7KvG",
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i6hjVpND1OjWZ7RVcmujne-l1PQXLaepsbHfHa4ay5qB8WTadsFFICzFVleDuZ4woFC9YXhMvE6YYyxvPsx3QLjOWkrTJHnFD3OybgbmAmgGkIgTFqIzLUNuPqmM8eH6N8bzqOLjLbUj19X7K8-_YsOAPX9aSixK6zFqWJnu-ERsw=="
+      ],
+      "isProcessed": true,
+      "_filepath": "output/sightings/raw/yahoo-2026-10-24.json"
+    },
+    {
+      "tweetId": "2114106248992075869",
+      "userId": "kera_misa",
+      "text": "東京競馬場で販売する🐎ボンボンドロップって、入場してから抽選で当たった人じゃないとその日買えないってこと…？ 事前抽選ではない感じ…？ せっかく行ったのにハズレたらショックすぎるんだが…misa@kera_misa21:26",
+      "user": "misa",
+      "time": "2026-10-25T21:26:00.000+09:00",
+      "timeRaw": "21:26",
+      "url": "https://x.com/kera_misa/status/2114106248992075869",
+      "hashtags": [],
+      "images": [
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i5e72TLbER0xQeK1l8ZZ0OLaBgbyEGvsMhwY5hGIWAf0g2K51GLNlYr3DpAMBkZzutKwab0__98GEKiuJZ8BP7Mdx75BuyetQNsFTZidSrTW9gSK0NDC-jzsC-oma3qnvTc9T3Z3aZPqPCM3SmtIIBk_8UK50NLm07smm9dkJGOPpKqltB2lHJCqvNPqXAz8yTJ0A2Ta4ILrcQqaQBplCn5"
+      ],
+      "isProcessed": true,
+      "_filepath": "output/sightings/raw/yahoo-2026-10-24.json"
+    },
+    {
+      "tweetId": "2114085792259969466",
+      "userId": "sumi_michi",
+      "text": "クーリアさんのお知らせはまだないけど、JRAのボンボンドロップシールが発売されるそうで…？？ いつか小倉競馬場でも販売されるといいなぁすみのすみっこ@sumi_michi20:05",
+      "user": "すみのすみっこ",
+      "time": "2026-10-25T20:05:00.000+09:00",
+      "timeRaw": "20:05",
+      "url": "https://x.com/sumi_michi/status/2114085792259969466",
+      "hashtags": [],
+      "images": [
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i5e72TLbER0xQeK1l8ZZ0OLGVyzEh-CkkpUCIF6n0Y_nAjlMT9K_VDPNkaZWIxbCCcPU14s1cQPDYW-kRRIrFry94YzGQ-BpBdSwhaO2FxyXFN56qM59euPFHb8iNKne9ws25IsFa7FKb0MZyT2mv4UJch6qlVU5VRzfo9_pDjTPV-9t7QYyIsnH50YAmcuRnCs6t202I9tuY9qmvxmslyj"
+      ],
+      "isProcessed": true,
+      "_filepath": "output/sightings/raw/yahoo-2026-10-24.json"
+    },
+    {
+      "tweetId": "2114019154919637313",
+      "userId": "osashimi_shimi",
+      "text": "もうシールを買わないと心に決めて家を出発したのに、身体が本屋さんと雑貨屋さんに吸い込まれ、蓄光シールとコアラのマーチとじゃがりこボンボンドロップを購入し、元気に帰宅🏠私の明日は蓄光が照らしてくれていて明るいはず❣️さしみ🌟@osashimi_shimi15:40",
+      "user": "さしみ🌟",
+      "time": "2026-10-25T15:40:00.000+09:00",
+      "timeRaw": "15:40",
+      "url": "https://x.com/osashimi_shimi/status/2114019154919637313",
+      "hashtags": [],
+      "images": [
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i5e72TLbER0xQeK1l8ZZ0OLOd6hQYDNzf5RSVz6vm-187D48aG7qje8lPvBUWRGcv0kqXfbTXv5ZFL7itJtJqj59r7HQ5_83S8lq__xTvu-FiDCOtKZw_umBp1yccLeK55-5N5EWIdL_qk0ZP_ouNX1B_AbiyigYKmy7_lwJ5QDml71Jr2fGiJJyr1lEJdsg7YThaWX5OHLbdb11-MWicX-"
+      ],
+      "isProcessed": true,
+      "_filepath": "output/sightings/raw/yahoo-2026-10-24.json"
+    },
+    {
+      "tweetId": "2114053796695572602",
+      "userId": "mm_ra23",
+      "text": "ゆめタのユーくんメーちゃんのぬいぐるみキーホルダー、販売してくれないかな。よくパートナーちゃんとぬい活してるからこの羊たちも連れて歩きたい( ･ὢ･ )最近ぷっくりシールとめじるしアクセサリーは出したみたいだけど𝚖𝚎𝚖𝚎@mm_ra2317:57",
+      "user": "𝚖𝚎𝚖𝚎",
+      "time": "2026-10-25T17:57:00.000+09:00",
+      "timeRaw": "17:57",
+      "url": "https://x.com/mm_ra23/status/2114053796695572602",
+      "hashtags": [],
+      "images": [
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i5e72TLbER0xQeK1l8ZZ0OLj-fSrhIczdl0UHE7-40BqIyQ9Lxr6j78PocdffVEuRUIUN8tNxuD9EvyKhVpDqDqutG47qM9FggEz9KaO400MTaCBq9dMZPGC-h70AVWvFu-40q2EE2pPsqHpxPYlA2IWjmZJzrQk9p62v1gnXeCcjqAUpMN5yCQy1bnsuZyiZQRDPXEa-30JYtVs4_r-wro"
+      ],
+      "isProcessed": true,
+      "_filepath": "output/sightings/raw/yahoo-2026-10-24.json"
+    },
+    {
+      "tweetId": "2114041432055173552",
+      "userId": "hiro17svt",
+      "text": "イリチルのランダムトイのぷっくりシールは早速鈍器に貼った！可愛いグッズは推し活に彩りを添えてくれて感謝しかない pic.x.com/mDXjInQ8Bwⓗⓘⓡⓞ@hiro17svt17:08",
+      "user": "ⓗⓘⓡⓞ",
+      "time": "2026-10-25T17:08:00.000+09:00",
+      "timeRaw": "17:08",
+      "url": "https://x.com/hiro17svt/status/2114041432055173552",
+      "hashtags": [],
+      "images": [
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i5e72TLbER0xQeK1l8ZZ0OLHNGFVN_hI3FvhFlVwhZDXM5GRgX726nlGgIxP-leAgbVFQVGciRuLDxhqv2Ipdj67IxYZbgYxf5QcQkJMlvzMp5U6-vcfdgSd6uVPK6f8YyoT7k6sXk5uleqcg4uDLOrrHzJD7V2KsFNt5AMviccwHOzdiFp_IR-Z4pQE62Wfjca5OgvBwUjcT1LnWTfOk9V",
+        "https://rts-pctr.c.yimg.jp/BgIFgYJGVIVv8u0nVJvw8B2FauAYMF4jOP5zFJAV4i6hjVpND1OjWZ7RVcmujne-w_qMYxmC4Ue2wEukWWtC5V3dc4AatpugcMr_d7t4abBVc0MdsPiwr_OF6hCsoFrOSeZTpPWkkMp-qbzx2zLLQ7-gWIzkj7C3oBO6lUmuc6yexgtQz1NEJung-4nZH561LmPJTVYyvwvAbCCT0tGlaw=="
       ],
       "isProcessed": true,
       "_filepath": "output/sightings/raw/yahoo-2026-10-24.json"
