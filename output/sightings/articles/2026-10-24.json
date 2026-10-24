@@ -1,7 +1,7 @@
 {
   "date": "2026-10-24",
-  "updatedAt": "2026-10-24T19:41:03.541+09:00",
-  "count": 44,
+  "updatedAt": "2026-10-25T00:40:13.795+09:00",
+  "count": 45,
   "articles": [
     {
       "isSighting": true,
@@ -838,6 +838,25 @@
       "wpPostId": 23515,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-wakayama-unknown-2026-10-24/",
       "postedAt": "2026-10-24T19:41:10.219+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "北海道",
+      "city": "夕張郡長沼町",
+      "shopName": "ローソン（長沼町内）",
+      "shopAddress": "北海道夕張郡長沼町",
+      "productName": "ボンボンドロップシール",
+      "sightingTime": "2026-10-25 13:23頃",
+      "statusText": "在庫あり",
+      "confidenceMemo": "「長沼のローソン」という具体的な地域・チェーン店の言及があり、新千歳空港からの帰路での目撃情報として信頼性が高い。",
+      "sourceUrl": "https://x.com/shyakasan1205/status/2113984624754106505",
+      "sourceTweetId": "2113984624754106505",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2113984624754106505.png",
+      "isPosted": true,
+      "wpPostId": 23517,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-hokkaido-unknown-2026-10-25/",
+      "postedAt": "2026-10-25T00:40:20.781+09:00"
     }
   ]
 }
