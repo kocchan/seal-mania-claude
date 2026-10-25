@@ -1,8 +1,8 @@
 ---
-postedAt: ""
-wpPostUrl: ""
-wpPostId: null
-posted: false
+postedAt: "2026-10-25T06:26:14.823Z"
+wpPostUrl: "https://www.seal-search.com/news/new-item/sunstar-sanrio-churukira-4set-202610/"
+wpPostId: 23578
+posted: true
 type: new-release
 status: draft
 title: "サンリオ×ボンボンドロップシール churukira 4点セット抽選販売！ポムポムプリン・クロミ・シナモロール・はぴだんぶいが揃う"

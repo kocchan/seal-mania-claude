@@ -1,4 +1,9 @@
 ---
+postedAt: "2026-10-25T06:27:23.844Z"
+wpPostUrl: "https://www.seal-search.com/mejirushi/peanuts-mejirushi-summer-reissue-202610w4-2/"
+wpPostId: 23593
+posted: true
+imageGenerated: true
 type: mejirushi
 status: draft
 title: "【10月第4週再販】PEANUTS めじるしアクセ SUMMER"

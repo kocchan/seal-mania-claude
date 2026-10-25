@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-10-25T06:25:59.368Z"
+wpPostUrl: "https://www.seal-search.com/character/mofusand-bonbondrop-2nd-202610/"
+wpPostId: 23574
+posted: true
 type: newproduct
 status: draft
 title: "【10月下旬】ボンドロ mofusand第2弾 全2種"

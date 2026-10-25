@@ -1,4 +1,9 @@
 ---
+postedAt: "2026-10-25T06:27:14.522Z"
+wpPostUrl: "https://www.seal-search.com/mejirushi/pandanoana-sharkfry-mejirushi-gacha-mascot-202610/"
+wpPostId: 23590
+posted: true
+imageGenerated: true
 type: mejirushi
 status: draft
 title: "【10月下旬】パンダの穴 サメフライ めじるしマスコット"

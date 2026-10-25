@@ -1,4 +1,9 @@
 ---
+postedAt: "2026-10-25T06:26:35.316Z"
+wpPostUrl: "https://www.seal-search.com/mejirushi/doubutsunomori-mejirushi-accessory-202610w5/"
+wpPostId: 23581
+posted: true
+imageGenerated: true
 type: mejirushi
 status: draft
 title: "【10月第5週】どうぶつの森 めじるしアクセサリー全7種"

@@ -1,8 +1,8 @@
 ---
-postedAt: ""
-wpPostUrl: ""
-wpPostId: null
-posted: false
+postedAt: "2026-10-25T06:26:07.586Z"
+wpPostUrl: "https://www.seal-search.com/news/new-item/jra-bonbondrop-tokyo-202611/"
+wpPostId: 23576
+posted: true
 type: new-release
 status: draft
 title: "JRA×ボンボンドロップシールが東京競馬場に登場！11月8日から指定5日間・アプリ抽選で660円"

@@ -1,4 +1,9 @@
 ---
+postedAt: "2026-10-25T06:26:59.164Z"
+wpPostUrl: "https://www.seal-search.com/mejirushi/nissin-owan-mejirushi-gacha-mascot-202610/"
+wpPostId: 23587
+posted: true
+imageGenerated: true
 type: mejirushi
 status: draft
 title: "【10月発売】日清 お椀で食べるシリーズ めじるしマスコット"
