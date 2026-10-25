@@ -1,7 +1,7 @@
 {
   "date": "2026-10-25",
-  "updatedAt": "2026-10-25T20:05:45.657+09:00",
-  "count": 38,
+  "updatedAt": "2026-10-25T22:31:45.513+09:00",
+  "count": 39,
   "articles": [
     {
       "isSighting": true,
@@ -724,6 +724,25 @@
       "wpPostId": 23617,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-tokyo-adachi-2026-10-25/",
       "postedAt": "2026-10-25T20:05:57.958+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "東京都",
+      "city": "港区",
+      "shopName": "ドン・キホーテ 六本木店",
+      "shopAddress": "東京都港区六本木3丁目14-10",
+      "productName": "ボンボンドロップシール",
+      "sightingTime": "2026-10-25 12:13頃",
+      "statusText": "在庫あり",
+      "confidenceMemo": "公式情報アプリによる詳細な店名と住所を含む在庫報告",
+      "sourceUrl": "https://x.com/BonBonGoApp/status/2114329567515070962",
+      "sourceTweetId": "2114329567515070962",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2114329567515070962.png",
+      "isPosted": true,
+      "wpPostId": 23619,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-tokyo-unknown-2026-10-25-3/",
+      "postedAt": "2026-10-25T22:31:52.853+09:00"
     }
   ]
 }
