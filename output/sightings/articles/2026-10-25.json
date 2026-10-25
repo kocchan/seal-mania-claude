@@ -1,7 +1,7 @@
 {
   "date": "2026-10-25",
-  "updatedAt": "2026-10-25T17:02:13.425+09:00",
-  "count": 36,
+  "updatedAt": "2026-10-25T20:05:45.657+09:00",
+  "count": 38,
   "articles": [
     {
       "isSighting": true,
@@ -686,6 +686,44 @@
       "wpPostId": 23613,
       "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-kyoto-kyoto-2026-10-25/",
       "postedAt": "2026-10-25T17:03:16.367+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "三重県",
+      "city": "松阪市",
+      "shopName": "村井楽器松阪店",
+      "shopAddress": "三重県松阪市田村町450-1 アドバンスモール松阪内",
+      "productName": "こびとづかんボンボンドロップシール",
+      "sightingTime": "2026-10-25 19:11頃",
+      "statusText": "在庫あり（入荷直後、シェイカーキットも入荷）",
+      "confidenceMemo": "店舗公式アカウントによる入荷情報のため信頼性が極めて高い",
+      "sourceUrl": "https://x.com/muraigakki_1030/status/2114298851381371017",
+      "sourceTweetId": "2114298851381371017",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2114298851381371017.png",
+      "isPosted": true,
+      "wpPostId": 23615,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-mie-unknown-2026-10-25/",
+      "postedAt": "2026-10-25T20:05:51.767+09:00"
+    },
+    {
+      "isSighting": true,
+      "prefecture": "東京都",
+      "city": "足立区",
+      "shopName": "KOGUMA HOBBY北千住",
+      "shopAddress": "東京都足立区千住3-92 北千住マルイ 5F",
+      "productName": "ちいかわボンボンドロップシール",
+      "sightingTime": "2026-10-25 09:11頃",
+      "statusText": "完売（再入荷未定）",
+      "confidenceMemo": "店舗公式アカウントによる在庫終了の告知",
+      "sourceUrl": "https://x.com/Kogumahobby0317/status/2114283802600296712",
+      "sourceTweetId": "2114283802600296712",
+      "isPrediction": false,
+      "imagePath": "output/sightings/images/2114283802600296712.png",
+      "isPosted": true,
+      "wpPostId": 23617,
+      "wpPostUrl": "https://www.seal-search.com/prefecture/sight-info-tokyo-adachi-2026-10-25/",
+      "postedAt": "2026-10-25T20:05:57.958+09:00"
     }
   ]
 }
