@@ -1,8 +1,8 @@
 ---
-postedAt: null
-wpPostUrl: null
-wpPostId: null
-posted: false
+postedAt: "2026-10-26T06:35:35.878Z"
+wpPostUrl: "https://www.seal-search.com/news/new-item/mrs-green-apple-2nd-lottery-20261028/"
+wpPostId: 23624
+posted: true
 type: new-release
 status: draft
 title: "Mrs.GREEN APPLE × ボンボンドロップシール 2次抽選！ローソン・クーリア公式で本日より受付開始"

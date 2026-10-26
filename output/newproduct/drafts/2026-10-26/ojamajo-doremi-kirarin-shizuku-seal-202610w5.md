@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-10-26T06:35:19.991Z"
+wpPostUrl: "https://www.seal-search.com/character/ojamajo-doremi-kirarin-shizuku-seal-202610w5/"
+wpPostId: 23620
+posted: true
 type: newproduct
 status: draft
 title: "【10月第5週】おジャ魔女どれみ きらりんしずくシール全3種"

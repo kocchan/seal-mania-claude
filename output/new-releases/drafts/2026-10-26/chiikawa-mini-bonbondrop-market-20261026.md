@@ -1,8 +1,8 @@
 ---
-postedAt: null
-wpPostUrl: null
-wpPostId: null
-posted: false
+postedAt: "2026-10-26T06:35:28.534Z"
+wpPostUrl: "https://www.seal-search.com/news/new-item/chiikawa-mini-bonbondrop-market-20261026/"
+wpPostId: 23622
+posted: true
 type: new-release
 status: draft
 title: "ちいかわ ボンボンドロップシール「ミニ」全8種 本日11時よりちいかわマーケットで発売開始！"
