@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-10-27T06:30:46.520Z"
+wpPostUrl: "https://www.seal-search.com/news/reservation/jra-tokyo-keibajo-bondoro-20261108/"
+wpPostId: 23626
+posted: true
 imageGenerated: true
 type: lottery
 status: draft

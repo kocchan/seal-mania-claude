@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-10-27T06:31:03.191Z"
+wpPostUrl: "https://www.seal-search.com/news/new-item/jra-bonbondrop-tokyo-202611-2/"
+wpPostId: 23630
+posted: true
 type: lottery
 status: draft
 title: "JRAオリジナルボンボンドロップシール 東京競馬場で11月8日より抽選販売！"
