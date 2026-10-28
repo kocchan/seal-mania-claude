@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-10-28T07:00:27.196Z"
+wpPostUrl: "https://www.seal-search.com/news/new-item/chiikawa-magical-bonbondrop-20261106/"
+wpPostId: 23633
+posted: true
 type: new-release
 status: draft
 title: "ちいかわ ボンボンドロップシール「まじかるちいかわ」全4種 11月6日発売！てんし・あくまや悪いバージョンも"

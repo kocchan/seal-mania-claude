@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-10-28T07:00:19.439Z"
+wpPostUrl: "https://www.seal-search.com/character/nijisanji-nifolmeshon-sealwafers-20270200/"
+wpPostId: 23631
+posted: true
 type: newproduct
 status: draft
 title: "【予約開始】にふぉるめーしょん にじさんじ登場"
