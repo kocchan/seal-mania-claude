@@ -1,4 +1,9 @@
 ---
+postedAt: "2026-10-29T07:21:57.926Z"
+wpPostUrl: "https://www.seal-search.com/mejirushi/tamagotchi-mejirushi-30th-202611-2/"
+wpPostId: 23636
+posted: true
+imageGenerated: true
 type: mejirushi
 status: draft
 title: "【11月発売】たまごっち めじるしアクセ30周年"
