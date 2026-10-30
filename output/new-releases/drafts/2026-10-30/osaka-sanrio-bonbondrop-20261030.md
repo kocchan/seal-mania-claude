@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-10-30T07:24:07.882Z"
+wpPostUrl: "https://www.seal-search.com/news/new-item/osaka-sanrio-bonbondrop-20261030/"
+wpPostId: 23638
+posted: true
 type: new-release
 status: draft
 title: "大阪限定！たこ焼きモチーフのサンリオ ボンボンドロップシールが西宮名塩SAに登場"
