@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-10-31T07:11:57.807Z"
+wpPostUrl: "https://www.seal-search.com/news/new-item/chiikawa-majikaru-bonbondrop-20261106/"
+wpPostId: 23640
+posted: true
 type: new-release
 status: draft
 title: "【11/6発売】ちいかわ「まじかる」ボンボンドロップシール全4種！てんし♡あくまや悪いバージョンも登場"

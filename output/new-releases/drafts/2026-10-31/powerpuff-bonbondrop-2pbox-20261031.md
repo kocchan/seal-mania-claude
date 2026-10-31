@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-10-31T07:12:04.854Z"
+wpPostUrl: "https://www.seal-search.com/news/new-item/powerpuff-bonbondrop-2pbox-20261031/"
+wpPostId: 23642
+posted: true
 type: new-release
 status: draft
 title: "パワーパフガールズのボンボンドロップシール2PBOXがゲームセンターに！10月31日より順次登場"
