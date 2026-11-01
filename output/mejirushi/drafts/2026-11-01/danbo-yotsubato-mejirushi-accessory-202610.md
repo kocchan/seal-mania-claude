@@ -1,4 +1,9 @@
 ---
+postedAt: "2026-11-01T07:45:48.745Z"
+wpPostUrl: "https://www.seal-search.com/mejirushi/danbo-yotsubato-mejirushi-accessory-202610/"
+wpPostId: 23650
+posted: true
+imageGenerated: true
 type: mejirushi
 status: draft
 title: "【予約開始】よつばと！ダンボー めじるしアクセサリー全5種"

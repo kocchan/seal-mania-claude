@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-11-01T07:45:08.638Z"
+wpPostUrl: "https://www.seal-search.com/character/dragonball-chosenshi-sealwafer-chou-vol18-202611/"
+wpPostId: 23643
+posted: true
 type: newproduct
 status: draft
 title: "【予約中】ドラゴンボール 超戦士シールウエハース超 第18弾"

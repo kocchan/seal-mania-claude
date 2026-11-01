@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-11-01T07:45:14.589Z"
+wpPostUrl: "https://www.seal-search.com/character/lawson-obungu-pukkuru-seal-20261020/"
+wpPostId: 23644
+posted: true
 type: newproduct
 status: draft
 title: "【10/20発売】ローソン限定 お文具といっしょ ぷっくるシール"

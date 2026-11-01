@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-11-01T07:45:20.599Z"
+wpPostUrl: "https://www.seal-search.com/character/tamagotchi-nailseal-flatgashapon-202610w4/"
+wpPostId: 23645
+posted: true
 type: newproduct
 status: draft
 title: "【10月第4週】たまごっち ネイルシール ガシャポン再販"

@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-11-01T07:45:30.080Z"
+wpPostUrl: "https://www.seal-search.com/news/new-item/seven-eleven-bonbondrop-sevencafe-20261103/"
+wpPostId: 23647
+posted: true
 type: new-release
 status: draft
 title: "【11/3発売】セブン‐イレブン限定ボンボンドロップシール！セブンカフェ・スムージー柄が可愛い"
