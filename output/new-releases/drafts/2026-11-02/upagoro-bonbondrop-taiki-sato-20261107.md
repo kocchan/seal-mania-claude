@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-11-02T07:52:07.119Z"
+wpPostUrl: "https://www.seal-search.com/news/new-item/upagoro-bonbondrop-taiki-sato-20261107/"
+wpPostId: 23656
+posted: true
 type: new-release
 status: draft
 title: "【11/7予約開始】うぱごろう×ボンボンドロップシール！佐藤大樹コラボ第2弾"

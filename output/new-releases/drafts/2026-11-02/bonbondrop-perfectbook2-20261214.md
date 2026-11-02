@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-11-02T07:51:49.698Z"
+wpPostUrl: "https://www.seal-search.com/news/new-item/bonbondrop-perfectbook2-20261214/"
+wpPostId: 23652
+posted: true
 type: new-release
 status: draft
 title: "【12/14発売】ボンボンドロップシール公式ファンブック第2弾！限定シール付き"

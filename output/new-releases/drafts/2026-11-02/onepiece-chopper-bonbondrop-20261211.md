@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-11-02T07:51:57.825Z"
+wpPostUrl: "https://www.seal-search.com/news/new-item/onepiece-chopper-bonbondrop-20261211/"
+wpPostId: 23654
+posted: true
 type: new-release
 status: draft
 title: "【12/11発売】ONE PIECEチョッパーのボンボンドロップシール登場！CHOPPER'sコラボ"
