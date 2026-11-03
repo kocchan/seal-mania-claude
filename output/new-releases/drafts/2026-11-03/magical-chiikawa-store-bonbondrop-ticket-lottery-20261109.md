@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-11-03T08:08:50.035Z"
+wpPostUrl: "https://www.seal-search.com/news/new-item/magical-chiikawa-store-bonbondrop-ticket-lottery-20261109/"
+wpPostId: 23658
+posted: true
 type: new-release
 status: draft
 title: "【11/4締切】まじかるちいかわストアでボンドロ購入券のLINE抽選が開催中！11/9〜12来店分"
