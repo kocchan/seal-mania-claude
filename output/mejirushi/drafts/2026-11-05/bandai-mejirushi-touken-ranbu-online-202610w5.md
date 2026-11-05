@@ -1,4 +1,9 @@
 ---
+postedAt: "2026-11-05T08:04:19.468Z"
+wpPostUrl: "https://www.seal-search.com/mejirushi/bandai-mejirushi-touken-ranbu-online-202610w5/"
+wpPostId: 23667
+posted: true
+imageGenerated: true
 type: mejirushi
 status: draft
 title: "【10月第5週】刀剣乱舞ONLINE めじるしアクセサリー全6種"

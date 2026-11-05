@@ -1,4 +1,9 @@
 ---
+postedAt: "2026-11-05T08:03:51.948Z"
+wpPostUrl: "https://www.seal-search.com/mejirushi/bandai-mejirushi-jojo-ogon-no-kaze-01-202610w5/"
+wpPostId: 23661
+posted: true
+imageGenerated: true
 type: mejirushi
 status: draft
 title: "【10月第5週】ジョジョ5部 S・P めじるしアクセ01 全6種"
