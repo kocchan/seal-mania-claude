@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-11-19T08:59:32.535Z"
+wpPostUrl: "https://www.seal-search.com/character/marumiya-chiikawa-cupsoup-kirakira-seal-20261022/"
+wpPostId: 23668
+posted: true
 type: newproduct
 status: draft
 title: "【10/22〜】ちいかわ カップスープ キラキラシール全10種"

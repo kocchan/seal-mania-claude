@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-11-19T08:59:37.665Z"
+wpPostUrl: "https://www.seal-search.com/character/obungu-donki-apita-pukupuku-seal-20261024/"
+wpPostId: 23669
+posted: true
 type: newproduct
 status: draft
 title: "【10/24発売】お文具といっしょ ドンキ・アピタ限定グッズ"

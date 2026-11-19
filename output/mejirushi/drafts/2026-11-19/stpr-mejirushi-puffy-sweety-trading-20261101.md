@@ -1,4 +1,9 @@
 ---
+postedAt: "2026-11-19T09:00:05.909Z"
+wpPostUrl: "https://www.seal-search.com/mejirushi/stpr-mejirushi-puffy-sweety-trading-20261101/"
+wpPostId: 23675
+posted: true
+imageGenerated: true
 type: mejirushi
 status: draft
 title: "【11/1〜】STPR限定 トレーディングめじるしチャーム"

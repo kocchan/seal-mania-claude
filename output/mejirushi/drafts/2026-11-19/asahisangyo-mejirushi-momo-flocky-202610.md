@@ -1,4 +1,9 @@
 ---
+postedAt: "2026-11-19T08:59:52.767Z"
+wpPostUrl: "https://www.seal-search.com/mejirushi/asahisangyo-mejirushi-momo-flocky-202610/"
+wpPostId: 23672
+posted: true
+imageGenerated: true
 type: mejirushi
 status: draft
 title: "【話題】まるで本物！福島モモのめじるしチャーム"
