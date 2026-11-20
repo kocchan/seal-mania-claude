@@ -1,4 +1,9 @@
 ---
+postedAt: "2026-11-20T08:46:31.191Z"
+wpPostUrl: "https://www.seal-search.com/mejirushi/bluemountain-facaierr-dog-mejirushi-charm-202611/"
+wpPostId: 23678
+posted: true
+imageGenerated: true
 type: mejirushi
 status: draft
 title: "【11月末発売】facaierr 秋の犬たち めじるしチャーム"

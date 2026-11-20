@@ -1,4 +1,9 @@
 ---
+postedAt: "2026-11-20T08:46:56.115Z"
+wpPostUrl: "https://www.seal-search.com/mejirushi/takaratomyarts-plarail-pukkuri-drop-mejirushi-202610/"
+wpPostId: 23684
+posted: true
+imageGenerated: true
 type: mejirushi
 status: draft
 title: "【10月下旬発売】プラレール ぷっくりドロップめじるし全5種"

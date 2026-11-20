@@ -1,4 +1,9 @@
 ---
+postedAt: "2026-11-20T08:46:43.433Z"
+wpPostUrl: "https://www.seal-search.com/mejirushi/kitanclub-dogeza-marker-charm2-20261016/"
+wpPostId: 23681
+posted: true
+imageGenerated: true
 type: mejirushi
 status: draft
 title: "【10/16発売】続・土下座 マーカーチャーム全8種"
