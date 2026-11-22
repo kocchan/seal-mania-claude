@@ -1,4 +1,9 @@
 ---
+postedAt: "2026-11-22T08:22:20.531Z"
+wpPostUrl: "https://www.seal-search.com/mejirushi/bandai-omegahorn-mejirushi-202610/"
+wpPostId: 23687
+posted: true
+imageGenerated: true
 type: mejirushi
 status: draft
 title: "【10月第3週】角醒ハンター オメガホーン めじるし全5種"
