@@ -1,4 +1,9 @@
 ---
+postedAt: "2026-11-23T09:20:45.080Z"
+wpPostUrl: "https://www.seal-search.com/mejirushi/adventureworld-pingu-mejirushi-20261001/"
+wpPostId: 23689
+posted: true
+imageGenerated: true
 type: mejirushi
 status: draft
 title: "【2/28まで】ピングー ブラインドめじるしチャーム@AW"
