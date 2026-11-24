@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-11-24T11:15:21.083Z"
+wpPostUrl: "https://www.seal-search.com/character/daiso-remember-me-sticker-202609/"
+wpPostId: 23691
+posted: true
 type: newproduct
 status: draft
 title: "【9月登場】ダイソー リメンバー・ミー シール2種110円"

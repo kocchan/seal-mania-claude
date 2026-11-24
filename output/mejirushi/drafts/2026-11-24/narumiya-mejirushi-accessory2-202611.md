@@ -1,4 +1,9 @@
 ---
+postedAt: "2026-11-24T11:15:35.342Z"
+wpPostUrl: "https://www.seal-search.com/mejirushi/narumiya-mejirushi-accessory2-202611/"
+wpPostId: 23693
+posted: true
+imageGenerated: true
 type: mejirushi
 status: draft
 title: "【11月発売】ナルミヤ めじるしアクセサリー2 サングラス姿"

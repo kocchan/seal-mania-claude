@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-11-24T11:15:14.094Z"
+wpPostUrl: "https://www.seal-search.com/character/cando-3d-deco-seal-202609/"
+wpPostId: 23690
+posted: true
 type: newproduct
 status: draft
 title: "【9月登場】キャンドゥ 3Dデコシール 220円ぷっくり"

@@ -1,4 +1,9 @@
 ---
+postedAt: "2026-11-24T11:15:47.133Z"
+wpPostUrl: "https://www.seal-search.com/mejirushi/yukidaruma-fuwafuwa-mejirushi-sanrio-disney-202611/"
+wpPostId: 23696
+posted: true
+imageGenerated: true
 type: mejirushi
 status: draft
 title: "【11月発売】雪だるまふわふわめじるし サンリオ・ディズニー"
