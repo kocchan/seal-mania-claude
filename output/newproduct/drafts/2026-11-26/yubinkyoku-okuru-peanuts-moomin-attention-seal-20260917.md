@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-11-26T09:45:10.919Z"
+wpPostUrl: "https://www.seal-search.com/character/yubinkyoku-okuru-peanuts-moomin-attention-seal-20260917/"
+wpPostId: 23698
+posted: true
 type: newproduct
 status: draft
 title: "【9/17発売】郵便局 スヌーピー＆ムーミン アテンションシール"

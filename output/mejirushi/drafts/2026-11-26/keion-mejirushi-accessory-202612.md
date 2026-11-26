@@ -1,4 +1,9 @@
 ---
+postedAt: "2026-11-26T09:45:26.425Z"
+wpPostUrl: "https://www.seal-search.com/mejirushi/keion-mejirushi-accessory-202612/"
+wpPostId: 23701
+posted: true
+imageGenerated: true
 type: mejirushi
 status: draft
 title: "【12月下旬発売】けいおん！ めじるしアクセサリー全5種"

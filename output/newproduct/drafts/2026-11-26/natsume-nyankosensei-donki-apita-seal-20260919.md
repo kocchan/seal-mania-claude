@@ -1,4 +1,8 @@
 ---
+postedAt: "2026-11-26T09:45:04.499Z"
+wpPostUrl: "https://www.seal-search.com/character/natsume-nyankosensei-donki-apita-seal-20260919/"
+wpPostId: 23697
+posted: true
 type: newproduct
 status: draft
 title: "【9/19発売】夏目友人帳 ニャンコ先生ぷくぷく立体シール"
