@@ -1,4 +1,9 @@
 ---
+postedAt: "2026-11-27T09:51:23.748Z"
+wpPostUrl: "https://www.seal-search.com/mejirushi/ikimon-sengoku-busho-mejirushi-mascot-202612/"
+wpPostId: 23704
+posted: true
+imageGenerated: true
 type: mejirushi
 status: draft
 title: "【12月発売】戦国武将の首めじるしマスコット - いきもん"
